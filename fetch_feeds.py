@@ -136,10 +136,11 @@ def fetch(url):
 
 GKG_FILES = 12  # 12 files of 15 minutes each = the last 3 hours
 INDIA_RELEVANT = (
-    r"\b(rbi|reserve bank|repo|monetary|inflation|cpi|wpi|gdp|iip|pmi|fiscal|gst|rupee|crude|oil|"
-    r"yield|bond|fpi|fii|forex|sebi|ipo|nifty|sensex|results|earnings|budget|tax|tariff|duty|trade|"
-    r"export|import|bank|banks|market|markets|economy|economic|gold|silver|fed|ecb|dollar|liquidity|"
-    r"lending|loan|rate|rates|growth|stocks?|shares?|rupees?)\b"
+    r"\b(rbi|reserve bank|repo|monetary|inflation|wpi|gdp|iip|pmi|fiscal|gst|rupee|crude|oil|"
+    r"yields?|bonds?|fpis?|fiis?|forex|sebi|ipo|nifty|sensex|union budget|budget 20[0-9][0-9]|fiscal deficit|tariffs?|duty|duties|exports?|"
+    r"imports?|economy|economic|gold|silver|dollar|liquidity|fed|ecb|interest rates?|"
+    r"stock market|share market|equity market|bond market|currency market|"
+    r"quarterly results|q[1-4] (results|earnings)|net profit)\b"
 )
 
 
@@ -193,7 +194,7 @@ def gdelt_items():
                 when = datetime.strptime(cols[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
             except ValueError:
                 continue
-            if not (title and link.startswith("http")) or tip.search(title) or not rel.search(title):
+            if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or not rel.search(title):
                 continue
             out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
                         "source_key": "gdelt", "category": "India", "published": when.isoformat()})

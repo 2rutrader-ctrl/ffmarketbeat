@@ -439,7 +439,7 @@ const SRCN={fed:"US Fed",ecb:"ECB",pib:"PIB",gdelt:"India press"};
 const GLOSS=[
  ["Repo rate",/\brepo rate\b/,"The rate at which the central bank lends short-term money to banks."],
  ["Inflation",/\binflation\b/,"How fast prices in general are rising over time."],
- ["CPI",/\bcpi\b|consumer price/,"Consumer Price Index. Tracks price changes in a basket of goods and services households buy."],
+ ["CPI",/\bcpi (inflation|data|print|number|reading)|consumer price/,"Consumer Price Index. Tracks price changes in a basket of goods and services households buy."],
  ["WPI",/\bwpi\b|wholesale price/,"Wholesale Price Index. Tracks price changes at the wholesale level."],
  ["Bond yield",/\bbond yields?\b|\byields?\b/,"The return an investor earns from holding a bond, shown as a percentage."],
  ["FII / FPI",/\bfii\b|\bfpi\b|foreign portfolio|foreign institutional/,"Overseas funds that buy and sell Indian securities."],
@@ -494,7 +494,7 @@ function renderHero(ms,cur,now){
  $('hs').textContent=wk?"Catch up on the week's official headlines, learn a concept, and prepare for Monday.":cur.line;
  const nx=PH[(PH.findIndex(x=>x.k===cur.k)+1)%4];
  const n24=base().filter(n=>Date.now()-Date.parse(n.published)<24*3600e3).length;
- $('hp').innerHTML=`<span class="hpill ${ms.open?'open':''}"><i></i>${ms.open?'MARKET OPEN':'MARKET CLOSED'}</span><span class="hpill">${esc(ms.txt)}</span><span class="hpill">${n24} official ${n24===1?'headline':'headlines'} in 24h</span><span class="hpill">Next: ${nx.n}</span>`;
+ $('hp').innerHTML=`<span class="hpill ${ms.open?'open':''}"><i></i>${ms.open?'MARKET OPEN':'MARKET CLOSED'}</span><span class="hpill">${esc(ms.txt)}</span><span class="hpill">${n24} ${n24===1?'headline':'headlines'} in 24h</span><span class="hpill">Next: ${nx.n}</span>`;
  const rm=window.matchMedia('(prefers-reduced-motion:reduce)').matches,deg=(nm(p.min)-360)/4;
  let s='<defs><filter id="gl" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4.5"/></filter></defs><circle cx="150" cy="150" r="104" fill="none" stroke="var(--dtrack)" stroke-width="26"/>';
  PH.forEach(x=>{const a0=(x.a-360)/4,b0=(x.b-360)/4,c=PC[x.k],on=x.k===cur.k;
@@ -577,7 +577,7 @@ function mountTV(which){
  const th=document.documentElement.dataset.theme==='light'?'light':'dark';
  function mount(id,src,cfg){const host=$(id);host.innerHTML='';const w=document.createElement('div');w.className='tradingview-widget-container tvc';const i=document.createElement('div');i.className='tradingview-widget-container__widget';w.appendChild(i);const c=document.createElement('div');c.className='tradingview-widget-copyright';c.innerHTML='<a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">Data and charts by TradingView</a>';w.appendChild(c);const s=document.createElement('script');s.src='https://s3.tradingview.com/external-embedding/'+src;s.async=true;s.text=JSON.stringify(cfg);w.appendChild(s);host.appendChild(w)}
  const S={brent:["TVC:UKOIL","Brent"],wti:["TVC:USOIL","WTI crude"],gold:["TVC:GOLD","Gold"],silver:["TVC:SILVER","Silver"],inr:["FX_IDC:USDINR","USD/INR"],dxy:["TVC:DXY","Dollar index"],us10:["TVC:US10Y","US 10Y yield"],btc:["BITSTAMP:BTCUSD","Bitcoin"],eth:["BITSTAMP:ETHUSD","Ethereum"],nk:["TVC:NI225","Nikkei 225"],hs:["TVC:HSI","Hang Seng"],spx:["FOREXCOM:SPXUSD","S&P 500"],ndx:["FOREXCOM:NSXUSD","Nasdaq 100"]};
- const tape=[S.brent,S.wti,S.gold,S.silver,S.inr,S.dxy,S.us10,S.btc,S.nk,S.hs,S.spx,S.ndx].map(a=>({proName:a[0],title:a[1]}));
+ const tape=[S.brent,S.wti,S.gold,S.silver,S.inr,S.btc,S.nk,S.hs,S.spx,S.ndx].map(a=>({proName:a[0],title:a[1]}));
  if(!which||which==='tkw')mount('tkw','embed-widget-ticker-tape.js',{symbols:tape,showSymbolLogo:false,colorTheme:th,isTransparent:true,displayMode:'regular',locale:'en'});
  const tab=(title,arr)=>({title,symbols:arr.map(a=>({s:a[0],d:a[1]})),originalTitle:title});
  if(!which||which==='xmo')mount('xmo','embed-widget-market-overview.js',{colorTheme:th,dateRange:'1D',showChart:true,locale:'en',isTransparent:true,showSymbolLogo:false,showFloatingTooltip:true,width:'100%',height:'430',tabs:[tab('Commodities',[S.brent,S.wti,S.gold,S.silver]),tab('Rates and dollar',[S.us10,S.dxy,S.inr]),tab('Crypto',[S.btc,S.eth]),tab('World indices',[S.nk,S.hs,S.spx,S.ndx])]});
