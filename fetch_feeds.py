@@ -134,50 +134,78 @@ def fetch(url):
         return r.read()
 
 
+GKG_FILES = 12  # 12 files of 15 minutes each = the last 3 hours
+INDIA_RELEVANT = (
+    r"\b(rbi|reserve bank|repo|monetary|inflation|cpi|wpi|gdp|iip|pmi|fiscal|gst|rupee|crude|oil|"
+    r"yield|bond|fpi|fii|forex|sebi|ipo|nifty|sensex|results|earnings|budget|tax|tariff|duty|trade|"
+    r"export|import|bank|banks|market|markets|economy|economic|gold|silver|fed|ecb|dollar|liquidity|"
+    r"lending|loan|rate|rates|growth|stocks?|shares?|rupees?)\b"
+)
+
+
+def fetch_big(url):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=90) as r:
+        return r.read()
+
+
 def gdelt_items():
-    """India business headlines via GDELT DOC 2.0. Raises if nothing usable comes back."""
+    """India business headlines from GDELT's open 15-minute GKG files (static downloads, no API
+    rate limit). Keeps only the page title, link, publisher and time. Raises if nothing usable."""
+    import html
+    import io
+    import zipfile
     tip = re.compile(TIP_WORDS, re.I)
-    out, errors, last_err, seen_n = [], 0, "", 0
-    for i, topic in enumerate(GDELT_TOPICS):
-        if i:
-            time.sleep(12)  # GDELT asks for at most one request per 5 seconds
-        q = urllib.parse.urlencode({
-            "query": f"{topic} sourcecountry:IN sourcelang:eng", "mode": "artlist", "format": "json",
-            "maxrecords": "250", "timespan": "2d", "sort": "datedesc"})
-        data = None
-        for attempt in range(3):
-            try:
-                raw = fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + q)
-                try:
-                    data = json.loads(raw)
-                except ValueError:
-                    last_err = "not JSON: " + raw[:120].decode("utf-8", "replace").replace("\n", " ")
-                    data = None
-                break
-            except Exception as e:
-                last_err = f"{type(e).__name__}: {e}"[:150]
-                time.sleep(25 if "429" in last_err else 8)
-        if data is None:
+    rel = re.compile(INDIA_RELEVANT, re.I)
+    title_re = re.compile(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", re.S)
+    # find the newest file name from lastupdate.txt
+    last = fetch("http://data.gdeltproject.org/gdeltv2/lastupdate.txt").decode("utf-8", "replace")
+    m = re.search(r"/gdeltv2/(\d{14})\.gkg\.csv\.zip", last)
+    if not m:
+        raise RuntimeError("lastupdate.txt had no gkg file name")
+    newest = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+    out, files_ok, records, errors, last_err = [], 0, 0, 0, ""
+    from datetime import timedelta
+    for k in range(GKG_FILES):
+        stamp = (newest - timedelta(minutes=15 * k)).strftime("%Y%m%d%H%M%S")
+        try:
+            raw = fetch_big(f"http://data.gdeltproject.org/gdeltv2/{stamp}.gkg.csv.zip")
+            with zipfile.ZipFile(io.BytesIO(raw)) as z:
+                text = z.read(z.namelist()[0]).decode("utf-8", "replace")
+        except Exception as e:
             errors += 1
+            last_err = f"{type(e).__name__}: {e}"[:150]
             continue
-        seen_n += len(data.get("articles", []))
-        for a in data.get("articles", []):
-            dom = (a.get("domain") or "").lower()
+        files_ok += 1
+        for line in text.split("\n"):
+            cols = line.split("\t")
+            if len(cols) < 27:
+                continue
+            records += 1
+            dom = cols[3].lower()
             name = next((n for d, n in GDELT_DOMAINS.items() if dom == d or dom.endswith("." + d)), None)
-            title = " ".join((a.get("title") or "").split())
-            link = a.get("url") or ""
-            when = None
+            if not name:
+                continue
+            tm = title_re.search(cols[26])
+            title = " ".join(html.unescape(tm.group(1)).split()) if tm else ""
+            link = cols[4].strip()
             try:
-                when = datetime.strptime(a.get("seendate", ""), "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+                when = datetime.strptime(cols[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
             except ValueError:
-                pass
-            if not (name and title and link.startswith("http") and when) or tip.search(title):
+                continue
+            if not (title and link.startswith("http")) or tip.search(title) or not rel.search(title):
                 continue
             out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
                         "source_key": "gdelt", "category": "India", "published": when.isoformat()})
     if not out:
-        raise RuntimeError(f"no usable headlines ({errors} of {len(GDELT_TOPICS)} requests failed; {seen_n} articles came back; last error: {last_err or 'none'})")
-    return out
+        raise RuntimeError(f"no usable headlines ({files_ok} of {GKG_FILES} files read, {records} records scanned, {errors} download errors; last error: {last_err or 'none'})")
+    seen, uniq = set(), []
+    for it in out:
+        if it["link"] not in seen:
+            seen.add(it["link"])
+            uniq.append(it)
+    uniq.sort(key=lambda x: x["published"], reverse=True)
+    return uniq[:60]
 
 
 def load_thoughts():
