@@ -311,6 +311,11 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .lead.concept .cn{font-size:12.5px;color:var(--mu);margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}
 @media(max-width:900px){.hgrid{grid-template-columns:1fr}.dialw{order:2;margin:4px 0 6px}.dial{max-width:280px}.hh{font-size:36px}}
 @media(max-width:600px){.hero2{padding:22px 16px 0;border-radius:20px}.hh{font-size:30px;letter-spacing:-.8px}.hs{font-size:15px}.pulse{width:calc(100% + 32px);margin:8px -16px 0}.btn1,.btn2{padding:11px 16px;font-size:13.5px}.lead h2{font-size:23px}}
+.pmb{background:var(--s1);border:1px solid var(--line);border-left:4px solid var(--o);border-radius:16px;padding:14px 18px 12px;margin:22px 0 4px}
+.pmb .ph{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}.pmb .ph b{font-family:var(--serif);font-size:20px}.pmb .ph span{font-size:12px;color:var(--mu)}
+.pmb h3{font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:var(--mu);margin:14px 0 6px}
+.pmb .pr{padding:8px 0;border-top:1px solid var(--line)}.pmb .pr:first-of-type{border-top:0}
+.pmb .pl{display:flex;gap:14px;flex-wrap:wrap;margin-top:4px}.pmb .pw{font-size:14px;line-height:1.55}.pmb .pn{font-size:12px;color:var(--mu);margin-top:12px;line-height:1.5}
 </style>
 </head>
 <body>
@@ -345,6 +350,7 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 
   <div class="grid">
     <main>
+      <div id="pmb"></div>
       <h2 class="k" style="margin-top:22px">Lead story</h2>
       <div id="lead"></div>
       <div id="five"></div>
@@ -429,7 +435,7 @@ const ROUTINE={
  live:["Follow the plan you wrote before the open.","Note the time of the next scheduled event on the calendar.","When a new official headline appears, read its FF Thought to understand how it can reach markets.","Record one observation in your journal."],
  close:["Review what was released today in the Live wire.","Journal: did I follow my plan today? What did I notice?","Look at tomorrow's events on the calendar.","Check results and announcements published after the close on your broker or exchange website."],
  night:["Check the US session events and their times in your local time.","Look at crude, gold, the dollar and crypto on the radar.","Note any official headline that could matter for tomorrow's open.","Close the day: step away and rest before the next session."]};
-const SRCN={fed:"US Fed",ecb:"ECB",pib:"PIB"};
+const SRCN={fed:"US Fed",ecb:"ECB",pib:"PIB",gdelt:"India press"};
 const GLOSS=[
  ["Repo rate",/\brepo rate\b/,"The rate at which the central bank lends short-term money to banks."],
  ["Inflation",/\binflation\b/,"How fast prices in general are rising over time."],
@@ -465,7 +471,7 @@ function marketState(now){const p=parts(now),w=WD[p.wd];const open=w>=1&&w<=5&&p
 const q1=it=>parts(new Date(it.published));
 function dayWord(day,today){const t=new Date(today+'T00:00:00Z').getTime(),d=new Date(day+'T00:00:00Z').getTime();const diff=Math.round((t-d)/864e5);if(diff===0)return"Today";if(diff===1)return"Yesterday";return new Date(d).toLocaleDateString('en-GB',{timeZone:'UTC',day:'2-digit',month:'short'})}
 const timeStr=it=>{const q=q1(it);return`${q.h}:${q.m}`};
-const srcLabel=n=>esc(n.source_short||SRCN[n.source_key]||n.source);
+const srcLabel=n=>esc(n.source_key==='gdelt'?n.source.replace(' (headline via GDELT)',''):(n.source_short||SRCN[n.source_key]||n.source));
 function base(){const all=DATA.filter(n=>n.published).sort((a,b)=>Date.parse(b.published)-Date.parse(a.published)),cutoff=Date.now()-72*3600*1000,recent=all.filter(n=>Date.parse(n.published)>cutoff);return recent.length>=8?recent:all.filter(n=>Date.now()-Date.parse(n.published)<365*864e5).slice(0,10)}
 function applyF(L){if(sel)L=L.filter(n=>phaseOf(q1(n).min).k===sel);if(topic)L=L.filter(n=>n.thought&&(n.thought.short||n.thought.topic)===topic);if(srcK)L=L.filter(n=>n.source_key===srcK);if(qs)L=L.filter(n=>n.title.toLowerCase().includes(qs));return L}
 const thoughtBox=n=>n.thought?`<div class="th"><div class="lab">FF Thought &middot; education only</div><h4>${esc(n.thought.topic)}</h4><p>${esc(n.thought.text)}</p></div>`:'';
@@ -498,12 +504,24 @@ function renderHero(ms,cur,now){
  s+=`<circle cx="${M[0].toFixed(1)}" cy="${M[1].toFixed(1)}" r="15" fill="#FDA043" filter="url(#gl)" opacity=".85"/><circle cx="${M[0].toFixed(1)}" cy="${M[1].toFixed(1)}" r="8.5" fill="#fff" stroke="#E8720C" stroke-width="4.5">${rm?'':'<animate attributeName="r" values="8.5;10.5;8.5" dur="2.4s" repeatCount="indefinite"/>'}</circle>`;
  s+=`<text x="150" y="146" text-anchor="middle" class="dtime">${p.h}:${p.m}</text><text x="150" y="167" text-anchor="middle" class="dsub">IST &middot; ${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'short',day:'numeric',month:'short'})}</text><text x="150" y="188" text-anchor="middle" class="dst ${ms.open?'o':''}">${ms.open?'MARKET OPEN':'MARKET CLOSED'}</text>`;
  $('dial').innerHTML=s}
+function renderPMB(ms,now,all,day){const el=$('pmb');if(!el)return;
+ const wd=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Kolkata',weekday:'short'}).format(now),m=ms.p.min,on=wd!=='Sat'&&wd!=='Sun'&&m>=300&&m<=570;
+ if(!on){el.innerHTML='';return}
+ const cut=Date.now()-16*3600e3,ind=all.filter(n=>n.category==='India'&&Date.parse(n.published)>cut).slice(0,4),rows=ind.length?ind:all.slice(0,3),cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
+ el.innerHTML=`<section class="pmb"><div class="ph"><b>Pre-Market Brief</b><span>${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'long',day:'2-digit',month:'short'})} · before the 9:15 open · education only</span></div>
+<h3>${ind.length?'Overnight India headlines':'Latest headlines'}</h3>${rows.length?rows.map(n=>`<div class="pr"><div class="hd">${esc(n.title)}</div><div class="row2"><span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a></div></div>`).join(''):'<div class="pw">No fresh headlines yet. This page checks again about every 30 minutes.</div>'}
+<h3>Global cues</h3><div class="pw">The strip at the top and the Cross-asset view show crude, gold, the dollar, US yields, rupee and world indices.</div><div class="pl"><a class="go" href="#" data-open="xmo">Open Cross-asset view &#8595;</a></div>
+<h3>Scheduled today</h3><div class="pw">Check the time of each release before the open.</div><div class="pl"><a class="go" href="#" data-open="calw">Open events calendar &#8595;</a></div>
+${cod?`<h3>Concept of the day</h3><div class="pw"><b>${esc(cod.topic)}</b>. ${esc(cod.text)}</div>`:''}
+<h3>Before the open</h3><div class="pw">Write your plan and your risk limits. The FF Routine below has the full list.</div>
+<p class="pn">Exchange prices, including GIFT Nifty, are not shown on this page because exchange data needs a paid licence. Please check your broker or the exchange website. Information is for education only and is not advice.</p></section>`;
+ el.querySelectorAll('[data-open]').forEach(a=>a.onclick=e=>{e.preventDefault();const t=$(a.dataset.open),d=t&&t.closest('details');if(d)d.open=true;if(t)t.scrollIntoView({behavior:'smooth',block:'start'})})}
 function render(){
  const now=new Date(),ms=marketState(now),p=ms.p,cur=phaseOf(p.min),day=tday(now);
  $('clk').textContent=`${p.h}:${p.m} IST`;$('dt').textContent=now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'short',day:'2-digit',month:'short'});
  renderHero(ms,cur,now);
  $('dock').className="dock"+(ms.open?"":" closed")+($('dock').classList.contains('on')?" on":"");$('dk1').textContent=(ms.open?"Market open":"Market closed")+" · "+cur.n;$('dk2').textContent=ms.txt;
- const all=base(),counts={};all.forEach(n=>{const k=phaseOf(q1(n).min).k;counts[k]=(counts[k]||0)+1});
+ const all=base(),counts={};renderPMB(ms,now,all,day);all.forEach(n=>{const k=phaseOf(q1(n).min).k;counts[k]=(counts[k]||0)+1});
  $('arc').innerHTML=PH.map(s=>`<button class="seg ${s.k===cur.k?'cur':''} ${sel===s.k?'sel':''}" data-k="${s.k}"><span class="n">${counts[s.k]||0}</span><b class="fl">${s.n}</b><span class="sh">${s.s}</span><span class="tt">${s.t}</span></button>`).join('')+`<div class="mark" style="left:calc(${markPos(p.min)}% - 1px)"></div>`;
  $('all').hidden=!sel;
  renderRoutine(sel||cur.k,day);
@@ -523,14 +541,14 @@ function render(){
  $('srcf').innerHTML=keys.length>1?`<button data-s="" class="${!srcK?'on':''}">All</button>`+keys.map(k=>`<button data-s="${esc(k)}" class="${srcK===k?'on':''}">${esc(SRCN[k]||k.toUpperCase())}</button>`).join(''):'';
  $('srcf').style.display=keys.length>1?'':'none';
  const PRI=['Interest rates','Inflation','US Fed','Trade duties','Growth data','Crude oil','Bond yields','Liquidity','ECB','Fiscal policy','Rupee and dollar','Foreign flows','SEBI rules','Results','Geopolitics','Gold'];
- const rank=n=>{const i=n.thought?PRI.indexOf(n.thought.short||n.thought.topic):-1;return i<0?99:i};
+ const rank=n=>{const i=n.thought?PRI.indexOf(n.thought.short||n.thought.topic):-1;return (n.category==='India'?0:100)+(i<0?99:i)};
  const recent=L.filter(n=>n.thought&&Date.now()-Date.parse(n.published)<24*3600e3).sort((a,b)=>rank(a)-rank(b)||Date.parse(b.published)-Date.parse(a.published))[0];
  const lead=recent||L.find(n=>n.thought)||L[0];
  if(!lead){const filt=sel||topic||srcK||qs,cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
   $('lead').innerHTML=filt||!cod?'<div class="lead"><div class="empty">No headlines match this view. Try another phase, topic or search.</div></div>':`<article class="lead concept"><div class="meta"><span class="chip src">CONCEPT OF THE DAY</span><span>Education only</span></div><h2>${esc(cod.topic)}</h2><p class="cp">${esc(cod.text)}</p><p class="cn">Today's lead story appears here as soon as an official source publishes. Official sources publish at irregular times, so this can take a while. This page checks for new headlines about every 30 minutes.</p></article>`;$('five').innerHTML=''}
  else{
   $('lead').innerHTML=`<article class="lead"><div class="meta">${flag(lead)}<span class="chip src">${srcLabel(lead)}</span><span class="chip">${esc(lead.category)}</span><span>${timeStr(lead)} IST</span></div><h2>${esc(lead.title)}</h2><a class="go" href="${safe(lead.link)}" target="_blank" rel="noopener">Read at ${esc(lead.source)} &#8599;</a>${thoughtBox(lead)}</article>`;
-  const five=L.filter(n=>n!==lead).slice(0,5);
+  const rest=L.filter(n=>n!==lead),ind=rest.filter(n=>n.category==='India').slice(0,3),five=ind.concat(rest.filter(n=>!ind.includes(n))).slice(0,5).sort((a,b)=>Date.parse(b.published)-Date.parse(a.published));
   $('five').innerHTML=five.length?`<section class="five"><div class="fh"><b>FF Five</b><span>The next five things to know</span></div>`+five.map((n,i)=>`<div class="f1 it" data-i="${i}"><div class="nm">${i+1}</div><div><div class="hd">${esc(n.title)}</div><div class="row2">${flag(n)}<span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a>${tbtn(n)}</div>${thoughtBox(n)}</div></div>`).join('')+`</section>`:'';
  }
  let html="",last="";
@@ -541,7 +559,7 @@ function render(){
  $('wire').innerHTML=html?html+'</div>':(sel||topic||srcK||qs?'<div class="empty">Nothing in this view yet.</div>':'<div class="empty">No official headlines in the last 72 hours yet. Official sources publish at irregular times. The next check is within 30 minutes.</div>');
  if(SIN.length){$('sin').hidden=false;$('sin').innerHTML=`<h2 class="k">Stocks in the news <span class="opt">OPTIONAL</span></h2><p style="margin-bottom:8px">In the news. Not a recommendation. Counts are mentions in news headlines and carry no view on any company.</p>`+SIN.map(s=>`<div class="si"><b>${esc(s.name)}</b><em>${s.n} articles</em>${s.h.map(h=>`<a href="${safe(h.l)}" target="_blank" rel="noopener">${esc(h.t)} <span style="opacity:.6">(${esc(h.s)})</span></a>`).join('')}</div>`).join('')+`<p style="font-size:11.5px;margin-top:8px">Source: GDELT Project (gdeltproject.org). Headlines belong to their publishers.</p>`}
  {const want=['Crude oil','Bond yields','Rupee and dollar','Gold'].filter(x=>names.includes(x));$('learn').innerHTML=want.length?'<span>Learn how these can reach markets:</span>'+want.map(x=>`<button data-t="${x}">${x}</button>`).join(''):'<span>Each of these can reach Indian markets in different ways. See the FF Thought topics for plain-language explanations.</span>'}
- const sk=Object.keys(STATUS).filter(k=>!/FAILED/.test(STATUS[k]));$('srcs').innerHTML=sk.length?sk.map(k=>`<div><i class="${/FAILED/.test(STATUS[k])?'bad':''}"></i>${esc(({fed:'US Federal Reserve Board',ecb:'European Central Bank',pib:'Press Information Bureau (India)'})[k]||k)}</div>`).join(''):'<div><i></i>Official sources</div>';
+ const sk=Object.keys(STATUS).filter(k=>!/FAILED/.test(STATUS[k]));$('srcs').innerHTML=sk.length?sk.map(k=>`<div><i class="${/FAILED/.test(STATUS[k])?'bad':''}"></i>${esc(({fed:'US Federal Reserve Board',ecb:'European Central Bank',pib:'Press Information Bureau (India)',gdelt:'GDELT Project: headlines from Indian business publishers, linked to the originals'})[k]||k)}</div>`).join(''):'<div><i></i>Official sources</div>';
  const stale=UPDATED&&(Date.now()-Date.parse(UPDATED)>6*3600e3);$('upd').textContent=(stale?'Updates look delayed. Please check the original sources. ':'')+(UPDATED?`Last update ${new Date(UPDATED).toLocaleString('en-GB',{timeZone:'Asia/Kolkata',day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})} IST. Refreshes about every 30 minutes.`:'Waiting for the first update.');
 }
 /* TradingView widgets (real page only). Data and licence belong to TradingView. */

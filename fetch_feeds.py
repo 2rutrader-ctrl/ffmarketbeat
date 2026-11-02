@@ -11,6 +11,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -35,7 +37,34 @@ FEEDS = [
      "https://www.ecb.europa.eu/rss/press.xml", None),
     ("pib", "Press Information Bureau, Government of India", "India",
      "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", PIB_RELEVANT),
+    # Same official feed on the host without "www", in case only one host answers servers like GitHub's.
+    ("pib", "Press Information Bureau, Government of India", "India",
+     "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", PIB_RELEVANT),
 ]
+
+# India lane: headline metadata from the GDELT Project (free, redistribution allowed with citation).
+# Only headline, link, publisher name and time are kept. Publishers keep copyright in their articles.
+GDELT_DOMAINS = {
+    "economictimes.indiatimes.com": "The Economic Times",
+    "livemint.com": "Mint",
+    "business-standard.com": "Business Standard",
+    "thehindubusinessline.com": "The Hindu BusinessLine",
+    "financialexpress.com": "The Financial Express",
+    "moneycontrol.com": "Moneycontrol",
+    "ndtvprofit.com": "NDTV Profit",
+}
+GDELT_TOPICS = [
+    '(RBI OR "Reserve Bank" OR repo OR "monetary policy" OR "MPC")',
+    '(inflation OR CPI OR GDP OR IIP OR "fiscal deficit" OR "GST collection" OR PMI)',
+    '(rupee OR "crude oil" OR "bond yield" OR FPI OR FII OR "forex reserves")',
+    '(SEBI OR IPO OR "quarterly results" OR Nifty OR Sensex OR "F&O")',
+]
+# Headlines that read like tips or recommendations are dropped. This page is education only.
+TIP_WORDS = (
+    r"\b(buy|sell|short|long|target|targets|stoploss|stop loss|top picks?|stocks? to|picks?|"
+    r"recommend\w*|multibagger|should you|accumulate|bullish|bearish|upside|downside|"
+    r"rally to|crash|jackpot|rocket|zoom|soar|plunge)\b"
+)
 
 MAX_ITEMS = 120
 THOUGHTS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "thoughts.json")
@@ -97,6 +126,41 @@ def fetch(url):
         return r.read()
 
 
+def gdelt_items():
+    """India business headlines via GDELT DOC 2.0. Raises if nothing usable comes back."""
+    doms = "(" + " OR ".join("domain:" + d for d in GDELT_DOMAINS) + ")"
+    tip = re.compile(TIP_WORDS, re.I)
+    out, errors = [], 0
+    for i, topic in enumerate(GDELT_TOPICS):
+        if i:
+            time.sleep(7)  # GDELT asks for at most one request per 5 seconds
+        q = urllib.parse.urlencode({
+            "query": f"{topic} {doms} sourcelang:eng", "mode": "artlist", "format": "json",
+            "maxrecords": "40", "timespan": "2d", "sort": "datedesc"})
+        try:
+            data = json.loads(fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + q))
+        except Exception:
+            errors += 1
+            continue
+        for a in data.get("articles", []):
+            dom = (a.get("domain") or "").lower()
+            name = next((n for d, n in GDELT_DOMAINS.items() if dom == d or dom.endswith("." + d)), None)
+            title = " ".join((a.get("title") or "").split())
+            link = a.get("url") or ""
+            when = None
+            try:
+                when = datetime.strptime(a.get("seendate", ""), "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+            except ValueError:
+                pass
+            if not (name and title and link.startswith("http") and when) or tip.search(title):
+                continue
+            out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
+                        "source_key": "gdelt", "category": "India", "published": when.isoformat()})
+    if not out:
+        raise RuntimeError(f"no usable headlines ({errors} request errors)")
+    return out
+
+
 def load_thoughts():
     """FF Thought library. Generic education about a topic. Never a view on direction."""
     try:
@@ -131,6 +195,12 @@ def main(out_path="news.json"):
         except Exception as e:  # one bad feed must never break the others
             msg = f"FAILED: {type(e).__name__}: {e}"
         report[key] = (report[key] + "; " + msg) if key in report else msg
+    try:
+        got = gdelt_items()
+        items.extend(got)
+        report["gdelt"] = f"ok, {len(got)} items"
+    except Exception as e:
+        report["gdelt"] = f"FAILED: {type(e).__name__}: {e}"
     seen, unique = set(), []
     for it in items:
         if it["link"] not in seen:
