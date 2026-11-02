@@ -1,0 +1,226 @@
+[
+ {
+  "id": "fed",
+  "title": "How the US Federal Reserve reaches markets",
+  "keywords": [
+   "federal reserve",
+   "fomc",
+   "federal open market",
+   "fed chair",
+   "powell"
+  ],
+  "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected.",
+  "short": "US Fed"
+ },
+ {
+  "id": "ecb",
+  "title": "Why the ECB matters beyond Europe",
+  "keywords": [
+   "european central bank",
+   "ecb",
+   "eurozone",
+   "euro area",
+   "lagarde"
+  ],
+  "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets.",
+  "short": "ECB"
+ },
+ {
+  "id": "rates",
+  "title": "How interest rates reach the market",
+  "keywords": [
+   "interest rate",
+   "interest rates",
+   "repo rate",
+   "reverse repo",
+   "policy rate",
+   "rate cut",
+   "rate hike",
+   "monetary policy",
+   "key rates"
+  ],
+  "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely.",
+  "short": "Interest rates"
+ },
+ {
+  "id": "inflation",
+  "title": "Why inflation data is watched",
+  "keywords": [
+   "inflation",
+   "cpi",
+   "wpi",
+   "consumer price",
+   "wholesale price",
+   "price index"
+  ],
+  "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path.",
+  "short": "Inflation"
+ },
+ {
+  "id": "crude",
+  "title": "How crude oil prices reach the market",
+  "keywords": [
+   "crude",
+   "brent",
+   "oil price",
+   "oil prices",
+   "opec",
+   "petroleum"
+  ],
+  "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies.",
+  "short": "Crude oil"
+ },
+ {
+  "id": "currency",
+  "title": "How the rupee and the dollar matter",
+  "keywords": [
+   "rupee",
+   "forex",
+   "foreign exchange",
+   "dollar index",
+   "us dollar",
+   "currency"
+  ],
+  "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows.",
+  "short": "Rupee and dollar"
+ },
+ {
+  "id": "yields",
+  "title": "Why bond yields are watched",
+  "keywords": [
+   "bond yield",
+   "bond yields",
+   "treasury",
+   "g-sec",
+   "government securities",
+   "10-year"
+  ],
+  "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world.",
+  "short": "Bond yields"
+ },
+ {
+  "id": "growth",
+  "title": "What growth data tells markets",
+  "keywords": [
+   "gdp",
+   "industrial production",
+   "industrial output",
+   "iip",
+   "pmi",
+   "economic growth",
+   "manufacturing output"
+  ],
+  "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse.",
+  "short": "Growth data"
+ },
+ {
+  "id": "trade",
+  "title": "How trade duties work through markets",
+  "keywords": [
+   "tariff",
+   "tariffs",
+   "import duty",
+   "customs duty",
+   "export duty",
+   "trade deal",
+   "trade agreement",
+   "anti-dumping"
+  ],
+  "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope.",
+  "short": "Trade duties"
+ },
+ {
+  "id": "flows",
+  "title": "Why foreign investor flows matter",
+  "keywords": [
+   "fii",
+   "fpi",
+   "foreign investor",
+   "foreign portfolio",
+   "institutional flows",
+   "dii"
+  ],
+  "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee.",
+  "short": "Foreign flows"
+ },
+ {
+  "id": "earnings",
+  "title": "How company results reach the index",
+  "keywords": [
+   "quarterly results",
+   "earnings",
+   "net profit",
+   "q1 results",
+   "q2 results",
+   "q3 results",
+   "q4 results"
+  ],
+  "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones.",
+  "short": "Results"
+ },
+ {
+  "id": "fiscal",
+  "title": "Why government spending and tax policy matter",
+  "keywords": [
+   "budget",
+   "fiscal deficit",
+   "gst",
+   "government borrowing",
+   "disinvestment",
+   "capital expenditure"
+  ],
+  "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields.",
+  "short": "Fiscal policy"
+ },
+ {
+  "id": "liquidity",
+  "title": "What banking liquidity changes",
+  "keywords": [
+   "liquidity",
+   "crr",
+   "cash reserve ratio",
+   "slr",
+   "open market operation",
+   "omo",
+   "standing deposit"
+  ],
+  "text": "Liquidity measures change how much money is available in the banking system. This influences short-term interest rates and the ease with which banks can lend.",
+  "short": "Liquidity"
+ },
+ {
+  "id": "regulation",
+  "title": "How SEBI rules shape the market",
+  "keywords": [
+   "sebi",
+   "securities and exchange board"
+  ],
+  "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules.",
+  "short": "SEBI rules"
+ },
+ {
+  "id": "gold",
+  "title": "Why gold is followed",
+  "keywords": [
+   "gold",
+   "bullion",
+   "safe haven"
+  ],
+  "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand.",
+  "short": "Gold"
+ },
+ {
+  "id": "geo",
+  "title": "How geopolitical events reach markets",
+  "keywords": [
+   "war",
+   "sanction",
+   "sanctions",
+   "conflict",
+   "geopolitical",
+   "ceasefire",
+   "tension"
+  ],
+  "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched.",
+  "short": "Geopolitics"
+ }
+]
