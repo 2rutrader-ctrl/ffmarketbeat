@@ -54,10 +54,10 @@ GDELT_DOMAINS = {
     "ndtvprofit.com": "NDTV Profit",
 }
 GDELT_TOPICS = [
-    '(RBI OR "Reserve Bank" OR repo OR "monetary policy" OR "MPC")',
-    '(inflation OR CPI OR GDP OR IIP OR "fiscal deficit" OR "GST collection" OR PMI)',
-    '(rupee OR "crude oil" OR "bond yield" OR FPI OR FII OR "forex reserves")',
-    '(SEBI OR IPO OR "quarterly results" OR Nifty OR Sensex OR "F&O")',
+    '(RBI OR "Reserve Bank" OR repo OR "monetary policy")',
+    '(inflation OR GDP OR "fiscal deficit" OR "GST collection" OR "industrial production")',
+    '(rupee OR "crude oil" OR "bond yield" OR FPI OR "forex reserves")',
+    '(SEBI OR IPO OR "quarterly results" OR Nifty OR Sensex)',
 ]
 # Headlines that read like tips or recommendations are dropped. This page is education only.
 TIP_WORDS = (
@@ -130,16 +130,27 @@ def gdelt_items():
     """India business headlines via GDELT DOC 2.0. Raises if nothing usable comes back."""
     doms = "(" + " OR ".join("domain:" + d for d in GDELT_DOMAINS) + ")"
     tip = re.compile(TIP_WORDS, re.I)
-    out, errors = [], 0
+    out, errors, last_err = [], 0, ""
     for i, topic in enumerate(GDELT_TOPICS):
         if i:
             time.sleep(7)  # GDELT asks for at most one request per 5 seconds
         q = urllib.parse.urlencode({
             "query": f"{topic} {doms} sourcelang:eng", "mode": "artlist", "format": "json",
             "maxrecords": "40", "timespan": "2d", "sort": "datedesc"})
-        try:
-            data = json.loads(fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + q))
-        except Exception:
+        data = None
+        for attempt in range(2):
+            try:
+                raw = fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + q)
+                try:
+                    data = json.loads(raw)
+                except ValueError:
+                    last_err = "not JSON: " + raw[:120].decode("utf-8", "replace").replace("\n", " ")
+                    data = None
+                break
+            except Exception as e:
+                last_err = f"{type(e).__name__}: {e}"[:150]
+                time.sleep(8)
+        if data is None:
             errors += 1
             continue
         for a in data.get("articles", []):
@@ -157,7 +168,7 @@ def gdelt_items():
             out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
                         "source_key": "gdelt", "category": "India", "published": when.isoformat()})
     if not out:
-        raise RuntimeError(f"no usable headlines ({errors} request errors)")
+        raise RuntimeError(f"no usable headlines ({errors} request errors; last: {last_err})")
     return out
 
 
