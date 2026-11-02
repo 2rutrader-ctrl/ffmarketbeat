@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02T14:47:15.478117+00:00",
+ "updated": "2026-11-02T14:52:54.722170+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 15 items",
   "ecb": "ok, 15 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (4 request errors; last: HTTPError: HTTP Error 429: Too Many Requests)"
+  "gdelt": "FAILED: RuntimeError: no usable headlines (1 request errors; last: HTTPError: HTTP Error 429: Too Many Requests)"
  },
  "items": [
   {
