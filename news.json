@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02T13:49:25.921438+00:00",
+ "updated": "2026-11-02T13:55:26.399989+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 15 items",
   "ecb": "ok, 15 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (4 request errors)"
+  "gdelt": "FAILED: RuntimeError: no usable headlines (4 request errors; last: not JSON: Your query was too short or too long. )"
  },
  "items": [
   {
