@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02T15:07:28.190768+00:00",
+ "updated": "2026-11-02T15:15:01.347211+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 15 items",
   "ecb": "ok, 15 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 60 items"
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [Errno -5] No address associated with hostname>",
+  "gdelt": "ok, 37 items"
  },
  "items": [
   {
@@ -21,46 +21,12 @@
    }
   },
   {
-   "title": "Gagan Dhawan: Building trust in a market built on faith",
-   "link": "https://www.business-standard.com/content/press-releases-ani/gagan-dhawan-building-trust-in-a-market-built-on-faith-126110201201_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00"
-  },
-  {
    "title": "Oil drops 6% as Iran signals openness to peace talks",
    "link": "https://www.moneycontrol.com/news/business/markets/oil-drops-6-as-iran-signals-openness-to-peace-talks-14066683.html",
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T15:15:00+00:00"
-  },
-  {
-   "title": "Diwali and the Opportunity to Turn Peak Season into Higher Earnings for Drivers",
-   "link": "https://www.hindustantimes.com/genesis/diwali-and-the-opportunity-to-turn-peak-season-into-higher-earnings-for-drivers-101793629506067.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Belgian PM Bart De Wever offers resignation after coalition fails to agree on budget",
-   "link": "https://www.moneycontrol.com/world/belgian-pm-bart-de-wever-offers-resignation-after-coalition-fails-to-agree-on-budget-article-14066664.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
   },
   {
    "title": "SEBI proposes LTCG tax relief: Experts say tax cuts alone may not reverse FII outflows",
@@ -76,41 +42,12 @@
    }
   },
   {
-   "title": "IDBI Bank privatisation: Employees go on strike against Fairfax acquisition",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/idbi-bank-privatisation-employees-go-on-strike-against-fairfax-acquisition/article71657373.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:00:00+00:00"
-  },
-  {
-   "title": "Global consumer products makers see India as a key growth region in September quarter",
-   "link": "https://www.thehindubusinessline.com/companies/global-consumer-products-makers-see-india-as-a-key-growth-region-in-september-quarter/article71657384.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:00:00+00:00"
-  },
-  {
    "title": "Mainboard IPO fund-raise up 30% to ₹84,400 crore in H1 - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/markets/mainboard-ipo-fund-raise-up-30-to-84400-crore-in-h1/article71656777.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T15:00:00+00:00"
-  },
-  {
-   "title": "TVK must remain firm on secularism, should not turn into corporate government: CPI's Veerapandian",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/tvk-must-remain-firm-on-secularism-should-not-turn-into-corporate-government-cpis-veerapandian/article71656605.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
   },
   {
    "title": "Bond rally spurs rush to tap debt market as borrowing costs ease",
@@ -155,27 +92,6 @@
    }
   },
   {
-   "title": "CPI(M) seeks action against Pendurthi MLA over alleged irregular voting in GVMC polls",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-action-against-pendurthi-mla-over-alleged-irregular-voting-in-gvmc-polls/article71657051.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Telangana plans AI-enabled transactions in agri. market yards",
-   "link": "https://www.thehindu.com/news/national/telangana/telangana-plans-ai-enabled-transactions-in-agri-market-yards/article71656880.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:45:00+00:00"
-  },
-  {
    "title": "Palaniswami expresses concern over lower growth rate in Tamil Nadu's GST collections",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-expresses-concern-over-lower-growth-rate-in-tamil-nadus-gst-collections/article71656868.ece",
    "source": "The Hindu (headline via GDELT)",
@@ -187,22 +103,6 @@
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
    }
-  },
-  {
-   "title": "Pakistan counts $40 billion in losses from 7 years of trade freeze with India: Why is Islamabad seeking a reset now?",
-   "link": "https://www.moneycontrol.com/world/pakistan-counts-40-billion-in-losses-from-7-years-of-trade-freeze-with-india-why-is-islamabad-seeking-a-reset-now-article-14066658.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:30:00+00:00"
-  },
-  {
-   "title": "MobiKwik aims to double lending revenue share to 50%, says CEO Bipin Singh",
-   "link": "https://www.business-standard.com/companies/news/mobikwik-aims-to-double-lending-revenue-share-to-50-says-ceo-bipin-singh-126110201273_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:30:00+00:00"
   },
   {
    "title": "Government has fiscal space to absorb Rs 50,000 crore revenue loss from LTCG tax abolition: SBI Research",
@@ -226,14 +126,6 @@
    }
   },
   {
-   "title": "IRC summit to showcase Telangana's growth, investment potential: Komatireddy",
-   "link": "https://www.thehindu.com/news/national/telangana/irc-summit-to-showcase-telanganas-growth-investment-potential-komatireddy/article71657070.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:30:00+00:00"
-  },
-  {
    "title": "Sitharaman says GST 2.0 has triggered private investment, India's consumption story intact",
    "link": "https://www.moneycontrol.com/news/business/sitharaman-says-gst-2-0-has-triggered-private-investment-india-s-consumption-story-intact-14066644.html",
    "source": "Moneycontrol (headline via GDELT)",
@@ -247,12 +139,17 @@
    }
   },
   {
-   "title": "'Bada pataka' under the counter, fake green labels on display: Banned firecrackers flood Delhi markets after Supreme Court nod",
-   "link": "https://www.thehindu.com/news/cities/Delhi/bada-pataka-under-the-counter-fake-green-labels-on-display-banned-firecrackers-flood-delhi-markets-after-supreme-court-nod/article71657021.ece",
+   "title": "Granules India net profit rises 39% to ₹182 cr on higher revenue",
+   "link": "https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
    "source": "The Hindu (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
-   "published": "2026-11-02T14:15:00+00:00"
+   "published": "2026-11-02T14:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
   },
   {
    "title": "RIL's best day since 2020, Sebi's LTCG rollback proposal lift Dalal Street",
@@ -281,25 +178,9 @@
    }
   },
   {
-   "title": "Finally! PSU stock jumps 9% after 4 months of losses, logs biggest 1-day gain in 14 months. What sparked the rally?",
-   "link": "https://www.livemint.com/market/stock-market-news/finally-psu-stock-jumps-9-after-4-months-of-losses-logs-biggest-1-day-gain-in-14-months-what-sparked-the-rally-11793625642488.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:00:00+00:00"
-  },
-  {
    "title": "Sensex soars 1,233 points; Nifty nears 23,450 as markets extend rally for third straight session",
    "link": "https://www.businesstoday.in/markets/stocks/story/sensex-soars-1233-points-nifty-nears-23450-as-markets-extend-rally-for-third-straight-session-565219-2026-11-02",
    "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T14:00:00+00:00"
-  },
-  {
-   "title": "Hema Malini wishes daughter Esha Deol on her birthday, shares heartfelt note: 'She is my complete support system'",
-   "link": "https://www.moneycontrol.com/entertainment/hema-malini-wishes-daughter-esha-deol-on-her-birthday-shares-heartfelt-note-she-is-my-complete-support-system-article-14066642.html",
-   "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T14:00:00+00:00"
@@ -318,12 +199,12 @@
    }
   },
   {
-   "title": "India once had no LTCG tax: How income tax rules on LTCG, STCG and STT changed over the years",
-   "link": "https://www.livemint.com/money/personal-finance/india-once-had-no-ltcg-tax-how-income-tax-rules-on-ltcg-stcg-and-stt-changed-over-the-years-11793613755027.html",
-   "source": "Mint (headline via GDELT)",
+   "title": "Early cane crushing yields under 1 mn tonnes of sugar in Oct; recovery dips",
+   "link": "https://www.business-standard.com/industry/agriculture/early-cane-crushing-yields-under-1-mn-tonnes-of-sugar-in-oct-recovery-dips-126110201217_1.html",
+   "source": "Business Standard (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
-   "published": "2026-11-02T14:00:00+00:00"
+   "published": "2026-11-02T13:45:00+00:00"
   },
   {
    "title": "Government bond yields log best session since April as crude prices slide",
@@ -352,14 +233,6 @@
    }
   },
   {
-   "title": "Shanaya Kapoor celebrates birthday with witch-themed party, Ananya Panday and Kareena Kapoor share wishes",
-   "link": "https://www.moneycontrol.com/entertainment/shanaya-kapoor-celebrates-birthday-with-witch-themed-party-ananya-panday-and-kareena-kapoor-share-wishes-article-14066622.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:45:00+00:00"
-  },
-  {
    "title": "Escorts Kubota Q2 results: Profit drops to ₹250 crore as rising costs squeeze tractor margins",
    "link": "https://www.thehindubusinessline.com/companies/escorts-kubota-q2-results-profit-drops-to-250-crore-as-rising-costs-squeeze-tractor-margins/article71656162.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
@@ -373,25 +246,9 @@
    }
   },
   {
-   "title": "Higher input, fixed costs weigh on GNFC's Q2 FY27 profit growth; PAT rises 8% to ₹194 cr",
-   "link": "https://www.thehindubusinessline.com/companies/higher-input-fixed-costs-weigh-on-gnfcs-q2-fy27-profit-growth-pat-rises-8-to-194-cr/article71656688.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
    "title": "India's merchandise exports likely to grow 28.7% in Q3: Exim Bank",
    "link": "https://www.business-standard.com/companies/news/india-s-merchandise-exports-likely-to-grow-28-7-in-q3-exim-bank-126110201210_1.html",
    "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "Passenger EV retail dips 4% amid supply crunch; overall PV market grows 15%",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/passenger-ev-retail-dips-4-amid-supply-crunch-overall-pv-market-grows-15/article71653228.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T13:30:00+00:00"
@@ -426,14 +283,6 @@
    }
   },
   {
-   "title": "Indian R&D laggards underperform market as innovation-focused firms pull ahead",
-   "link": "https://www.thehindubusinessline.com/markets/indian-rd-laggards-underperform-market-as-innovation-focused-firms-pull-ahead/article71656492.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
    "title": "DMK chief Stalin slams TVK govt over GST slump, loss of ₹1,614 cr Korean investment to AP",
    "link": "https://www.thehindubusinessline.com/economy/dmk-chief-stalin-slams-tvk-govt-over-gst-slump-loss-of-1614-cr-korean-investment-to-ap/article71655976.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
@@ -445,54 +294,6 @@
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
    }
-  },
-  {
-   "title": "Zen Technologies shares surge 8% after reporting record Q2 revenue",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/zen-technologies-stock-surges-8-after-reporting-record-quarterly-revenue/article71656480.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "Datanomics: CD ratio of banks in three southern states stays above 100%",
-   "link": "https://www.business-standard.com/economy/news/datanomics-cd-ratio-of-banks-in-three-southern-states-stays-above-100-126110200804_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "Adani Group major driver of India's infrastructure growth: Professor Jeffrey Sachs",
-   "link": "https://www.thehindubusinessline.com/companies/adani-group-major-driver-of-indias-infrastructure-growth-professor-jeffrey-sachs/article71656682.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "India tax filers shift toward investments and trading, says ClearTax data",
-   "link": "https://www.thehindubusinessline.com/economy/india-tax-filers-shift-toward-investments-and-trading-says-cleartax-data/article71656508.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "Aurionpro Solutions posts 16% revenue growth in Q2, but profits slide",
-   "link": "https://www.thehindubusinessline.com/companies/aurionpro-solutions-posts-16-revenue-growth-in-q2-but-profits-slide/article71656306.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "title": "Johnnie Walker launches India-inspired Blue Label blend for global markets",
-   "link": "https://www.thehindubusinessline.com/companies/johnnie-walker-launches-india-inspired-blue-label-blend-for-global-markets/article71656531.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:30:00+00:00"
   },
   {
    "title": "Reliance fuels Nifty's best single-day jump in months; Sensex reclaims 75,600",
@@ -529,14 +330,6 @@
    }
   },
   {
-   "title": "Gifting money to your child this festive season? Know the tax rules",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gifting-money-to-your-child-this-festive-season-know-the-tax-rules-14066595.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:15:00+00:00"
-  },
-  {
    "title": "Strongest profit growth in 12 quarters leads to Nifty EPS upgrades: Motilal Oswal",
    "link": "https://www.moneycontrol.com/news/business/markets/strongest-profit-growth-in-12-quarters-leads-to-nifty-eps-upgrades-motilal-oswal-14066514.html",
    "source": "Moneycontrol (headline via GDELT)",
@@ -553,6 +346,19 @@
    "published": "2026-11-02T13:00:00+00:00"
   },
   {
+   "title": "Wockhardt Q2 net profit falls 11% as Zaynich launch expenses weigh on margins",
+   "link": "https://www.moneycontrol.com/news/business/wockhardt-q2-net-profit-falls-11-as-zaynich-launch-expenses-weigh-on-margins-14066581.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-02T13:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
    "title": "US futures rise up to 1% as crude oil prices fall 4%; AI stocks inch higher",
    "link": "https://www.moneycontrol.com/news/business/markets/us-futures-rise-up-to-1-as-crude-oil-prices-fall-4-ai-stocks-inch-higher-14066577.html",
    "source": "Moneycontrol (headline via GDELT)",
@@ -564,14 +370,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "'Reliance shares still undervalued, strong retail numbers could be next big trigger,' says Gurmeet Chadha",
-   "link": "https://www.moneycontrol.com/news/business/markets/reliance-shares-still-undervalued-strong-retail-numbers-could-be-next-big-trigger-says-gurmeet-chadha-14066565.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:00:00+00:00"
   },
   {
    "title": "Oil prices fall over 4% as US-Iran peace talks raise hopes of easing Middle East supply disruptions",
@@ -605,6 +403,19 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "FD interest rates: This government bank hikes rates, launches new deposit scheme – Check details",
+   "link": "https://www.livemint.com/money/personal-finance/fd-interest-rates-this-government-bank-hikes-rates-launches-new-deposit-scheme-check-details-11793615771493.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-02T12:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
   },
   {
