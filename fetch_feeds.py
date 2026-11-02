@@ -128,15 +128,14 @@ def fetch(url):
 
 def gdelt_items():
     """India business headlines via GDELT DOC 2.0. Raises if nothing usable comes back."""
-    doms = "(" + " OR ".join("domain:" + d for d in GDELT_DOMAINS) + ")"
     tip = re.compile(TIP_WORDS, re.I)
     out, errors, last_err = [], 0, ""
     for i, topic in enumerate(GDELT_TOPICS):
         if i:
             time.sleep(7)  # GDELT asks for at most one request per 5 seconds
         q = urllib.parse.urlencode({
-            "query": f"{topic} {doms} sourcelang:eng", "mode": "artlist", "format": "json",
-            "maxrecords": "40", "timespan": "2d", "sort": "datedesc"})
+            "query": f"{topic} sourcecountry:IN sourcelang:eng", "mode": "artlist", "format": "json",
+            "maxrecords": "250", "timespan": "2d", "sort": "datedesc"})
         data = None
         for attempt in range(2):
             try:
