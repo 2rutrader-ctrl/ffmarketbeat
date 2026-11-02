@@ -144,6 +144,14 @@ INDIA_RELEVANT = (
 )
 
 
+# Retail personal-finance and clickbait headlines are not useful for a market briefing.
+NOT_MARKET = (
+    r"\b(fd|fds|fixed deposits?|savings accounts?|credit cards?|debit cards?|home loans?|personal loans?|"
+    r"car loans?|emi|horoscope|petrol|diesel|lpg|aadhaar|pan card|itr|sip|nps|ppf)\b|"
+    r"check details|check full list|rate today|price today|rates today|everything you need to know"
+)
+
+
 def fetch_big(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=90) as r:
@@ -158,6 +166,7 @@ def gdelt_items():
     import zipfile
     tip = re.compile(TIP_WORDS, re.I)
     rel = re.compile(INDIA_RELEVANT, re.I)
+    junk = re.compile(NOT_MARKET, re.I)
     title_re = re.compile(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", re.S)
     # find the newest file name from lastupdate.txt
     last = fetch("http://data.gdeltproject.org/gdeltv2/lastupdate.txt").decode("utf-8", "replace")
@@ -194,7 +203,7 @@ def gdelt_items():
                 when = datetime.strptime(cols[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
             except ValueError:
                 continue
-            if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or not rel.search(title):
+            if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or junk.search(title) or not rel.search(title):
                 continue
             out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
                         "source_key": "gdelt", "category": "India", "published": when.isoformat()})
