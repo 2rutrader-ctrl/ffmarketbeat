@@ -52,6 +52,14 @@ GDELT_DOMAINS = {
     "financialexpress.com": "The Financial Express",
     "moneycontrol.com": "Moneycontrol",
     "ndtvprofit.com": "NDTV Profit",
+    "businesstoday.in": "Business Today",
+    "cnbctv18.com": "CNBC-TV18",
+    "zeebiz.com": "Zee Business",
+    "thehindu.com": "The Hindu",
+    "indianexpress.com": "The Indian Express",
+    "hindustantimes.com": "Hindustan Times",
+    "timesofindia.indiatimes.com": "The Times of India",
+    "ndtv.com": "NDTV",
 }
 GDELT_TOPICS = [
     '(RBI OR "Reserve Bank" OR repo OR "monetary policy")',
@@ -129,15 +137,15 @@ def fetch(url):
 def gdelt_items():
     """India business headlines via GDELT DOC 2.0. Raises if nothing usable comes back."""
     tip = re.compile(TIP_WORDS, re.I)
-    out, errors, last_err = [], 0, ""
+    out, errors, last_err, seen_n = [], 0, "", 0
     for i, topic in enumerate(GDELT_TOPICS):
         if i:
-            time.sleep(7)  # GDELT asks for at most one request per 5 seconds
+            time.sleep(12)  # GDELT asks for at most one request per 5 seconds
         q = urllib.parse.urlencode({
             "query": f"{topic} sourcecountry:IN sourcelang:eng", "mode": "artlist", "format": "json",
             "maxrecords": "250", "timespan": "2d", "sort": "datedesc"})
         data = None
-        for attempt in range(2):
+        for attempt in range(3):
             try:
                 raw = fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + q)
                 try:
@@ -148,10 +156,11 @@ def gdelt_items():
                 break
             except Exception as e:
                 last_err = f"{type(e).__name__}: {e}"[:150]
-                time.sleep(8)
+                time.sleep(25 if "429" in last_err else 8)
         if data is None:
             errors += 1
             continue
+        seen_n += len(data.get("articles", []))
         for a in data.get("articles", []):
             dom = (a.get("domain") or "").lower()
             name = next((n for d, n in GDELT_DOMAINS.items() if dom == d or dom.endswith("." + d)), None)
@@ -167,7 +176,7 @@ def gdelt_items():
             out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
                         "source_key": "gdelt", "category": "India", "published": when.isoformat()})
     if not out:
-        raise RuntimeError(f"no usable headlines ({errors} request errors; last: {last_err})")
+        raise RuntimeError(f"no usable headlines ({errors} of {len(GDELT_TOPICS)} requests failed; {seen_n} articles came back; last error: {last_err or 'none'})")
     return out
 
 
