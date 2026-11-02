@@ -152,6 +152,87 @@ NOT_MARKET = (
 )
 
 
+# Large Indian companies, for the "Companies in the news" list. Names only: no prices, no exchange data.
+# (display name, pattern, case_sensitive)
+COMPANIES = [
+    ("Reliance Industries", r"\bReliance( Industries| Jio| Retail)?\b", True),
+    ("TCS", r"\bTCS\b|\bTata Consultancy", True),
+    ("Infosys", r"\bInfosys\b", True),
+    ("Wipro", r"\bWipro\b", True),
+    ("HCLTech", r"\bHCL ?Tech(nologies)?\b", True),
+    ("Tech Mahindra", r"\bTech Mahindra\b", True),
+    ("HDFC Bank", r"\bHDFC Bank\b", True),
+    ("ICICI Bank", r"\bICICI Bank\b", True),
+    ("State Bank of India", r"\bSBI\b|\bState Bank of India\b", True),
+    ("Axis Bank", r"\bAxis Bank\b", True),
+    ("Kotak Mahindra Bank", r"\bKotak( Mahindra)?( Bank)?\b", True),
+    ("IndusInd Bank", r"\bIndusInd\b", True),
+    ("Bank of Baroda", r"\bBank of Baroda\b", True),
+    ("Punjab National Bank", r"\bPNB\b|\bPunjab National Bank\b", True),
+    ("Canara Bank", r"\bCanara Bank\b", True),
+    ("IDBI Bank", r"\bIDBI\b", True),
+    ("Bajaj Finance", r"\bBajaj Finance\b", True),
+    ("Bajaj Finserv", r"\bBajaj Finserv\b", True),
+    ("Bajaj Auto", r"\bBajaj Auto\b", True),
+    ("Hindustan Unilever", r"\bHUL\b|\bHindustan Unilever\b", True),
+    ("ITC", r"\bITC\b", True),
+    ("Larsen & Toubro", r"\bL&T\b|\bLarsen", True),
+    ("Maruti Suzuki", r"\bMaruti( Suzuki)?\b", True),
+    ("Mahindra & Mahindra", r"\bM&M\b|\bMahindra & Mahindra\b", True),
+    ("Tata Motors", r"\bTata Motors\b", True),
+    ("Tata Steel", r"\bTata Steel\b", True),
+    ("Tata Power", r"\bTata Power\b", True),
+    ("Sun Pharma", r"\bSun Pharma\b", True),
+    ("Dr Reddy's", r"\bDr\.? Reddy", True),
+    ("Cipla", r"\bCipla\b", True),
+    ("Apollo Hospitals", r"\bApollo Hospitals\b", True),
+    ("Titan", r"\bTitan (Company|Co)\b|\bTitan\b", True),
+    ("Asian Paints", r"\bAsian Paints\b", True),
+    ("UltraTech Cement", r"\bUltraTech\b", True),
+    ("JSW Steel", r"\bJSW Steel\b", True),
+    ("Hindalco", r"\bHindalco\b", True),
+    ("Vedanta", r"\bVedanta\b", True),
+    ("Coal India", r"\bCoal India\b", True),
+    ("ONGC", r"\bONGC\b", True),
+    ("NTPC", r"\bNTPC\b", True),
+    ("Power Grid", r"\bPower Grid\b|\bPowerGrid\b", True),
+    ("BPCL", r"\bBPCL\b|\bBharat Petroleum\b", True),
+    ("Indian Oil", r"\bIndian Oil\b|\bIOC\b", True),
+    ("Adani Group", r"\bAdani\b", True),
+    ("Bharti Airtel", r"\bAirtel\b", True),
+    ("Vodafone Idea", r"\bVodafone Idea\b", True),
+    ("Eternal (Zomato)", r"\bZomato\b|\bEternal Ltd\b", True),
+    ("Paytm", r"\bPaytm\b", True),
+    ("LIC", r"\bLIC\b|\bLife Insurance Corporation\b", True),
+    ("HAL", r"\bHAL\b|\bHindustan Aeronautics\b", True),
+    ("Bharat Electronics", r"\bBharat Electronics\b", True),
+    ("IRCTC", r"\bIRCTC\b", True),
+    ("IndiGo", r"\bIndiGo\b|\bInterGlobe\b", True),
+    ("Nestle India", r"\bNestl[eé] India\b", True),
+    ("Britannia", r"\bBritannia\b", True),
+    ("Eicher Motors", r"\bEicher\b|\bRoyal Enfield\b", True),
+    ("Hero MotoCorp", r"\bHero MotoCorp\b", True),
+    ("TVS Motor", r"\bTVS Motor\b", True),
+    ("SBI Life", r"\bSBI Life\b", True),
+    ("HDFC Life", r"\bHDFC Life\b", True),
+    ("Jio Financial", r"\bJio Financial\b", True),
+    ("Shriram Finance", r"\bShriram Finance\b", True),
+    ("Trent", r"\bTrent\b", True),
+    ("Nykaa", r"\bNykaa\b", True),
+]
+_COMPANY_RE = [(n, re.compile(p, 0 if cs else re.I)) for n, p, cs in COMPANIES]
+# Headlines about price moves are not listed under companies: the list is for news mentions only.
+MOVE_WORDS = (
+    r"\b(surge[sd]?|jump(s|ed)?|rall(y|ies|ied)|tumbl\w*|slump\w*|slid(e|es)?|sink\w*|skyrocket\w*|"
+    r"upper circuit|lower circuit|gains?|gained|falls?|fell|drops?|dropped|hits? (record|high|low)|"
+    r"52-week|target price|shares? (up|down))\b"
+)
+
+
+def find_companies(title):
+    return [n for n, rx in _COMPANY_RE if rx.search(title)][:3]
+
+
 def fetch_big(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=90) as r:
@@ -167,6 +248,7 @@ def gdelt_items():
     tip = re.compile(TIP_WORDS, re.I)
     rel = re.compile(INDIA_RELEVANT, re.I)
     junk = re.compile(NOT_MARKET, re.I)
+    move = re.compile(MOVE_WORDS, re.I)
     title_re = re.compile(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", re.S)
     # find the newest file name from lastupdate.txt
     last = fetch("http://data.gdeltproject.org/gdeltv2/lastupdate.txt").decode("utf-8", "replace")
@@ -203,10 +285,14 @@ def gdelt_items():
                 when = datetime.strptime(cols[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
             except ValueError:
                 continue
-            if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or junk.search(title) or not rel.search(title):
+            comps = find_companies(title) if title else []
+            if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or junk.search(title) or not (rel.search(title) or comps):
                 continue
-            out.append({"title": title, "link": link, "source": name + " (headline via GDELT)",
-                        "source_key": "gdelt", "category": "India", "published": when.isoformat()})
+            item = {"title": title, "link": link, "source": name + " (headline via GDELT)",
+                    "source_key": "gdelt", "category": "India", "published": when.isoformat()}
+            if comps and not move.search(title):
+                item["companies"] = comps
+            out.append(item)
     if not out:
         raise RuntimeError(f"no usable headlines ({files_ok} of {GKG_FILES} files read, {records} records scanned, {errors} download errors; last error: {last_err or 'none'})")
     seen, uniq = set(), []
