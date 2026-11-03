@@ -1,12 +1,53 @@
 {
- "updated": "2026-11-03T13:45:49.826193+00:00",
+ "updated": "2026-11-03T14:01:23.677205+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 53 new items (12 files read)"
+  "gdelt": "ok, 46 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Explore opportunities in digital economy, students told",
+   "link": "https://www.thehindu.com/news/national/karnataka/explore-opportunities-in-digital-economy-students-told/article71645712.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T14:00:00+00:00"
+  },
+  {
+   "title": "Danish minister visits Mumbai to boost maritime, trade ties; L&T chairperson appointed honorary consul",
+   "link": "https://www.thehindu.com/news/cities/mumbai/danish-minister-visits-mumbai-to-boost-maritime-trade-ties-lt-chairperson-appointed-honorary-consul/article71660899.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:00:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
+  {
+   "title": "SBI puts ECL models in place, estimates Rs 19,500-crore post-tax impact",
+   "link": "https://www.moneycontrol.com/news/business/banks/sbi-puts-ecl-models-in-place-estimates-rs-19-500-crore-post-tax-impact-14067958.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "SBI says root cause analysis of data breach underway, steps up cybersecurity checks",
+   "link": "https://www.moneycontrol.com/banking/sbi-says-root-cause-analysis-of-data-breach-underway-steps-up-cybersecurity-checks-article-14067961.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "NTPC eyes to add 58 Gw of installed capacity reach 149 Gw by 2032: Chairman",
    "link": "https://www.business-standard.com/companies/news/ntpc-eyes-to-add-58-gw-of-installed-capacity-reach-149-gw-by-2032-chairman-126110301372_1.html",
@@ -3230,46 +3271,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T12:15:00+00:00"
-  },
-  {
-   "title": "26 silver and copper coins hidden for centuries, found in Karnataka, including 19 linked to Tipu Sultan; Here's what scientists observed!",
-   "link": "https://www.moneycontrol.com/science/26-silver-and-copper-coins-hidden-for-centuries-found-in-karnataka-including-19-linked-to-tipu-sultan-here-s-what-scientists-observed-article-14066502.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T12:15:00+00:00"
-  },
-  {
-   "title": "Citing GST revenue decline, Stalin says Tamil Nadu is 'doomed' under TVK government",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/citing-gst-revenue-decline-stalin-says-tamil-nadu-is-doomed-under-tvk-government/article71656436.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:00:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Reliance Industries shares surge 12%, biggest single day gain since April 2020",
-   "link": "https://www.businesstoday.in/markets/stocks/story/reliance-industries-shares-surge-12-biggest-single-day-gain-since-april-2020-565200-2026-11-02",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:00:00+00:00"
-  },
-  {
-   "title": "IndiGo board may undertake detailed review of fuel hedging policy: CEO Willie Walsh",
-   "link": "https://www.businesstoday.in/industry/story/indigo-board-may-undertake-detailed-review-of-fuel-hedging-policy-ceo-willie-walsh-565196-2026-11-02",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:00:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   }
  ]
 }
