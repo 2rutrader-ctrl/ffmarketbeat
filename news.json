@@ -1,12 +1,34 @@
 {
- "updated": "2026-11-03T20:15:57.427082+00:00",
+ "updated": "2026-11-03T20:31:13.083414+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 19 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "ED attaches 2 aircraft in probe against Reliance Anil Ambani Group",
+   "link": "https://www.business-standard.com/companies/news/ed-attaches-2-aircraft-in-probe-against-reliance-anil-ambani-group-126110301691_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T20:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Cement market steadily narrows to 2-horse race between UltraTech, Ambuja",
+   "link": "https://www.business-standard.com/industry/news/cement-market-steadily-narrows-to-2-horse-race-between-ultratech-ambuja-126110100749_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T20:00:00+00:00",
+   "companies": [
+    "UltraTech Cement"
+   ]
+  },
   {
    "title": "Oil slips after early surge as US-Iran tensions persist, Brent falls 3%",
    "link": "https://www.livemint.com/industry/energy/crude-oil-prices-us-iran-war-qeshm-island-brent-11793717882725.html",
@@ -3231,27 +3253,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
-   "link": "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
-   "link": "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T17:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
