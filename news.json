@@ -1,12 +1,146 @@
 {
- "updated": "2026-11-03T11:01:24.522901+00:00",
+ "updated": "2026-11-03T11:15:50.666195+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 59 new items (12 files read)"
+  "gdelt": "ok, 65 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil prices rise over 1.7% after reported US strikes on Iran's Qeshm Island ahead of midterms",
+   "link": "https://www.hindustantimes.com/world-news/us-news/oil-prices-rise-over-1-7-after-reported-us-strikes-on-irans-qeshm-island-ahead-of-midterms-101793700915964.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T11:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
+   "link": "https://www.thehindu.com/business/Industry/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh/article71660528.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:15:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Iran war's unlikely winner: How Oman is turning a regional crisis into an economic opportunity",
+   "link": "https://www.moneycontrol.com/world/iran-war-s-unlikely-winner-how-oman-is-turning-a-regional-crisis-into-an-economic-opportunity-article-14067734.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T11:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Who is Pankaj Pandey? Power Grid's new Director (Operations) to succeed Naveen Srivastava in December",
+   "link": "https://www.livemint.com/companies/people/who-is-pankaj-pandey-power-grids-new-director-operations-to-succeed-naveen-srivastava-in-december-11793688213620.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00",
+   "companies": [
+    "Power Grid"
+   ]
+  },
+  {
+   "title": "Pee Safe eyes ₹250 cr revenue in FY27 ahead of planned IPO: Co-founder Rithish Kumar in exclusive interview | Top points",
+   "link": "https://www.livemint.com/companies/pee-safe-eyes-250-cr-revenue-in-fy27-ahead-of-planned-ipo-co-founder-rithish-kumar-in-exclusive-interview-top-points-11793364567905.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "Never a good strategy to compete with your customers: Adani Airport CEO on airline business",
+   "link": "https://www.moneycontrol.com/news/business/companies/never-a-good-strategy-to-compete-with-your-customers-aahl-ceo-on-airline-business-14067662.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "RBI clarifies no shortage of Rs 10, Rs 20 and Rs 50 notes ahead of Diwali; cautions people against forged circular",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/rbi-clarifies-no-shortage-of-rs-10-rs-20-and-rs-50-notes-ahead-of-diwali-cautions-people-against-forged-circular-14067698.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "Q2 results impact: Solar Industries shares gain as profit rises 79%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/q2-results-impact-solar-industries-shares-gain-as-profit-rises-79-14067660.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "When Reliance, Thala Ajith joined hands! Mukesh Ambani's FMCG segment expands Independence biscuit portfolio; 9 variants",
+   "link": "https://www.livemint.com/companies/news/when-reliance-thala-ajith-joined-hands-mukesh-ambanis-fmcg-segment-expands-independence-biscuit-portfolio-9-variants-11793687578030.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Fairfax's $5.5 billion deal for India's IDBI Bank faces employee, political opposition",
+   "link": "https://www.moneycontrol.com/news/business/companies/fairfax-s-5-5-billion-deal-for-india-s-idbi-bank-faces-employee-political-opposition-14067705.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "iPhone 17 Pro Max price in India drops to Rs 66,990 on Reliance Digital with bank discount and exchange offer",
+   "link": "https://www.moneycontrol.com/technology/iphone-17-pro-max-price-in-india-drops-to-rs-66-990-on-reliance-digital-with-bank-discount-and-exchange-offer-article-14067783.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "Demonstrations generate 'protest economy', Supreme Court tells Delhi traders",
+   "link": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "US midterms: What a Democratic victory could mean for Trump, economic policy and markets",
+   "link": "https://www.moneycontrol.com/news/business/markets/us-midterms-what-a-democratic-victory-could-mean-for-trump-economic-policy-and-markets-14067728.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
   {
    "title": "SBI Q2 net profit jumps 14% to ₹23,038 cr - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/money-and-banking/sbi-reports-14-increase-in-q2fy27-standalone-net-profit-at-23038-cr/article71660139.ece",
