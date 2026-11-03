@@ -362,6 +362,9 @@ def main(out_path="news.json"):
         for it in prev.get("items", []):
             d = parse_date(it.get("published"))
             if it.get("source_key") == "gdelt" and d and d.timestamp() > cutoff:
+                t = it.get("title", "")
+                if re.search(TIP_WORDS, t, re.I) or re.search(NOT_MARKET, t, re.I):
+                    continue  # re-apply today's filters to headlines carried over from earlier runs
                 it.pop("thought", None)
                 prev_items.append(it)
     except Exception:
