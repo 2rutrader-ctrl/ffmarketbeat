@@ -1,12 +1,160 @@
 {
- "updated": "2026-11-03T07:15:50.021835+00:00",
+ "updated": "2026-11-03T07:31:09.879895+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 58 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's 2026 gold demand seen falling to six-year low on price rise",
+   "link": "https://www.moneycontrol.com/news/india/india-s-2026-gold-demand-seen-falling-to-six-year-low-on-price-rise-14067416.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Zomato launches Host Mode after Deepinder Goyal accepted user's idea to hide food prices from guests",
+   "link": "https://www.moneycontrol.com/technology/zomato-launches-host-mode-after-deepinder-goyal-accepted-user-s-idea-to-hide-food-prices-from-guests-article-14067449.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "companies": [
+    "Eternal (Zomato)"
+   ]
+  },
+  {
+   "title": "Q2 results impact: KRBL shares rally 13% as September quarter profit jumps 51%",
+   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-krbl-shares-rally-13-as-september-quarter-profit-jumps-51-14067453.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Coal India's Mahanadi Coalfields IPO may launch in November, raise up to $1 billion",
+   "link": "https://www.moneycontrol.com/news/business/ipo/coal-india-s-mahanadi-coalfields-ipo-may-launch-in-november-raise-up-to-1-billion-14067327.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "companies": [
+    "Coal India"
+   ]
+  },
+  {
+   "title": "Rajesh Power Services net profit up 34% on better order execution",
+   "link": "https://www.thehindubusinessline.com/companies/rajesh-power-services-net-profit-up-34-on-better-order-execution/article71659653.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nomura sees Nifty crossing 24,000 as earnings deliver and FII selling eases",
+   "link": "https://www.moneycontrol.com/news/business/stocks/nomura-sees-nifty-crossing-24-000-as-earnings-deliver-and-fii-selling-eases-14067445.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "Kuno Cheetah CCB-4 reaches Rajasthan's Baran forests after leaving Madhya Pradesh, male big Cat known for rare bond with unrelated Indian-born Cheetah",
+   "link": "https://www.moneycontrol.com/science/kuno-cheetah-ccb-4-reaches-rajasthan-s-baran-forests-after-leaving-madhya-pradesh-male-big-cat-known-for-rare-bond-with-unrelated-indian-born-cheetah-article-14067336.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "title": "How much of the GST boom is real?",
+   "link": "https://www.moneycontrol.com/news/opinion/how-much-of-the-gst-boom-is-real-14067256.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Beyond Diwali, India must read its lights more often to gauge the economy",
+   "link": "https://www.moneycontrol.com/news/opinion/beyond-diwali-india-must-read-its-lights-more-often-to-gauge-the-economy-14067434.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh/article71659738.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Captain Polyplast net profit up 5% on higher demand in Q2",
+   "link": "https://www.thehindubusinessline.com/companies/captain-polyplast-net-profit-up-5-on-higher-demand-in-q2/article71659767.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India's 2026 gold demand seen falling to six-year low on price rise",
+   "link": "https://www.thehindubusinessline.com/markets/gold/indias-2026-gold-demand-seen-falling-to-six-year-low-on-price-rise/article71659623.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Bombay Coated & Special Steels IPO allotment today; check status on BSE, NSE and registrar",
+   "link": "https://www.moneycontrol.com/news/business/ipo/bombay-coated-special-steels-ipo-allotment-today-check-status-on-bse-nse-and-registrar-14067358.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T07:30:00+00:00"
+  },
   {
    "title": "India tax hike drives illegal gold imports to highest level since 2023",
    "link": "https://www.business-standard.com/economy/news/india-tax-hike-drives-illegal-gold-imports-to-highest-level-since-2023-126110300555_1.html",
