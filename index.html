@@ -584,13 +584,13 @@ function render(){
  $('srcf').style.display=keys.length>1?'':'none';
  const PRI=['Interest rates','Inflation','US Fed','Trade duties','Growth data','Crude oil','Bond yields','Liquidity','ECB','Fiscal policy','Rupee and dollar','Foreign flows','SEBI rules','Results','Geopolitics','Gold'];
  const rank=n=>{const i=n.thought?PRI.indexOf(n.thought.short||n.thought.topic):-1;return (n.category==='India'?0:100)+(i<0?99:i)};
- const recent=L.filter(n=>n.thought&&Date.now()-Date.parse(n.published)<24*3600e3).sort((a,b)=>rank(a)-rank(b)||Date.parse(b.published)-Date.parse(a.published))[0];
+ const ageH=n=>(Date.now()-Date.parse(n.published))/3600e3,score=n=>rank(n)+ageH(n)*1.5;const recent=L.filter(n=>n.thought&&ageH(n)<24).sort((a,b)=>score(a)-score(b)||Date.parse(b.published)-Date.parse(a.published))[0];
  const lead=recent||L.find(n=>n.thought)||L[0];
  if(!lead){const filt=sel||topic||srcK||qs,cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
   $('lead').innerHTML=filt||!cod?'<div class="lead"><div class="empty">No headlines match this view. Try another phase, topic or search.</div></div>':`<article class="lead concept"><div class="meta"><span class="chip src">CONCEPT OF THE DAY</span><span>Education only</span></div><h2>${esc(cod.topic)}</h2><p class="cp">${esc(cod.text)}</p><p class="cn">Today's lead story appears here as soon as an official source publishes. Official sources publish at irregular times, so this can take a while. This page checks for new headlines about every 30 minutes.</p></article>`;$('five').innerHTML=''}
  else{
   $('lead').innerHTML=`<article class="lead"><div class="meta">${flag(lead)}<span class="chip src">${srcLabel(lead)}</span><span class="chip">${esc(lead.category)}</span><span>${timeStr(lead)} IST</span></div><h2>${esc(lead.title)}</h2><a class="go" href="${safe(lead.link)}" target="_blank" rel="noopener">Read at ${esc(lead.source)} &#8599;</a>${thoughtBox(lead)}</article>`;
-  const pool=L.filter(n=>n!==lead),near=pool.filter(n=>Date.now()-Date.parse(n.published)<36*3600e3).sort((a,b)=>rank(a)-rank(b)||Date.parse(b.published)-Date.parse(a.published)),five=near.slice(0,5);if(five.length<5)pool.filter(n=>!five.includes(n)).slice(0,5-five.length).forEach(n=>five.push(n));
+  const pool=L.filter(n=>n!==lead),near=pool.filter(n=>ageH(n)<36).sort((a,b)=>score(a)-score(b)||Date.parse(b.published)-Date.parse(a.published)),five=near.slice(0,5);if(five.length<5)pool.filter(n=>!five.includes(n)).slice(0,5-five.length).forEach(n=>five.push(n));
   $('five').innerHTML=five.length?`<section class="five"><div class="fh"><b>FF Five</b><span>What matters most for Indian traders now</span></div>`+five.map((n,i)=>`<div class="f1 it" data-i="${i}"><div class="nm">${i+1}</div><div><div class="hd">${esc(n.title)}</div><div class="row2">${flag(n)}<span class="chip src">${srcLabel(n)}</span><span class="chip">${n.category==='India'?'India':'Global'}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a>${tbtn(n)}</div>${thoughtBox(n)}</div></div>`).join('')+`</section>`:'';
  }
  let html="",last="";
