@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-03T09:45:53.253740+00:00",
+ "updated": "2026-11-03T10:01:24.338506+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 54 new items (12 files read)"
+  "gdelt": "ok, 40 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India has never allowed import of genetically modified products, will never open dairy sector: Piyush Goyal",
+   "link": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:00:00+00:00"
+  },
   {
    "title": "Marico shares climb 8% as Q2 results beat estimates on strong demand",
    "link": "https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html",
