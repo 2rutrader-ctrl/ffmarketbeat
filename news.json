@@ -1,12 +1,129 @@
 {
- "updated": "2026-11-03T08:31:12.184716+00:00",
+ "updated": "2026-11-03T08:45:50.893041+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 52 new items (12 files read)"
+  "gdelt": "ok, 61 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "LDF seeks to galvanise coastal community against UDF's proposed high-value economic maritime corridor",
+   "link": "https://www.thehindu.com/news/national/kerala/ldf-seeks-to-galvanise-coastal-community-against-udfs-proposed-high-value-economic-maritime-corridor/article71660022.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:45:00+00:00"
+  },
+  {
+   "title": "Bajaj Finserv Q2 results: Consolidated profit rises 25%; stock reacts",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finserv-q2-results-consolidated-profit-rises-25-income-up-17-565364-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00",
+   "companies": [
+    "Bajaj Finserv"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Sensex, Nifty extend winning run to fourth session; key reasons behind market rally",
+   "link": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-extend-winning-run-to-fourth-session-key-reasons-behind-market-rally-565338-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00"
+  },
+  {
+   "title": "'You're looked down upon when...': IndiGo CEO as airline prepares for int'l expansion",
+   "link": "https://www.businesstoday.in/latest/corporate/story/youre-looked-down-upon-when-indigo-ceo-as-airline-prepares-for-intl-expansion-565355-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Gold vs stocks: Why equities are better option; fixed income, InvITs outlook",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gold-vs-stocks-why-equities-are-better-option-fixed-income-invits-outlook-565365-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "SBI shares gain ahead of Q2 results: Key expectations, earnings preview",
+   "link": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-gain-ahead-of-q2-results-key-expectations-earnings-preview-565351-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "₹1 lakh in silver at the January peak is worth about ₹47,750 now: What Dhanteras buyers should know",
+   "link": "https://www.businesstoday.in/latest/trends/photo/rs1-lakh-in-silver-at-the-january-peak-is-worth-about-rs47750-now-what-dhanteras-buyers-should-know-565368-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00"
+  },
+  {
+   "title": "India will never allow imports of genetically modified products: Goyal",
+   "link": "https://www.business-standard.com/industry/news/india-will-never-allow-imports-of-genetically-modified-products-goyal-126110300764_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00"
+  },
+  {
+   "title": "Mukesh Ambani overtakes ByteDance founder to become Asia's richest person after Reliance shares surge nearly 12%",
+   "link": "https://www.businesstoday.in/india/story/mukesh-ambani-overtakes-bytedance-founder-to-become-asias-richest-person-after-reliance-shares-surge-nearly-12-565348-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00"
+  },
+  {
+   "title": "Diwali bling goes underground: Illegal gold imports surge 1,500% as higher taxes bite",
+   "link": "https://www.businesstoday.in/latest/economy/story/diwali-bling-goes-underground-illegal-gold-imports-surge-1500-as-higher-taxes-bite-565340-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Vedanta clarifies on Odisha land allotment issue; check stock reaction",
+   "link": "https://www.businesstoday.in/markets/stocks/story/vedanta-clarifies-on-odisha-land-allotment-issue-check-stock-reaction-565362-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:45:00+00:00",
+   "companies": [
+    "Vedanta"
+   ]
+  },
   {
    "title": "Internet says air-fried food is healthier than deep-fried snacks: But expert explains why using less oil does not automatically make it healthy",
    "link": "https://www.hindustantimes.com/lifestyle/health/the-internet-says-air-fried-food-is-healthier-than-deep-fried-snacks-but-does-using-less-oil-make-it-healthy-expert-weighs-in-101793686658443.html",
