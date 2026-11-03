@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-03T16:01:23.993220+00:00",
+ "updated": "2026-11-03T16:15:54.299978+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 61 new items (12 files read)"
+  "gdelt": "ok, 58 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Hero MotoCorp's VIDA begins European operations, starts deliveries in 10 countries",
+   "link": "https://www.businesstoday.in/auto/story/hero-motocorps-vida-begins-european-operations-starts-deliveries-in-10-countries-565514-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T16:15:00+00:00",
+   "companies": [
+    "Hero MotoCorp"
+   ]
+  },
   {
    "title": "Carver Roboweld Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
    "link": "https://www.moneycontrol.com/ipo/carver-roboweld-crl03-ipodetail",
@@ -3241,19 +3252,6 @@
    "companies": [
     "IndiGo"
    ]
-  },
-  {
-   "title": "SEBI proposes LTCG tax relief: Experts say tax cuts alone may not reverse FII outflows",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/sebi-proposes-ltcg-tax-relief-experts-say-tax-cuts-alone-may-not-reverse-fii-outflows-14066680.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
   }
  ]
 }
