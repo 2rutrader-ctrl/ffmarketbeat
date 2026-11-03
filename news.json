@@ -1,12 +1,45 @@
 {
- "updated": "2026-11-03T06:15:47.151028+00:00",
+ "updated": "2026-11-03T06:31:09.117270+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 25 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Richest person in Asia: Mukesh Ambani vs Zhang Yiming net worth — Reliance boss overtakes China's ByteDance TikTok head",
+   "link": "https://www.livemint.com/companies/people/richest-person-in-asia-mukesh-ambani-vs-zhang-yinmin-net-worth-reliance-boss-overtakes-chinas-bytedance-tiktok-head-11793676301020.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Who is Sanjay D'Souza? Meet HDFC Bank executive who retired after 27 years with the private lender",
+   "link": "https://www.livemint.com/companies/people/who-is-sanjay-dsouza-hdfc-bank-executive-group-head-business-banking-emerging-micro-enteprises-retired-27-years-lender-11793672754801.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:30:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "Adani Group said to seek $1.5 billion for data centre financing",
+   "link": "https://www.livemint.com/companies/news/adani-group-said-to-seek-1-5-billion-for-data-centre-financing-11793678832033.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Crude-sensitive stocks gain as oil stays below $105; HPCL, IndiGo lead",
    "link": "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
