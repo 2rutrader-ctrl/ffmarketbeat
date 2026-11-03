@@ -1,12 +1,68 @@
 {
- "updated": "2026-11-03T13:15:50.244991+00:00",
+ "updated": "2026-11-03T13:31:10.778596+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 67 new items (12 files read)"
+  "gdelt": "ok, 64 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T13:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Tech, operational resilience as important as credit risk for banks: RBI Deputy Governor Swaminathan J",
+   "link": "https://www.moneycontrol.com/news/business/banks/tech-operational-resilience-as-important-as-credit-risk-for-banks-rbi-deputy-governor-swaminathan-j-14067948.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T13:30:00+00:00"
+  },
+  {
+   "title": "Penny stock under ₹10 jumps 7.5% after Q2 Results 2026 following Indian stock market rally; do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-jumps-7-5-after-q2-results-2026-following-indian-stock-market-rally-do-you-own-11793704689095.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T13:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Reliance shares see volume breakout: Is a trend reversal around the corner? Here's what RIL stock history shows",
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-see-volume-breakout-is-a-trend-reversal-around-the-corner-here-s-what-history-shows-11793706073307.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T13:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "SBI's $10 billion FCNR-B deposit mobilisation will not materially weigh on NIMs, says chairman CS Setty",
+   "link": "https://www.moneycontrol.com/news/business/banks/sbi-s-10-billion-fcnr-b-deposit-mobilisation-will-not-materially-weigh-on-nims-says-chairman-cs-setty-14067953.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T13:30:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "Gold jewellery gets costlier this Diwali: Hallmarking charges jump 67% — what buyers must know",
    "link": "https://www.businesstoday.in/personal-finance/story/gold-jewellery-gets-costlier-this-diwali-hallmarking-charges-jump-67-what-buyers-must-know-565443-2026-11-03",
@@ -3214,52 +3270,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Nifty 500, BSE 500 or hybrid indices: Which benchmark does your SIF track?",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/nifty-500-bse-500-or-hybrid-indices-which-benchmark-does-your-sif-track-14066504.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:45:00+00:00"
-  },
-  {
-   "title": "Flexibility paradox for women in India's platform economy",
-   "link": "https://www.hindustantimes.com/ht-insight/gender-equality/flexibility-paradox-for-women-in-india-s-platform-economy-101793616085762.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:30:00+00:00"
-  },
-  {
-   "title": "Reliance Consumer bets big on biscuits, rolls out nine Independence variants priced from Rs 5",
-   "link": "https://www.moneycontrol.com/news/business/companies/reliance-bets-big-on-biscuits-rolls-out-nine-independence-variants-priced-from-rs-5-14066511.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:30:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "'Nobody will trust you': SC rejects Centre's plea against Vedanta arbitration awards",
-   "link": "https://www.hindustantimes.com/india-news/nobody-will-trust-you-sc-rejects-centre-s-plea-against-vedanta-arbitration-awards-101793613072223.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:30:00+00:00",
-   "companies": [
-    "Vedanta"
-   ]
-  },
-  {
-   "title": "Why is India's probe of Scotch imports from Britain rattling liquor majors?",
-   "link": "https://www.business-standard.com/industry/news/why-is-india-s-probe-of-scotch-imports-from-britain-rattling-liquor-majors-126110200606_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:15:00+00:00"
   }
  ]
 }
