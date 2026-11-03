@@ -1,12 +1,143 @@
 {
- "updated": "2026-11-03T05:01:24.618089+00:00",
+ "updated": "2026-11-03T05:15:51.617083+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold, silver prices on November 3: Yellow metal drops to ₹1.39 lakh, silver at ₹1.80 lakh; check latest rates here",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-3-yellow-metal-drops-to-rs1-39-lakh-silver-at-rs1-80-lakh-check-latest-rates-here-565286-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Rupee rises 12 paise to 94.72 against U.S. dollar in early trade",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-12-paise-to-9472-against-us-dollar-in-early-trade/article71659450.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Price Action: Jupiter Wagons gains 2% on order win; KEC International slides 7% after weak Q2 earnings",
+   "link": "https://www.moneycontrol.com/news/business/markets/price-action-jupiter-wagons-gains-2-on-order-win-kec-international-slides-7-after-weak-q2-earnings-14066855.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Pakistan's rebound masks deeper problems weighing on economy",
+   "link": "https://www.moneycontrol.com/world/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy-article-14066923.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00"
+  },
+  {
+   "title": "Brent crude at $105, WTI near $97 after US strike report on Iran's Qeshm Island clouds peace hopes",
+   "link": "https://www.moneycontrol.com/news/business/markets/brent-crude-at-105-wti-near-97-after-us-strike-report-on-iran-s-qeshm-island-clouds-peace-hopes-14067288.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "No LTCG tax after 3 years? SBI Research proposes big relief for investors, says govt can absorb Rs 50,000 crore hit",
+   "link": "https://www.moneycontrol.com/news/business/economy/no-ltcg-tax-after-3-years-sbi-research-proposes-big-relief-for-investors-says-govt-can-absorb-rs-50-000-crore-hit-14067190.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "With great growth, comes a barrage of problems for gold loan lenders",
+   "link": "https://www.moneycontrol.com/news/opinion/with-great-growth-comes-a-barrage-of-problems-for-gold-loan-lenders-14067178.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "From trade and tariffs to defence and H-1B visas: Why India has a stake in US midterm elections",
+   "link": "https://www.moneycontrol.com/world/from-trade-and-tariffs-to-defence-and-h-1b-visas-why-india-has-a-stake-in-us-midterm-elections-article-14067251.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Economic discontent on minds as US votes in midterm elections",
+   "link": "https://www.hindustantimes.com/world-news/us-news/economic-discontent-on-minds-as-us-votes-in-midterm-elections-101793672807574.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00"
+  },
+  {
+   "title": "Buzzing Stocks: Akums Drugs, VRL Logistics, KRBL rally up to 11% after strong Q2 earnings",
+   "link": "https://www.moneycontrol.com/news/business/markets/buzzing-stocks-akums-drugs-vrl-logistics-krbl-rally-up-to-11-after-strong-q2-earnings-14066854.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Commodity Corner: Oil steadies after sharp slump; gold holds gains amid US-Iran peace hopes",
+   "link": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-steadies-after-sharp-slump-gold-holds-gains-amid-us-iran-peace-hopes-14066850.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "RBI amends EDF rules for service exporters, freelancers under FEMA: ₹10 lakh threshold, relief for resident individuals",
    "link": "https://www.livemint.com/money/personal-finance/rbi-amends-edf-rules-for-service-exporters-freelancers-under-fema-10-lakh-threshold-relief-for-resident-individuals-11793665732487.html",
