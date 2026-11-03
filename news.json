@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:09:19.194595+00:00",
+ "updated": "2026-11-03T03:26:15.198565+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Police foil bid to snatch smuggled gold from woman at Karipur",
+   "link": "https://www.thehindu.com/news/national/kerala/police-foil-bid-to-snatch-smuggled-gold-from-woman-at-karipur/article71657340.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T03:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Pakistan's economic rebound masks deeper problems despite market rally",
    "link": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
