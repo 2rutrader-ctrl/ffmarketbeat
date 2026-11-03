@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-03T02:55:04.775433+00:00",
+ "updated": "2026-11-03T03:06:25.665018+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 134 new items (64 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Pakistan's economic rebound masks deeper problems despite market rally",
+   "link": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T03:15:00+00:00"
+  },
+  {
+   "title": "Oil prices rise after report of US strikes on Iran's Qeshm Island",
+   "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-after-report-of-us-strikes-on-iran-s-qeshm-island-126110300096_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T02:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Stock Market Today Live: Gift Nifty points to gap-up opening; crude oil, US election in focus",
    "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
