@@ -1,12 +1,54 @@
 {
- "updated": "2026-11-03T11:45:52.257140+00:00",
+ "updated": "2026-11-03T12:01:28.937175+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 66 new items (12 files read)"
+  "gdelt": "ok, 69 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Global gold demand down 1% in Q3 at 1,360 tonne amid uncertainty over price: Report",
+   "link": "https://www.moneycontrol.com/news/business/commodities/global-gold-demand-down-1-in-q3-at-1-360-tonne-amid-uncertainty-over-price-report-14067797.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T12:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India may reimpose broken rice export restrictions as prices cross $360 per tonne: Report",
+   "link": "https://www.moneycontrol.com/news/business/economy/india-may-reimpose-broken-rice-export-restrictions-as-prices-cross-360-per-tonne-report-14067833.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:00:00+00:00"
+  },
+  {
+   "title": "HGS India IPO sees 219 times subscription on final day; shares attract double-digit GMP",
+   "link": "https://www.moneycontrol.com/news/business/ipo/hgs-india-ipo-sees-219-times-subscription-on-final-day-shares-attract-double-digit-gmp-14067790.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:00:00+00:00"
+  },
+  {
+   "title": "India eases forex reporting rules for small value service exports, imports",
+   "link": "https://www.moneycontrol.com/banking/india-eases-forex-reporting-rules-for-small-value-service-exports-imports-article-14067839.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "SBI quarterly results: Bank shares decline despite loan growth, better asset quality in Q2 - What it means to investors",
    "link": "https://www.livemint.com/market/stock-market-news/sbi-quarterly-results-bank-shares-decline-despite-loan-growth-better-asset-quality-in-q2-what-it-means-to-investors-11793702591408.html",
@@ -3221,53 +3263,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-25T18:00:00+00:00"
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-19T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-29T18:00:00+00:00",
    "thought": {
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
