@@ -1,12 +1,241 @@
 {
- "updated": "2026-11-03T06:31:43.593152+00:00",
+ "updated": "2026-11-03T06:45:47.546120+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SBI Q2 results: Net profit seen rising 45% on stake-sale gains",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sbi-q2-results-net-profit-seen-rising-45-on-stake-sale-gains-and-income-growth/article71659323.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Rupee rises 12 paise to 94.72 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-12-paise-to-9472-against-us-dollar-in-early-trade/article71659422.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Blockbuster IPO debut of BLS Polymers; 3 times premium as compared to Jio Platforms - All details for investors here",
+   "link": "https://www.livemint.com/market/stock-market-news/blockbuster-ipo-debut-of-bls-polymers-3-times-premium-as-compared-to-jio-platforms-all-details-for-investors-here-11793682497404.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00"
+  },
+  {
+   "title": "Microsoft plans $25 billion through bond sale, interest rates go up to 6.35%: What to know",
+   "link": "https://www.livemint.com/companies/news/microsoft-plans-25-billion-through-bond-sale-interest-rates-go-up-to-6-35-what-to-know-11793681708482.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Nifty breaches 23,500 as falling crude prices & RIL surge fuel rally",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-breaches-23500-as-crude-slide-and-ril-surge-fuel-rally/article71659372.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Massive surge! Why Kitex Garments shares skyrocketed 16% after Q2 results | Highlights from quarterly earnings; returns",
+   "link": "https://www.livemint.com/market/stock-market-news/massive-surge-why-kitex-garments-shares-skyrocketed-16-after-q2-results-highlights-from-quarterly-earnings-returns-11793678746532.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Adani Group said to seek $1.5 billion for data centre financing",
+   "link": "https://www.thehindubusinessline.com/info-tech/adani-group-said-to-seek-15-billion-for-data-centre-financing/article71659350.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Asian stocks fall after US losses, oil holds drop: Markets Wrap",
+   "link": "https://www.thehindubusinessline.com/markets/asian-stocks-fall-after-us-losses-oil-holds-drop-markets-wrap/article71659307.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00"
+  },
+  {
+   "title": "Centre proposes expanding import gateways for drugs, medical devices",
+   "link": "https://www.thehindubusinessline.com/economy/centre-proposes-expanding-import-gateways-for-drugs-medical-devices/article71659507.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00"
+  },
+  {
+   "title": "Crude oil price gain amid reports of US attacks on Iranian island",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-gain-amid-reports-of-us-attacks-on-iranian-island/article71659403.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Reliance shares in focus for 2nd session, SAMCO flags historical rally pattern",
+   "link": "https://www.thehindubusinessline.com/markets/reliance-industries-ril-shares-in-focus-for-second-session-samco-highlights-historical-rally-pattern/article71659509.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00"
+  },
+  {
+   "title": "Abolishing LTCG tax may cost government ₹40,000-50,000 crore in FY28: SBI Researc",
+   "link": "https://www.thehindubusinessline.com/markets/government-has-fiscal-headroom-to-absorb-50000-crore-revenue-loss-from-scrapping-ltcg-tax-sbi-research/article71659248.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Mint Explainer | What is driving the surge in GST collections from imported goods?",
+   "link": "https://www.livemint.com/economy/india-gst-revenue-imports-domestic-collections-rupee-depreciation-11793628136310.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Indian bond rally seen extending on weaker oil, Treasury yields",
+   "link": "https://www.thehindubusinessline.com/markets/indian-bond-rally-seen-extending-on-weaker-oil-treasury-yields/article71659308.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Kanohar Electricals shares surge 17% after Q2 results; revenue more than doubles in H1 FY27 | Check key levels",
+   "link": "https://www.livemint.com/market/kanohar-electricals-shares-surge-17-after-q2-results-revenue-more-than-doubles-in-h1-fy27-check-key-levels-11793684066071.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold holds biggest jump in two months on Iran peace-deal hopes",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes/article71659388.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Trident shares jump 13% after Q2 results; profit jumps 93%, board clears ₹4,650 crore expansion plan | What lies ahead",
+   "link": "https://www.livemint.com/market/stock-market-news/trident-shares-jump-13-after-q2-results-profit-jumps-93-board-clears-rs-4-650-crore-expansion-plan-what-lies-ahead-11793682049671.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold, silver rate Bangalore 3 Nov: Latest update on price movement for investors in Silicon Valley of India today",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-rate-bangalore-3-nov-latest-update-on-price-movement-for-investors-in-silicon-valley-of-india-today-11793684641317.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "HDFC Bank shares surges 2.86%, lead Nifty 50 gainers - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-surges-286-lead-nifty-50-gainers/article71659565.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00"
+  },
+  {
+   "title": "Coal India plans $1 billion IPO for Mahanadi Coalfields as soon as this month",
+   "link": "https://www.thehindubusinessline.com/markets/coal-india-plans-1-billion-ipo-for-mahanadi-coalfields-as-soon-as-this-month/article71659540.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T06:45:00+00:00",
+   "companies": [
+    "Coal India"
+   ]
+  },
   {
    "title": "Richest person in Asia: Mukesh Ambani vs Zhang Yiming net worth — Reliance boss overtakes China's ByteDance TikTok head",
    "link": "https://www.livemint.com/companies/people/richest-person-in-asia-mukesh-ambani-vs-zhang-yinmin-net-worth-reliance-boss-overtakes-chinas-bytedance-tiktok-head-11793676301020.html",
