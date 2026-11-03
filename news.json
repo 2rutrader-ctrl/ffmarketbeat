@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-03T08:45:50.893041+00:00",
+ "updated": "2026-11-03T09:01:24.869620+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 61 new items (12 files read)"
+  "gdelt": "ok, 62 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
+   "link": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "LDF seeks to galvanise coastal community against UDF's proposed high-value economic maritime corridor",
    "link": "https://www.thehindu.com/news/national/kerala/ldf-seeks-to-galvanise-coastal-community-against-udfs-proposed-high-value-economic-maritime-corridor/article71660022.ece",
