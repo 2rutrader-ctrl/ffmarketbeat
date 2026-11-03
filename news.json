@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-03T21:31:18.819139+00:00",
+ "updated": "2026-11-03T21:45:52.228116+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India may need to spend 3% of GDP on climate adaptation, against 0.5% in rich economies: Report",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-may-need-to-spend-3-of-gdp-on-climate-adaptation-against-0-5-in-rich-economies-report-565517-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T21:45:00+00:00",
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
   {
    "title": "Corn futures hit four-month low on big US crop, export worries",
    "link": "https://www.livemint.com/market/commodities/corn-futures-hit-four-month-low-on-big-us-crop-export-worries-11793732932545.html",
@@ -3238,17 +3251,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "US FDA grants tentative nod to Dr Reddy's twice-yearly HIV prevention drug",
-   "link": "https://www.business-standard.com/health/us-fda-grants-tentative-nod-to-dr-reddy-s-twice-yearly-hiv-prevention-drug-126110201511_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "companies": [
-    "Dr Reddy's"
-   ]
   }
  ]
 }
