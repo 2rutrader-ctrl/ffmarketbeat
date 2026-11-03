@@ -1,25 +1,12 @@
 {
- "updated": "2026-11-03T03:31:09.600469+00:00",
+ "updated": "2026-11-03T03:33:13.381060+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
-  {
-   "title": "Police foil bid to snatch smuggled gold from woman at Karipur",
-   "link": "https://www.thehindu.com/news/national/kerala/police-foil-bid-to-snatch-smuggled-gold-from-woman-at-karipur/article71657340.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T03:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
   {
    "title": "Pakistan's economic rebound masks deeper problems despite market rally",
    "link": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
@@ -468,14 +455,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "'No peace bonds?' Opposition, youth leaders take dig at Delhi Police over protest by its personnel",
-   "link": "https://www.moneycontrol.com/news/india/no-peace-bonds-opposition-youth-leaders-take-dig-at-delhi-police-over-protest-by-its-personnel-14066749.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:45:00+00:00"
   },
   {
    "title": "Dr. Reddy's secures U.S. FDA tentative nod for HIV drug lenacapavir",
