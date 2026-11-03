@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-03T03:33:13.381060+00:00",
+ "updated": "2026-11-03T03:45:49.779951+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "GIFT Nifty up 120 pts; ITC, Lupin, Nalco, BLS Polymers, NBCC, SFC Enviro among top stocks in focus",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gift-nifty-up-120-pts-itc-lupin-nalco-bls-polymers-nbcc-sfc-enviro-among-top-stocks-in-focus-565280-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T03:45:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
   {
    "title": "Pakistan's economic rebound masks deeper problems despite market rally",
    "link": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
