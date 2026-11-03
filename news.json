@@ -1,12 +1,97 @@
 {
- "updated": "2026-11-03T08:01:25.468709+00:00",
+ "updated": "2026-11-03T08:15:50.085446+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 53 new items (12 files read)"
+  "gdelt": "ok, 58 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
+   "link": "https://www.business-standard.com/industry/aviation/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh-126110300569_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:15:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Centre proposes expanding import gateways for drugs, medical devices",
+   "link": "https://www.business-standard.com/industry/news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-126110300397_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:15:00+00:00"
+  },
+  {
+   "title": "19-year-old held for blinding elderly man with chilli powder, snatching gold chain in UP's Wazirganj",
+   "link": "https://www.hindustantimes.com/india-news/19yearold-held-for-blinding-elderly-man-with-chilli-powder-snatching-gold-chain-in-ups-wazirganj-101793687944934.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "From grains to chicken and milk, India faces prolonged food inflation",
+   "link": "https://www.business-standard.com/economy/news/from-grains-to-chicken-and-milk-india-faces-prolonged-food-inflation-126110300578_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "IndiGo passenger booked for tampering with emergency exit mechanism on Pune-bound flight",
+   "link": "https://www.hindustantimes.com/india-news/indigo-passenger-booked-for-tampering-with-emergency-exit-mechanism-on-pune-bound-flight-101793691222553.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:15:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Gold, silver prices fall on expectations of tighter monetary policy",
+   "link": "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-on-expectations-of-tighter-monetary-policy-126110300603_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:15:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "BPCL buys 1 million barrels of US WTI crude for delivery in late December",
+   "link": "https://www.business-standard.com/economy/news/bpcl-buys-1-million-barrels-of-us-wti-crude-for-delivery-in-late-december-126110300620_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T08:15:00+00:00",
+   "companies": [
+    "BPCL"
+   ],
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "India's 2026 gold demand seen falling to six-year low on price rise",
    "link": "https://www.moneycontrol.com/news/india/india-s-2026-gold-demand-seen-falling-to-six-year-low-on-price-rise-14067416.html",
