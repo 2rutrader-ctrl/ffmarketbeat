@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:45:51.223872+00:00",
+ "updated": "2026-11-03T23:01:24.247950+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Lupin Q2 net profit falls 22.19 pc to ₹1,155.3 crore",
+   "link": "https://www.livemint.com/focus/lupin-q2-net-profit-falls-22-19-pc-to-rs-1-155-3-crore-11793739442753.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T23:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "India may need to spend 3% of GDP on climate adaptation, against 0.5% in rich economies: Report",
    "link": "https://www.businesstoday.in/latest/economy/story/india-may-need-to-spend-3-of-gdp-on-climate-adaptation-against-0-5-in-rich-economies-report-565517-2026-11-03",
@@ -3239,14 +3252,6 @@
   {
    "title": "Overdependence on fossil fuels will continue to disrupt global economy: PM Modi",
    "link": "https://www.thehindubusinessline.com/economy/overdependence-on-fossil-fuels-will-continue-to-disrupt-global-economy-pm-modi/article71657501.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "RBI approves appointment of Sankaran G as ED of City Union Bank",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-approves-appointment-of-sankaran-gas-ed-of-city-union-bank/article71657935.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
