@@ -1,12 +1,77 @@
 {
- "updated": "2026-11-03T18:15:51.700075+00:00",
+ "updated": "2026-11-03T18:31:15.018146+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Apple Q4 results beat Wall Street estimates on strong iPhone 18 Pro demand",
+   "link": "https://www.business-standard.com/world-news/apple-q4-results-beat-wall-street-estimates-on-strong-iphone-18-pro-demand-126110302007_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "RBI starts 3 surveys to capture inflation expectations, consumer confidence",
+   "link": "https://www.business-standard.com/industry/banking/rbi-starts-3-surveys-to-capture-inflation-expectations-consumer-confidence-126110301722_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Saudi Aramco Q3 net profit rises 35% on higher oil prices, stake sale",
+   "link": "https://www.business-standard.com/world-news/saudi-aramco-q3-net-profit-rises-35-on-higher-oil-prices-stake-sale-126110301317_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "India's free trade agreement pipeline could cover 75% of exports",
+   "link": "https://www.business-standard.com/economy/news/india-s-free-trade-agreement-pipeline-could-cover-75-of-exports-126110301944_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Andrew Lautz, tax expert, warns US businesses face 'partisan tug-of-war' over taxes and tariffs as midterm Election Day looms",
+   "link": "https://www.hindustantimes.com/world-news/us-news/andrew-lautz-tax-expert-warns-us-businesses-face-partisan-tug-of-war-over-taxes-and-tariffs-as-us-midterm-election-day-looms-101793615200235.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "Ajwa Projects Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
    "link": "https://www.moneycontrol.com/ipo/ajwa-projects-apl13-ipodetail",
@@ -3193,57 +3258,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Dr. Reddy's secures U.S. FDA tentative nod for HIV drug lenacapavir",
-   "link": "https://www.thehindu.com/business/Industry/dr-reddys-secures-us-fda-tentative-nod-for-hiv-drug-lenacapavir/article71657724.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:45:00+00:00",
-   "companies": [
-    "Dr Reddy's"
-   ]
-  },
-  {
-   "title": "FIIs net bought Indian equities worth Rs 3115 crore while DIIs net sold Rs 392 crore on Nov 2",
-   "link": "https://www.moneycontrol.com/news/business/markets/fiis-net-bought-indian-equities-worth-rs-3115-crore-while-diis-net-sold-rs-392-crore-on-nov-2-14066733.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:45:00+00:00"
-  },
-  {
-   "title": "Dr Reddy's injectable lenacapavir for HIV prevention gets tentative nod from USFDA",
-   "link": "https://www.thehindubusinessline.com/news/dr-reddys-injectable-lenacapavir-for-hiv-prevention-gets-tentative-nod-from-usfda/article71657561.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:30:00+00:00",
-   "companies": [
-    "Dr Reddy's"
-   ]
-  },
-  {
-   "title": "Capex push to continue, but fiscal prudence non-negotiable: FM",
-   "link": "https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T16:30:00+00:00"
-  },
-  {
-   "title": "Burglars steal 40 sovereigns of gold jewellery, ₹1.50 lakh cash from 3 houses",
-   "link": "https://www.thehindu.com/news/cities/Madurai/burglars-steal-40-sovereigns-of-gold-jewellery-150-lakh-cash-from-3-houses/article71657449.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
