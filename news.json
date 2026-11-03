@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-03T17:45:54.489239+00:00",
+ "updated": "2026-11-03T18:01:35.507372+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Ajwa Projects Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
+   "link": "https://www.moneycontrol.com/ipo/ajwa-projects-apl13-ipodetail",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:00:00+00:00"
+  },
+  {
+   "title": "Competing with airlines not a sound strategy: Adani Airports CEO",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/competing-with-airlines-not-a-sound-strategy-adani-airports-ceo/article71660926.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Happiest Minds-ITC Infotech merger to broaden geographical, vertical reach",
+   "link": "https://www.thehindubusinessline.com/companies/happiest-minds-itc-infotech-merger-to-broaden-geographical-vertical-reach/article71661894.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:00:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "Bata India net profit up 30 per cent, revenue up 7.5 per cent in Q2",
+   "link": "https://www.thehindubusinessline.com/companies/bata-india-net-profit-up-30-per-cent-revenue-up-75-per-cent-in-q2/article71662123.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "From gold coins to EVs, festive shopping goes beyond metros this Dhanteras",
+   "link": "https://www.thehindubusinessline.com/companies/from-gold-coins-to-evs-festive-shopping-goes-beyond-metros-this-dhanteras/article71661665.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Budget FY28: Govt eyes ease of trade over sweeping customs duty cuts",
+   "link": "https://www.thehindubusinessline.com/economy/budget-fy28-govt-eyes-ease-of-trade-over-sweeping-customs-duty-cuts/article71662223.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "One-time stake sale gain lifts SBI Q2 profit 14% to ₹23,038 crore",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/one-time-stake-sale-gain-lifts-sbi-q2-profit-14-to-23038-crore/article71661214.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:00:00+00:00"
+  },
   {
    "title": "Payments firm Razorpay gets SEBI nod for IPO, likely to list in Q4 of FY 27 at $5 billion",
    "link": "https://www.moneycontrol.com/technology/payments-firm-razorpay-gets-sebi-nod-for-ipo-likely-to-list-in-q4-of-fy-27-at-5-billion-article-14068061.html",
@@ -3163,89 +3240,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T16:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Cyclone Murasu: IndiGo cancels 8 flights to and from Vijayawada on November 3",
-   "link": "https://www.moneycontrol.com/news/india/cyclone-murasu-indigo-cancels-8-flights-to-and-from-vijayawada-on-november-3-14066732.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Akums net profit soars 168% on CDMO growth, margin expansion",
-   "link": "https://www.moneycontrol.com/news/business/earnings/akums-net-profit-soars-168-on-cdmo-growth-margin-expansion-14066710.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T16:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Carnelian, HDFC AMC, L&T acquire 2.9% stake in EAAA India Alternatives on debut day",
-   "link": "https://www.moneycontrol.com/news/business/markets/carnelian-hdfc-amc-l-t-acquire-2-9-stake-in-eaaa-india-alternatives-on-debut-day-14066708.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:15:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "A cut in equity LTCG tax could ease foreign outflows and support the rupee, says Jefferies",
-   "link": "https://www.moneycontrol.com/news/business/markets/a-cut-in-equity-ltcg-tax-could-ease-foreign-outflows-and-support-the-rupee-says-jefferies-14066728.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Mumbai airport standoff: Airlines challenge Adani's proposed 5 million passenger capacity cut",
-   "link": "https://www.livemint.com/industry/mumbai-airport-standoff-airlines-challenge-adani-s-proposed-5-million-passenger-capacity-cut-11793624660834.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "IndiGo CEO William Walsh takes aim at airport monopolies as record fuel costs bite",
-   "link": "https://www.livemint.com/companies/indigo-ceo-william-walsh-takes-aim-at-airport-monopolies-as-record-fuel-costs-bite-11793611053512.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:00:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "34-year-old man held for snatching elderly woman's gold chain in Saidabad",
-   "link": "https://www.thehindu.com/news/national/telangana/34-year-old-man-held-for-snatching-elderly-womans-gold-chain-in-saidabad/article71656401.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T16:00:00+00:00",
    "thought": {
     "topic": "Why gold is followed",
     "short": "Gold",
