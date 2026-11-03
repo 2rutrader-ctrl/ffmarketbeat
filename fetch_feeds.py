@@ -18,6 +18,13 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
+# Central-bank feeds: keep only items about policy, rates, inflation, growth or markets.
+CB_RELEVANT = (
+    r"\b(interest rates?|monetary|inflation|projections?|minutes|fomc|rate decision|policy|outlook|"
+    r"financial stability|balance sheet|bond|yields?|economy|economic|gdp|growth|labou?r market|"
+    r"liquidity|employment|prices?|tariffs?|dollar|euro area|federal funds|discount rate)\b"
+)
+
 # key, credit line shown beside every item, category, feed URL
 # PIB publishes for every ministry, so only items that look market or economy related are kept.
 PIB_RELEVANT = (
@@ -32,9 +39,9 @@ FEEDS = [
     ("fed", "US Federal Reserve Board", "Global",
      "https://www.federalreserve.gov/feeds/press_monetary.xml", None),
     ("fed", "US Federal Reserve Board", "Global",
-     "https://www.federalreserve.gov/feeds/speeches.xml", None),
+     "https://www.federalreserve.gov/feeds/speeches.xml", CB_RELEVANT),
     ("ecb", "European Central Bank", "Global",
-     "https://www.ecb.europa.eu/rss/press.xml", None),
+     "https://www.ecb.europa.eu/rss/press.xml", CB_RELEVANT),
     ("pib", "Press Information Bureau, Government of India", "India",
      "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", PIB_RELEVANT),
     # Same official feed on the host without "www", in case only one host answers servers like GitHub's.
@@ -74,7 +81,7 @@ TIP_WORDS = (
     r"rally to|crash|jackpot|rocket|zoom|soar|plunge)\b"
 )
 
-MAX_ITEMS = 120
+MAX_ITEMS = 300
 THOUGHTS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "thoughts.json")
 USER_AGENT = "FFMarketBeat/1.0 (headline aggregator, links to originals)"
 
@@ -233,13 +240,21 @@ def find_companies(title):
     return [n for n, rx in _COMPANY_RE if rx.search(title)][:3]
 
 
+# A headline counts as India-specific if it names India, an Indian institution, a rupee amount or a listed Indian company.
+INDIA_SCOPE = (
+    r"\b(india|indian|indians|bharat|rbi|sebi|nse|bse|nifty|sensex|rupee|rupees|crore|lakh|gst|"
+    r"union budget|budget 20[0-9][0-9]|sitharaman|modi|irdai|nclt|fpis?|fiis?|dii|mumbai|delhi|"
+    r"dalal street|gift city|mpc|repo rate|west asia)\b|\u20b9|\bRs\.? ?[0-9]"
+)
+
+
 def fetch_big(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=90) as r:
         return r.read()
 
 
-def gdelt_items():
+def gdelt_items(n_files=GKG_FILES):
     """India business headlines from GDELT's open 15-minute GKG files (static downloads, no API
     rate limit). Keeps only the page title, link, publisher and time. Raises if nothing usable."""
     import html
@@ -248,6 +263,7 @@ def gdelt_items():
     tip = re.compile(TIP_WORDS, re.I)
     rel = re.compile(INDIA_RELEVANT, re.I)
     junk = re.compile(NOT_MARKET, re.I)
+    scope_rx = re.compile(INDIA_SCOPE, re.I)
     move = re.compile(MOVE_WORDS, re.I)
     title_re = re.compile(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", re.S)
     # find the newest file name from lastupdate.txt
@@ -258,7 +274,7 @@ def gdelt_items():
     newest = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
     out, files_ok, records, errors, last_err = [], 0, 0, 0, ""
     from datetime import timedelta
-    for k in range(GKG_FILES):
+    for k in range(n_files):
         stamp = (newest - timedelta(minutes=15 * k)).strftime("%Y%m%d%H%M%S")
         try:
             raw = fetch_big(f"http://data.gdeltproject.org/gdeltv2/{stamp}.gkg.csv.zip")
@@ -288,20 +304,22 @@ def gdelt_items():
             comps = find_companies(title) if title else []
             if not (title and link.startswith("http")) or "press-release" in link.lower() or tip.search(title) or junk.search(title) or not (rel.search(title) or comps):
                 continue
+            is_india = bool(comps) or bool(scope_rx.search(title))
             item = {"title": title, "link": link, "source": name + " (headline via GDELT)",
-                    "source_key": "gdelt", "category": "India", "published": when.isoformat()}
+                    "source_key": "gdelt", "category": "India" if is_india else "Global",
+                    "published": when.isoformat()}
             if comps and not move.search(title):
                 item["companies"] = comps
             out.append(item)
     if not out:
-        raise RuntimeError(f"no usable headlines ({files_ok} of {GKG_FILES} files read, {records} records scanned, {errors} download errors; last error: {last_err or 'none'})")
+        raise RuntimeError(f"no usable headlines ({files_ok} of {n_files} files read, {records} records scanned, {errors} download errors; last error: {last_err or 'none'})")
     seen, uniq = set(), []
     for it in out:
         if it["link"] not in seen:
             seen.add(it["link"])
             uniq.append(it)
     uniq.sort(key=lambda x: x["published"], reverse=True)
-    return uniq[:60]
+    return uniq[:150]
 
 
 def load_thoughts():
@@ -327,6 +345,24 @@ def attach_thought(item, lib):
 
 def main(out_path="news.json"):
     items, report = [], {}
+    prev_items, n_files = [], GKG_FILES
+    try:  # keep recent India headlines from earlier runs, so a gap between runs loses nothing
+        with open(out_path, encoding="utf-8") as f:
+            prev = json.load(f)
+        pu = parse_date(prev.get("updated"))
+        if pu:
+            gap_h = (datetime.now(timezone.utc) - pu).total_seconds() / 3600
+            n_files = min(64, max(GKG_FILES, int(gap_h * 4) + 4))
+        cutoff = datetime.now(timezone.utc).timestamp() - 48 * 3600
+        if sum(1 for it in prev.get("items", []) if it.get("source_key") == "gdelt") < 25:
+            n_files = 64  # thin history: read the last 16 hours of GDELT files
+        for it in prev.get("items", []):
+            d = parse_date(it.get("published"))
+            if it.get("source_key") == "gdelt" and d and d.timestamp() > cutoff:
+                it.pop("thought", None)
+                prev_items.append(it)
+    except Exception:
+        pass
     for key, credit, category, url, relevant in FEEDS:
         try:
             got = parse_feed(fetch(url), key, credit, category)
@@ -339,11 +375,12 @@ def main(out_path="news.json"):
             msg = f"FAILED: {type(e).__name__}: {e}"
         report[key] = (report[key] + "; " + msg) if key in report else msg
     try:
-        got = gdelt_items()
+        got = gdelt_items(n_files)
         items.extend(got)
-        report["gdelt"] = f"ok, {len(got)} items"
+        report["gdelt"] = f"ok, {len(got)} new items ({n_files} files read)"
     except Exception as e:
         report["gdelt"] = f"FAILED: {type(e).__name__}: {e}"
+    items.extend(prev_items)  # older headlines carried over from the previous file
     seen, unique = set(), []
     for it in items:
         if it["link"] not in seen:

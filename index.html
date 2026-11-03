@@ -4,10 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FF Market Beat | Market briefing for Indian traders by Financial Frontline</title>
-<meta name="description" content="A free, educational market briefing for Indian traders: official headlines, global cues, an events calendar and plain-language explainers. No advice, no buy or sell calls.">
+<meta name="description" content="A free, educational market briefing for Indian traders: Indian and global headlines, a pre-market brief, an events calendar and plain-language explainers. No advice, no buy or sell calls.">
+<meta property="og:url" content="https://ffmarketbeat.netlify.app/">
+<meta property="og:site_name" content="FF Market Beat by Financial Frontline">
+<meta property="og:image" content="https://ffmarketbeat.netlify.app/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="FF Market Beat by Financial Frontline">
+<meta name="twitter:description" content="Your daily market briefing for Indian traders. Education only.">
+<meta name="twitter:image" content="https://ffmarketbeat.netlify.app/og.jpg">
 <meta name="theme-color" content="#FDA043">
 <meta property="og:title" content="FF Market Beat by Financial Frontline">
-<meta property="og:description" content="Official headlines, global cues, events and plain-language explainers for Indian traders. Education only.">
+<meta property="og:description" content="Your daily market briefing for Indian traders: India and global headlines, events and plain-language explainers. Education only.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23F8C22E'/%3E%3Cstop offset='1' stop-color='%23FDA043'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='14' fill='url(%23g)'/%3E%3Ctext x='32' y='43' font-size='30' font-weight='800' text-anchor='middle' font-family='Georgia,serif' fill='%231a1200'%3EFF%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -316,6 +325,12 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .pmb h3{font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:var(--mu);margin:14px 0 6px}
 .pmb .pr{padding:8px 0;border-top:1px solid var(--line)}.pmb .pr:first-of-type{border-top:0}
 .pmb .pl{display:flex;gap:14px;flex-wrap:wrap;margin-top:4px}.pmb .pw{font-size:14px;line-height:1.55}.pmb .pn{font-size:12px;color:var(--mu);margin-top:12px;line-height:1.5}
+.cin .cr{padding:10px 0;border-top:1px solid var(--line)}.cin .cr:first-of-type{border-top:0}
+.cin .cn{display:flex;align-items:center;gap:8px;font-weight:700;font-size:15px}.cin .cn small{font-weight:600;font-size:11px;color:var(--mu);background:var(--s2);border-radius:999px;padding:2px 8px}
+.cin .cl{display:block;font-size:14px;line-height:1.45;margin:5px 0 0;color:var(--tx);text-decoration:none}.cin .cl:hover{text-decoration:underline}
+.cin .cl i{font-style:normal;font-size:11px;color:var(--mu);margin-left:6px}.cin .cf{font-size:12px;color:var(--mu);padding:10px 0 12px;line-height:1.5}
+.tgl{display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--o);color:var(--tx)!important;font:700 13px var(--ui);padding:7px 14px;border-radius:99px;text-decoration:none;white-space:nowrap}.tgl:hover{background:rgba(253,160,67,.14)}.pmb .tgrow{margin-top:12px}
+.plan label{display:block;font-size:12px;font-weight:600;color:var(--mu);margin:12px 0 4px}.plan input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--tx);font:14px var(--ui)}.plan .pst{font-size:12px;color:var(--o);font-weight:700;margin-top:12px}.plan{padding-bottom:6px}
 </style>
 </head>
 <body>
@@ -354,6 +369,8 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
       <h2 class="k" style="margin-top:22px">Lead story</h2>
       <div id="lead"></div>
       <div id="five"></div>
+      <div id="cin"></div>
+      <div id="plan"></div>
       <details class="calbox" id="rtd" open><summary>FF Routine <small>Education prompts for this phase</small></summary><section class="rt" id="rt"></section></details>
       <details class="calbox" open><summary>Cross-asset view <small>Crude, gold, rates, dollar, crypto, world</small></summary><div class="xm" id="xmo"></div><div class="learn" id="learn"></div></details>
       <details class="calbox" open><summary>Events calendar <small>Shown in your local time</small></summary><div id="calw"></div></details>
@@ -367,6 +384,7 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
       <div class="box"><h2 class="k">Headlines by theme</h2><div class="bars" id="bars"></div></div>
       <div class="box terms"><h2 class="k">Terms in today's news</h2><dl id="terms"></dl></div>
       <div class="box cbox"><h2 class="k">Read the news, then read the chart</h2><h3>See what the market structure is saying</h3><p>FF Setup is the Financial Frontline indicator for TradingView that helps you read market structure on your charts. Education only. No advice, no signals.</p><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=page" target="_blank" rel="noopener">Get FF Setup</a></div>
+      <div class="box"><h2 class="k">Daily brief on Telegram</h2><p>Every trading day at 8:00 AM, the link to the pre-market brief is shared on the Financial Frontline Telegram channel. Free. Education only.</p><a class="tgl" href="https://t.me/frontlinefinancial" target="_blank" rel="noopener">Join the channel &#8599;</a></div>
       <div class="box"><h2 class="k">What is an FF Thought?</h2><p>A short, general explanation of how this kind of news can reach markets. It teaches how to read the information. It is never a view on direction and never a recommendation.</p></div>
       <div class="box"><h2 class="k">Sources</h2><div class="srcs" id="srcs"></div><p style="margin-top:10px" id="upd"></p></div>
     </aside>
@@ -400,7 +418,8 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
         <ul class="fl2">
           <li><a href="mailto:2rutrader@gmail.com">2rutrader@gmail.com</a></li>
           <li><a href="tel:+919953393883">+91 99533 93883</a></li>
-          <li><a href="https://t.me/bindramayank" target="_blank" rel="noopener">Telegram</a></li>
+          <li><a href="https://t.me/frontlinefinancial" target="_blank" rel="noopener">Telegram channel</a></li>
+          <li><a href="https://t.me/bindramayank" target="_blank" rel="noopener">Telegram (chat)</a></li>
         </ul>
       </div>
     </div>
@@ -504,24 +523,47 @@ function renderHero(ms,cur,now){
  s+=`<circle cx="${M[0].toFixed(1)}" cy="${M[1].toFixed(1)}" r="15" fill="#FDA043" filter="url(#gl)" opacity=".85"/><circle cx="${M[0].toFixed(1)}" cy="${M[1].toFixed(1)}" r="8.5" fill="#fff" stroke="#E8720C" stroke-width="4.5">${rm?'':'<animate attributeName="r" values="8.5;10.5;8.5" dur="2.4s" repeatCount="indefinite"/>'}</circle>`;
  s+=`<text x="150" y="146" text-anchor="middle" class="dtime">${p.h}:${p.m}</text><text x="150" y="167" text-anchor="middle" class="dsub">IST &middot; ${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'short',day:'numeric',month:'short'})}</text><text x="150" y="188" text-anchor="middle" class="dst ${ms.open?'o':''}">${ms.open?'MARKET OPEN':'MARKET CLOSED'}</text>`;
  $('dial').innerHTML=s}
+function topCompanies(all){const cut=Date.now()-24*3600e3,m={};
+ all.forEach(n=>{if(n.companies&&Date.parse(n.published)>cut)n.companies.forEach(c=>{(m[c]=m[c]||[]).push(n)})});
+ return Object.keys(m).sort((a,b)=>m[b].length-m[a].length||Date.parse(m[b][0].published)-Date.parse(m[a][0].published)).map(c=>[c,m[c]])}
 function renderPMB(ms,now,all,day){const el=$('pmb');if(!el)return;
  const wd=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Kolkata',weekday:'short'}).format(now),m=ms.p.min,on=wd!=='Sat'&&wd!=='Sun'&&m>=300&&m<=570;
  if(!on){el.innerHTML='';return}
- const cut=Date.now()-16*3600e3,ind=all.filter(n=>n.category==='India'&&Date.parse(n.published)>cut).slice(0,4),rows=ind.length?ind:all.slice(0,3),cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
+ const cut=Date.now()-16*3600e3,fresh=all.filter(n=>Date.parse(n.published)>cut),
+  ind=fresh.filter(n=>n.category==='India').slice(0,5),glo=fresh.filter(n=>n.category==='Global').slice(0,3),
+  cos=topCompanies(all).slice(0,6),cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
+ const row=n=>`<div class="pr"><div class="hd">${esc(n.title)}</div><div class="row2"><span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a></div></div>`;
  el.innerHTML=`<section class="pmb"><div class="ph"><b>Pre-Market Brief</b><span>${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'long',day:'2-digit',month:'short'})} · before the 9:15 open · education only</span></div>
-<h3>${ind.length?'Overnight India headlines':'Latest headlines'}</h3>${rows.length?rows.map(n=>`<div class="pr"><div class="hd">${esc(n.title)}</div><div class="row2"><span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a></div></div>`).join(''):'<div class="pw">No fresh headlines yet. This page checks again about every 30 minutes.</div>'}
-<h3>Global cues</h3><div class="pw">The strip at the top and the Cross-asset view show crude, gold, the dollar, US yields, rupee and world indices.</div><div class="pl"><a class="go" href="#" data-open="xmo">Open Cross-asset view &#8595;</a></div>
+<h3>India overnight</h3>${ind.length?ind.map(row).join(''):'<div class="pw">No fresh Indian headlines in the last 16 hours yet. This page checks again about every 30 minutes.</div>'}
+<h3>Global cues</h3>${glo.length?glo.map(row).join(''):''}<div class="pw">The strip at the top and the Cross-asset view show crude, gold, the dollar, US yields, rupee and world indices.</div><div class="pl"><a class="go" href="#" data-open="xmo">Open Cross-asset view &#8595;</a></div>
+${cos.length?`<h3>Stocks in the news</h3><div class="pw">${cos.map(c=>esc(c[0])).join(' · ')}</div><div class="pl"><a class="go" href="#" data-open="cin">See the headlines &#8595;</a></div>`:''}
 <h3>Scheduled today</h3><div class="pw">Check the time of each release before the open.</div><div class="pl"><a class="go" href="#" data-open="calw">Open events calendar &#8595;</a></div>
 ${cod?`<h3>Concept of the day</h3><div class="pw"><b>${esc(cod.topic)}</b>. ${esc(cod.text)}</div>`:''}
-<h3>Before the open</h3><div class="pw">Write your plan and your risk limits. The FF Routine below has the full list.</div>
-<p class="pn">Exchange prices, including GIFT Nifty, are not shown on this page because exchange data needs a paid licence. Please check your broker or the exchange website. Information is for education only and is not advice.</p></section>`;
+<h3>Before the open</h3><div class="pw">Write your plan and your risk limits in the plan box below. The FF Routine has the full list.</div>
+<p class="pn">Exchange prices, including GIFT Nifty, are not shown on this page because exchange data needs a paid licence. Please check your broker or the exchange website. Information is for education only and is not advice.</p><div class="tgrow"><a class="tgl" href="https://t.me/frontlinefinancial" target="_blank" rel="noopener">Get the daily brief on Telegram &#8599;</a></div></section>`;
  el.querySelectorAll('[data-open]').forEach(a=>a.onclick=e=>{e.preventDefault();const t=$(a.dataset.open),d=t&&t.closest('details');if(d)d.open=true;if(t)t.scrollIntoView({behavior:'smooth',block:'start'})})}
+function renderCompanies(all){const el=$('cin');if(!el)return;
+ const list=topCompanies(all).slice(0,8);
+ if(!list.length){el.innerHTML=`<section class="five cin"><div class="fh"><b>Stocks in the news</b><span>Company mentions, last 24 hours</span></div><p class="cf">No company mentions found in the last 24 hours yet. This list fills as the day's headlines arrive.</p></section>`;return}
+ el.innerHTML=`<section class="five cin"><div class="fh"><b>Stocks in the news</b><span>Company mentions in India headlines, last 24 hours</span></div>`+list.map(([c,its])=>`<div class="cr"><div class="cn">${esc(c)}<small>${its.length} ${its.length===1?'headline':'headlines'}</small></div>${its.slice(0,2).map(n=>`<a class="cl" href="${safe(n.link)}" target="_blank" rel="noopener">${esc(n.title)}<i>${srcLabel(n)} &#8599;</i></a>`).join('')}</div>`).join('')+`<p class="cf">News mentions only. This is not a view on any company or its shares, and it is not a list of stocks to buy or watch. Headlines report events that have already happened.</p></section>`}
+function initPlan(){const el=$('plan');if(!el||el.dataset.on)return;el.dataset.on='1';
+ let st={};try{st=JSON.parse(localStorage.getItem('ffplan')||'{}')}catch(e){}
+ const day=tday(new Date()),cur=st[day]||{};
+ el.innerHTML=`<section class="five plan"><div class="fh"><b>My plan for today</b><span>Private. Saved on this device only.</span></div>
+<label for="pl1">Maximum loss I will accept today</label><input id="pl1" maxlength="120" placeholder="For example: 1% of my capital" value="${esc(cur.a||'')}">
+<label for="pl2">What I will follow today</label><input id="pl2" maxlength="120" placeholder="For example: only my own written setups" value="${esc(cur.b||'')}">
+<label for="pl3">One rule I will not break</label><input id="pl3" maxlength="120" placeholder="For example: no revenge trades" value="${esc(cur.c||'')}">
+<div class="pst" id="plst"></div><p class="cf">A discipline tool for your own routine. It gives no advice and no signals.</p></section>`;
+ const streak=()=>{let n=0,d=new Date(day+'T00:00:00Z');for(let i=0;i<60;i++){const k=d.toISOString().slice(0,10),w=d.getUTCDay();if(w!==0&&w!==6){const e=st[k];if(e&&(e.a||e.b||e.c))n++;else if(k!==day)break}d=new Date(d.getTime()-864e5)}
+  $('plst').textContent=n?`Plan streak: ${n} trading ${n===1?'day':'days'}`:'Fill in your plan to start a streak.'};
+ const save=()=>{st[day]={a:$('pl1').value,b:$('pl2').value,c:$('pl3').value};try{localStorage.setItem('ffplan',JSON.stringify(st))}catch(e){}streak()};
+ ['pl1','pl2','pl3'].forEach(i=>$(i).addEventListener('input',save));streak()}
 function render(){
  const now=new Date(),ms=marketState(now),p=ms.p,cur=phaseOf(p.min),day=tday(now);
  $('clk').textContent=`${p.h}:${p.m} IST`;$('dt').textContent=now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'short',day:'2-digit',month:'short'});
  renderHero(ms,cur,now);
  $('dock').className="dock"+(ms.open?"":" closed")+($('dock').classList.contains('on')?" on":"");$('dk1').textContent=(ms.open?"Market open":"Market closed")+" · "+cur.n;$('dk2').textContent=ms.txt;
- const all=base(),counts={};renderPMB(ms,now,all,day);all.forEach(n=>{const k=phaseOf(q1(n).min).k;counts[k]=(counts[k]||0)+1});
+ const all=base(),counts={};renderPMB(ms,now,all,day);renderCompanies(all);initPlan();all.forEach(n=>{const k=phaseOf(q1(n).min).k;counts[k]=(counts[k]||0)+1});
  $('arc').innerHTML=PH.map(s=>`<button class="seg ${s.k===cur.k?'cur':''} ${sel===s.k?'sel':''}" data-k="${s.k}"><span class="n">${counts[s.k]||0}</span><b class="fl">${s.n}</b><span class="sh">${s.s}</span><span class="tt">${s.t}</span></button>`).join('')+`<div class="mark" style="left:calc(${markPos(p.min)}% - 1px)"></div>`;
  $('all').hidden=!sel;
  renderRoutine(sel||cur.k,day);
@@ -548,8 +590,8 @@ function render(){
   $('lead').innerHTML=filt||!cod?'<div class="lead"><div class="empty">No headlines match this view. Try another phase, topic or search.</div></div>':`<article class="lead concept"><div class="meta"><span class="chip src">CONCEPT OF THE DAY</span><span>Education only</span></div><h2>${esc(cod.topic)}</h2><p class="cp">${esc(cod.text)}</p><p class="cn">Today's lead story appears here as soon as an official source publishes. Official sources publish at irregular times, so this can take a while. This page checks for new headlines about every 30 minutes.</p></article>`;$('five').innerHTML=''}
  else{
   $('lead').innerHTML=`<article class="lead"><div class="meta">${flag(lead)}<span class="chip src">${srcLabel(lead)}</span><span class="chip">${esc(lead.category)}</span><span>${timeStr(lead)} IST</span></div><h2>${esc(lead.title)}</h2><a class="go" href="${safe(lead.link)}" target="_blank" rel="noopener">Read at ${esc(lead.source)} &#8599;</a>${thoughtBox(lead)}</article>`;
-  const rest=L.filter(n=>n!==lead),ind=rest.filter(n=>n.category==='India').slice(0,3),five=ind.concat(rest.filter(n=>!ind.includes(n))).slice(0,5).sort((a,b)=>Date.parse(b.published)-Date.parse(a.published));
-  $('five').innerHTML=five.length?`<section class="five"><div class="fh"><b>FF Five</b><span>The next five things to know</span></div>`+five.map((n,i)=>`<div class="f1 it" data-i="${i}"><div class="nm">${i+1}</div><div><div class="hd">${esc(n.title)}</div><div class="row2">${flag(n)}<span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a>${tbtn(n)}</div>${thoughtBox(n)}</div></div>`).join('')+`</section>`:'';
+  const pool=L.filter(n=>n!==lead),near=pool.filter(n=>Date.now()-Date.parse(n.published)<36*3600e3).sort((a,b)=>rank(a)-rank(b)||Date.parse(b.published)-Date.parse(a.published)),five=near.slice(0,5);if(five.length<5)pool.filter(n=>!five.includes(n)).slice(0,5-five.length).forEach(n=>five.push(n));
+  $('five').innerHTML=five.length?`<section class="five"><div class="fh"><b>FF Five</b><span>What matters most for Indian traders now</span></div>`+five.map((n,i)=>`<div class="f1 it" data-i="${i}"><div class="nm">${i+1}</div><div><div class="hd">${esc(n.title)}</div><div class="row2">${flag(n)}<span class="chip src">${srcLabel(n)}</span><span class="chip">${n.category==='India'?'India':'Global'}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a>${tbtn(n)}</div>${thoughtBox(n)}</div></div>`).join('')+`</section>`:'';
  }
  let html="",last="";
  L.forEach(n=>{const q=q1(n),ph=phaseOf(q.min),gd=tday(new Date(n.published)),key=gd+ph.k;
@@ -585,7 +627,7 @@ function mountTV(which){
 }
 async function load(){
  if(PREVIEW){DATA=DEMO.map(d=>({...d,published:new Date(Date.now()-d.ago*60000).toISOString()}));STATUS={fed:'ok',ecb:'ok',pib:'ok'};UPDATED=new Date().toISOString();render();return}
- try{const r=await fetch('news.json?'+Date.now());const j=await r.json();DATA=j.items||[];STATUS=j.feed_status||{};UPDATED=j.updated}catch(e){DATA=[]}
+ try{const r=await fetch('https://2rutrader-ctrl.github.io/ffmarketbeat/news.json?'+Date.now());const j=await r.json();DATA=j.items||[];STATUS=j.feed_status||{};UPDATED=j.updated}catch(e){DATA=[]}
  render()}
 document.addEventListener('click',e=>{
  const s=e.target.closest('.seg,.dp');if(s){sel=sel===s.dataset.k?null:s.dataset.k;render();return}
@@ -609,5 +651,6 @@ if(INDEX.length){$('idxb').hidden=false;$('idx').firstElementChild.innerHTML=`<b
  if(PREVIEW){mountTV();}else{mountTV('tkw');['xmo','calw'].forEach(id=>{const d=$(id).closest('details'),go=()=>{if(!MNT[id]){MNT[id]=1;mountTV(id)}};if(d.open)go();else d.addEventListener('toggle',()=>{if(d.open)go()})})}})();
 load();setInterval(render,60000);if(!PREVIEW)setInterval(load,600000);
 </script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3fb35df6628f47f8901866a8ccee1617"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
