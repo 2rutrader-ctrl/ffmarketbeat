@@ -1,12 +1,50 @@
 {
- "updated": "2026-11-03T12:31:13.369923+00:00",
+ "updated": "2026-11-03T12:45:51.328085+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 59 new items (12 files read)"
+  "gdelt": "ok, 63 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SC notices to Centre, Assam on Oil India plea on rejection of drilling proposal at national park",
+   "link": "https://www.moneycontrol.com/news/india/sc-notices-to-centre-assam-on-oil-india-plea-on-rejection-of-drilling-proposal-at-national-park-14067896.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:45:00+00:00"
+  },
+  {
+   "title": "Tata Motors plans local assembly of Iveco vehicles, eyes global expansion",
+   "link": "https://www.business-standard.com/industry/auto/tamo-iveco-to-create-world-s-4th-largest-cv-group-with-2-28-trn-revenue-126110301401_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:45:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "2nd time in a week! Oil patches spotted in Singapore, what is happening in its Southern Waters? Know here",
+   "link": "https://www.moneycontrol.com/science/2nd-time-in-a-week-oil-patches-spotted-in-singapore-what-is-happening-in-its-southern-waters-know-here-article-14067889.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T12:45:00+00:00"
+  },
+  {
+   "title": "IndiGo CEO seeks lower Mumbai airport charges after Terminal 1 revamp",
+   "link": "https://www.business-standard.com/industry/aviation/indigo-ceo-seeks-lower-mumbai-airport-charges-after-terminal-1-revamp-126110301439_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T12:45:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
   {
    "title": "Tamil Nadu's economic performance cannot be assessed merely by gross GST revenue: Commercial Taxes Minister",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-economic-performance-cannot-be-assessed-merely-by-gross-gst-revenue-commercial-taxes-minister/article71660464.ece",
@@ -3229,43 +3267,6 @@
     "short": "ECB",
     "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
    }
-  },
-  {
-   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-26T05:00:00+00:00"
-  },
-  {
-   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-21T04:15:00+00:00",
-   "thought": {
-    "topic": "What banking liquidity changes",
-    "short": "Liquidity",
-    "text": "Liquidity measures change how much money is available in the banking system. This influences short-term interest rates and the ease with which banks can lend."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-10-13T18:00:00+00:00"
-  },
-  {
-   "title": "Waller, The Signaling Value of the Summary of Economic Projections",
-   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-10-08T08:30:00+00:00"
   }
  ]
 }
