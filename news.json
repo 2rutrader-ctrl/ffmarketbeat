@@ -1,12 +1,112 @@
 {
- "updated": "2026-11-03T05:31:08.168283+00:00",
+ "updated": "2026-11-03T05:45:48.501680+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crude-sensitive stocks gain as oil stays below $105; HPCL, IndiGo lead",
+   "link": "https://www.business-standard.com/markets/news/crude-sensitive-stocks-gain-as-oil-stays-below-105-hpcl-indigo-rise-126110300400_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Anthropic says revenue surged 1100% ahead of IPO",
+   "link": "https://www.thehindu.com/sci-tech/technology/anthropic-says-revenue-surged-1100-ahead-of-ipo/article71659291.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:45:00+00:00"
+  },
+  {
+   "title": "Marico Share Price: Marico shares spurt 6% on robust Q2 earnings, positive revision in guidance",
+   "link": "https://www.business-standard.com/markets/news/marico-shares-spurt-6-on-robust-q2-earnings-positive-revision-in-guidance-126110300266_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Sebi issues detailed rules for depositary receipts on REIT, InvIT units",
+   "link": "https://www.business-standard.com/markets/news/sebi-issues-detailed-rules-for-depositary-receipts-on-reit-invit-units-126110201424_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Oracle raises $20 billion through stock and bond sales to fund AI push",
+   "link": "https://www.business-standard.com/world-news/oracle-raises-20-billion-through-stock-and-bond-sales-to-fund-ai-push-126110300303_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:30:00+00:00"
+  },
+  {
+   "title": "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
+   "link": "https://www.business-standard.com/markets/news/itc-up-1-after-weak-q2-analysts-see-gradual-recovery-in-cigarette-biz-126110300289_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:30:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "Puravankara Q2 results: Net profit at ₹84 cr, income rises to ₹1,051 cr",
+   "link": "https://www.business-standard.com/companies/quarterly-results/puravankara-q2-results-net-profit-at-84-cr-income-rises-to-1-051-cr-126110300319_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "BLS Polymers IPO investors gain 65% as shares make strong debut on bourses",
+   "link": "https://www.business-standard.com/markets/news/bls-polymers-ipo-investors-gain-65-as-shares-make-strong-debut-on-bourses-126110300366_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T05:30:00+00:00"
+  },
+  {
+   "title": "Rupee rises 12 paise to 94.72 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-rises-12-paise-to-94-72-against-us-dollar-during-early-trade-126110300299_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T05:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Gold, silver prices on November 3: Yellow metal drops to ₹1.39 lakh, silver at ₹1.80 lakh; check latest rates here",
    "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-3-yellow-metal-drops-to-rs1-39-lakh-silver-at-rs1-80-lakh-check-latest-rates-here-565286-2026-11-03",
