@@ -1,12 +1,81 @@
 {
- "updated": "2026-11-03T14:01:23.677205+00:00",
+ "updated": "2026-11-03T14:15:52.909088+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 46 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Caught taking ₹10,000 bribe: Former Bank of Baroda branch manager gets 4 year jail term",
+   "link": "https://www.businesstoday.in/industry/banks/story/caught-taking-rs10000-bribe-former-bank-of-baroda-branch-manager-gets-4-year-jail-term-565480-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:15:00+00:00",
+   "companies": [
+    "Bank of Baroda"
+   ]
+  },
+  {
+   "title": "Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs",
+   "link": "https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "NSE Q2 results: Net profit jumps 23% to ₹2,578 crore, trading volumes lift revenue",
+   "link": "https://www.businesstoday.in/markets/story/nse-q2-results-net-profit-jumps-23-to-rs2578-crore-trading-volumes-lift-revenue-565493-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SEBI imposes Rs 40 lakh penalty on four entities in Axis MF front-running case",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-imposes-rs-40-lakh-penalty-on-four-entities-in-axis-mf-front-running-case-14067973.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "TVS Motor unveils four global models, eyes 30% overseas revenue by 2030",
+   "link": "https://www.business-standard.com/companies/news/tvs-motor-unveils-four-global-models-eyes-30-overseas-revenue-by-2030-126110301628_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:15:00+00:00",
+   "companies": [
+    "TVS Motor"
+   ]
+  },
+  {
+   "title": "Pharma industry seeks clarity on CDSCO solvent order's export ambit",
+   "link": "https://www.business-standard.com/industry/news/pharma-industry-seeks-clarity-on-cdsco-solvent-order-s-export-ambit-126110301630_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T14:15:00+00:00"
+  },
   {
    "title": "Explore opportunities in digital economy, students told",
    "link": "https://www.thehindu.com/news/national/karnataka/explore-opportunities-in-digital-economy-students-told/article71645712.ece",
@@ -3215,62 +3284,6 @@
    "companies": [
     "IndiGo"
    ]
-  },
-  {
-   "title": "Marico Q2 net profit rises 29% to ₹558 cr on strong volume growth",
-   "link": "https://www.business-standard.com/companies/quarterly-results/marico-q2-net-profit-rises-29-to-558-cr-on-strong-volume-growth-126110201070_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Massive surge! Reliance Industries shares up 12% after Q2; add ₹2 lakh cr in mcap — when did RIL last rally this much?",
-   "link": "https://www.livemint.com/market/stock-market-news/massive-surge-reliance-industries-shares-up-12-after-q2-add-rs-2-lakh-cr-in-mcap-when-did-ril-last-rally-this-much-11793618055937.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:30:00+00:00"
-  },
-  {
-   "title": "Major Russian oil hub on fire after strike, NASA data show",
-   "link": "https://www.moneycontrol.com/world/major-russian-oil-hub-on-fire-after-strike-nasa-data-show-article-14066541.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T12:15:00+00:00"
-  },
-  {
-   "title": "IDBI Bank employees strike over Fairfax acquisition",
-   "link": "https://www.moneycontrol.com/news/business/idbi-bank-employees-strike-over-fairfax-acquisition-14066549.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:15:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Reliance's 12% Surge Signals Breakout. Can the Stock Scale a New Peak?",
-   "link": "https://www.moneycontrol.com/news/business/markets/reliance-s-12-surge-signals-breakout-can-the-stock-scale-a-new-peak-14066512.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:15:00+00:00"
-  },
-  {
-   "title": "Tata Sons engagement with RBI on listing not meaningful, says Tata Trusts trustee Darius Khambata",
-   "link": "https://www.moneycontrol.com/news/business/tata-sons-engagement-with-rbi-on-listing-not-meaningful-says-tata-trusts-trustee-darius-khambata-14066533.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:15:00+00:00"
   }
  ]
 }
