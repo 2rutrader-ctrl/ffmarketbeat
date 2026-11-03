@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-03T09:01:24.869620+00:00",
+ "updated": "2026-11-03T09:15:51.363902+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 62 new items (12 files read)"
+  "gdelt": "ok, 64 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
+   "link": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T09:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold, silver rate Chennai 3 Nov: Latest price movement, details for investors today ahead of Dhanteras, Diwali",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-silver-rate-chennai-3-november-latest-price-movement-details-investors-today-ahead-dhanteras-diwali-11793687578628.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T09:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
    "link": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece",
