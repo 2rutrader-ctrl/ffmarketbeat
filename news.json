@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-03T08:15:50.085446+00:00",
+ "updated": "2026-11-03T08:31:12.184716+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 58 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Internet says air-fried food is healthier than deep-fried snacks: But expert explains why using less oil does not automatically make it healthy",
+   "link": "https://www.hindustantimes.com/lifestyle/health/the-internet-says-air-fried-food-is-healthier-than-deep-fried-snacks-but-does-using-less-oil-make-it-healthy-expert-weighs-in-101793686658443.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T08:30:00+00:00"
+  },
   {
    "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
    "link": "https://www.business-standard.com/industry/aviation/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh-126110300569_1.html",
