@@ -1,12 +1,65 @@
 {
- "updated": "2026-11-03T17:01:26.299581+00:00",
+ "updated": "2026-11-03T17:15:55.045764+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 57 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Payments firm Razorpay gets SEBI nod for IPO, likely to list in Q4 of FY 27 at $5 billion",
+   "link": "https://www.moneycontrol.com/technology/payments-firm-razorpay-gets-sebi-nod-for-ipo-likely-to-list-in-q4-of-fy-27-at-5-billion-article-14068061.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T17:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "India aims for ₹3 lakh cr defence production, ₹50,000 cr exports by 2029: Rajnath Singh",
+   "link": "https://www.thehindubusinessline.com/news/india-aims-for-3-lakh-cr-defence-production-50000-cr-exports-by-2029-rajnath-singh/article71661469.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T17:15:00+00:00"
+  },
+  {
+   "title": "Silver crashes 18% to $48 in a month: Is the worst yet to come?",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/silver-crashes-18-just-above-48-in-a-month-is-the-worst-yet-to-come-14068055.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T17:15:00+00:00"
+  },
+  {
+   "title": "Oil prices slide about 2% to multi-week low amid peace talks",
+   "link": "https://www.moneycontrol.com/news/business/oil-prices-slide-about-2-to-multi-week-low-amid-peace-talks-14068056.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T17:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Rs 10.24-crore PNB fraud: CBI arrests bank employee, private individual in Greater Noida case",
+   "link": "https://www.moneycontrol.com/news/india/rs-10-24-crore-pnb-fraud-cbi-arrests-bank-employee-private-individual-in-greater-noida-case-14068053.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T17:15:00+00:00",
+   "companies": [
+    "Punjab National Bank"
+   ]
+  },
   {
    "title": "SBI eyes margin boost from rate hikes, but wary of consumption credit hit",
    "link": "https://www.livemint.com/industry/banking/sbi-earnings-margin-nim-credit-banking-11793707357031.html",
@@ -3197,62 +3250,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "TVS vs Bajaj Auto vs Ather vs Ola: Who is winning India's electric two-wheeler race? What latest October data reveals",
-   "link": "https://www.livemint.com/companies/news/tvs-vs-bajaj-auto-vs-ather-vs-ola-who-is-winning-indias-electric-two-wheeler-race-what-latest-october-data-reveals-11793631529421.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:00:00+00:00",
-   "companies": [
-    "Bajaj Auto"
-   ]
-  },
-  {
-   "title": "Dr Reddy's gets USFDA nod for generic twice-a-year HIV prevention shot",
-   "link": "https://www.moneycontrol.com/news/business/dr-reddy-s-gets-usfda-nod-for-generic-twice-a-year-hiv-prevention-shot-14066698.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:00:00+00:00",
-   "companies": [
-    "Dr Reddy's"
-   ]
-  },
-  {
-   "title": "US midterm elections: How the outcome could impact Wall Street, AI stocks and Treasury yields",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-midterm-elections-how-the-outcome-could-impact-wall-street-ai-stocks-and-treasury-yields-101793625802544.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T15:45:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "The Fed's plan for fewer policy meetings could bring more market whiplash",
-   "link": "https://www.livemint.com/global/the-fed-s-plan-for-fewer-policy-meetings-could-bring-more-market-whiplash-11793621598945.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T15:45:00+00:00"
-  },
-  {
-   "title": "Bond yields fall nearly 10 bps as crude slides, rupee gains against dollar",
-   "link": "https://www.business-standard.com/economy/news/bond-yields-fall-nearly-10-bps-as-crude-slides-rupee-gains-against-dollar-126110201369_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
