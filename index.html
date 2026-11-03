@@ -533,13 +533,13 @@ function renderPMB(ms,now,all,day){const el=$('pmb');if(!el)return;
   ind=fresh.filter(n=>n.category==='India').slice(0,5),glo=fresh.filter(n=>n.category==='Global'&&n.thought).slice(0,3),
   cos=topCompanies(all).slice(0,6),cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
  const row=n=>`<div class="pr"><div class="hd">${esc(n.title)}</div><div class="row2"><span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a></div></div>`;
- el.innerHTML=`<section class="pmb"><div class="ph"><b>Pre-Market Brief</b><span>${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'long',day:'2-digit',month:'short'})} · before the 9:15 open · education only</span></div>
+ el.innerHTML=`<section class="pmb"><div class="ph"><b>Pre-Market Brief</b><span>${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'long',day:'2-digit',month:'short'})} · morning brief · education only</span></div>
 <h3>India overnight</h3>${ind.length?ind.map(row).join(''):'<div class="pw">No fresh Indian headlines in the last 16 hours yet. This page checks again about every 30 minutes.</div>'}
 <h3>Global cues</h3>${glo.length?glo.map(row).join(''):''}<div class="pw">The strip at the top and the Cross-asset view show crude, gold, the dollar, US yields, rupee and world indices.</div><div class="pl"><a class="go" href="#" data-open="xmo">Open Cross-asset view &#8595;</a></div>
 ${cos.length?`<h3>Stocks in the news</h3><div class="pw">${cos.map(c=>esc(c[0])).join(' · ')}</div><div class="pl"><a class="go" href="#" data-open="cin">See the headlines &#8595;</a></div>`:''}
 <h3>Scheduled today</h3><div class="pw">Check the time of each release before the open.</div><div class="pl"><a class="go" href="#" data-open="calw">Open events calendar &#8595;</a></div>
 ${cod?`<h3>Concept of the day</h3><div class="pw"><b>${esc(cod.topic)}</b>. ${esc(cod.text)}</div>`:''}
-<h3>Before the open</h3><div class="pw">Write your plan and your risk limits in the plan box below. The FF Routine has the full list.</div>
+<h3>Your plan</h3><div class="pw">Write your plan and your risk limits in the plan box below. The FF Routine has the full list.</div>
 <p class="pn">Exchange prices, including GIFT Nifty, are not shown on this page because exchange data needs a paid licence. Please check your broker or the exchange website. Information is for education only and is not advice.</p><div class="tgrow"><a class="tgl" href="https://t.me/frontlinefinancial" target="_blank" rel="noopener">Get the daily brief on Telegram &#8599;</a></div></section>`;
  el.querySelectorAll('[data-open]').forEach(a=>a.onclick=e=>{e.preventDefault();const t=$(a.dataset.open),d=t&&t.closest('details');if(d)d.open=true;if(t)t.scrollIntoView({behavior:'smooth',block:'start'})})}
 function renderCompanies(all){const el=$('cin');if(!el)return;
