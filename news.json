@@ -1,12 +1,153 @@
 {
- "updated": "2026-11-03T09:31:16.729963+00:00",
+ "updated": "2026-11-03T09:45:53.253740+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 61 new items (12 files read)"
+  "gdelt": "ok, 54 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Marico shares climb 8% as Q2 results beat estimates on strong demand",
+   "link": "https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India seeks US LNG through Qatar under 20-year supply deal as Iran war disrupts imports",
+   "link": "https://www.moneycontrol.com/news/business/india-seeks-us-lng-through-qatar-under-20-year-supply-deal-as-iran-war-disrupts-imports-14067657.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Jeffrey Sachs sees India becoming world's largest economy by 2100 as global power shifts to Asia",
+   "link": "https://www.moneycontrol.com/news/business/economy/jeffrey-sachs-sees-india-becoming-world-s-largest-economy-by-2100-as-global-power-shifts-to-asia-watch-14067548.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "Diwali 2026 Muhurat Trading Samvat 2083 stocks with up to 35% gain: HDFC AMC, SBI, Tech Mahindra, 3 more by Anand Rathi",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-samvat-2083-stocks-with-up-to-35-gain-hdfc-amc-sbi-tech-mahindra-3-more-by-anand-rathi-11793691071592.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "Nouriel Roubini: Public debt is rising the world over—can bond vigilantes save the day?",
+   "link": "https://www.livemint.com/opinion/online-views/nouriel-roubini-public-debt-is-rising-can-bond-vigilantes-save-the-day-11793634019222.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "Why ITC should focus its energies on the non-cigarettes FMCG business",
+   "link": "https://www.moneycontrol.com/news/opinion/why-itc-should-focus-its-energies-on-the-non-cigarettes-fmcg-business-14067459.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "Ukrainian drones hit Russian oil refinery, injure two; Moscow claims 856 drones downed overnight",
+   "link": "https://www.moneycontrol.com/world/ukrainian-drones-hit-russian-oil-refinery-injure-two-moscow-claims-856-drones-downed-overnight-article-14067565.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "Rajesh Power Q2 net profit jumps 35% to over Rs 79 crore",
+   "link": "https://www.moneycontrol.com/news/business/earnings/rajesh-power-q2-net-profit-jumps-35-to-over-rs-79-crore-14067486.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Mutual fund switching may become tax-free: Experts explain SEBI proposal and what could change in capital gains tax rule",
+   "link": "https://www.livemint.com/money/personal-finance/mutual-fund-switching-may-become-tax-free-experts-explain-sebi-proposal-and-what-could-change-in-capital-gains-tax-rule-11793693420168.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "SBI posts quarterly profit rise on loan growth, stake sale",
+   "link": "https://www.livemint.com/companies/sbi-posts-quarterly-profit-rise-on-loan-growth-stake-sale-11793695654257.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Bajaj Finserv Q2 results: Net profit rises 23% to Rs 2,758 crore; NII grows 24%, AUM up 26%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/bajaj-finserv-q2-results-net-profit-rises-23-to-rs-2-757-crore-aum-grows-26-14067489.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "companies": [
+    "Bajaj Finserv"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Murikenchery tipped to lead Navi Mumbai airport as Adani braces for Mumbai traffic shift",
+   "link": "https://www.livemint.com/companies/news/navi-mumbai-airport-new-chief-subhash-murikenchery-leadership-change-11793676847975.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T09:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
    "link": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
