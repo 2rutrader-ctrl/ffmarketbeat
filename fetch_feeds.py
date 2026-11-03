@@ -156,6 +156,8 @@ NOT_MARKET = (
     r"\b(fd|fds|fixed deposits?|savings accounts?|credit cards?|debit cards?|home loans?|personal loans?|"
     r"car loans?|emi|horoscope|petrol|diesel|lpg|aadhaar|pan card|itr|sip|nps|ppf)\b|"
     r"check details|check full list|rate today|price today|rates today|everything you need to know|"
+    r"^indian (shares|stocks|equities|markets?)\b|\b(set|likely|poised|seen|expected|tipped|slated|on track) to (extend|open|rise|fall|gain|climb|slip|decline|snap|end|jump|drop|log|post)\b|"
+    r"\bextend(s|ed|ing)? (advance|gains?|rally|losses|decline|fall|slide|winning streak)\b|\bwinning streak\b|\b(sell-?off|bull run|bear)\b|"
     r"gift nifty|\bnifty (up|down|ends?|closes?|gains?|falls?)|\bsensex (up|down|ends?|closes?|jumps?|surges?|falls?|tanks?)|"
     r"\b[0-9][0-9,.]*\s?(pts|points)\b|\bstocks? (in focus|to watch)\b|\btop stocks\b|"
     r"\b(police|smuggl\w*|arrested?|seized|theft|robbery|murder|accident|stabbed|kidnap\w*|molest\w*|bail)\b|"
