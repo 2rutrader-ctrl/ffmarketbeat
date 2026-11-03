@@ -1,12 +1,55 @@
 {
- "updated": "2026-11-03T16:15:54.299978+00:00",
+ "updated": "2026-11-03T16:31:10.703644+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 58 new items (12 files read)"
+  "gdelt": "ok, 57 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sound underwriting, risk pricing key to sustainable growth: RBI Deputy Guv",
+   "link": "https://www.business-standard.com/finance/news/sound-underwriting-risk-pricing-key-to-sustainable-growth-rbi-deputy-guv-126110301831_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T16:30:00+00:00"
+  },
+  {
+   "title": "ITC's cigarette business likely to remain under pressure in H2FY27",
+   "link": "https://www.business-standard.com/markets/news/itc-s-cigarette-business-likely-to-remain-under-pressure-in-h2fy27-126110301766_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T16:30:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "CCI clears Kotak Bank's acquisition of Deutsche Bank India retail business",
+   "link": "https://www.business-standard.com/companies/news/cci-clears-kotak-bank-s-acquisition-of-deutsche-bank-india-retail-business-126110301856_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T16:30:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "Metropolis Q2 net profit jumps 43% to Rs 75.5 crore as specialty, wellness tests power growth",
+   "link": "https://www.moneycontrol.com/news/business/earnings/metropolis-q2-net-profit-jumps-43-to-rs-75-5-crore-as-specialty-wellness-tests-power-growth-14068039.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T16:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Hero MotoCorp's VIDA begins European operations, starts deliveries in 10 countries",
    "link": "https://www.businesstoday.in/auto/story/hero-motocorps-vida-begins-european-operations-starts-deliveries-in-10-countries-565514-2026-11-03",
@@ -3212,46 +3255,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Anthropic revenue hits nearly $17 billion before blockbuster IPO",
-   "link": "https://www.moneycontrol.com/news/business/companies/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo-14066697.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T15:30:00+00:00"
-  },
-  {
-   "title": "SEBI allows REITs, InvITs to issue depository receipts on GIFT City exchanges; sets 75 percent approval norm",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-allows-reits-invits-to-issue-depository-receipts-on-gift-city-exchanges-sets-75-percent-approval-norm-14066645.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Oil drops 6% as Iran signals openness to peace talks",
-   "link": "https://www.moneycontrol.com/news/business/markets/oil-drops-6-as-iran-signals-openness-to-peace-talks-14066683.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T15:15:00+00:00"
-  },
-  {
-   "title": "Par panel raises concerns over high airfares; IndiGo, Air India flag rising fuel costs, Pak airspace closure",
-   "link": "https://www.moneycontrol.com/news/india/par-panel-raises-concerns-over-high-airfares-indigo-air-india-flag-rising-fuel-costs-pak-airspace-closure-14066686.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T15:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   }
  ]
 }
