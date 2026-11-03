@@ -1,12 +1,59 @@
 {
- "updated": "2026-11-03T13:01:21.828115+00:00",
+ "updated": "2026-11-03T13:15:50.244991+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 65 new items (12 files read)"
+  "gdelt": "ok, 67 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold jewellery gets costlier this Diwali: Hallmarking charges jump 67% — what buyers must know",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-jewellery-gets-costlier-this-diwali-hallmarking-charges-jump-67-what-buyers-must-know-565443-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dhanteras 2026: PhonePe announces 2% cashback on 24k gold, here's how to avail it",
+   "link": "https://www.businesstoday.in/latest/corporate/story/dhanteras-2026-phonepe-announces-2-cashback-on-24k-gold-heres-how-to-avail-it-565474-2026-11-03",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Maxwell Engineering Solutions IPO attracts 491x subscription; GMP jumps to 50%",
+   "link": "https://www.moneycontrol.com/news/business/ipo/maxwell-engineering-solutions-ipo-attracts-491x-subscription-gmp-jumps-to-50-14067915.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T13:15:00+00:00"
+  },
+  {
+   "title": "ESDS Software shares snap 5-session fall to hit 5% upper circuit on strong Q2 earnings",
+   "link": "https://www.moneycontrol.com/news/business/markets/esds-software-shares-snap-5-session-fall-to-hit-5-upper-circuit-on-strong-q2-earnings-14067937.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
    "link": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
@@ -3213,54 +3260,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T11:15:00+00:00"
-  },
-  {
-   "title": "Recovery in retail growth, margins key triggers for Reliance Industries",
-   "link": "https://www.business-standard.com/companies/news/reliance-industries-q2fy27-o2c-retail-growth-margins-stock-outlook-126110200648_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "L&T bags 'significant' orders for residential, commercial projects",
-   "link": "https://www.business-standard.com/companies/news/l-t-bags-significant-orders-for-residential-commercial-projects-126110200755_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T11:15:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-30T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-   "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-29T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
   }
  ]
 }
