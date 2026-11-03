@@ -1,12 +1,76 @@
 {
- "updated": "2026-11-03T04:01:23.153237+00:00",
+ "updated": "2026-11-03T04:15:50.653603+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI amends EDF rules for service exporters, freelancers under FEMA: ₹10 lakh threshold, relief for resident individuals",
+   "link": "https://www.livemint.com/money/personal-finance/rbi-amends-edf-rules-for-service-exporters-freelancers-under-fema-10-lakh-threshold-relief-for-resident-individuals-11793665732487.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T04:15:00+00:00"
+  },
+  {
+   "title": "Foreign funds get picky, IPO anchor share hits five-year low",
+   "link": "https://www.livemint.com/market/foreign-funds-fpi-ipo-anchor-share-five-year-low-equity-market-dii-11793599026286.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T04:15:00+00:00"
+  },
+  {
+   "title": "Coal India dividend 2026: Record date tomorrow | Know dividend payout amount, yield, history, stock returns",
+   "link": "https://www.livemint.com/market/stock-market-news/coal-india-dividend-2026-record-date-tomorrow-know-dividend-payout-amount-yield-history-stock-returns-11793672121109.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T04:15:00+00:00",
+   "companies": [
+    "Coal India"
+   ]
+  },
+  {
+   "title": "US strikes Iran's Qeshm Island, oil prices rise as fears of renewed conflict and disruptions mount",
+   "link": "https://www.livemint.com/news/world/us-strikes-irans-qeshm-island-oil-prices-rise-as-fears-of-renewed-conflict-and-strait-of-hormuz-supply-disruptions-mou-11793669761803.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T04:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Indian shares set to extend advance on softer oil, steady earnings",
+   "link": "https://www.livemint.com/market/stock-market-news/indian-shares-set-to-extend-advance-on-softer-oil-steady-earnings-11793674161810.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T04:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Can India abolish LTGC tax? SBI Research says Centre has 'fiscal headroom' to absorb loss, suggests alternatives",
+   "link": "https://www.livemint.com/economy/can-india-abolish-ltgc-tax-sbi-research-say-centre-fiscal-headroom-absorb-50000-cr-loss-alternatives-high-exemptions-stt-11793673980549.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T04:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "Pakistan's economic rebound masks deeper problems despite market rally",
    "link": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
