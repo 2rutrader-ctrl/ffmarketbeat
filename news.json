@@ -1,12 +1,146 @@
 {
- "updated": "2026-11-03T10:31:11.253032+00:00",
+ "updated": "2026-11-03T10:45:53.317942+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 46 new items (12 files read)"
+  "gdelt": "ok, 59 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SBI Q2 net profit jumps 14% to ₹23,038 cr - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sbi-reports-14-increase-in-q2fy27-standalone-net-profit-at-23038-cr/article71660139.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "ITC shares gain modestly after Q2 results; analysts split on outlook",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/itc-gains-modestly-after-q2-results-analysts-split-on-outlook/article71659830.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India has never allowed import of GM products, will not do so in future: Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/india-has-never-allowed-import-of-gm-products-will-not-do-so-in-future-goyal/article71660018.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "Banks overtake NBFCs in gold loans outstanding - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/data-stories/data-focus/banks-overtake-nbfcs-in-gold-loans-outstanding/article71657131.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Coonoor Auction: Tea prices rise on blenders support, export demand",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/coonoor-auction-tea-prices-rise-on-blenders-support-export-demand/article71660273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "Asian Paints surges 2.7% as investors rush ahead of dividend ex-date",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/asian-paints-surges-27-as-investors-rush-ahead-of-dividend-ex-date/article71659864.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "RBI eases services export reporting compliance for individual exporters, issues notification",
+   "link": "https://www.thehindubusinessline.com/economy/rbi-eases-services-export-reporting-compliance-for-individual-exporters-issues-notification/article71659940.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "India's tax hike drives illegal gold imports to 3-year high",
+   "link": "https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold demand down 30% in September quarter as high prices hurt jewellery sales",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-demand-down-30-in-september-quarter-as-high-prices-hurt-jewellery-sales/article71660046.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India aiming to achieve ₹3 lakh crore defence production, ₹50K crore defence exports by 2029: Rajnath",
+   "link": "https://www.thehindubusinessline.com/news/india-aiming-to-achieve-3-lakh-crore-defence-production-50k-crore-defence-exports-by-2029-rajnath/article71660290.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "India will make tunnel boring machines at home if China restricts exports: Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/india-will-make-tunnel-boring-machines-at-home-if-china-restricts-exports-goyal/article71659787.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "Nifty tops 23,600 at midday as Banks, Telecom lead broad rally",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-tops-23600-at-midday-as-banks-telecom-lead-broad-rally/article71659941.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "AI driven productivity could expand India's GDP: Cognizant",
+   "link": "https://www.thehindubusinessline.com/info-tech/ai-driven-productivity-could-expand-indias-gdp-cognizant/article71659820.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T10:45:00+00:00",
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
   {
    "title": "RBI raises Floating Rate Bond rate to 7.26%: How much more will you earn",
    "link": "https://www.business-standard.com/finance/personal-finance/rbi-raises-floating-rate-bond-rate-to-7-26-how-much-more-will-you-earn-126110300818_1.html",
