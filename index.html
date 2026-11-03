@@ -530,7 +530,7 @@ function renderPMB(ms,now,all,day){const el=$('pmb');if(!el)return;
  const wd=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Kolkata',weekday:'short'}).format(now),m=ms.p.min,on=wd!=='Sat'&&wd!=='Sun'&&m>=300&&m<=570;
  if(!on){el.innerHTML='';return}
  const cut=Date.now()-16*3600e3,fresh=all.filter(n=>Date.parse(n.published)>cut),
-  ind=fresh.filter(n=>n.category==='India').slice(0,5),glo=fresh.filter(n=>n.category==='Global').slice(0,3),
+  ind=fresh.filter(n=>n.category==='India').slice(0,5),glo=fresh.filter(n=>n.category==='Global'&&n.thought).slice(0,3),
   cos=topCompanies(all).slice(0,6),cod=TH.length?TH[Math.floor(Date.parse(day+'T00:00:00Z')/864e5)%TH.length]:null;
  const row=n=>`<div class="pr"><div class="hd">${esc(n.title)}</div><div class="row2"><span class="chip src">${srcLabel(n)}</span><span>${timeStr(n)} IST</span><a class="go" href="${safe(n.link)}" target="_blank" rel="noopener">Source &#8599;</a></div></div>`;
  el.innerHTML=`<section class="pmb"><div class="ph"><b>Pre-Market Brief</b><span>${now.toLocaleDateString('en-GB',{timeZone:'Asia/Kolkata',weekday:'long',day:'2-digit',month:'short'})} · before the 9:15 open · education only</span></div>

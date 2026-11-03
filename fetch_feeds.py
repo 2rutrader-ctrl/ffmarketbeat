@@ -156,6 +156,7 @@ NOT_MARKET = (
     r"\b(fd|fds|fixed deposits?|savings accounts?|credit cards?|debit cards?|home loans?|personal loans?|"
     r"car loans?|emi|horoscope|petrol|diesel|lpg|aadhaar|pan card|itr|sip|nps|ppf)\b|"
     r"check details|check full list|rate today|price today|rates today|everything you need to know|"
+    r"\b(police|smuggl\w*|arrested?|seized|theft|robbery|murder|accident|stabbed|kidnap\w*|molest\w*|bail)\b|"
     r"\blive( updates| blog)?\b|stock market today|sensex today|nifty today|market today|"
     r"gap[- ]?(up|down)|(strong|weak|positive|negative|flat|firm) (opening|start)|set to open|likely to open|"
     r"opens? (higher|lower)|points? to|opening bell|pre-?market (cues|buzz|movers)"
