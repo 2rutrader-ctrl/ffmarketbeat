@@ -1,12 +1,83 @@
 {
- "updated": "2026-11-03T18:45:59.913567+00:00",
+ "updated": "2026-11-03T19:01:32.527017+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil slips after early surge as US-Iran tensions persist, Brent falls 3%",
+   "link": "https://www.livemint.com/industry/energy/crude-oil-prices-us-iran-war-qeshm-island-brent-11793717882725.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "How to identify fake silver coins at home: 4 simple tests to check purity before buying this Dhanteras",
+   "link": "https://www.livemint.com/money/personal-finance/how-to-identify-fake-silver-coins-at-home-4-simple-tests-to-check-purity-before-buying-this-dhanteras-11793720726372.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:45:00+00:00"
+  },
+  {
+   "title": "50 bps repo hike may moderate consumption credit: CS Setty",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/50-bps-repo-hike-may-moderate-consumption-credit-cs-setty/article71662082.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:45:00+00:00"
+  },
+  {
+   "title": "NSE Q2 net profit rises 23% to ₹2,578 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/nse-q2-net-profit-rises-23-to-2578-crore/article71662081.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Why did Pakistan suffer $40 billion in economic losses after trade with India stopped? Which sectors were most affected?",
+   "link": "https://www.livemint.com/economy/why-did-pakistan-suffer-40-billion-in-economic-losses-after-trade-with-india-stopped-which-sectors-were-most-affected-11793727656122.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:45:00+00:00"
+  },
+  {
+   "title": "How to check gold purity at home: 5 simple tests to identify genuine gold jewellery; check BIS hallmark and HUID",
+   "link": "https://www.livemint.com/money/personal-finance/how-to-check-gold-purity-at-home-5-simple-tests-to-identify-genuine-gold-jewellery-check-bis-hallmark-and-huid-11793725331669.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T18:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India to develop tunneling machines rather than yield to China's curbs: Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/india-to-develop-tunneling-machines-rather-than-yield-to-chinas-curbs-goyal/article71661758.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T18:45:00+00:00"
+  },
   {
    "title": "Apple Q4 results beat Wall Street estimates on strong iPhone 18 Pro demand",
    "link": "https://www.business-standard.com/world-news/apple-q4-results-beat-wall-street-estimates-on-strong-iphone-18-pro-demand-126110302007_1.html",
@@ -3177,83 +3248,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T17:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Upcoming IPO: Coal India unit South Eastern Coalfields files papers – How much funds to be raised and other key facts",
-   "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T17:45:00+00:00",
-   "companies": [
-    "Coal India"
-   ]
-  },
-  {
-   "title": "Sitharaman 'recognises the voice' of investors: Will FM slash equity taxes in next Budget amid heavy FPI outflows?",
-   "link": "https://www.livemint.com/market/sitharaman-recognises-the-voice-of-investors-will-fm-slash-equity-taxes-in-next-budget-amid-heavy-fpi-outflows-11793631070177.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T17:45:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Gadkari pushes alternative fuels to cut India's ₹22 trillion fuel import bill",
-   "link": "https://www.livemint.com/industry/energy/india-eyes-alternative-fuels-to-cut-22-trillion-fossil-fuel-import-bill-gadkari-11793631334430.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T17:45:00+00:00"
-  },
-  {
-   "title": "Gold, silver prices rebound from multi-month lows as crude oil retreats; what is driving the recovery?",
-   "link": "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T17:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Govt assures liquor makers it will honour scotch import commitments",
-   "link": "https://www.livemint.com/companies/news/govt-to-honour-uk-fta-commitments-on-bulk-scotch-imports-assures-liquor-makers-industry-body-11793612116619.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T17:45:00+00:00"
-  },
-  {
-   "title": "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
-   "link": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T17:00:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Mindspace REIT Q2 results: NOI rises 32% to ₹836 crore on strong leasing",
-   "link": "https://www.business-standard.com/companies/quarterly-results/mindspace-reit-q2-results-noi-rises-32-to-836-crore-on-strong-leasing-126110201490_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T16:45:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
