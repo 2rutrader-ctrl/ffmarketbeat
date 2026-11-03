@@ -1,12 +1,55 @@
 {
- "updated": "2026-11-03T14:36:37.294260+00:00",
+ "updated": "2026-11-03T14:46:06.100601+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Jack Lowden on James Bond casting rumours: 'Not really going to add to the noise'",
+   "link": "https://www.moneycontrol.com/entertainment/jack-lowden-on-james-bond-casting-rumours-not-really-going-to-add-to-the-noise-article-14067976.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-03T14:45:00+00:00"
+  },
+  {
+   "title": "Sugar falls as Indian output data signal less need to import",
+   "link": "https://www.moneycontrol.com/news/business/economy/sugar-falls-as-indian-output-data-signal-less-need-to-import-14067994.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:45:00+00:00"
+  },
+  {
+   "title": "RBI eases FEMA reporting norms for service exporters, importers; sets Rs 10 lakh threshold",
+   "link": "https://www.moneycontrol.com/news/business/banks/rbi-eases-fema-reporting-norms-for-service-exporters-importers-sets-rs-10-lakh-threshold-14067952.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:45:00+00:00"
+  },
+  {
+   "title": "ED attaches ₹510-crore assets, including two chartered planes, in Reliance Anil Ambani Group cases",
+   "link": "https://www.thehindu.com/news/national/ed-attaches-510-crore-assets-including-two-chartered-planes-in-reliance-anil-ambani-group-cases/article71661312.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "RBI eases reporting norms for small service exporters and importers",
+   "link": "https://www.business-standard.com/finance/news/rbi-eases-reporting-norms-for-small-service-exporters-and-importers-126110301679_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-03T14:30:00+00:00"
+  },
   {
    "title": "Caught taking ₹10,000 bribe: Former Bank of Baroda branch manager gets 4 year jail term",
    "link": "https://www.businesstoday.in/industry/banks/story/caught-taking-rs10000-bribe-former-bank-of-baroda-branch-manager-gets-4-year-jail-term-565480-2026-11-03",
@@ -3228,62 +3271,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "US futures rise up to 1% as crude oil prices fall 4%; AI stocks inch higher",
-   "link": "https://www.moneycontrol.com/news/business/markets/us-futures-rise-up-to-1-as-crude-oil-prices-fall-4-ai-stocks-inch-higher-14066577.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T13:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "'Reliance shares still undervalued, strong retail numbers could be next big trigger,' says Gurmeet Chadha",
-   "link": "https://www.moneycontrol.com/news/business/markets/reliance-shares-still-undervalued-strong-retail-numbers-could-be-next-big-trigger-says-gurmeet-chadha-14066565.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T13:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Oil prices fall over 4% as US-Iran peace talks raise hopes of easing Middle East supply disruptions",
-   "link": "https://www.hindustantimes.com/world-news/us-news/oil-prices-fall-over-4-as-us-iran-peace-talks-raise-hopes-of-easing-middle-east-supply-disruptions-101793621143699.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T13:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "IPO-bound Oyo parent Prism posts 17% rise in profit to ₹353 cr for Q1FY27",
-   "link": "https://www.business-standard.com/companies/quarterly-results/ipo-bound-oyo-parent-prism-posts-17-rise-in-profit-to-353-cr-for-q1fy27-126110201086_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:45:00+00:00"
-  },
-  {
-   "title": "IndiGo moves beyond Stretch seats with lie-flat Business Class plans",
-   "link": "https://www.thehindu.com/news/national/indigo-moves-beyond-stretch-seats-with-lie-flat-business-class-plans/article71656413.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T12:45:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   }
  ]
 }
