@@ -1,12 +1,71 @@
 {
- "updated": "2026-11-04T09:01:21.415744+00:00",
+ "updated": "2026-11-04T09:15:54.643464+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 55 new items (12 files read)"
+  "gdelt": "ok, 56 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bhel bags orders worth up to ₹28,000 cr from Adani Power for four projects",
+   "link": "https://www.business-standard.com/companies/news/bhel-bags-orders-worth-up-to-28-000-cr-from-adani-power-for-four-projects-126110400909_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Man quits teaching job to make adhesive tapes; becomes billionaire after company's stock surges 787% in IPO",
+   "link": "https://www.moneycontrol.com/education/man-quits-teaching-job-to-make-adhesive-tapes-becomes-billionaire-after-company-s-stock-surges-787-in-ipo-article-14069223.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:15:00+00:00"
+  },
+  {
+   "title": "RBI forms markets panel with Citi, Morgan Stanley, SBI as members",
+   "link": "https://www.business-standard.com/markets/news/rbi-forms-markets-panel-with-citi-morgan-stanley-sbi-as-members-126110400636_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings",
+   "link": "https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Camlin Fine Sciences tanks 18% post Q2 results; stock hits 52-week low",
+   "link": "https://www.business-standard.com/markets/news/camlin-fine-sciences-tanks-18-post-q2-results-stock-hits-52-week-low-126110400781_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Fractal Analytics shares rally 14% after Q2 net profit jumps 139% to Rs 79 crore",
    "link": "https://www.moneycontrol.com/news/business/markets/fractal-analytics-shares-rally-14-after-q2-net-profit-jumps-139-to-rs-79-crore-14069115.html",
@@ -3267,70 +3326,6 @@
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
-  },
-  {
-   "title": "BPCL buys 1 million barrels of US WTI crude for delivery in late December",
-   "link": "https://www.business-standard.com/economy/news/bpcl-buys-1-million-barrels-of-us-wti-crude-for-delivery-in-late-december-126110300620_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:15:00+00:00",
-   "companies": [
-    "BPCL"
-   ],
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "India's 2026 gold demand seen falling to six-year low on price rise",
-   "link": "https://www.moneycontrol.com/news/india/india-s-2026-gold-demand-seen-falling-to-six-year-low-on-price-rise-14067416.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Zomato launches Host Mode after Deepinder Goyal accepted user's idea to hide food prices from guests",
-   "link": "https://www.moneycontrol.com/technology/zomato-launches-host-mode-after-deepinder-goyal-accepted-user-s-idea-to-hide-food-prices-from-guests-article-14067449.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "companies": [
-    "Eternal (Zomato)"
-   ]
-  },
-  {
-   "title": "Q2 results impact: KRBL shares rally 13% as September quarter profit jumps 51%",
-   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-krbl-shares-rally-13-as-september-quarter-profit-jumps-51-14067453.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Coal India's Mahanadi Coalfields IPO may launch in November, raise up to $1 billion",
-   "link": "https://www.moneycontrol.com/news/business/ipo/coal-india-s-mahanadi-coalfields-ipo-may-launch-in-november-raise-up-to-1-billion-14067327.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "companies": [
-    "Coal India"
-   ]
   }
  ]
 }
