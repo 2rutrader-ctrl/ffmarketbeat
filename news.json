@@ -1,12 +1,161 @@
 {
- "updated": "2026-11-04T15:01:24.606257+00:00",
+ "updated": "2026-11-04T15:31:09.141100+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 32 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Budget 2027: FICCI seeks removal of LTCG tax on equities, suggests higher STT to offset revenue loss",
+   "link": "https://www.businesstoday.in/latest/economy/story/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-equities-suggests-higher-stt-to-offset-revenue-loss-565772-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:30:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "SEBI eases KYC rules for NRIs, OCIs and foreign nationals; digital onboarding allowed from December 3",
+   "link": "https://www.businesstoday.in/nri/invest/story/sebi-eases-kyc-rules-for-nris-ocis-and-foreign-nationals-digital-onboarding-allowed-from-december-3-565768-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Bond yields fall 11 bps, rupee gains as oil prices slide after US midterms",
+   "link": "https://www.business-standard.com/markets/news/bond-yields-fall-11-bps-rupee-gains-as-oil-prices-slide-after-us-midterms-126110401818_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Karvy, Quant Capital among 8 firms losing SEBI investment adviser registrations over unpaid fees; what does this mean?",
+   "link": "https://www.businesstoday.in/personal-finance/story/karvy-quant-capital-among-8-firms-losing-sebi-investment-adviser-registrations-over-unpaid-fees-what-does-this-mean-565774-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Mahanadi Coalfields, Sagar Defence Engineering, Arjun Jewellers get SEBI nod to launch IPOs",
+   "link": "https://www.moneycontrol.com/news/business/ipo/mahanadi-coalfields-sagar-defence-engineering-arjun-jewellers-get-sebi-nod-to-launch-ipos-14069886.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Apollo Hospitals posts 32% PAT growth as occupancy, premium procedures drive margins",
+   "link": "https://www.moneycontrol.com/news/business/earnings/apollo-hospitals-posts-32-pat-growth-as-occupancy-premium-procedures-drive-margins-14070191.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:15:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ]
+  },
+  {
+   "title": "SEBI relaxes KYC norms for NRIs, OCIs and foreign nationals; allows digital onboarding",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-relaxes-kyc-norms-for-nris-ocis-and-foreign-nationals-allows-digital-onboarding-14070019.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts",
+   "link": "https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dr Lal PathLabs Q2 net profit rises 27.5% to ₹194 cr on volume growth",
+   "link": "https://www.business-standard.com/companies/quarterly-results/dr-lal-pathlabs-q2-net-profit-rises-27-5-to-194-cr-on-volume-growth-126110401810_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SEBI eases KYC norms for NRIs, allows digital onboarding from overseas; makes records portable",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-eases-kyc-norms-for-nris-allows-digital-onboarding-from-overseas-makes-records-portable-14070206.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Gold price correction to lift Dhanteras sentiment, but sales volumes likely to remain flat: Jewellers",
+   "link": "https://www.moneycontrol.com/news/business/commodities/gold-price-correction-to-lift-dhanteras-sentiment-but-sales-volumes-likely-to-remain-flat-jewellers-14070078.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "US stocks and bonds rise, dollar falls after Trump's midterm loss",
+   "link": "https://www.moneycontrol.com/news/markets/global-markets/us-stocks-and-bonds-rise-dollar-falls-after-us-midterm-results-14070131.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:15:00+00:00"
+  },
   {
    "title": "Nykaa pushes quick commerce expansion as Q2 profit more than doubles",
    "link": "https://www.livemint.com/companies/news/nykaa-pushes-quick-commerce-expansion-as-q2-profit-more-than-doubles-11793798987946.html",
@@ -3303,143 +3452,6 @@
    "companies": [
     "IndiGo"
    ]
-  },
-  {
-   "title": "Tamil Nadu's economic performance cannot be assessed merely by gross GST revenue: Commercial Taxes Minister",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-economic-performance-cannot-be-assessed-merely-by-gross-gst-revenue-commercial-taxes-minister/article71660464.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:30:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Tata Motors, Iveco to explore bringing select European truck models to India through CKD route",
-   "link": "https://www.moneycontrol.com/automobile/tata-motors-iveco-to-explore-bringing-select-european-truck-models-to-india-through-ckd-route-article-14067866.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:30:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "Pfizer Q2 results: Net profit rises 65.7% to ₹313 cr, income at ₹774 cr",
-   "link": "https://www.business-standard.com/companies/quarterly-results/pfizer-q2-results-net-profit-rises-65-7-to-313-cr-income-at-774-cr-126110301068_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nalco posts best-ever half-yearly results as net profit rises 54% in H1FY27",
-   "link": "https://www.business-standard.com/companies/quarterly-results/nalco-posts-best-ever-half-yearly-results-as-net-profit-rises-54-in-h1fy27-126110301188_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T12:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India's guava output jumps 40% in 7 years on more acreage, yields stay flat",
-   "link": "https://www.business-standard.com/industry/agriculture/india-s-guava-output-jumps-40-in-7-years-on-more-acreage-yields-stay-flat-126110301185_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:15:00+00:00"
-  },
-  {
-   "title": "Global gold demand down 1% in Q3 at 1,360 tonne amid uncertainty over price: Report",
-   "link": "https://www.moneycontrol.com/news/business/commodities/global-gold-demand-down-1-in-q3-at-1-360-tonne-amid-uncertainty-over-price-report-14067797.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T12:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India may reimpose broken rice export restrictions as prices cross $360 per tonne: Report",
-   "link": "https://www.moneycontrol.com/news/business/economy/india-may-reimpose-broken-rice-export-restrictions-as-prices-cross-360-per-tonne-report-14067833.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:00:00+00:00"
-  },
-  {
-   "title": "HGS India IPO sees 219 times subscription on final day; shares attract double-digit GMP",
-   "link": "https://www.moneycontrol.com/news/business/ipo/hgs-india-ipo-sees-219-times-subscription-on-final-day-shares-attract-double-digit-gmp-14067790.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:00:00+00:00"
-  },
-  {
-   "title": "India eases forex reporting rules for small value service exports, imports",
-   "link": "https://www.moneycontrol.com/banking/india-eases-forex-reporting-rules-for-small-value-service-exports-imports-article-14067839.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "SBI quarterly results: Bank shares decline despite loan growth, better asset quality in Q2 - What it means to investors",
-   "link": "https://www.livemint.com/market/stock-market-news/sbi-quarterly-results-bank-shares-decline-despite-loan-growth-better-asset-quality-in-q2-what-it-means-to-investors-11793702591408.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Sebi, investment bankers discuss giving IPO-bound companies more room to revise issue sizes",
-   "link": "https://www.livemint.com/market/ipo/sebi-ipo-issuers-issue-sizes-aibi-20-threshold-11793690528862.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Wipro Consumer H1 revenue jumps 17% to ₹6,094 crore; eyes ₹20,000 crore by FY30",
-   "link": "https://www.livemint.com/companies/company-results/wipro-consumer-h1-revenue-jumps-17-to-6-094-crore-eyes-20-000-crore-by-fy30-11793695450642.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00"
   }
  ]
 }
