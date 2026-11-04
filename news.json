@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-04T07:31:07.090419+00:00",
+ "updated": "2026-11-04T07:45:48.149405+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 54 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Centre raises over Rs 81,000 crore from stake sales, dividends and asset monetisation in seven months, IDBI proceeds awaited",
+   "link": "https://www.moneycontrol.com/news/business/centre-raises-over-rs-81-000-crore-from-stake-sales-dividends-and-asset-monetisation-in-seven-months-idbi-proceeds-awaited-14069021.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T07:45:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
   {
    "title": "FPIs pull out Rs 17,417 crore from FAR government securities in September-October",
    "link": "https://www.moneycontrol.com/news/business/banks/fpis-pull-out-rs-17-417-crore-from-far-government-securities-in-september-october-14068904.html",
@@ -3312,14 +3323,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Blockbuster IPO debut of BLS Polymers; 3 times premium as compared to Jio Platforms - All details for investors here",
-   "link": "https://www.livemint.com/market/stock-market-news/blockbuster-ipo-debut-of-bls-polymers-3-times-premium-as-compared-to-jio-platforms-all-details-for-investors-here-11793682497404.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T06:45:00+00:00"
   }
  ]
 }
