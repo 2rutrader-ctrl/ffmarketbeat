@@ -1,12 +1,130 @@
 {
- "updated": "2026-11-04T10:45:50.484120+00:00",
+ "updated": "2026-11-04T11:01:29.609796+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 40 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Maxwell Engineering Solutions SME IPO allotment today; GMP nears 50%, check status on NSE & registrar",
+   "link": "https://www.moneycontrol.com/news/business/ipo/maxwell-engineering-solutions-sme-ipo-allotment-today-gmp-nears-50-check-status-on-nse-registrar-14069555.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00"
+  },
+  {
+   "title": "How global markets reacted to Democrats' midterm sweep: Stocks rebound, Treasury yields fall",
+   "link": "https://www.moneycontrol.com/world/how-global-markets-reacted-to-democrats-midterm-sweep-stocks-rebound-treasury-yields-fall-article-14069509.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "VinFast is now India's No. 4 electric car brand, ahead of Kia, Maruti and Hyundai",
+   "link": "https://www.businesstoday.in/latest/trends/photo/vinfast-is-now-indias-no-4-electric-car-brand-ahead-of-kia-maruti-and-hyundai-565660-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00",
+   "companies": [
+    "Maruti Suzuki"
+   ]
+  },
+  {
+   "title": "NLC India shares gain 9% on Q2 earnings, interim dividend",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nlc-india-shares-gain-9-on-q2-earnings-interim-dividend-565710-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Mumbai airport: 2 passengers from Bahrain caught with Rs 2.09 crore gold dust hidden in undergarments",
+   "link": "https://www.moneycontrol.com/city/mumbai-airport-2-passengers-from-bahrain-caught-with-rs-2-09-crore-gold-dust-hidden-in-undergarments-article-14069534.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Thangamayil Jewellery Q2 earnings: Stock falls 7% amid decline in gross profit, EBITDA margins",
+   "link": "https://www.businesstoday.in/markets/stocks/story/thangamayil-jewellery-q2-earnings-stock-falls-7-amid-decline-in-gross-profit-ebitda-margins-565691-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Alembic Pharmaceuticals shares hit 20% upper circuit on strong Q2 earnings",
+   "link": "https://www.businesstoday.in/markets/stocks/story/alembic-pharmaceuticals-shares-hit-20-upper-circuit-on-strong-q2-earnings-565673-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "This small cap ferrous metal firm declares Rs 5/share dividend; check record date, Q2 results",
+   "link": "https://www.businesstoday.in/markets/stocks/story/this-small-cap-ferrous-metal-firm-declares-rs-5share-dividend-check-record-date-q2-results-565698-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Is there a shortage of ₹10, ₹20 and ₹50 notes this Diwali? RBI debunks viral claim",
+   "link": "https://www.businesstoday.in/personal-finance/story/is-there-a-shortage-of-rs10-rs20-and-rs50-notes-this-diwali-rbi-debunks-viral-claim-565694-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00"
+  },
+  {
+   "title": "Lenskart Q2 results: Net profit rises 2x to Rs 232.5 crore, revenue up 36%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/lenskart-q2-results-net-profit-rises-2x-to-rs-232-5-crore-revenue-up-36-14069327.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "U.S. midterm elections impact on India: faster trade deal talks and higher tariffs likely",
    "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece",
@@ -3240,128 +3358,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Mutual fund switching may become tax-free: Experts explain SEBI proposal and what could change in capital gains tax rule",
-   "link": "https://www.livemint.com/money/personal-finance/mutual-fund-switching-may-become-tax-free-experts-explain-sebi-proposal-and-what-could-change-in-capital-gains-tax-rule-11793693420168.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "SBI posts quarterly profit rise on loan growth, stake sale",
-   "link": "https://www.livemint.com/companies/sbi-posts-quarterly-profit-rise-on-loan-growth-stake-sale-11793695654257.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Bajaj Finserv Q2 results: Net profit rises 23% to Rs 2,758 crore; NII grows 24%, AUM up 26%",
-   "link": "https://www.moneycontrol.com/news/business/earnings/bajaj-finserv-q2-results-net-profit-rises-23-to-rs-2-757-crore-aum-grows-26-14067489.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "companies": [
-    "Bajaj Finserv"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Murikenchery tipped to lead Navi Mumbai airport as Adani braces for Mumbai traffic shift",
-   "link": "https://www.livemint.com/companies/news/navi-mumbai-airport-new-chief-subhash-murikenchery-leadership-change-11793676847975.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
-   "link": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T09:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold, silver rate Chennai 3 Nov: Latest price movement, details for investors today ahead of Dhanteras, Diwali",
-   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-silver-rate-chennai-3-november-latest-price-movement-details-investors-today-ahead-dhanteras-diwali-11793687578628.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T09:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
-   "link": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "LDF seeks to galvanise coastal community against UDF's proposed high-value economic maritime corridor",
-   "link": "https://www.thehindu.com/news/national/kerala/ldf-seeks-to-galvanise-coastal-community-against-udfs-proposed-high-value-economic-maritime-corridor/article71660022.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:45:00+00:00"
-  },
-  {
-   "title": "Bajaj Finserv Q2 results: Consolidated profit rises 25%; stock reacts",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finserv-q2-results-consolidated-profit-rises-25-income-up-17-565364-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00",
-   "companies": [
-    "Bajaj Finserv"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Sensex, Nifty extend winning run to fourth session; key reasons behind market rally",
-   "link": "https://www.businesstoday.in/markets/stocks/story/sensex-nifty-extend-winning-run-to-fourth-session-key-reasons-behind-market-rally-565338-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00"
   }
  ]
 }
