@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-04T04:01:19.208865+00:00",
+ "updated": "2026-11-04T04:15:51.220866+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 14 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US midterm election results impact on Indian economy: From trade deal to oil prices and stock markets, explained",
+   "link": "https://www.livemint.com/economy/us-midterm-election-results-impact-indian-economy-trade-deal-h1b-visa-oil-prices-stock-markets-rupee-explained-democrats-11793758887400.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Sanofi India dividend 2026: ₹75 per share payout — record date, dividend history, yield, returns",
+   "link": "https://www.livemint.com/market/stock-market-news/sanofi-india-dividend-2026-75-per-share-payout-record-date-dividend-history-yield-returns-11793760769833.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:15:00+00:00"
+  },
+  {
+   "title": "Goa plans to use AI to give tourism economy a new language",
+   "link": "https://www.livemint.com/mint-lounge/business-of-life/goa-ai-policy-for-tourism-11793691549076.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T04:15:00+00:00"
+  },
   {
    "title": "Lupin Q2 results: Net profit falls 22% to ₹1,155 cr, revenue at ₹7,827 cr",
    "link": "https://www.business-standard.com/companies/quarterly-results/lupin-q2-results-net-profit-falls-22-to-1-155-cr-revenue-at-7-827-cr-126110400050_1.html",
@@ -3229,40 +3258,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Oracle to raise $20 billion through bond and share sales for AI expansion as shares fall nearly 6%",
-   "link": "https://www.hindustantimes.com/world-news/us-news/oracle-to-raise-20-billion-through-bond-and-share-sales-for-ai-expansion-as-shares-fall-nearly-6-101793646110479.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T19:45:00+00:00"
-  },
-  {
-   "title": "T.N.'s GST collection over past six months raises serious questions about its economy: Annamalai",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/tns-gst-collectionover-past-six-months-raises-serious-questions-about-its-economy-annamalai/article71656035.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T19:30:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Thomas Cook India Q2 net profit falls 24% to ₹53.7 crore; revenue dips",
-   "link": "https://www.business-standard.com/companies/news/thomas-cook-india-q2-net-profit-falls-24-to-53-7-crore-revenue-dips-126110300002_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T19:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
