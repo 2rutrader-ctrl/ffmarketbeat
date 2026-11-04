@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-04T08:31:21.449677+00:00",
+ "updated": "2026-11-04T08:45:49.213758+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 66 new items (12 files read)"
+  "gdelt": "ok, 64 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Equitas appoints Balaji Nuthalapadi interim CEO, subject to RBI nod",
+   "link": "https://www.business-standard.com/companies/news/equitas-small-finance-bank-balaji-nuthalapadi-interim-ceo-rbi-126110400690_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T08:45:00+00:00"
+  },
+  {
+   "title": "India's growth mix shifts: Exports and capex carry the baton as rural demand fades",
+   "link": "https://www.moneycontrol.com/news/business/markets/india-s-growth-mix-shifts-exports-and-capex-carry-the-baton-as-rural-demand-fades-14069135.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T08:45:00+00:00"
+  },
+  {
+   "title": "Trump's US midterm election defeat: Stock market history; what it means for Nifty, Sensex",
+   "link": "https://www.businesstoday.in/markets/stocks/story/trumps-us-midterm-election-defeat-stock-market-history-what-it-means-for-nifty-sensex-565629-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T08:45:00+00:00"
+  },
+  {
+   "title": "Transrail Q2 results: Net profit jumps 12% to ₹104 crore, income up 32%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/transrail-q2-results-net-profit-jumps-12-to-104-crore-income-up-32-126110400601_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T08:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "FII selling slows, domestic money holds the line",
    "link": "https://www.moneycontrol.com/news/business/markets/fii-selling-slows-domestic-money-holds-the-line-14069082.html",
@@ -3294,46 +3331,6 @@
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
-  },
-  {
-   "title": "Kuno Cheetah CCB-4 reaches Rajasthan's Baran forests after leaving Madhya Pradesh, male big Cat known for rare bond with unrelated Indian-born Cheetah",
-   "link": "https://www.moneycontrol.com/science/kuno-cheetah-ccb-4-reaches-rajasthan-s-baran-forests-after-leaving-madhya-pradesh-male-big-cat-known-for-rare-bond-with-unrelated-indian-born-cheetah-article-14067336.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "title": "How much of the GST boom is real?",
-   "link": "https://www.moneycontrol.com/news/opinion/how-much-of-the-gst-boom-is-real-14067256.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Beyond Diwali, India must read its lights more often to gauge the economy",
-   "link": "https://www.moneycontrol.com/news/opinion/beyond-diwali-india-must-read-its-lights-more-often-to-gauge-the-economy-14067434.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh/article71659738.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   }
  ]
 }
