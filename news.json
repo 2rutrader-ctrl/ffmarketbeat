@@ -1,12 +1,92 @@
 {
- "updated": "2026-11-04T16:15:46.869437+00:00",
+ "updated": "2026-11-04T16:31:18.266408+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 29 new items (12 files read)"
+  "gdelt": "ok, 43 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "APPCB seeks ₹36.17 crore compensation from ONGC over Mori-5 well blowout, serves show-cause notice",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/appcb-seeks-3617-crore-compensation-from-ongc-over-mori-5-well-blowout-serves-show-cause-notice/article71666423.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:30:00+00:00",
+   "companies": [
+    "ONGC"
+   ]
+  },
+  {
+   "title": "LTCG tax relief on cards? FM acknowledges FPI concerns as SEBI, FICCI push for reforms in Budget 2027",
+   "link": "https://www.livemint.com/economy/ltcg-tax-relief-on-cards-fm-acknowledges-fpi-concerns-as-sebi-ficci-push-for-reforms-in-budget-2027-11793801569363.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "HUL proposes raising annual pay cap for non-executive directors to ₹15 cr",
+   "link": "https://www.business-standard.com/companies/news/hul-proposes-raising-annual-pay-cap-for-non-executive-directors-to-15-cr-126110401970_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00",
+   "companies": [
+    "Hindustan Unilever"
+   ]
+  },
+  {
+   "title": "SIDBI raises ₹5,607 crore via five-year bonds at 8.17% coupon rate",
+   "link": "https://www.business-standard.com/companies/news/sidbi-raises-5-607-crore-via-five-year-bonds-at-8-17-coupon-rate-126110401853_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00"
+  },
+  {
+   "title": "Strong loan growth, improving asset quality positive for SBI's outlook",
+   "link": "https://www.business-standard.com/markets/news/strong-loan-growth-improving-asset-quality-positive-for-sbi-s-outlook-126110401783_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "SC upholds states' power to levy additional sales tax under pre-GST laws",
+   "link": "https://www.business-standard.com/india-news/sc-upholds-states-power-to-levy-additional-sales-tax-under-pre-gst-laws-126110401924_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:15:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
   {
    "title": "Apollo Hospitals' Q2 revenue rises 23%; profit up 32% on broad-based growth",
    "link": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
@@ -3384,86 +3464,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T13:30:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Gold jewellery gets costlier this Diwali: Hallmarking charges jump 67% — what buyers must know",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-jewellery-gets-costlier-this-diwali-hallmarking-charges-jump-67-what-buyers-must-know-565443-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T13:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: PhonePe announces 2% cashback on 24k gold, here's how to avail it",
-   "link": "https://www.businesstoday.in/latest/corporate/story/dhanteras-2026-phonepe-announces-2-cashback-on-24k-gold-heres-how-to-avail-it-565474-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T13:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Maxwell Engineering Solutions IPO attracts 491x subscription; GMP jumps to 50%",
-   "link": "https://www.moneycontrol.com/news/business/ipo/maxwell-engineering-solutions-ipo-attracts-491x-subscription-gmp-jumps-to-50-14067915.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T13:15:00+00:00"
-  },
-  {
-   "title": "ESDS Software shares snap 5-session fall to hit 5% upper circuit on strong Q2 earnings",
-   "link": "https://www.moneycontrol.com/news/business/markets/esds-software-shares-snap-5-session-fall-to-hit-5-upper-circuit-on-strong-q2-earnings-14067937.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T13:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
-   "link": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
-   "link": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660865.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "SBI Q2 profit rises 14.3% to ₹23,038 crore; eyes NIM above 3%",
-   "link": "https://www.thehindu.com/business/sbi-q2-profit-rises-143-to-23038-crore-eyes-nim-above-3/article71660789.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:00:00+00:00",
    "companies": [
     "State Bank of India"
    ]
