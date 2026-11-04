@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-04T10:15:52.129779+00:00",
+ "updated": "2026-11-04T10:45:50.484120+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 56 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "U.S. midterm elections impact on India: faster trade deal talks and higher tariffs likely",
+   "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T10:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Gold and silver prices jump as US midterm results weaken dollar and Treasury yields",
+   "link": "https://www.hindustantimes.com/world-news/us-news/gold-and-silver-prices-jump-as-us-midterm-results-weaken-dollar-and-treasury-yields-101793785030960.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T10:30:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Zydus Lifesciences Q2 results: Net profit falls 26.6% to ₹925.5 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/zydus-lifesciences-q2-results-net-profit-falls-26-6-to-925-5-crore-126110400844_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T10:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Zydus Lifesciences Q2 net profit falls 27% as expenses outpace revenue growth; shares decline 3.5%",
    "link": "https://www.moneycontrol.com/news/business/markets/zydus-lifesciences-q2-net-profit-falls-27-as-expenses-outpace-revenue-growth-shares-decline-3-5-14069455.html",
@@ -3323,43 +3362,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T08:45:00+00:00"
-  },
-  {
-   "title": "'You're looked down upon when...': IndiGo CEO as airline prepares for int'l expansion",
-   "link": "https://www.businesstoday.in/latest/corporate/story/youre-looked-down-upon-when-indigo-ceo-as-airline-prepares-for-intl-expansion-565355-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Gold vs stocks: Why equities are better option; fixed income, InvITs outlook",
-   "link": "https://www.businesstoday.in/markets/stocks/story/gold-vs-stocks-why-equities-are-better-option-fixed-income-invits-outlook-565365-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SBI shares gain ahead of Q2 results: Key expectations, earnings preview",
-   "link": "https://www.businesstoday.in/markets/stocks/story/sbi-shares-gain-ahead-of-q2-results-key-expectations-earnings-preview-565351-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
