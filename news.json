@@ -1,12 +1,91 @@
 {
- "updated": "2026-11-04T14:45:49.637359+00:00",
+ "updated": "2026-11-04T15:01:24.606257+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 32 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nykaa pushes quick commerce expansion as Q2 profit more than doubles",
+   "link": "https://www.livemint.com/companies/news/nykaa-pushes-quick-commerce-expansion-as-q2-profit-more-than-doubles-11793798987946.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:00:00+00:00",
+   "companies": [
+    "Nykaa"
+   ]
+  },
+  {
+   "title": "IPO Investment Guide: How Investors Can Evaluate a New Public Offering",
+   "link": "https://www.thehindubusinessline.com/brandhub/ipo-investment-guide-how-investors-can-evaluate-a-new-public-offering/article71656501.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:00:00+00:00"
+  },
+  {
+   "title": "CM Vijay presents gold necklace to Class 12 first rank holder in Tamil Nadu",
+   "link": "https://www.hindustantimes.com/india-news/cm-vijay-presents-gold-necklace-to-class-12-first-rank-holder-in-tamil-nadu-101793801393567.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dabur India net profit up 11.7% at ₹505.5 crore in Q2 - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/dabur-india-net-profit-up-117-at-5055-crore-in-q2/article71666121.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Thangamayil Jewellery net profit flat at ₹59 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/thangamayil-jewellery-net-profit-flat-at-59-crore/article71665142.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "US optimism fuels Nifty's strongest 5-day rally in seven months",
+   "link": "https://www.thehindubusinessline.com/markets/us-optimism-fuels-niftys-strongest-5-day-rally-in-seven-months/article71665638.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:00:00+00:00"
+  },
+  {
+   "title": "Gold Prices and Investment Planning: What Investors Should Consider Before Investing in Gold",
+   "link": "https://www.thehindubusinessline.com/brandhub/gold-prices-and-investment-planning-what-investors-should-consider-before-investing-in-gold/article71656556.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Trump's tariffs, healthcare cuts face fresh scrutiny after Democrats' election sweep",
    "link": "https://www.hindustantimes.com/world-news/us-news/democrats-take-control-of-congress-putting-trumps-tariffs-healthcare-and-business-policies-in-focus-101793799332583.html",
@@ -3361,85 +3440,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T11:45:00+00:00"
-  },
-  {
-   "title": "India's illegal gold imports surge 1500% to a three-year high: What's behind the jump?",
-   "link": "https://www.livemint.com/economy/indias-illegal-gold-imports-surge-1500-to-a-three-year-high-whats-behind-the-surge-11793699977762.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Small-cap stock under ₹50 jumps 5% after announcement of Q2 Results 2026, dividend | Up 65% in 6 months; do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-5-after-announcement-of-q2-results-2026-dividend-up-65-in-6-months-do-you-own-11793700056652.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Gold shopping this Dhanteras: Here's what you must check before paying",
-   "link": "https://www.business-standard.com/finance/personal-finance/gold-shopping-this-dhanteras-here-s-what-you-must-check-before-paying-126110301181_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India deserves three national carriers, says Adani Airports CEO: Is Adani the answer?",
-   "link": "https://www.businesstoday.in/latest/corporate/story/india-deserves-three-national-carriers-says-adani-airports-ceo-is-adani-the-answer-565421-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Diwali 2026: All gold, silver ETFs log second month of negative returns in October; is it time to invest? Experts advise",
-   "link": "https://www.livemint.com/money/personal-finance/diwali-2026-all-gold-silver-etfs-log-second-month-of-negative-returns-in-october-is-it-time-to-invest-experts-advise-11793698701977.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Hit by feed costs, poultry industry seeks duty-free maize imports",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/hit-by-feed-costs-poultry-industry-seeks-duty-free-maize-imports/article71660457.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T11:30:00+00:00"
-  },
-  {
-   "title": "Jack Lowden calls James Bond speculation 'very flattering' but remains tight-lipped on rumours",
-   "link": "https://www.hindustantimes.com/entertainment/hollywood/jack-lowden-calls-james-bond-speculation-very-flattering-but-remains-tight-lipped-on-rumours-007-daniel-craig-101793700852393.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T11:30:00+00:00"
   }
  ]
 }
