@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-04T08:01:25.025070+00:00",
+ "updated": "2026-11-04T08:15:47.173349+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 61 new items (12 files read)"
+  "gdelt": "ok, 63 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "What a Democratic Congress can and cannot do about Trump's war, tariffs and visa curbs",
+   "link": "https://www.hindustantimes.com/ht-explainers/us-midterms-democratic-congress-trump-iran-war-tariffs-visa-restrictions-powers-101793777808776.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T08:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Gold and silver taxation in India: How jewellery, coins, ETFs, digital gold and SGBs are taxed",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-taxation-in-india-how-jewellery-coins-etfs-digital-gold-and-sgbs-are-taxed-14068954.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "RBI forms financial markets consultative panel headed by Dy Guv Rohit Jain",
    "link": "https://www.business-standard.com/markets/news/rbi-financial-markets-consultative-committee-rohit-jain-tccfm-126110400682_1.html",
@@ -3308,27 +3334,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "title": "India tax hike drives illegal gold imports to highest level since 2023",
-   "link": "https://www.business-standard.com/economy/news/india-tax-hike-drives-illegal-gold-imports-to-highest-level-since-2023-126110300555_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Nifty Smallcap looks stronger vs Midcap index, can hit new high: Analysts",
-   "link": "https://www.business-standard.com/markets/news/nifty-smallcap-index-looks-stronger-on-charts-vs-midcap-can-hit-new-high-say-tech-analysts-126110300454_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:15:00+00:00"
   }
  ]
 }
