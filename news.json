@@ -1,12 +1,54 @@
 {
- "updated": "2026-11-04T02:31:11.224560+00:00",
+ "updated": "2026-11-04T02:45:52.793772+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 2 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee may slide to 102 against US dollar by December 2027, 106 by 2028: Report",
+   "link": "https://www.businesstoday.in/latest/economy/story/rupee-may-slide-to-102-against-us-dollar-by-december-2027-106-by-2028-report-565526-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T02:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "US Midterm Election Results: Trump facing a voter backlash? Early polls reveal anger over economy and high prices",
+   "link": "https://www.moneycontrol.com/world/us-midterm-election-results-trump-facing-a-voter-backlash-early-polls-reveal-anger-over-economy-and-high-prices-article-14068140.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T02:30:00+00:00"
+  },
+  {
+   "title": "Commodity Corner: Oil rebounds after two-day slide; gold edges higher ahead of US election cues",
+   "link": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-rebounds-after-two-day-slide-gold-edges-higher-ahead-of-us-election-cues-14068008.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T02:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dollar rises most in a month on higher US yields, strong data",
+   "link": "https://www.moneycontrol.com/news/business/markets/dollar-rises-most-in-a-month-on-higher-us-yields-strong-data-14068151.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T02:30:00+00:00"
+  },
   {
    "title": "How Jio is unlocking hidden value for Reliance shareholders",
    "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-holding-company-discount-jio-platforms-share-price-11793702625359.html",
@@ -3210,54 +3252,6 @@
    "published": "2026-11-02T18:00:00+00:00",
    "companies": [
     "ITC"
-   ]
-  },
-  {
-   "title": "Q2 Results Today Highlights: Marico, Petronet LNG & Granules Q2 profit surges, ITC, UPL , Wockhardt & Escorts Kubota PAT down, MobiKwik posts profit, Devyani International loss narrows",
-   "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-itc-marico-upl-upl-petronet-lng-nlc-india-mobikwik-wockhardt-nalco-doms-ind-bosch-escorts-kubota-granules-lloyds-ril-jio-company-results-02-november-2026/article71652562.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "ESDS Software Solutions Q2 net profit grows 41% to ₹31.1 crore on robust demand for digital infrastructure",
-   "link": "https://www.thehindubusinessline.com/info-tech/esds-software-solutions-q2-net-profit-grows-41-to-311-crore-on-robust-demand-for-digital-infrastructure/article71656960.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "PNB, Indian Bank up MCLRs; BoI increases term deposit rates",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/pnb-indian-bank-up-mclrs-boi-increases-term-deposit-rates/article71657353.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "companies": [
-    "Punjab National Bank"
-   ]
-  },
-  {
-   "title": "Cipla tops drug overcharging dues with ₹3,576 crore; J&J, Ranbaxy among top five",
-   "link": "https://www.thehindubusinessline.com/latest-news/cipla-tops-drug-overcharging-dues-with-3576-crore-jj-ranbaxy-among-top-five/article71657541.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "companies": [
-    "Cipla"
    ]
   }
  ]
