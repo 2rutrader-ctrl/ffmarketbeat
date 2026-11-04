@@ -1,12 +1,56 @@
 {
- "updated": "2026-11-04T05:31:10.744218+00:00",
+ "updated": "2026-11-04T05:45:49.842172+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 19 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Services PMI rises to 4-month high of 55.8 in Oct as cost inflation eases",
+   "link": "https://www.business-standard.com/economy/news/india-services-pmi-october-2026-four-month-high-55-8-cost-inflation-hiring-126110400488_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T05:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "RBI crackdown on rupee bets drives India's dollar hedging to 8-month low",
+   "link": "https://www.business-standard.com/finance/news/rbi-crackdown-on-rupee-bets-drives-india-s-dollar-hedging-to-8-month-low-126110400464_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T05:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "IndiGo, Asian Paints, IOC: Analyst view on crude sensitives as oil dips 13%",
+   "link": "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T05:45:00+00:00",
+   "companies": [
+    "Asian Paints",
+    "Indian Oil",
+    "IndiGo"
+   ],
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Gold's 10-year Dhanteras scorecard: Grown 4.6 times since 2016",
    "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-s-10-year-dhanteras-scorecard-grown-4-6-times-since-2016-14068348.html",
@@ -3245,35 +3289,6 @@
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
    }
-  },
-  {
-   "title": "TSX rebounds as oil pullback boosts industrials, mining shares",
-   "link": "https://www.livemint.com/market/tsx-rebounds-as-oil-pullback-boosts-industrials-mining-shares-11793655587408.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T22:30:00+00:00"
-  },
-  {
-   "title": "Treasury Yields Extend Past Month's Slide as Oil Prices Drop",
-   "link": "https://www.livemint.com/market/treasury-yields-extend-past-month-s-slide-as-oil-prices-drop-11793656834005.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T22:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "ITC profit falls 17% as cigarette taxes burns a hole in ITC's profits",
-   "link": "https://www.livemint.com/companies/itc-profit-falls-17-as-cigarette-taxes-squeeze-margins-11793626655986.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T21:00:00+00:00"
   }
  ]
 }
