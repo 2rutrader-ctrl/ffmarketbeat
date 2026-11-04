@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-04T16:45:50.543288+00:00",
+ "updated": "2026-11-04T17:01:22.770713+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 40 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "'Tariff policy will be less insane': Gita Gopinath after Democrats stun Trump in US midterms",
+   "link": "https://www.businesstoday.in/india/story/tariff-policy-will-be-less-insane-gita-gopinath-after-democrats-stun-trump-in-us-midterms-565776-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T17:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "SEBI sets up panel to revive dormant startup listing platform",
    "link": "https://www.moneycontrol.com/news/business/ipo/sebi-sets-up-panel-to-revive-dormant-startup-listing-platform-14070287.html",
@@ -3457,17 +3470,6 @@
    "published": "2026-11-03T14:00:00+00:00",
    "companies": [
     "State Bank of India"
-   ]
-  },
-  {
-   "title": "NTPC eyes to add 58 Gw of installed capacity reach 149 Gw by 2032: Chairman",
-   "link": "https://www.business-standard.com/companies/news/ntpc-eyes-to-add-58-gw-of-installed-capacity-reach-149-gw-by-2032-chairman-126110301372_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:45:00+00:00",
-   "companies": [
-    "NTPC"
    ]
   }
  ]
