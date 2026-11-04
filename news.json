@@ -1,12 +1,64 @@
 {
- "updated": "2026-11-04T09:15:54.643464+00:00",
+ "updated": "2026-11-04T09:31:17.908061+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 56 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Redington shares surge 11% on strong Q2 results; profit rises 21% to Rs 422 crore",
+   "link": "https://www.moneycontrol.com/news/business/markets/redington-shares-surge-11-on-strong-q2-results-profit-rises-21-to-rs-422-crore-14069345.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Redington Q2 earnings: Stock rises 11% on highest revenue, EBITDA up 41%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/redington-q2-earnings-stock-rises-on-highest-revenue-ebitda-up-565648-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Dhanteras gold buying checklist: 7 things to check before purchasing jewellery, digital gold or ETFs",
+   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-gold-buying-checklist-7-things-to-check-before-purchasing-jewellery-digital-gold-or-etfs-565643-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Buying gold, silver coins for Dhanteras? 0.5-10g gold and 1-100 gm silver coins available on Instamart: Check offers",
+   "link": "https://www.livemint.com/money/buying-coins-online-dhanteras-0-5g-gold-10g-1-g-silver-100-g-silver-available-swiggy-instamart-kalyan-jewellers-offers-11793779395032.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Bhel bags orders worth up to ₹28,000 cr from Adani Power for four projects",
    "link": "https://www.business-standard.com/companies/news/bhel-bags-orders-worth-up-to-28-000-cr-from-adani-power-for-four-projects-126110400909_1.html",
@@ -3276,56 +3328,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T08:15:00+00:00"
-  },
-  {
-   "title": "19-year-old held for blinding elderly man with chilli powder, snatching gold chain in UP's Wazirganj",
-   "link": "https://www.hindustantimes.com/india-news/19yearold-held-for-blinding-elderly-man-with-chilli-powder-snatching-gold-chain-in-ups-wazirganj-101793687944934.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "From grains to chicken and milk, India faces prolonged food inflation",
-   "link": "https://www.business-standard.com/economy/news/from-grains-to-chicken-and-milk-india-faces-prolonged-food-inflation-126110300578_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "IndiGo passenger booked for tampering with emergency exit mechanism on Pune-bound flight",
-   "link": "https://www.hindustantimes.com/india-news/indigo-passenger-booked-for-tampering-with-emergency-exit-mechanism-on-pune-bound-flight-101793691222553.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Gold, silver prices fall on expectations of tighter monetary policy",
-   "link": "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-on-expectations-of-tighter-monetary-policy-126110300603_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:15:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
   }
  ]
 }
