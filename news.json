@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-04T21:31:11.608014+00:00",
+ "updated": "2026-11-04T21:45:52.034693+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI pumps ₹2.5 lakh crore into banks despite rate hike: Why loans may get costlier but not scarcer",
+   "link": "https://www.businesstoday.in/personal-finance/story/rbi-pumps-rs2-5-lakh-crore-into-banks-despite-rate-hike-why-loans-may-get-costlier-but-not-scarcer-565764-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T21:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Who Keeps Crashing China's Stock Market? | Stock Market News",
+   "link": "https://www.livemint.com/market/who-keeps-crashing-china-s-stock-market-11793820174602.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T21:30:00+00:00"
+  },
   {
    "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
    "link": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html",
@@ -3484,27 +3505,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "title": "Demonstrations generates 'protest economy', SC tells Delhi traders",
-   "link": "https://www.thehindubusinessline.com/news/demonstrations-generates-protest-economy-sc-tells-delhi-traders/article71661368.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "title": "Trade Gold, Silver, Crude Oil & Other Commodities on Bajaj Broking at just ₹10/Order",
-   "link": "https://www.thehindubusinessline.com/brandhub/trade-gold-silver-crude-oil-other-commodities-on-bajaj-broking-at-just-10order/article71660665.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
