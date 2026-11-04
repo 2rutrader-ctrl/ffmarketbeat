@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-04T20:31:12.946824+00:00",
+ "updated": "2026-11-04T20:45:50.353570+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 22 new items (12 files read)"
+  "gdelt": "ok, 14 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
+   "link": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T20:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "RBI forms panel for consultation on financial markets, emerging risks",
    "link": "https://www.business-standard.com/industry/banking/rbi-forms-panel-for-consultation-on-financial-markets-emerging-risks-126110401980_1.html",
@@ -3492,17 +3505,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "India needs 3 national carriers to compete globally: Adani Airports CEO",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/india-needs-3-national-carriers-to-compete-globally-adani-airports-ceo/article71660235.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
