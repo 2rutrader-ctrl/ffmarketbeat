@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:15:48.586009+00:00",
+ "updated": "2026-11-04T17:31:06.963736+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,17 @@
   "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "How HDFC Bank's Parivartan is helping Kashmir's saffron farmers adapt to climate change",
+   "link": "https://www.businesstoday.in/latest/economy/story/how-hdfc-banks-parivartan-is-helping-kashmirs-saffron-farmers-adapt-to-climate-change-565778-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T17:15:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
   {
    "title": "'Tariff policy will be less insane': Gita Gopinath after Democrats stun Trump in US midterms",
    "link": "https://www.businesstoday.in/india/story/tariff-policy-will-be-less-insane-gita-gopinath-after-democrats-stun-trump-in-us-midterms-565776-2026-11-04",
@@ -3453,17 +3464,6 @@
   {
    "title": "SBI puts ECL models in place, estimates Rs 19,500-crore post-tax impact",
    "link": "https://www.moneycontrol.com/news/business/banks/sbi-puts-ecl-models-in-place-estimates-rs-19-500-crore-post-tax-impact-14067958.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T14:00:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "SBI says root cause analysis of data breach underway, steps up cybersecurity checks",
-   "link": "https://www.moneycontrol.com/banking/sbi-says-root-cause-analysis-of-data-breach-underway-steps-up-cybersecurity-checks-article-14067961.html",
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
