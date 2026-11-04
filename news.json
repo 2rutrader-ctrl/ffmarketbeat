@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-04T07:01:22.828307+00:00",
+ "updated": "2026-11-04T07:15:47.693008+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 35 new items (12 files read)"
+  "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SEBI turns to AI for regional-language investor services: What could change for retail investors?",
+   "link": "https://www.livemint.com/market/sebi-turns-to-ai-for-regional-language-investor-services-what-could-change-for-retail-investors-11793770372112.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T07:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Awfis Space Solutions shares rally 13% on strong Q2 results | Check stock returns",
+   "link": "https://www.livemint.com/market/stock-market-news/awfis-space-solutions-shares-rally-13-on-strong-q2-results-check-stock-returns-11793772312307.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Pashupati Cotspin shares hit 10% lower circuit ahead of Q2 results after a stunning 70% monthly rally | What lies ahead?",
+   "link": "https://www.livemint.com/market/stock-market-news/pashupati-cotspin-shares-hit-10-lower-circuit-ahead-of-q2-results-after-a-stunning-70-monthly-rally-what-lies-ahead-11793770800395.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "MCX shares fall 5% as Q2 results miss estimates; Motilal Oswal gives 'Neutral' rating",
    "link": "https://www.moneycontrol.com/news/business/markets/mcx-shares-fall-5-as-q2-results-miss-estimates-motilal-oswal-gives-neutral-rating-14068812.html",
@@ -3274,40 +3313,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T05:45:00+00:00"
-  },
-  {
-   "title": "Marico Share Price: Marico shares spurt 6% on robust Q2 earnings, positive revision in guidance",
-   "link": "https://www.business-standard.com/markets/news/marico-shares-spurt-6-on-robust-q2-earnings-positive-revision-in-guidance-126110300266_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Sebi issues detailed rules for depositary receipts on REIT, InvIT units",
-   "link": "https://www.business-standard.com/markets/news/sebi-issues-detailed-rules-for-depositary-receipts-on-reit-invit-units-126110201424_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Oracle raises $20 billion through stock and bond sales to fund AI push",
-   "link": "https://www.business-standard.com/world-news/oracle-raises-20-billion-through-stock-and-bond-sales-to-fund-ai-push-126110300303_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:30:00+00:00"
   }
  ]
 }
