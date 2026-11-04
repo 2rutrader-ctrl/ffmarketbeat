@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-04T09:31:17.908061+00:00",
+ "updated": "2026-11-04T09:45:52.670752+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 55 new items (12 files read)"
+  "gdelt": "ok, 62 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI sets up market advisory panel to address liquidity, resilience concerns",
+   "link": "https://www.livemint.com/industry/rbi-sets-up-market-advisory-panel-to-address-liquidity-resilience-concerns-11793773573822.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:45:00+00:00",
+   "thought": {
+    "topic": "What banking liquidity changes",
+    "short": "Liquidity",
+    "text": "Liquidity measures change how much money is available in the banking system. This influences short-term interest rates and the ease with which banks can lend."
+   }
+  },
+  {
+   "title": "Small-cap apparel stock jumps over 3% after the announcement of Q2 Results 2026 | Do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-apparel-stock-vishal-fabrics-jumps-over-3-after-the-announcement-of-q2-results-2026-do-you-own-11793775946928.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Services sector growth hits a four-month peak in October, PMI survey shows",
+   "link": "https://www.livemint.com/economy/india-services-pmi-hsbc-india-pmi-11793781185446.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T09:45:00+00:00",
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
+  {
+   "title": "Bharti Airtel Q2 preview: Higher Arpu, subscriber upgrades to drive earnings",
+   "link": "https://www.livemint.com/companies/news/bharti-airtel-q2-results-fy27-revenue-profit-arpu-subscriber-growth-11793772859175.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Redington shares surge 11% on strong Q2 results; profit rises 21% to Rs 422 crore",
    "link": "https://www.moneycontrol.com/news/business/markets/redington-shares-surge-11-on-strong-q2-results-profit-rises-21-to-rs-422-crore-14069345.html",
@@ -3290,44 +3345,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Vedanta clarifies on Odisha land allotment issue; check stock reaction",
-   "link": "https://www.businesstoday.in/markets/stocks/story/vedanta-clarifies-on-odisha-land-allotment-issue-check-stock-reaction-565362-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00",
-   "companies": [
-    "Vedanta"
-   ]
-  },
-  {
-   "title": "Internet says air-fried food is healthier than deep-fried snacks: But expert explains why using less oil does not automatically make it healthy",
-   "link": "https://www.hindustantimes.com/lifestyle/health/the-internet-says-air-fried-food-is-healthier-than-deep-fried-snacks-but-does-using-less-oil-make-it-healthy-expert-weighs-in-101793686658443.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:30:00+00:00"
-  },
-  {
-   "title": "IndiGo to have 14 A321 XLR planes by end of 2027: CEO Willie Walsh",
-   "link": "https://www.business-standard.com/industry/aviation/indigo-to-have-14-a321-xlr-planes-by-end-of-2027-ceo-willie-walsh-126110300569_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Centre proposes expanding import gateways for drugs, medical devices",
-   "link": "https://www.business-standard.com/industry/news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-126110300397_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:15:00+00:00"
   }
  ]
 }
