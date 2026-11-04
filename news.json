@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-04T01:15:51.644773+00:00",
+ "updated": "2026-11-04T01:31:09.750108+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 1 new items (12 files read)"
+  "gdelt": "ok, 3 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "How Jio is unlocking hidden value for Reliance shareholders",
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-holding-company-discount-jio-platforms-share-price-11793702625359.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T01:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "RBI's proposed curbs on revolving credit push NBFCs back to the drawing board",
+   "link": "https://www.livemint.com/industry/rbis-proposed-curbs-on-revolving-credit-push-nbfcs-back-to-the-drawing-board-11793711901553.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T01:30:00+00:00"
+  },
   {
    "title": "Lupin Q2 net profit falls 22.19 pc to ₹1,155.3 crore",
    "link": "https://www.livemint.com/focus/lupin-q2-net-profit-falls-22-19-pc-to-rs-1-155-3-crore-11793739442753.html",
@@ -3240,22 +3259,6 @@
    "companies": [
     "Cipla"
    ]
-  },
-  {
-   "title": "'FIIs are sheep': Aswath Damodaran says now is a good time to invest in Indian stocks",
-   "link": "https://www.businesstoday.in/latest/economy/story/fiis-are-sheep-aswath-damodaran-says-now-is-a-good-time-to-invest-in-indian-stocks-565270-2026-11-02",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "Overdependence on fossil fuels will continue to disrupt global economy: PM Modi",
-   "link": "https://www.thehindubusinessline.com/economy/overdependence-on-fossil-fuels-will-continue-to-disrupt-global-economy-pm-modi/article71657501.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
   }
  ]
 }
