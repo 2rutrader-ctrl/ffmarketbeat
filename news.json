@@ -1,12 +1,75 @@
 {
- "updated": "2026-11-04T04:15:51.220866+00:00",
+ "updated": "2026-11-04T04:31:11.642060+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold's 10-year Dhanteras scorecard: Grown 4.6 times since 2016",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-s-10-year-dhanteras-scorecard-grown-4-6-times-since-2016-14068348.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T04:30:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Here's what can anchor the rupee more firmly",
+   "link": "https://www.moneycontrol.com/news/opinion/here-s-what-can-anchor-the-rupee-more-firmly-14068609.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "MCX Q2 results: Net profit more than doubles to ₹455 crore in FY27",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold, silver prices today, 4 Nov: Check 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata ahead of Dhanteras",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-4-nov-check-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-ahead-of-dhanteras-11793762831871.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "SBI's Q2 mirrors a resilient India, but the real test is yet to come",
+   "link": "https://www.moneycontrol.com/news/opinion/sbi-s-q2-mirrors-a-resilient-india-but-the-real-test-is-yet-to-come-14068533.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T04:30:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "US midterm election results impact on Indian economy: From trade deal to oil prices and stock markets, explained",
    "link": "https://www.livemint.com/economy/us-midterm-election-results-impact-indian-economy-trade-deal-h1b-visa-oil-prices-stock-markets-rupee-explained-democrats-11793758887400.html",
@@ -3211,54 +3274,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T21:00:00+00:00"
-  },
-  {
-   "title": "US voters in a sour economic mood heading into midterm elections",
-   "link": "https://www.business-standard.com/world-news/us-voters-in-a-sour-economic-mood-heading-into-midterm-elections-126110201688_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T20:30:00+00:00"
-  },
-  {
-   "title": "IPO fundraising rises 30% to record ₹84,400 crore in H1FY27: Report",
-   "link": "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T20:30:00+00:00"
-  },
-  {
-   "title": "'Nobody will trust you', SC cautions Centre in Vedanta-Ravva dispute",
-   "link": "https://www.business-standard.com/india-news/nobody-will-trust-you-sc-cautions-centre-in-vedanta-ravva-dispute-126110201685_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T20:00:00+00:00",
-   "companies": [
-    "Vedanta"
-   ]
-  },
-  {
-   "title": "Blast at Visakhapatnam's HPCL oil refinery: What led to blaze? Cause of fire, casualties - what we know",
-   "link": "https://www.livemint.com/news/india/blast-at-visakhapatnams-hpcl-oil-refinery-what-led-to-blaze-cause-of-fire-casualties-what-we-know-11793642457780.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T20:00:00+00:00"
-  },
-  {
-   "title": "Income Tax: Can married daughters keep gold jewellery at parents' home? ITAT ruling explains tax implications",
-   "link": "https://www.livemint.com/money/personal-finance/income-tax-can-married-daughters-keep-gold-jewellery-at-parents-home-itat-ruling-explains-tax-implications-11793639979672.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-02T19:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
