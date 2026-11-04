@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-04T12:31:10.760809+00:00",
+ "updated": "2026-11-04T12:45:48.097940+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SEBI's mutual fund switch proposal raises an old question: easier exits, or easier churn?",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-s-mutual-fund-switch-proposal-raises-an-old-question-easier-exits-or-easier-churn-14069826.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "PhysicsWallah Q2: Net profit at Rs 143.6 crore, revenue rises 18% YoY",
+   "link": "https://www.moneycontrol.com/news/business/earnings/physicswallah-q2-net-profit-at-rs-143-6-crore-revenue-rises-18-yoy-14069827.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Reliance Jio launches truly unlimited 5G data pack at Rs 15 with 24-hour validity: Details",
+   "link": "https://www.moneycontrol.com/technology/reliance-jio-launches-truly-unlimited-5g-data-pack-at-rs-15-with-24-hour-validity-details-article-14069806.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
   {
    "title": "Dabur Q2 net profit rises 12% to Rs 506 crore, beats estimates; global CEO Mohit Malhotra resigns",
    "link": "https://www.moneycontrol.com/news/business/earnings/dabur-q2-net-profit-rises-12-to-rs-506-crore-beats-estimates-global-ceo-mohit-malhotra-resigns-14069739.html",
@@ -3365,40 +3402,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "SBI Q2 net profit jumps 14% to ₹23,038 cr - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/sbi-reports-14-increase-in-q2fy27-standalone-net-profit-at-23038-cr/article71660139.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "ITC shares gain modestly after Q2 results; analysts split on outlook",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/itc-gains-modestly-after-q2-results-analysts-split-on-outlook/article71659830.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India has never allowed import of GM products, will not do so in future: Goyal",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/india-has-never-allowed-import-of-gm-products-will-not-do-so-in-future-goyal/article71660018.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
   }
  ]
 }
