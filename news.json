@@ -1,12 +1,59 @@
 {
- "updated": "2026-11-04T02:45:52.793772+00:00",
+ "updated": "2026-11-04T03:01:20.779521+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Kauvery Hospitals plans to double capacity to 5,000 beds in 3-4 years; in no hurry for IPO",
+   "link": "https://www.thehindubusinessline.com/companies/kauvery-hospitals-plans-to-double-capacity-to-5000-beds-in-3-4-years-in-no-hurry-for-ipo/article71661521.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T03:00:00+00:00"
+  },
+  {
+   "title": "Lupin Q2 net profit falls 22.19% to ₹1,155.3 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/lupin-q2-net-profit-falls-2219-to-11553-crore/article71663691.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T03:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SEBI signs MoU with Digital India BHASHINI div to provide services in regional languages",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-signs-mou-with-digital-india-bhashini-div-to-provide-services-in-regional-languages/article71663695.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T03:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "SEBI's proposal to let exchanges grow beyond trading - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/opinion/sebis-proposal-to-let-exchanges-grow-beyond-trading/article71662078.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T03:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Rupee may slide to 102 against US dollar by December 2027, 106 by 2028: Report",
    "link": "https://www.businesstoday.in/latest/economy/story/rupee-may-slide-to-102-against-us-dollar-by-december-2027-106-by-2028-report-565526-2026-11-04",
@@ -3215,44 +3262,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "City Union Bank receives RBI nod for new ED - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/city-union-bank-recieves-rbi-nod-for-new-ed/article71657562.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "Reliance Consumer Products expands Independence biscuit portfolio with nine new variants",
-   "link": "https://www.thehindubusinessline.com/companies/reliance-consumer-products-expands-independence-biscuit-portfolio-with-nine-new-variants/article71657049.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Silver Touch Technologies Delivers Strong Consolidated H1 FY27 Performance; EBITDA Grows 66% to INR 37.85 Crore and PAT Surges 100% to INR 23.04 Crore",
-   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/silver-touch-technologies-delivers-strong-consolidated-h1-fy27-performance-ebitda-grows-66-to-inr-3785-crore-and-pat-surges-100-to-inr-2304-crore/article71655655.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00"
-  },
-  {
-   "title": "ITC Ltd Q2 net skids 20% to ₹4,137 crore, higher taxation hits cigarette biz profitability",
-   "link": "https://www.thehindubusinessline.com/companies/itc-ltd-q2-net-skids-20-to-4137-crore-higher-taxation-hits-cigarette-biz-profitability/article71657721.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-02T18:00:00+00:00",
-   "companies": [
-    "ITC"
-   ]
   }
  ]
 }
