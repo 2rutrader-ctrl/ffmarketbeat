@@ -1,12 +1,65 @@
 {
- "updated": "2026-11-04T15:43:49.972858+00:00",
+ "updated": "2026-11-04T15:45:52.480150+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Apollo Hospitals' Q2 revenue rises 23%; profit up 32% on broad-based growth",
+   "link": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:45:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ]
+  },
+  {
+   "title": "Apollo Hospitals Q2 consolidated net profit up 32% YoY to ₹630 crore",
+   "link": "https://www.thehindubusinessline.com/companies/apollo-hospitals-q2-consolidated-net-profit-up-32-yoy-to-630-crore/article71666576.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:45:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold ETFs attract ₹3,300 crore in Oct as investors go on a buying spree ahead of Diwali",
+   "link": "https://www.thehindubusinessline.com/markets/gold-etfs-attract-3300-crore-in-oct-as-investors-go-on-a-buying-spree-ahead-of-diwali/article71665451.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T15:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "MRPL's Russian crude sourcing touches 32% in Q2FY27 - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/mrpls-russian-crude-sourcing-touches-32-in-q2fy27/article71666343.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T15:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Budget 2027: FICCI seeks removal of LTCG tax on equities, suggests higher STT to offset revenue loss",
    "link": "https://www.businesstoday.in/latest/economy/story/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-equities-suggests-higher-stt-to-offset-revenue-loss-565772-2026-11-04",
@@ -3413,44 +3466,6 @@
    "published": "2026-11-03T13:00:00+00:00",
    "companies": [
     "State Bank of India"
-   ]
-  },
-  {
-   "title": "SC notices to Centre, Assam on Oil India plea on rejection of drilling proposal at national park",
-   "link": "https://www.moneycontrol.com/news/india/sc-notices-to-centre-assam-on-oil-india-plea-on-rejection-of-drilling-proposal-at-national-park-14067896.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:45:00+00:00"
-  },
-  {
-   "title": "Tata Motors plans local assembly of Iveco vehicles, eyes global expansion",
-   "link": "https://www.business-standard.com/industry/auto/tamo-iveco-to-create-world-s-4th-largest-cv-group-with-2-28-trn-revenue-126110301401_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:45:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "2nd time in a week! Oil patches spotted in Singapore, what is happening in its Southern Waters? Know here",
-   "link": "https://www.moneycontrol.com/science/2nd-time-in-a-week-oil-patches-spotted-in-singapore-what-is-happening-in-its-southern-waters-know-here-article-14067889.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T12:45:00+00:00"
-  },
-  {
-   "title": "IndiGo CEO seeks lower Mumbai airport charges after Terminal 1 revamp",
-   "link": "https://www.business-standard.com/industry/aviation/indigo-ceo-seeks-lower-mumbai-airport-charges-after-terminal-1-revamp-126110301439_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T12:45:00+00:00",
-   "companies": [
-    "IndiGo"
    ]
   }
  ]
