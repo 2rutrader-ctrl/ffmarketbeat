@@ -1,12 +1,83 @@
 {
- "updated": "2026-11-04T16:31:18.266408+00:00",
+ "updated": "2026-11-04T16:45:50.543288+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 43 new items (12 files read)"
+  "gdelt": "ok, 40 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SEBI sets up panel to revive dormant startup listing platform",
+   "link": "https://www.moneycontrol.com/news/business/ipo/sebi-sets-up-panel-to-revive-dormant-startup-listing-platform-14070287.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Nita Ambani shines in pure red Banarasi Ramavali saree featuring woven 'Shri Ram' inscriptions and lord Vishnu's footprints at Reliance Deepawali Utsav",
+   "link": "https://www.moneycontrol.com/entertainment/nita-ambani-shines-in-pure-red-banarasi-ramavali-saree-featuring-woven-shri-ram-inscriptions-and-lord-vishnu-s-footprints-at-reliance-deepawali-utsav-article-14070331.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Fed wins protection with Democrats taking control of the Senate",
+   "link": "https://www.moneycontrol.com/world/fed-wins-protection-with-democrats-taking-control-of-the-senate-article-14070242.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T16:45:00+00:00"
+  },
+  {
+   "title": "UAE mulls third crude oil pipeline to avoid Strait of Hormuz",
+   "link": "https://www.moneycontrol.com/world/uae-mulls-third-crude-oil-pipeline-to-avoid-strait-of-hormuz-article-14070316.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T16:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Aurobindo Pharma Q2: Net profit rises 32.5% to Rs 1,124 crore, revenue hits record high",
+   "link": "https://www.moneycontrol.com/news/business/earnings/aurobindo-pharma-q2-net-profit-rises-32-5-to-rs-1-124-crore-revenue-hits-record-high-14070340.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SEBI sets up working group to review Innovators Growth Platform framework, ease capital access for start-ups",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-sets-up-working-group-to-review-innovators-growth-platform-framework-ease-capital-access-for-start-ups-14070272.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T16:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "APPCB seeks ₹36.17 crore compensation from ONGC over Mori-5 well blowout, serves show-cause notice",
    "link": "https://www.thehindu.com/news/national/andhra-pradesh/appcb-seeks-3617-crore-compensation-from-ongc-over-mori-5-well-blowout-serves-show-cause-notice/article71666423.ece",
@@ -3397,75 +3468,6 @@
    "published": "2026-11-03T13:45:00+00:00",
    "companies": [
     "NTPC"
-   ]
-  },
-  {
-   "title": "Emcure Pharma Q2FY27 net profit rises 34% to ₹325.5 crore, revenue up 24%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/emcure-pharma-q2fy27-results-net-profit-rises-29-31-to-325-crore-126110301363_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T13:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Tech, operational resilience as important as credit risk for banks: RBI Deputy Governor Swaminathan J",
-   "link": "https://www.moneycontrol.com/news/business/banks/tech-operational-resilience-as-important-as-credit-risk-for-banks-rbi-deputy-governor-swaminathan-j-14067948.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:30:00+00:00"
-  },
-  {
-   "title": "Penny stock under ₹10 jumps 7.5% after Q2 Results 2026 following Indian stock market rally; do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-jumps-7-5-after-q2-results-2026-following-indian-stock-market-rally-do-you-own-11793704689095.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Reliance shares see volume breakout: Is a trend reversal around the corner? Here's what RIL stock history shows",
-   "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-see-volume-breakout-is-a-trend-reversal-around-the-corner-here-s-what-history-shows-11793706073307.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:30:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "SBI's $10 billion FCNR-B deposit mobilisation will not materially weigh on NIMs, says chairman CS Setty",
-   "link": "https://www.moneycontrol.com/news/business/banks/sbi-s-10-billion-fcnr-b-deposit-mobilisation-will-not-materially-weigh-on-nims-says-chairman-cs-setty-14067953.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T13:30:00+00:00",
-   "companies": [
-    "State Bank of India"
    ]
   }
  ]
