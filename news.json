@@ -1,12 +1,83 @@
 {
- "updated": "2026-11-04T12:15:48.066940+00:00",
+ "updated": "2026-11-04T12:31:10.760809+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dabur Q2 net profit rises 12% to Rs 506 crore, beats estimates; global CEO Mohit Malhotra resigns",
+   "link": "https://www.moneycontrol.com/news/business/earnings/dabur-q2-net-profit-rises-12-to-rs-506-crore-beats-estimates-global-ceo-mohit-malhotra-resigns-14069739.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Titan, Kalyan, other jewellery shares rise up to 6% ahead of Dhanteras, rise in gold prices",
+   "link": "https://www.moneycontrol.com/news/business/markets/titan-kalyan-other-jewellery-shares-rise-up-to-6-ahead-of-dhanteras-rise-in-gold-prices-14069426.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:30:00+00:00",
+   "companies": [
+    "Titan"
+   ],
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India's Nykaa quarterly profit nearly triples on beauty demand, margin gains",
+   "link": "https://www.moneycontrol.com/news/business/earnings/india-s-nykaa-quarterly-profit-nearly-triples-on-beauty-demand-margin-gains-14069746.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "title": "Trump's midterm defeat raises hopes of tariff relief, but India still faces trade risks experts explain",
+   "link": "https://www.businesstoday.in/latest/economy/story/trumps-midterm-defeat-raises-hopes-of-tariff-relief-but-india-still-faces-trade-risks-experts-explain-565728-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "'China's economy is doing really quite badly': British author stunned by tech boom, economic slump",
+   "link": "https://www.businesstoday.in/latest/economy/story/chinas-economy-is-doing-really-quite-badly-british-author-stunned-by-tech-boom-economic-slump-565723-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "title": "Dabur Q2 results: Net profit rises 12%, revenue at Rs 3,563 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/dabur-q2-results-net-profit-rises-12-revenue-at-rs-3563-crore-565730-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Biocon Q2 net profit falls 57.3%to ₹56.7 cr - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/biocon-q2-net-profit-falls-573to-567-cr/article71665253.ece",
@@ -3328,69 +3399,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "Banks overtake NBFCs in gold loans outstanding - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/data-stories/data-focus/banks-overtake-nbfcs-in-gold-loans-outstanding/article71657131.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Coonoor Auction: Tea prices rise on blenders support, export demand",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/coonoor-auction-tea-prices-rise-on-blenders-support-export-demand/article71660273.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "Asian Paints surges 2.7% as investors rush ahead of dividend ex-date",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/asian-paints-surges-27-as-investors-rush-ahead-of-dividend-ex-date/article71659864.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "RBI eases services export reporting compliance for individual exporters, issues notification",
-   "link": "https://www.thehindubusinessline.com/economy/rbi-eases-services-export-reporting-compliance-for-individual-exporters-issues-notification/article71659940.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "India's tax hike drives illegal gold imports to 3-year high",
-   "link": "https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold demand down 30% in September quarter as high prices hurt jewellery sales",
-   "link": "https://www.thehindubusinessline.com/markets/gold/gold-demand-down-30-in-september-quarter-as-high-prices-hurt-jewellery-sales/article71660046.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
