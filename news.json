@@ -1,12 +1,70 @@
 {
- "updated": "2026-11-04T11:31:07.280733+00:00",
+ "updated": "2026-11-04T11:45:52.739131+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 35 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Cabinet clears Rs 4,371 crore statistics overhaul, plans 59 surveys and eighth Economic Census",
+   "link": "https://www.moneycontrol.com/news/business/cabinet-clears-rs-4-371-crore-statistics-overhaul-plans-59-surveys-and-eighth-economic-census-14069512.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:15:00+00:00"
+  },
+  {
+   "title": "Zomato launches 'Host Mode' to hide food prices as Deepinder Goyal acts on user's suggestion: How it works",
+   "link": "https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:15:00+00:00",
+   "companies": [
+    "Eternal (Zomato)"
+   ]
+  },
+  {
+   "title": "Stockal scam investors stare at regulatory vacuum, SEBI has no jurisdiction over foreign equities, says Sandeep Parekh",
+   "link": "https://www.moneycontrol.com/news/business/stockal-scam-investors-face-regulatory-vacuum-overseas-equities-outside-sebi-jurisdiction-says-sandeep-parekh-14069528.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "RBI rejects bids for 182-day T-Bills as investors seek higher yields amid tight liquidity",
+   "link": "https://www.moneycontrol.com/news/business/banks/rbi-rejects-bids-for-182-day-t-bills-as-investors-seek-higher-yields-amid-tight-liquidity-14069585.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:15:00+00:00",
+   "thought": {
+    "topic": "What banking liquidity changes",
+    "short": "Liquidity",
+    "text": "Liquidity measures change how much money is available in the banking system. This influences short-term interest rates and the ease with which banks can lend."
+   }
+  },
+  {
+   "title": "Rupee gains 17 paise to settle at 94.58 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/rupee-gains-17-paise-to-settle-at-9458-against-us-dollar/article71665235.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Maxwell Engineering Solutions SME IPO allotment today; GMP nears 50%, check status on NSE & registrar",
    "link": "https://www.moneycontrol.com/news/business/ipo/maxwell-engineering-solutions-sme-ipo-allotment-today-gmp-nears-50-check-status-on-nse-registrar-14069555.html",
@@ -3310,54 +3368,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "title": "Nouriel Roubini: Public debt is rising the world over—can bond vigilantes save the day?",
-   "link": "https://www.livemint.com/opinion/online-views/nouriel-roubini-public-debt-is-rising-can-bond-vigilantes-save-the-day-11793634019222.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "title": "Why ITC should focus its energies on the non-cigarettes FMCG business",
-   "link": "https://www.moneycontrol.com/news/opinion/why-itc-should-focus-its-energies-on-the-non-cigarettes-fmcg-business-14067459.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "Ukrainian drones hit Russian oil refinery, injure two; Moscow claims 856 drones downed overnight",
-   "link": "https://www.moneycontrol.com/world/ukrainian-drones-hit-russian-oil-refinery-injure-two-moscow-claims-856-drones-downed-overnight-article-14067565.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "title": "HDFC Bank share price gains 3% today: Here's why - Is the worst over after a 27% one-year fall? What experts say",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "title": "Rajesh Power Q2 net profit jumps 35% to over Rs 79 crore",
-   "link": "https://www.moneycontrol.com/news/business/earnings/rajesh-power-q2-net-profit-jumps-35-to-over-rs-79-crore-14067486.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
