@@ -1,12 +1,64 @@
 {
- "updated": "2026-11-04T09:45:52.670752+00:00",
+ "updated": "2026-11-04T10:15:52.129779+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 62 new items (12 files read)"
+  "gdelt": "ok, 56 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Zydus Lifesciences Q2 net profit falls 27% as expenses outpace revenue growth; shares decline 3.5%",
+   "link": "https://www.moneycontrol.com/news/business/markets/zydus-lifesciences-q2-net-profit-falls-27-as-expenses-outpace-revenue-growth-shares-decline-3-5-14069455.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Alembic Pharma shares hit 20% upper circuit after strong Q2 results",
+   "link": "https://www.moneycontrol.com/news/business/markets/alembic-pharma-shares-hit-20-upper-circuit-after-strong-q2-results-14069459.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Muthoot Finance, Manappuram shares rise up to 8% as gold jumps 2.5% on softer dollar after Democratic midterm sweep",
+   "link": "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-shares-rise-up-to-8-as-gold-jumps-2-5-on-softer-dollar-after-democratic-midterm-sweep-14069367.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T10:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold price optimism cools among Indians: Should investors change their investment strategy?",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-price-optimism-cools-among-indians-should-investors-change-their-investment-strategy-14069390.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T10:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "RBI sets up market advisory panel to address liquidity, resilience concerns",
    "link": "https://www.livemint.com/industry/rbi-sets-up-market-advisory-panel-to-address-liquidity-resilience-concerns-11793773573822.html",
@@ -3307,43 +3359,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "₹1 lakh in silver at the January peak is worth about ₹47,750 now: What Dhanteras buyers should know",
-   "link": "https://www.businesstoday.in/latest/trends/photo/rs1-lakh-in-silver-at-the-january-peak-is-worth-about-rs47750-now-what-dhanteras-buyers-should-know-565368-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00"
-  },
-  {
-   "title": "India will never allow imports of genetically modified products: Goyal",
-   "link": "https://www.business-standard.com/industry/news/india-will-never-allow-imports-of-genetically-modified-products-goyal-126110300764_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00"
-  },
-  {
-   "title": "Mukesh Ambani overtakes ByteDance founder to become Asia's richest person after Reliance shares surge nearly 12%",
-   "link": "https://www.businesstoday.in/india/story/mukesh-ambani-overtakes-bytedance-founder-to-become-asias-richest-person-after-reliance-shares-surge-nearly-12-565348-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T08:45:00+00:00"
-  },
-  {
-   "title": "Diwali bling goes underground: Illegal gold imports surge 1,500% as higher taxes bite",
-   "link": "https://www.businesstoday.in/latest/economy/story/diwali-bling-goes-underground-illegal-gold-imports-surge-1500-as-higher-taxes-bite-565340-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T08:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
