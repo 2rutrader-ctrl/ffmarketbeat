@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-04T13:01:21.520682+00:00",
+ "updated": "2026-11-04T13:15:54.022633+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "How Markets Reacted to Democrats' Win: Stocks U-Turn, Gold Gains",
+   "link": "https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold and silver prices today: Bought on Dhanteras 2025? Check what your ₹1 lakh investment is worth now",
+   "link": "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-today-bought-on-dhanteras-2025-check-what-your-1-lakh-investment-is-worth-now-11793795164740.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "SEBI's mutual fund switch proposal raises an old question: easier exits, or easier churn?",
    "link": "https://www.moneycontrol.com/news/business/markets/sebi-s-mutual-fund-switch-proposal-raises-an-old-question-easier-exits-or-easier-churn-14069826.html",
@@ -3385,22 +3411,6 @@
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
-   "published": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "Demonstrations generate 'protest economy', Supreme Court tells Delhi traders",
-   "link": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "US midterms: What a Democratic victory could mean for Trump, economic policy and markets",
-   "link": "https://www.moneycontrol.com/news/business/markets/us-midterms-what-a-democratic-victory-could-mean-for-trump-economic-policy-and-markets-14067728.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
    "published": "2026-11-03T11:00:00+00:00"
   }
  ]
