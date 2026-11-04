@@ -1,12 +1,93 @@
 {
- "updated": "2026-11-04T06:45:46.456249+00:00",
+ "updated": "2026-11-04T07:01:22.828307+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "MCX shares fall 5% as Q2 results miss estimates; Motilal Oswal gives 'Neutral' rating",
+   "link": "https://www.moneycontrol.com/news/business/markets/mcx-shares-fall-5-as-q2-results-miss-estimates-motilal-oswal-gives-neutral-rating-14068812.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Martin Wolf: The economic risks of the AI boom",
+   "link": "https://www.moneycontrol.com/news/opinion/martin-wolf-the-economic-risks-of-the-ai-boom-14068762.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00"
+  },
+  {
+   "title": "Urmila Matondkar's maroon velvet and champagne-gold lehenga is festive fashion inspiration for those who love royal ethnic looks",
+   "link": "https://www.hindustantimes.com/lifestyle/fashion/urmila-matondkars-maroon-velvet-and-champagne-gold-lehenga-is-festive-fashion-inspiration-for-those-who-love-royal-ethnic-looks-101793772125046.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "North Africa's green hydrogen exports to Europe could harm water supply and marine life: study",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00"
+  },
+  {
+   "title": "Is falling gold price reviving demand?",
+   "link": "https://www.moneycontrol.com/news/opinion/is-falling-gold-price-reviving-demand-14068882.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India's US Treasury holdings climbed to $220 billion in August as RBI absorbed record dollar inflows",
+   "link": "https://www.moneycontrol.com/news/business/banks/india-s-us-treasury-holdings-climb-to-220-billion-in-august-as-rbi-absorbs-record-dollar-inflows-14068807.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T07:00:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout",
+   "link": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T07:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
   {
    "title": "Kolte-Patil Q2 results: Net profit at ₹5.7 cr, income jumps over 2-fold",
    "link": "https://www.business-standard.com/companies/quarterly-results/kolte-patil-q2-results-net-profit-at-5-7cr-income-jumps-over-2-fold-126110400416_1.html",
@@ -3227,90 +3308,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T05:30:00+00:00"
-  },
-  {
-   "title": "ITC up 1% after weak Q2; analysts see gradual recovery in cigarette biz",
-   "link": "https://www.business-standard.com/markets/news/itc-up-1-after-weak-q2-analysts-see-gradual-recovery-in-cigarette-biz-126110300289_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:30:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "Puravankara Q2 results: Net profit at ₹84 cr, income rises to ₹1,051 cr",
-   "link": "https://www.business-standard.com/companies/quarterly-results/puravankara-q2-results-net-profit-at-84-cr-income-rises-to-1-051-cr-126110300319_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "BLS Polymers IPO investors gain 65% as shares make strong debut on bourses",
-   "link": "https://www.business-standard.com/markets/news/bls-polymers-ipo-investors-gain-65-as-shares-make-strong-debut-on-bourses-126110300366_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:30:00+00:00"
-  },
-  {
-   "title": "Rupee rises 12 paise to 94.72 against US dollar during early trade",
-   "link": "https://www.business-standard.com/finance/news/rupee-rises-12-paise-to-94-72-against-us-dollar-during-early-trade-126110300299_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Gold, silver prices on November 3: Yellow metal drops to ₹1.39 lakh, silver at ₹1.80 lakh; check latest rates here",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-3-yellow-metal-drops-to-rs1-39-lakh-silver-at-rs1-80-lakh-check-latest-rates-here-565286-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Rupee rises 12 paise to 94.72 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-12-paise-to-9472-against-us-dollar-in-early-trade/article71659450.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T05:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Price Action: Jupiter Wagons gains 2% on order win; KEC International slides 7% after weak Q2 earnings",
-   "link": "https://www.moneycontrol.com/news/business/markets/price-action-jupiter-wagons-gains-2-on-order-win-kec-international-slides-7-after-weak-q2-earnings-14066855.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
