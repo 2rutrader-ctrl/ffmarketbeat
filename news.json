@@ -1,12 +1,231 @@
 {
- "updated": "2026-11-04T11:45:52.739131+00:00",
+ "updated": "2026-11-04T12:01:23.200457+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 54 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Biocon Q2 net profit falls 57.3%to ₹56.7 cr - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/biocon-q2-net-profit-falls-573to-567-cr/article71665253.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Technical View: Nifty 50 reclaims 200-day EMA, 24,000 emerges as crucial resistance; Bank Nifty needs to cross 56,100 for further rally",
+   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-reclaims-200-day-ema-24-000-emerges-as-crucial-resistance-bank-nifty-needs-to-cross-56-100-for-further-rally-14069502.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:00:00+00:00"
+  },
+  {
+   "title": "Bank of Baroda WMS Recruitment 2026: Apply for 805 Managerial posts at bankofbaroda.bank.in, details here",
+   "link": "https://www.hindustantimes.com/education/employment-news/bank-of-baroda-wms-recruitment-2026-apply-for-805-managerial-posts-at-bankofbaroda-bank-in-details-here-101793791733670.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T12:00:00+00:00",
+   "companies": [
+    "Bank of Baroda"
+   ]
+  },
+  {
+   "title": "New Zealand's central bank just made a grave error—Fed chair Kevin Warsh should learn from it",
+   "link": "https://www.livemint.com/opinion/online-views/new-zealands-central-bank-just-made-a-grave-error-fed-chair-kevin-warsh-should-learn-from-it-11793703568609.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Rupee likely to resume slide as foreign outflows keep pressure on currency",
+   "link": "https://www.business-standard.com/finance/news/rupee-likely-to-resume-slide-as-foreign-outflows-keep-pressure-on-currency-126110400926_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5%",
+   "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-sensex-nifty-smallcap-100-jumps-2-midcap-100-gains-1-5-14069588.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00"
+  },
+  {
+   "title": "Stock Market Outlook: History favours bulls in November, but can Nifty rally despite global headwinds?",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-history-favours-bulls-in-november-but-can-nifty-rally-despite-global-headwinds-11793782345049.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00"
+  },
+  {
+   "title": "Stock Market Rally: Bulls to stay? Nifty, Sensex gain 5.5% in 5 sessions; Can the momentum sustain? Key levels to watch",
+   "link": "https://www.livemint.com/market/stock-market-rally-bulls-to-stay-nifty-sensex-gain-5-5-in-5-sessions-can-the-momentum-sustain-key-levels-to-watch-11793787625537.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00"
+  },
+  {
+   "title": "Razorpay gets Sebi nod for ₹5,000-6,000 cr IPO, eyes $5 billion valuation",
+   "link": "https://www.business-standard.com/companies/news/razorpay-gets-sebi-nod-for-5-000-6-000-cr-ipo-eyes-5-billion-valuation-126110401121_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "US Midterm Election Results Impact Decoded: Can Sensex, Nifty hit new peak? Gold, silver rates rebound with Trump loss",
+   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-decoded-can-sensex-nifty-hit-new-peak-gold-silver-rates-rebound-with-trump-loss-11793788769424.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "US midterm elections impact on gold, silver prices in India: How Donald Trump's loss is affecting precious metals rates",
+   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-elections-impact-on-gold-silver-prices-in-india-how-donald-trumps-loss-is-affecting-precious-metals-rates-11793785627674.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dhanteras, Diwali 2026: Buying gold jewellery or silver coins? Check these 6 key details in your bill before paying",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-buying-gold-jewellery-or-silver-coins-check-these-6-key-details-in-your-bill-before-paying-11793784310850.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "SBI's conservative FY27 guidance leaves investor wanting more",
+   "link": "https://www.livemint.com/market/stock-market-news/sbi-q2-earnings-fy27-guidance-investor-wanting-more-11793783435201.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "MRPL increases delivered-basis crude oil purchases amid Iran war risks",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/mrpl-shifts-to-delivered-basis-crude-oil-purchases-to-reduce-shipping-risks/article71664819.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "IndiGo in talks with Embraer for 100 jets - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/indigo-in-talks-with-embraer-for-100-jets/article71664670.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "BHEL bags projects worth up to ₹28,000 cr from Adani Power",
+   "link": "https://www.thehindubusinessline.com/companies/bhel-bags-projects-worth-up-to-28000-cr-from-adani-power/article71664671.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Trump midterm setback could affect global trade talks and tariff deals",
+   "link": "https://www.thehindubusinessline.com/news/world/trumps-midterm-setback-could-weaken-us-hand-in-global-trade-talks/article71665052.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T11:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Razorpay gets Sebi nod for ₹5,000-6,000 crore IPO; eyes $5 billion valuation",
+   "link": "https://www.thehindubusinessline.com/markets/razorpay-gets-sebi-nod-for-5000-6000-crore-ipo-eyes-5-billion-valuation/article71665144.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Rupee ends a tad higher as dollar slips after US midterms",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-ends-a-tad-higher-as-dollar-slips-after-us-midterms/article71665114.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T11:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Cabinet clears Rs 4,371 crore statistics overhaul, plans 59 surveys and eighth Economic Census",
    "link": "https://www.moneycontrol.com/news/business/cabinet-clears-rs-4-371-crore-statistics-overhaul-plans-59-surveys-and-eighth-economic-census-14069512.html",
@@ -3172,202 +3391,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "India aiming to achieve ₹3 lakh crore defence production, ₹50K crore defence exports by 2029: Rajnath",
-   "link": "https://www.thehindubusinessline.com/news/india-aiming-to-achieve-3-lakh-crore-defence-production-50k-crore-defence-exports-by-2029-rajnath/article71660290.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "India will make tunnel boring machines at home if China restricts exports: Goyal",
-   "link": "https://www.thehindubusinessline.com/economy/india-will-make-tunnel-boring-machines-at-home-if-china-restricts-exports-goyal/article71659787.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "Nifty tops 23,600 at midday as Banks, Telecom lead broad rally",
-   "link": "https://www.thehindubusinessline.com/markets/nifty-tops-23600-at-midday-as-banks-telecom-lead-broad-rally/article71659941.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00"
-  },
-  {
-   "title": "AI driven productivity could expand India's GDP: Cognizant",
-   "link": "https://www.thehindubusinessline.com/info-tech/ai-driven-productivity-could-expand-indias-gdp-cognizant/article71659820.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:45:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "RBI raises Floating Rate Bond rate to 7.26%: How much more will you earn",
-   "link": "https://www.business-standard.com/finance/personal-finance/rbi-raises-floating-rate-bond-rate-to-7-26-how-much-more-will-you-earn-126110300818_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00"
-  },
-  {
-   "title": "Competing with customers unwise: Adani Airports CEO rules out airline foray",
-   "link": "https://www.business-standard.com/companies/news/competing-with-customers-unwise-adani-airports-ceo-rules-out-airline-foray-126110300823_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "M K Sons Fine Jewels IPO: Shares may list at marginal premium of 6%",
-   "link": "https://www.business-standard.com/markets/ipo/m-k-sons-fine-jewels-ipo-shares-may-list-at-marginal-premium-of-6-126110300788_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T10:30:00+00:00"
-  },
-  {
-   "title": "Zydus Wellness Q2 results: Net profit at ₹5.1 cr, revenue up at ₹1,126 cr",
-   "link": "https://www.business-standard.com/companies/quarterly-results/zydus-wellness-q2-results-net-profit-at-5-1-cr-revenue-up-at-1-126-cr-126110300987_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "SBI Q2 earnings: Net profit surges 14%, bad loans fall",
-   "link": "https://www.businesstoday.in/markets/stocks/story/sbi-q2-earnings-net-profit-surges-bad-loans-fall-565383-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nifty at 24,000? LTCG tax cut hopes, peak FII selling, cheaper valuations: Stock market outlook",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-at-24000-ltcg-tax-cut-hopes-peak-fii-selling-cheaper-valuations-stock-market-outlook-565389-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Solar Industries Q2 earnings: Net profit rises 80%, revenue crosses Rs 3,500 crore mark",
-   "link": "https://www.businesstoday.in/markets/stocks/story/solar-industries-q2-earnings-net-profit-rises-revenue-crosses-rs-3500-crore-mark-565387-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bajaj Finserv Q2 profit rises 25% to ₹5,952 crore as revenue grows",
-   "link": "https://www.business-standard.com/companies/quarterly-results/bajaj-finserv-q2-profit-rises-25-to-5-952-crore-as-revenue-grows-126110300911_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:30:00+00:00",
-   "companies": [
-    "Bajaj Finserv"
-   ]
-  },
-  {
-   "title": "India's consumers and its stock market are telling very different stories—here's why",
-   "link": "https://www.livemint.com/opinion/online-views/indias-consumers-and-its-stock-market-are-telling-very-different-stories-heres-why-11793634131019.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:15:00+00:00"
-  },
-  {
-   "title": "Zomato launches 'Host Mode' to hide menu prices days after Deepinder Goyal's LinkedIn response to user's suggestion",
-   "link": "https://www.hindustantimes.com/trending/zomato-launches-host-mode-to-hide-menu-prices-days-after-deepinder-goyals-linkedin-response-to-users-suggestion-101793693821507.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:15:00+00:00",
-   "companies": [
-    "Eternal (Zomato)"
-   ]
-  },
-  {
-   "title": "India has never allowed import of genetically modified products, will never open dairy sector: Piyush Goyal",
-   "link": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T10:00:00+00:00"
-  },
-  {
-   "title": "Marico shares climb 8% as Q2 results beat estimates on strong demand",
-   "link": "https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T09:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India seeks US LNG through Qatar under 20-year supply deal as Iran war disrupts imports",
-   "link": "https://www.moneycontrol.com/news/business/india-seeks-us-lng-through-qatar-under-20-year-supply-deal-as-iran-war-disrupts-imports-14067657.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Jeffrey Sachs sees India becoming world's largest economy by 2100 as global power shifts to Asia",
-   "link": "https://www.moneycontrol.com/news/business/economy/jeffrey-sachs-sees-india-becoming-world-s-largest-economy-by-2100-as-global-power-shifts-to-asia-watch-14067548.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00"
-  },
-  {
-   "title": "Diwali 2026 Muhurat Trading Samvat 2083 stocks with up to 35% gain: HDFC AMC, SBI, Tech Mahindra, 3 more by Anand Rathi",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-samvat-2083-stocks-with-up-to-35-gain-hdfc-amc-sbi-tech-mahindra-3-more-by-anand-rathi-11793691071592.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T09:30:00+00:00"
   }
  ]
 }
