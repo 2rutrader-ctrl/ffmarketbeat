@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:31:10.162953+00:00",
+ "updated": "2026-11-04T06:45:46.456249+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,32 @@
   "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Kolte-Patil Q2 results: Net profit at ₹5.7 cr, income jumps over 2-fold",
+   "link": "https://www.business-standard.com/companies/quarterly-results/kolte-patil-q2-results-net-profit-at-5-7cr-income-jumps-over-2-fold-126110400416_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Rupee rises 14 paise to 94.61 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-rises-14-paise-to-94-61-against-us-dollar-during-early-trade-126110400403_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T06:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Rupee rises 14 paise to 94.61 against U.S. dollar in early trade",
    "link": "https://www.thehindu.com/business/markets/rupee-rises-14-paise-to-9461-against-us-dollar-in-early-trade/article71664175.ece",
@@ -3284,27 +3310,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Pakistan's rebound masks deeper problems weighing on economy",
-   "link": "https://www.moneycontrol.com/world/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy-article-14066923.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:00:00+00:00"
-  },
-  {
-   "title": "Brent crude at $105, WTI near $97 after US strike report on Iran's Qeshm Island clouds peace hopes",
-   "link": "https://www.moneycontrol.com/news/business/markets/brent-crude-at-105-wti-near-97-after-us-strike-report-on-iran-s-qeshm-island-clouds-peace-hopes-14067288.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T05:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
