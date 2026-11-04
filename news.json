@@ -1,12 +1,83 @@
 {
- "updated": "2026-11-04T19:15:51.148060+00:00",
+ "updated": "2026-11-04T19:31:10.451232+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 25 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI forms panel for consultation on financial markets, emerging risks",
+   "link": "https://www.business-standard.com/industry/banking/rbi-forms-panel-for-consultation-on-financial-markets-emerging-risks-126110401980_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T19:30:00+00:00"
+  },
+  {
+   "title": "Despite gains since October, rupee still trails its Asian peers in 2026",
+   "link": "https://www.business-standard.com/economy/news/despite-gains-since-october-rupee-still-trails-its-asian-peers-in-2026-126110402135_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T19:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Meta kicks off first euro bond sale in latest test for tech sector",
+   "link": "https://www.business-standard.com/companies/news/meta-kicks-off-first-euro-bond-sale-in-latest-test-for-tech-sector-126110402130_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T19:30:00+00:00"
+  },
+  {
+   "title": "Banks' Q2 net profit tops ₹1.16 trillion, rises 20% on strong earnings",
+   "link": "https://www.business-standard.com/industry/banking/banks-q2-net-profit-tops-1-16-trillion-rises-20-on-strong-earnings-126110401604_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T19:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Apollo Hospitals Q2 net profit rises 32% to ₹630 crore; revenue up 23%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/apollo-hospitals-q2-net-profit-rises-32-to-630-crore-revenue-up-23-126110401965_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T19:30:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold up 3%; experts split on whether rally can sustain in coming months",
+   "link": "https://www.business-standard.com/markets/news/gold-up-3-experts-split-on-whether-rally-can-sustain-in-coming-months-126110402099_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T19:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "84% global executives say productivity is AI's top benefit: TCS study",
    "link": "https://www.thehindubusinessline.com/info-tech/84-global-executives-say-productivity-is-ais-top-benefit-tcs-study/article71666705.ece",
@@ -3432,72 +3503,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Rupee rises 13 paise to settle at 94.71 against US dollar",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-13-paise-to-settle-at-9471-against-us-dollar/article71660490.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Nifty crosses 23,800 after months! 2 key factors behind the rally",
-   "link": "https://www.thehindubusinessline.com/markets/nifty-crosses-23800-for-first-time-since-august-on-falling-crude-prices-earnings-boost/article71660642.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "title": "US customs authority upholds duty evasion finding against Waaree Energies over select solar shipments",
-   "link": "https://www.thehindubusinessline.com/news/us-customs-authority-upholds-duty-evasion-finding-against-waaree-energies-over-select-solar-shipments/article71660752.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "title": "Norton 450 makes world premiere at EICMA 2026, TVS Motor also showcases four production-ready models",
-   "link": "https://www.thehindubusinessline.com/companies/norton-450-makes-world-premiere-at-eicma-2026-tvs-motor-also-showcases-four-production-ready-models/article71661034.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "companies": [
-    "TVS Motor"
-   ]
-  },
-  {
-   "title": "Fusion Finance shares surge 10% after strong Q2 results - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/fusion-finance-shares-surge-10-after-strong-q2-results/article71660657.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Dhoot Transmission Q2 Results: Posts 61% revenue, EV business crosses 31% of sales",
-   "link": "https://www.thehindubusinessline.com/companies/dhoot-transmission-posts-61-revenue-jump-in-q2-ev-business-crosses-31-of-sales/article71660690.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
