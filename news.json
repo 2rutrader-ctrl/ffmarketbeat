@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:45:52.632399+00:00",
+ "updated": "2026-11-04T18:01:28.752160+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,98 @@
   "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "84% global executives say productivity is AI's top benefit: TCS study",
+   "link": "https://www.thehindubusinessline.com/info-tech/84-global-executives-say-productivity-is-ais-top-benefit-tcs-study/article71666705.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "companies": [
+    "TCS"
+   ]
+  },
+  {
+   "title": "SEBI forms working group to review Innovators Growth Platform framework",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-forms-working-group-to-review-innovators-growth-platform-framework/article71666591.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "BSE Q2 net profit rises 45% to ₹809 crore, revenue up 34%",
+   "link": "https://www.thehindubusinessline.com/companies/bse-q2-net-profit-rises-45-to-809-crore-revenue-up-34/article71666794.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "US mid-term election outcome effect: G-Secs rally, Rupee gains",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/us-mid-term-election-outcome-effect-g-secs-rally-rupee-gains/article71666602.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say",
+   "link": "https://www.thehindubusinessline.com/news/world/us-democratic-win-unlikely-to-ease-firms-cost-tariff-woes-in-near-term-executives-say/article71667047.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T18:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Apollo Tyres Q2 net profit up 13.5% YoY to ₹293 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/apollo-tyres-q2-net-profit-up-135-yoy-to-293-crore/article71666205.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Q2 Results Today Highlights: BSE, Apollo Hospitals, Sundaram Finance post higher profit in Q2; Biocon, Zydus Life profit declines",
+   "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highights-bse-cummins-zydus-apollo-lenskart-nykaa-aurobindo-nhpc-dabur-torrent-power-biocon-sundaram-premier-energies-physicswallah-nse-sbi-results-04-november-2026/article71660621.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T18:00:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Iran exempts Indian ships from Hormuz curbs, citing medicine imports",
    "link": "https://www.business-standard.com/world-news/iran-exempts-indian-ships-from-hormuz-curbs-citing-medicine-imports-126110401814_1.html",
@@ -3406,73 +3498,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Tata Motors to localise Iveco Group products for India: N Chandrasekaran",
-   "link": "https://www.businesstoday.in/auto/story/tata-motors-to-localise-iveco-group-products-for-india-n-chandrasekaran-565505-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "Every rupee of public money must be accounted for and utilised for its intended purpose, LS Speaker Birla",
-   "link": "https://www.thehindubusinessline.com/economy/every-rupee-of-public-money-must-be-accounted-for-and-utilised-for-its-intended-purpose-ls-speaker-birla/article71660516.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Jack Lowden on James Bond casting rumours: 'Not really going to add to the noise'",
-   "link": "https://www.moneycontrol.com/entertainment/jack-lowden-on-james-bond-casting-rumours-not-really-going-to-add-to-the-noise-article-14067976.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T14:45:00+00:00"
-  },
-  {
-   "title": "Sugar falls as Indian output data signal less need to import",
-   "link": "https://www.moneycontrol.com/news/business/economy/sugar-falls-as-indian-output-data-signal-less-need-to-import-14067994.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T14:45:00+00:00"
-  },
-  {
-   "title": "RBI eases FEMA reporting norms for service exporters, importers; sets Rs 10 lakh threshold",
-   "link": "https://www.moneycontrol.com/news/business/banks/rbi-eases-fema-reporting-norms-for-service-exporters-importers-sets-rs-10-lakh-threshold-14067952.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T14:45:00+00:00"
-  },
-  {
-   "title": "ED attaches ₹510-crore assets, including two chartered planes, in Reliance Anil Ambani Group cases",
-   "link": "https://www.thehindu.com/news/national/ed-attaches-510-crore-assets-including-two-chartered-planes-in-reliance-anil-ambani-group-cases/article71661312.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T14:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "RBI eases reporting norms for small service exporters and importers",
-   "link": "https://www.business-standard.com/finance/news/rbi-eases-reporting-norms-for-small-service-exporters-and-importers-126110301679_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T14:30:00+00:00"
   }
  ]
 }
