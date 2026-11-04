@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-04T08:45:49.213758+00:00",
+ "updated": "2026-11-04T09:01:21.415744+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 64 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Fractal Analytics shares rally 14% after Q2 net profit jumps 139% to Rs 79 crore",
+   "link": "https://www.moneycontrol.com/news/business/markets/fractal-analytics-shares-rally-14-after-q2-net-profit-jumps-139-to-rs-79-crore-14069115.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-04T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Equitas appoints Balaji Nuthalapadi interim CEO, subject to RBI nod",
    "link": "https://www.business-standard.com/companies/news/equitas-small-finance-bank-balaji-nuthalapadi-interim-ceo-rbi-126110400690_1.html",
@@ -1071,6 +1084,19 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T01:30:00+00:00"
+  },
+  {
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-04T00:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
   },
   {
    "title": "Lupin Q2 net profit falls 22.19 pc to ₹1,155.3 crore",
@@ -3305,32 +3331,6 @@
    "companies": [
     "Coal India"
    ]
-  },
-  {
-   "title": "Rajesh Power Services net profit up 34% on better order execution",
-   "link": "https://www.thehindubusinessline.com/companies/rajesh-power-services-net-profit-up-34-on-better-order-execution/article71659653.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nomura sees Nifty crossing 24,000 as earnings deliver and FII selling eases",
-   "link": "https://www.moneycontrol.com/news/business/stocks/nomura-sees-nifty-crossing-24-000-as-earnings-deliver-and-fii-selling-eases-14067445.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T07:30:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
   }
  ]
 }
