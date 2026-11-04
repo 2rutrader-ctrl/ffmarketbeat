@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-04T13:15:54.022633+00:00",
+ "updated": "2026-11-04T13:31:15.082957+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US midterm results: Here's what they could mean for Iran, Ukraine, oil prices and global relations",
+   "link": "https://www.hindustantimes.com/world-news/us-news/us-midterm-results-heres-what-they-could-mean-for-iran-ukraine-oil-prices-and-global-relations-101793796930185.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-04T13:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "How Markets Reacted to Democrats' Win: Stocks U-Turn, Gold Gains",
    "link": "https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html",
@@ -3404,14 +3417,6 @@
    "companies": [
     "IDBI Bank"
    ]
-  },
-  {
-   "title": "iPhone 17 Pro Max price in India drops to Rs 66,990 on Reliance Digital with bank discount and exchange offer",
-   "link": "https://www.moneycontrol.com/technology/iphone-17-pro-max-price-in-india-drops-to-rs-66-990-on-reliance-digital-with-bank-discount-and-exchange-offer-article-14067783.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T11:00:00+00:00"
   }
  ]
 }
