@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-05T04:45:47.971604+00:00",
+ "updated": "2026-11-05T05:01:28.048687+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold, silver prices today, 5 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-5-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740257640.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Tata Motors Commercial Vehicles shares vroom 8% amid mega Sensex, Nifty rally | Time to book profits or hold? Details",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-motors-commercial-vehicles-shares-vroom-8-amid-mega-sensex-nifty-rally-time-to-book-profits-or-hold-details-11793851200361.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T05:00:00+00:00"
+  },
+  {
+   "title": "Dhanteras, Diwali 2026 shopping guide: Buying gold coins, bars or Kundan? Know when hallmarking charges may not apply",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-buying-gold-coins-bars-or-kundan-know-when-hallmarking-charges-may-not-apply-11793847325183.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold ETFs fall 4% in a month ahead of Dhanteras 2026: Is this a buying opportunity? Experts weigh in",
+   "link": "https://www.livemint.com/market/commodities/gold-etfs-fall-4-in-a-month-ahead-of-dhanteras-2026-is-this-a-buying-opportunity-experts-weigh-in-11793846746960.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Stock markets open near three-month highs as oil slides after U.S. Democratic win",
+   "link": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:45:00+00:00"
+  },
   {
    "title": "Nykaa Q2 profit grows over three-fold to ₹101 crore - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/nykaa-q2-grows-over-three-fold-to-101-crore/article71668471.ece",
@@ -3459,64 +3514,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Happiest Minds-ITC Infotech merger to broaden geographical, vertical reach",
-   "link": "https://www.thehindubusinessline.com/companies/happiest-minds-itc-infotech-merger-to-broaden-geographical-vertical-reach/article71661894.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T18:00:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "Bata India net profit up 30 per cent, revenue up 7.5 per cent in Q2",
-   "link": "https://www.thehindubusinessline.com/companies/bata-india-net-profit-up-30-per-cent-revenue-up-75-per-cent-in-q2/article71662123.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "From gold coins to EVs, festive shopping goes beyond metros this Dhanteras",
-   "link": "https://www.thehindubusinessline.com/companies/from-gold-coins-to-evs-festive-shopping-goes-beyond-metros-this-dhanteras/article71661665.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Budget FY28: Govt eyes ease of trade over sweeping customs duty cuts",
-   "link": "https://www.thehindubusinessline.com/economy/budget-fy28-govt-eyes-ease-of-trade-over-sweeping-customs-duty-cuts/article71662223.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "One-time stake sale gain lifts SBI Q2 profit 14% to ₹23,038 crore",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/one-time-stake-sale-gain-lifts-sbi-q2-profit-14-to-23038-crore/article71661214.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T18:00:00+00:00"
   }
  ]
 }
