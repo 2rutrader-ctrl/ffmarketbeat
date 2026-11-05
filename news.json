@@ -1,12 +1,77 @@
 {
- "updated": "2026-11-05T10:15:51.519630+00:00",
+ "updated": "2026-11-05T10:31:14.679372+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20-000-exchange-bonus/article71669273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "N Chandrasekaran meets Italian PM Meloni after Tata Motors' Iveco deal",
+   "link": "https://www.thehindubusinessline.com/companies/tata-sons-chairman-meets-italian-pm-giorgia-meloni-after-iveco-acquisition/article71669228.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "CERT-In flags vulnerability in Tata Motors' mobile apps iRA 2.0, iRA.ev",
+   "link": "https://www.thehindubusinessline.com/companies/cert-in-flags-vulnerability-in-tata-motors-mobile-apps-ira-20-iraev/article71669300.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "Coal gasification could save India ₹1.5 lakh crore in imports: Coal Ministry",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/coal-gasification-could-save-india-15-lakh-crore-in-foreign-exchange-in-5-7-years/article71669219.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00"
+  },
+  {
+   "title": "Uday Kotak sees Indian equities gaining appeal as AI spending concerns ease",
+   "link": "https://www.thehindubusinessline.com/markets/indian-equities-look-more-attractive-as-ai-spending-concerns-ease-says-uday-kotak/article71669318.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "India's gold loan market reaches ₹22.5 lakh crore, nearly triples in three years",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/indias-gold-loan-market-nearly-triples-to-225-lakh-crore-in-three-years/article71669310.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "US midterm election results: Impact of Trump's loss on bond yields in India, overseas markets; experts weigh in",
    "link": "https://www.livemint.com/money/personal-finance/us-midterm-election-results-impact-of-trumps-loss-on-bond-yields-in-india-overseas-markets-experts-weigh-in-11793856789162.html",
@@ -3428,73 +3493,6 @@
    "companies": [
     "State Bank of India"
    ]
-  },
-  {
-   "title": "RBI forms technical panel for financial markets headed by Rohit Jain",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-forms-markets-panel-with-citi-morgan-stanley-sbi-as-members/article71664350.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00"
-  },
-  {
-   "title": "Crude oil price fall ahead of US midterm election outcome",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-ahead-of-us-midterm-election-outcome/article71663954.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "HDFC Bank shares rise 3.72% in two sessions after 52-week low",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-extends-rally-for-second-day-hits-741-intraday-high/article71664326.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00"
-  },
-  {
-   "title": "RBI sets up panel for financial markets; includes SBI, Axis Bank, Citi executives",
-   "link": "https://www.moneycontrol.com/news/business/banks/rbi-sets-up-technical-panel-for-financial-markets-includes-sbi-axis-bank-citi-executives-14068831.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "State Bank of India",
-    "Axis Bank"
-   ]
-  },
-  {
-   "title": "Fractal Analytics reports multifold jump in net profit to ₹79.2 crore in Q2",
-   "link": "https://www.thehindubusinessline.com/companies/fractal-analytics-reports-multifold-jump-in-net-profit-to-792-crore-in-q2/article71664005.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bagmane Prime Office REIT Q2 results: ₹527 crore distribution declared",
-   "link": "https://www.thehindubusinessline.com/news/real-estate/bagmane-prime-office-reit-declares-527-crore-distribution-to-unitholders-for-q2/article71663702.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
