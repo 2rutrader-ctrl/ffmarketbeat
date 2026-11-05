@@ -1,12 +1,120 @@
 {
- "updated": "2026-11-05T03:31:11.578211+00:00",
+ "updated": "2026-11-05T03:45:49.950691+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Commodity Corner: Oil extends losing streak to fourth day; gold holds biggest rally since August",
+   "link": "https://www.moneycontrol.com/news/business/stocks/commodity-corner-oil-extends-losing-streak-to-fourth-day-gold-holds-biggest-rally-since-august-14070689.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India has a huge fireworks industry, then why does it exports so little?",
+   "link": "https://www.business-standard.com/industry/news/india-has-a-huge-fireworks-industry-then-why-does-it-exports-so-little-126110401196_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T03:45:00+00:00"
+  },
+  {
+   "title": "Korea to introduce cornerstone lockups to curb post-IPO selloffs",
+   "link": "https://www.moneycontrol.com/news/business/markets/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-14070501.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00"
+  },
+  {
+   "title": "US sanctions Chandigarh businessman, wife and 9 Indian entities over alleged Iran oil trade links",
+   "link": "https://www.moneycontrol.com/world/us-sanctions-chandigarh-businessman-wife-and-9-indian-entities-over-alleged-iran-oil-trade-links-article-14070491.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T03:45:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Gold extends rebound above $4,100 as dollar and yields decline",
+   "link": "https://www.moneycontrol.com/news/business/commodities/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result-14070498.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Religare's Ajit Mishra says 24,700 in sight for Nifty; bets on GAIL, HAL",
+   "link": "https://www.business-standard.com/markets/news/religare-s-ajit-mishra-says-24-700-in-sight-for-nifty-bets-on-gail-hal-126110500087_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T03:45:00+00:00",
+   "companies": [
+    "HAL"
+   ]
+  },
+  {
+   "title": "Buying gold on Dhanteras vs equities: Why investors should focus on allocation, timing and investment costs",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-on-dhanteras-vs-equities-why-investors-should-focus-on-allocation-timing-and-investment-costs-14070813.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
+   "link": "https://www.moneycontrol.com/world/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall-article-14070833.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Lil Durk awaits bond decision in VICAR case as judge delays ruling on release from jail",
+   "link": "https://www.hindustantimes.com/world-news/us-news/lil-durk-awaits-bond-decision-in-vicar-case-as-judge-delays-ruling-on-release-from-jail-101793840931085.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00"
+  },
+  {
+   "title": "Oil sector girds for possible windfall tax after Democrats win",
+   "link": "https://www.moneycontrol.com/news/business/oil-sector-girds-for-possible-windfall-tax-after-democrats-win-14070485.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T03:45:00+00:00"
+  },
   {
    "title": "Strong Q2 and order inflows to drive gains for Bharat Electronics",
    "link": "https://www.business-standard.com/markets/news/order-inflow-guidance-outlook-to-drive-gains-for-bharat-electronics-126110401299_1.html",
@@ -3390,113 +3498,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-03T16:00:00+00:00"
-  },
-  {
-   "title": "CPI stages demo against inflation in Tirunelveli",
-   "link": "https://www.thehindu.com/news/cities/Madurai/cpi-stages-demo-against-inflation-in-tirunelveli/article71661487.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Bangladesh disturbances likely to impact yarn, fabric exports",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00"
-  },
-  {
-   "title": "M K Sons Fine Jewels Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/m-k-sons-fine-jewels-sfj-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00"
-  },
-  {
-   "title": "First import container at Vizhinjam bolsters Keralam's development aspirations",
-   "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/first-import-container-at-vizhinjam-bolsters-keralams-development-aspirations/article71661775.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:45:00+00:00"
-  },
-  {
-   "title": "Agrani Labs in talks to raise $100 million from Groww founders' Stargazer fund, Google, HCLTech, Peak XV, others",
-   "link": "https://www.moneycontrol.com/news/business/startup/agrani-labs-in-talks-to-raise-100-million-from-groww-founders-stargazer-fund-google-hcltech-peak-xv-others-14067219.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:45:00+00:00",
-   "companies": [
-    "HCLTech"
-   ]
-  },
-  {
-   "title": "Adani Defence plans MRO for narrow-body aircraft engines- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/business/companies/adani-defence-plans-mro-for-narrow-body-aircraft-engines-14068025.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Happiest Minds-ITC Infotech merger on track, listing expected in a year",
-   "link": "https://www.business-standard.com/companies/news/happiest-minds-itc-infotech-merger-on-track-listing-expected-in-a-year-126110301765_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:45:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "NSE Q2 results: Profit rises 23%, EBITDA doubles in first post-IPO earnings; how has stock fared since listing?",
-   "link": "https://www.livemint.com/market/stock-market-news/nse-q2-results-profit-rises-23-ebitda-doubles-in-first-post-ipo-earnings-how-has-stock-fared-since-listing-11793711653586.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Why does IndiGo want lower charges at Mumbai airport? CEO Willie Walsh weighs in on airport investments",
-   "link": "https://www.livemint.com/companies/news/why-does-indigo-want-lower-charges-at-mumbai-airport-ceo-willie-walsh-weighs-in-on-airport-investments-11793713640826.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "'Inflation solved, Hormuz under control': Trump defends Iran war, tariffs and immigration crackdown in final midterm pitch",
-   "link": "https://www.moneycontrol.com/world/inflation-solved-hormuz-under-control-trump-defends-iran-war-tariffs-and-immigration-crackdown-in-final-midterm-pitch-article-14068013.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
   }
  ]
 }
