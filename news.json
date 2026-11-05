@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-05T10:31:14.679372+00:00",
+ "updated": "2026-11-05T10:45:56.975055+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Broader markets join D-Street party: Nifty Midcap 100 up 1.87%, Nifty Smallcap 100 inches higher – Check top gainers, losers",
+   "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-join-d-street-party-nifty-midcap-100-up-1-87-nifty-smallcap-100-inches-higher-check-top-gainers-losers-14071602.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T10:45:00+00:00"
+  },
   {
    "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
    "link": "https://www.thehindubusinessline.com/brandhub/pr-release/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20-000-exchange-bonus/article71669273.ece",
@@ -3482,17 +3490,6 @@
     "short": "Growth data",
     "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
    }
-  },
-  {
-   "title": "SBI Q2 FY27 – steady quarter, good outlook for H2",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/sbi-q2-fy27-steady-quarter-good-outlook-for-the-second-half-14068617.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
   }
  ]
 }
