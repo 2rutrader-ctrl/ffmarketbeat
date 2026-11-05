@@ -1,12 +1,93 @@
 {
- "updated": "2026-11-05T08:01:26.431502+00:00",
+ "updated": "2026-11-05T08:15:53.004295+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why US midterm elections may not change the tariff equation for India",
+   "link": "https://www.businesstoday.in/latest/economy/story/why-us-midterm-elections-may-not-change-the-tariff-equation-for-india-565865-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "PI Industries shares dive 16% to hit 52 week low after Q2 earnings; net profit plunges 70%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/pi-industries-shares-dive-16-to-hit-52-week-low-after-q2-earnings-net-profit-plunges-70-565864-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T08:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Bajaj Finance, Shriram Finance, Tata Capital, L&T Finance: NBFCs rise up to 7% amid market rally",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shriram-finance-tata-capital-lt-finance-nbfc-shares-rise-up-to-7-amid-market-rally-key-details-565850-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:15:00+00:00"
+  },
+  {
+   "title": "M&M Q2 results: Standalone profit rises 13% to Rs 5,102 crore, revenue jumps 26%; shares gain nearly 5%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/m-stock-surges-nearly-6-14071380.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Investor wealth crosses Rs 500 lakh crore for first time as Sensex rises for sixth session",
+   "link": "https://www.businesstoday.in/markets/stocks/story/investor-wealth-crosses-rs-500-lakh-crore-for-first-time-as-sensex-rises-for-sixth-session-565869-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:15:00+00:00"
+  },
+  {
+   "title": "Muthoot Finance, Manappuram shares rise up to 4% as gold prices hit a two-week high",
+   "link": "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-shares-rise-up-to-4-as-gold-prices-hit-a-two-week-high-14071204.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Oil India, ONCG, other upstream companies' stocks fall up to 5% as crude oil prices decline for 4th day",
+   "link": "https://www.moneycontrol.com/news/business/markets/oil-india-oncg-other-upstream-companies-stocks-fall-up-to-5-as-crude-oil-prices-decline-for-4th-day-14071120.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
@@ -3430,90 +3511,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Gold prices show mixed trend, falls on MCX, rises in global market",
-   "link": "https://www.business-standard.com/markets/commodities/gold-prices-show-mixed-trend-falls-on-mcx-rises-in-global-market-126110400456_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "KEC International under pressure since Q2 earnings; management outlook and brokerages' views",
-   "link": "https://www.businesstoday.in/markets/stocks/story/kec-international-under-pressure-since-q2-earnings-management-outlook-and-brokerages-views-565555-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Textile firm Sitaram Denims India files draft papers with SEBI for IPO",
-   "link": "https://www.moneycontrol.com/news/business/ipo/textile-firm-sitaram-denims-india-files-draft-papers-with-sebi-for-ipo-14068648.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Aarti Drugs shares jump 7% as Q2 net profit surges 83%",
-   "link": "https://www.businesstoday.in/markets/stocks/story/aarti-drugs-shares-jump-7-as-q2-profit-surges-83-ebitda-rises-63-565556-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "BHEL Share Price: BHEL rallies 6% on securing large project works from Adani Power",
-   "link": "https://www.business-standard.com/markets/news/bhel-rallies-6-on-securing-large-project-works-from-adani-power-126110400467_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00"
-  },
-  {
-   "title": "Titan Q2 preview: Brokerages see up to 27% PAT growth, led by jewellery biz",
-   "link": "https://www.business-standard.com/markets/news/titan-q2-preview-brokerages-see-up-to-27-pat-growth-led-by-jewellery-biz-126110400475_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "US midterm elections: What a Democratic sweep could mean for oil, tariffs and Indian markets",
-   "link": "https://www.moneycontrol.com/news/business/markets/us-midterm-elections-what-a-democratic-sweep-could-mean-for-oil-tariffs-and-indian-markets-14068670.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
   }
  ]
 }
