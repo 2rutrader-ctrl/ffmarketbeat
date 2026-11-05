@@ -1,12 +1,92 @@
 {
- "updated": "2026-11-05T11:45:52.602977+00:00",
+ "updated": "2026-11-05T12:01:25.128000+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee settles flat at 94.46 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/rupee-settles-flat-at-9446-against-us-dollar/article71669674.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Food accounts for 53.5% of rural household spending as inflation rises: NABARD survey",
+   "link": "https://www.livemint.com/economy/nabard-survey-rural-inflation-food-expenditure-11793865782721.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T11:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "India opens special deepwater oil, gas bidding round, offers to fund up to 50% of well costs",
+   "link": "https://www.moneycontrol.com/news/india/india-opens-special-deepwater-oil-gas-bidding-round-offers-to-fund-up-to-50-of-well-costs-14071670.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:45:00+00:00"
+  },
+  {
+   "title": "Samvat 2083 Outlook Ahead of Diwali, Muhurat Trading: Nifty at 27,000 soon? What Choice Wealth's Dheeraj said - Strategy",
+   "link": "https://www.livemint.com/market/stock-market-news/samvat-2083-outlook-ahead-of-diwali-muhurat-trading-nifty-at-27-000-soon-what-choice-wealths-dheeraj-said-strategy-11793867994138.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:45:00+00:00"
+  },
+  {
+   "title": "Airtel's premiumization strategy drives strong Q2 revenue and Ebitda growth",
+   "link": "https://www.livemint.com/companies/company-results/airtels-premiumization-strategy-drives-strong-q2-revenue-and-ebitda-growth-11793861191107.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Adani Ports to acquire European storage major Evos for €2.56 billion",
+   "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-european-storage-major-evos-for-2-56-billion-126110501294_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Bharti Airtel Q2 net profit rises 24% to ₹10,710 cr, revenue grows 16.7%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/bharti-airtel-q2-net-profit-rises-24-to-10-710-cr-revenue-grows-16-7-126110501297_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Dhanteras 2026: Is gold's 30% correction a buying opportunity for you?",
    "link": "https://www.business-standard.com/finance/personal-finance/dhanteras-2026-is-gold-s-30-correction-a-buying-opportunity-for-you-126110501142_1.html",
@@ -3423,81 +3503,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "RBI forms financial markets consultative panel headed by Dy Guv Rohit Jain",
-   "link": "https://www.business-standard.com/markets/news/rbi-financial-markets-consultative-committee-rohit-jain-tccfm-126110400682_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:00:00+00:00"
-  },
-  {
-   "title": "BHEL shares rise 6% after getting four orders from Adani Power",
-   "link": "https://www.moneycontrol.com/news/business/markets/bhel-shares-rise-6-after-getting-four-orders-from-adani-power-14069053.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Gold, silver rally as US midterm results weigh on dollar; gold tops $4,023, silver approaches $52",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-silver-rally-as-us-midterm-results-weigh-on-dollar-gold-tops-4-023-silver-approaches-52-14069037.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T08:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "RBI constitutes Technical Consultative Committee for Financial Markets",
-   "link": "https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:00:00+00:00"
-  },
-  {
-   "title": "RIL, HDFC Bank shares: Expert sees scope for outperformance as valuations turn attractive",
-   "link": "https://www.businesstoday.in/markets/stocks/story/ril-hdfc-bank-shares-expert-sees-scope-for-outperformance-as-valuations-turn-attractive-565612-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:00:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
-  },
-  {
-   "title": "RBI names Ridham Desai, Ananth Narayan to new financial markets panel on forex, bond and derivatives markets",
-   "link": "https://www.businesstoday.in/markets/story/rbi-names-ridham-desai-ananth-narayan-to-new-financial-markets-panel-on-forex-bond-and-derivatives-markets-565593-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Centre raises over Rs 81,000 crore from stake sales, dividends and asset monetisation in seven months, IDBI proceeds awaited",
-   "link": "https://www.moneycontrol.com/news/business/centre-raises-over-rs-81-000-crore-from-stake-sales-dividends-and-asset-monetisation-in-seven-months-idbi-proceeds-awaited-14069021.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:45:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
   }
  ]
 }
