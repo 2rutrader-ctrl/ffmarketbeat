@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-05T13:45:54.148482+00:00",
+ "updated": "2026-11-05T14:01:29.796100+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nifty touches a three-month high: Is Dalal Street's Diwali-week rally a trend change or just festive relief?",
+   "link": "https://www.moneycontrol.com/news/business/nifty-touches-a-three-month-high-is-dalal-street-s-diwali-week-rally-a-trend-change-or-just-festive-relief-14071754.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:00:00+00:00"
+  },
+  {
+   "title": "Stockal CEO told me the firm was SEBI-registered, says aggrieved investor",
+   "link": "https://www.moneycontrol.com/news/business/markets/stockal-ceo-told-me-the-firm-was-sebi-registered-says-aggrieved-investor-14071546.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Dhanteras 2026: How to check gold and silver jewellery purity before buying",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-how-to-check-gold-and-silver-jewellery-purity-before-buying-14071757.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T13:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "RBI proposes Rs 100-crore priority sector loan limit for agriculture infrastructure, food processing loans",
+   "link": "https://www.moneycontrol.com/news/business/banks/rbi-proposes-rs-100-crore-priority-sector-loan-limit-for-agriculture-infrastructure-food-processing-loans-14071755.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:45:00+00:00"
+  },
+  {
+   "title": "Gold price jumps Rs 2,200 per 10 grams ahead of Dhanteras; silver gains Rs 1,500 in Delhi",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-price-jumps-rs-2-200-per-10-grams-ahead-of-dhanteras-silver-gains-rs-1-500-in-delhi-14071768.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Buying gold or silver items on Dhanteras? Check November 6 shubh muhurat in your city, purity and buying tips",
    "link": "https://www.livemint.com/money/buying-gold-or-silver-items-on-dhanteras-check-november-6-shubh-muhurat-in-your-city-11793876944671.html",
@@ -3448,66 +3503,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Is there a shortage of ₹10, ₹20 and ₹50 notes this Diwali? RBI debunks viral claim",
-   "link": "https://www.businesstoday.in/personal-finance/story/is-there-a-shortage-of-rs10-rs20-and-rs50-notes-this-diwali-rbi-debunks-viral-claim-565694-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00"
-  },
-  {
-   "title": "Lenskart Q2 results: Net profit rises 2x to Rs 232.5 crore, revenue up 36%",
-   "link": "https://www.moneycontrol.com/news/business/earnings/lenskart-q2-results-net-profit-rises-2x-to-rs-232-5-crore-revenue-up-36-14069327.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "U.S. midterm elections impact on India: faster trade deal talks and higher tariffs likely",
-   "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T10:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Gold and silver prices jump as US midterm results weaken dollar and Treasury yields",
-   "link": "https://www.hindustantimes.com/world-news/us-news/gold-and-silver-prices-jump-as-us-midterm-results-weaken-dollar-and-treasury-yields-101793785030960.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T10:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Zydus Lifesciences Q2 results: Net profit falls 26.6% to ₹925.5 crore",
-   "link": "https://www.business-standard.com/companies/quarterly-results/zydus-lifesciences-q2-results-net-profit-falls-26-6-to-925-5-crore-126110400844_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T10:30:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
