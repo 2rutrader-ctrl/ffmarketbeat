@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-05T07:01:30.511928+00:00",
+ "updated": "2026-11-05T07:15:51.951749+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why Sammaan Capital shares jumped 6% amid Sensex, Nifty Thursday rally after US midterm elections results; stock returns",
+   "link": "https://www.livemint.com/market/stock-market-news/why-sammaan-capital-shares-jumped-6-amid-sensex-nifty-thursday-rally-after-us-midterm-elections-results-stock-returns-11793856362358.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:15:00+00:00"
+  },
+  {
+   "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts",
+   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-on-oil-and-it-shares-reliance-indian-oil-tcs-infosys-10-stocks-from-experts-11793852592707.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:15:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "TCS",
+    "Infosys"
+   ]
+  },
+  {
+   "title": "US midterm election results: Can Trump's setback ease gasoline prices as oil markets bet on Iran war de-escalation?",
+   "link": "https://www.livemint.com/news/world/us-midterm-election-results-can-trumps-setback-ease-gasoline-prices-as-oil-markets-bet-on-iran-war-deescalation-11793860477857.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T07:15:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Dhanteras 2026: Bought gold last year? See how much your 10-gram investment is worth today despite recent dips",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-bought-gold-last-year-see-how-much-your-10-gram-investment-is-worth-today-despite-recent-dips-11793856543601.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T07:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "US Midterm Election results lift banking, financial stocks - SBI Cards, Bajaj Finance, Axis, ICICI Bank surge up to 6%",
+   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-lift-banking-financial-stocks-sbi-cards-bajaj-finance-axis-icici-bank-surge-up-to-6-11793856386492.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:15:00+00:00"
+  },
   {
    "title": "PI Industries tanks 15%, hits 6-year low on disappointing Q2 results",
    "link": "https://www.business-standard.com/markets/news/pi-industries-tanks-15-hits-6-year-low-on-disappointing-q2-results-126110500534_1.html",
@@ -3474,56 +3529,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-04T04:15:00+00:00"
-  },
-  {
-   "title": "Lupin Q2 results: Net profit falls 22% to ₹1,155 cr, revenue at ₹7,827 cr",
-   "link": "https://www.business-standard.com/companies/quarterly-results/lupin-q2-results-net-profit-falls-22-to-1-155-cr-revenue-at-7-827-cr-126110400050_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T03:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Oil prices edge down as investors await US midterm election results",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-edge-down-as-investors-await-us-midterm-election-results-126110400110_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T03:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Alia Bhatt supports Ranbir Kapoor at Ramayana premiere; has epic start to Diwali in simple linen saree and raw silver blouse",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/alia-bhatt-ranbir-kapoor-ramayana-premiere-epic-start-to-diwali-in-simple-linen-saree-and-raw-silver-blouse-101793758930564.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T03:30:00+00:00"
-  },
-  {
-   "title": "India is building a care economy but who is caring for the caregivers?",
-   "link": "https://www.hindustantimes.com/ht-insight/governance/india-is-building-a-care-economy-but-who-is-caring-for-the-caregivers-101793760784239.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T03:30:00+00:00"
-  },
-  {
-   "title": "Kauvery Hospitals plans to double capacity to 5,000 beds in 3-4 years; in no hurry for IPO",
-   "link": "https://www.thehindubusinessline.com/companies/kauvery-hospitals-plans-to-double-capacity-to-5000-beds-in-3-4-years-in-no-hurry-for-ipo/article71661521.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T03:00:00+00:00"
   }
  ]
 }
