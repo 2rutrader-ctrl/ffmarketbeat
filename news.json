@@ -1,12 +1,125 @@
 {
- "updated": "2026-11-05T11:15:54.622002+00:00",
+ "updated": "2026-11-05T11:31:13.236109+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 32 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras 2026: Is gold's 30% correction a buying opportunity for you?",
+   "link": "https://www.business-standard.com/finance/personal-finance/dhanteras-2026-is-gold-s-30-correction-a-buying-opportunity-for-you-126110501142_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Cummins India Q2 results: Net profit falls 27% to ₹467 cr, sales rise 4%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/cummins-india-q2-results-net-profit-falls-27-to-467-cr-sales-rise-4-126110500638_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold prices to lift jewellery revenue 21-23% despite volume dip: Crisil",
+   "link": "https://www.business-standard.com/industry/news/gold-prices-to-lift-jewellery-revenue-21-23-despite-volume-dip-crisil-126110501229_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Coal gasification can save ₹1.5 trillion in forex in 5-7 years: Coal secy",
+   "link": "https://www.business-standard.com/industry/news/coal-gasification-can-save-1-5-trillion-in-forex-in-5-7-years-coal-secy-126110500915_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "LG Electronics Q2 results: Net profit up 25.6% to ₹489 cr, revenue up 20%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/lg-electronics-q2-results-net-profit-up-25-6-to-489-cr-revenue-up-20-126110500829_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "CESC Q2 results: Net profit slips 2.2% to ₹438 cr, income at ₹5,686 cr",
+   "link": "https://www.business-standard.com/companies/quarterly-results/cesc-q2-results-net-profit-slips-2-2-to-438-cr-income-at-5-686-cr-126110500940_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Bharti Airtel Q2 results: Net profit rises 31% to Rs 8,888 crore, misses estimates",
+   "link": "https://www.moneycontrol.com/news/business/earnings/bharti-airtel-q2-results-net-profit-rises-31-to-rs-8-888-crore-misses-estimates-14071665.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Tata Power Renewables commissions 300 MW project for Seci in Karnataka",
+   "link": "https://www.business-standard.com/industry/news/tata-power-renewables-commissions-300-mw-project-for-seci-in-karnataka-126110500935_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "India opens deepwater oil, gas bids, offers to fund up to 50% of well costs",
+   "link": "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T11:30:00+00:00"
+  },
   {
    "title": "Jewellery sales volumes to fall 4-6% in FY27, but revenue may rise up to 23% on higher gold prices: Crisil",
    "link": "https://www.moneycontrol.com/news/business/jewellery-sales-volumes-to-fall-4-6-in-fy27-but-revenue-may-rise-up-to-23-on-higher-gold-prices-crisil-14071638.html",
@@ -3385,116 +3498,6 @@
    "companies": [
     "IDBI Bank"
    ]
-  },
-  {
-   "title": "FPIs pull out Rs 17,417 crore from FAR government securities in September-October",
-   "link": "https://www.moneycontrol.com/news/business/banks/fpis-pull-out-rs-17-417-crore-from-far-government-securities-in-september-october-14068904.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "RBI sets up new committee to review forex, bond and money markets; SBI, ICICI Bank among members",
-   "link": "https://www.moneycontrol.com/news/business/rbi-sets-up-new-committee-to-review-forex-bond-and-money-markets-sbi-icici-bank-among-members-14068952.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "ICICI Bank",
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Gold rises as dollar weakens ahead of US midterm election results",
-   "link": "https://www.thehindubusinessline.com/markets/gold/gold-rises-as-dollar-weakens-ahead-of-us-midterm-election-results/article71663950.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India services PMI rises to 55.8 in October as hiring slows",
-   "link": "https://www.thehindubusinessline.com/economy/indias-services-pmi-rises-to-four-month-high-of-558-in-october-but-hiring-slows/article71664114.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "NTPC plans to expand installed capacity to 149 GW by 2032, add 58 GW",
-   "link": "https://www.thehindubusinessline.com/companies/ntpc-plans-to-expand-installed-capacity-to-149-gw-by-2032-add-58-gw/article71664170.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "NTPC"
-   ]
-  },
-  {
-   "title": "Kotak Mahindra Bank gets CCI approval to take over Deutsche Bank's retail, private banking business in India",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-indias-retail-private-banking-businesses/article71664088.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Nifty Prediction Today – November 04, 2026: Nifty 50 Futures: Resistance ahead",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-04-2026-nifty-50-futures-resistance-ahead/article71664115.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00"
-  },
-  {
-   "title": "Kotak Mahindra Bank gets CCI nod to acquire Deutsche Bank India's retail, private banking businesses",
-   "link": "https://www.thehindu.com/business/Industry/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-indias-retail-private-banking-businesses/article71664408.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Emcure Pharma shares hit 10% upper circuit as Q2 net profit rises",
-   "link": "https://www.thehindubusinessline.com/markets/emcure-pharma-shares-hit-10-upper-circuit-as-q2-net-profit-rises/article71663991.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
