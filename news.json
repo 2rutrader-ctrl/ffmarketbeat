@@ -1,12 +1,160 @@
 {
- "updated": "2026-11-05T12:31:13.958987+00:00",
+ "updated": "2026-11-05T12:45:52.636071+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold's biggest enemy could become its biggest supporter: The unusual US bond market paradox",
+   "link": "https://www.businesstoday.in/latest/economy/story/golds-biggest-enemy-could-become-its-biggest-supporter-the-unusual-us-bond-market-paradox-565875-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Has FII sentiment towards India weakened? Raamdeo Agrawal shares his view",
+   "link": "https://www.businesstoday.in/markets/stocks/story/has-fii-sentiment-towards-india-weakened-what-raamdeo-agrawal-says-565940-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "Berger Paints Q2 earnings: Net profit rises to Rs 217 crore, revenue at Rs 3,200 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/berger-paints-q2-earnings-net-profit-rises-to-rs-217-crore-revenue-at-rs-3200-crore-565979-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Blockbuster listing for Bombay Coated and Special Steels' IPO - lists at Rs 91 on the exchange, reaches a high of Rs 96.62 on the exchange",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/blockbuster-listing-for-bombay-coated-and-special-steels-ipo-lists-at-rs-91-on-the-exchange-reaches-a-high-of-rs-9662-on-the-exchange/article71669827.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00"
+  },
+  {
+   "title": "Adani Ports to acquire Europe's Evos for €2.56 billion EV",
+   "link": "https://www.thehindu.com/business/Industry/adani-ports-to-acquire-europes-evos-for-256-billion-ev/article71669683.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Rupee settles flat at 94.46 against US dollar - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-settles-flat-at-9446-against-us-dollar/article71669488.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Bharti Airtel Q2 net profit rises 31% to Rs 8,888 crore; ARPU climbs to Rs 271",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-q2-net-profit-rises-31-to-rs-8888-crore-arpu-climbs-to-rs-271-565993-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Titan Company Q2 earnings: Net profit rises 54%, revenue at Rs 17,830 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/titan-company-q2-earnings-net-profit-rises-54-revenue-at-rs-17830-crore-565994-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "companies": [
+    "Titan"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Emami shares rise 3% after Q2 results; board declares Rs 5 interim dividend",
+   "link": "https://www.businesstoday.in/markets/stocks/story/emami-shares-rise-3-after-q2-results-board-declares-rs-5-interim-dividend-565944-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Adani Ports to acquire 100% of Evos BV at enterprise value of 2.56 billion euros",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-to-acquire-100-of-evos-bv-at-enterprise-value-of-256-billion-euros/article71669508.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Nifty posts best single-day gain since April, crosses 24,500 for first time in three months",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-posts-best-single-day-gain-since-april-crosses-24500-for-first-time-in-three-months/article71669761.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T12:45:00+00:00"
+  },
+  {
+   "title": "Silver surged 38% before Diwali 2025: Why the white metal could be riskier than gold this festive season",
+   "link": "https://www.businesstoday.in/personal-finance/story/silver-surged-38-before-diwali-2025-why-the-white-metal-could-be-riskier-than-gold-this-festive-season-565921-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T12:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Coal India's IPO-bound arms see sharp decline in coal e-auction premiums",
    "link": "https://www.business-standard.com/companies/news/coal-india-s-ipo-bound-arms-see-sharp-decline-in-coal-e-auction-premiums-126110501343_1.html",
@@ -3367,141 +3515,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-04T09:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Dhanteras gold buying checklist: 7 things to check before purchasing jewellery, digital gold or ETFs",
-   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-gold-buying-checklist-7-things-to-check-before-purchasing-jewellery-digital-gold-or-etfs-565643-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Buying gold, silver coins for Dhanteras? 0.5-10g gold and 1-100 gm silver coins available on Instamart: Check offers",
-   "link": "https://www.livemint.com/money/buying-coins-online-dhanteras-0-5g-gold-10g-1-g-silver-100-g-silver-available-swiggy-instamart-kalyan-jewellers-offers-11793779395032.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bhel bags orders worth up to ₹28,000 cr from Adani Power for four projects",
-   "link": "https://www.business-standard.com/companies/news/bhel-bags-orders-worth-up-to-28-000-cr-from-adani-power-for-four-projects-126110400909_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Man quits teaching job to make adhesive tapes; becomes billionaire after company's stock surges 787% in IPO",
-   "link": "https://www.moneycontrol.com/education/man-quits-teaching-job-to-make-adhesive-tapes-becomes-billionaire-after-company-s-stock-surges-787-in-ipo-article-14069223.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:15:00+00:00"
-  },
-  {
-   "title": "RBI forms markets panel with Citi, Morgan Stanley, SBI as members",
-   "link": "https://www.business-standard.com/markets/news/rbi-forms-markets-panel-with-citi-morgan-stanley-sbi-as-members-126110400636_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:15:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings",
-   "link": "https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Camlin Fine Sciences tanks 18% post Q2 results; stock hits 52-week low",
-   "link": "https://www.business-standard.com/markets/news/camlin-fine-sciences-tanks-18-post-q2-results-stock-hits-52-week-low-126110400781_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Fractal Analytics shares rally 14% after Q2 net profit jumps 139% to Rs 79 crore",
-   "link": "https://www.moneycontrol.com/news/business/markets/fractal-analytics-shares-rally-14-after-q2-net-profit-jumps-139-to-rs-79-crore-14069115.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Equitas appoints Balaji Nuthalapadi interim CEO, subject to RBI nod",
-   "link": "https://www.business-standard.com/companies/news/equitas-small-finance-bank-balaji-nuthalapadi-interim-ceo-rbi-126110400690_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:45:00+00:00"
-  },
-  {
-   "title": "India's growth mix shifts: Exports and capex carry the baton as rural demand fades",
-   "link": "https://www.moneycontrol.com/news/business/markets/india-s-growth-mix-shifts-exports-and-capex-carry-the-baton-as-rural-demand-fades-14069135.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:45:00+00:00"
-  },
-  {
-   "title": "Trump's US midterm election defeat: Stock market history; what it means for Nifty, Sensex",
-   "link": "https://www.businesstoday.in/markets/stocks/story/trumps-us-midterm-election-defeat-stock-market-history-what-it-means-for-nifty-sensex-565629-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:45:00+00:00"
-  },
-  {
-   "title": "Transrail Q2 results: Net profit jumps 12% to ₹104 crore, income up 32%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/transrail-q2-results-net-profit-jumps-12-to-104-crore-income-up-32-126110400601_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T08:45:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
