@@ -1,12 +1,129 @@
 {
- "updated": "2026-11-05T09:31:11.753809+00:00",
+ "updated": "2026-11-05T09:45:50.584247+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali 2026, Samvat 2083: Ahead of Muhurat Trading, Uday Kotak shares 5 factors to watch in festive season - List",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-samvat-2083-ahead-of-muhurat-trading-uday-kotak-shares-5-factors-to-watch-in-festive-season-list-11793863466374.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-witness-strong-buying-rise-7-in-1-month-can-new-ceo-improving-fundamentals-drive-next-leg-of-rally-11793861115989.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00"
+  },
+  {
+   "title": "Dhanteras, Diwali 2026 shopping guide: How do the costs of investing in gold ETFs differ from buying gold jewellery?",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-how-do-the-costs-of-investing-in-gold-etfs-differ-from-buying-gold-jewellery-11793868557274.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Oil cools, FPIs return: Is Dalal Street ready to run?",
+   "link": "https://www.livemint.com/market/stock-market-news/oil-cools-fpis-return-is-dalal-street-ready-to-run-11793858558879.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00"
+  },
+  {
+   "title": "Malabar vs Joyalukkas vs Tanishq vs Kalyan: Which jeweller has the best festive gold offers for Dhanteras, Diwali 2026?",
+   "link": "https://www.livemint.com/money/personal-finance/malabar-vs-joyalukkas-vs-tanishq-vs-kalyan-which-jeweller-has-the-best-festive-gold-offers-for-dhanteras-diwali-2026-11793863736052.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Repeat gold borrowing rises as outstanding balances hit Rs 22.5 lakh crore, finds TransUnion CIBIL study",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/more-than-half-of-low-risk-gold-loan-borrowers-take-another-loan-within-12-months-finds-cibil-14071413.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Asia's richest banker Uday Kotak sees AI correction boosting flows to India",
+   "link": "https://www.moneycontrol.com/banking/asia-s-richest-banker-sees-ai-correction-boosting-flows-to-india-article-14071382.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "Crude oil falls to $94, easing pressure on RBI ahead of December policy",
+   "link": "https://www.moneycontrol.com/news/business/banks/crude-oil-falls-to-94-easing-pressure-on-rbi-ahead-of-december-policy-14071435.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Nykaa gets a margin makeover, but risks remain",
+   "link": "https://www.livemint.com/market/mark-to-market/nykaa-fashion-ebitda-margin-growth-competition-valuation-risks-11793859471376.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00",
+   "companies": [
+    "Nykaa"
+   ]
+  },
+  {
+   "title": "India's data centre push could add $105 billion to the country's import bill, HSBC estimates",
+   "link": "https://www.moneycontrol.com/news/business/economy/india-s-data-centre-push-could-add-105-billion-to-the-country-s-import-bill-hsbc-estimates-14071393.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00"
+  },
+  {
+   "title": "Nifty decisively crosses 24,500: Will benchmark hit 25,000 before hitting any strong resistance? Check what analysts say",
+   "link": "https://www.moneycontrol.com/news/business/markets/nifty-decisively-crosses-24-500-will-benchmark-hit-25-000-before-hitting-any-strong-resistance-check-what-analysts-say-14071504.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:45:00+00:00"
+  },
   {
    "title": "Sundaram Finance Q2FY27 results: Net profit rises 6% to ₹517 crore",
    "link": "https://www.business-standard.com/companies/quarterly-results/sundaram-finance-q2fy27-results-net-profit-rises-6-to-517-crore-126110500805_1.html",
@@ -3373,139 +3490,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T07:30:00+00:00"
-  },
-  {
-   "title": "Oil slide, Treasury strength boost India's govt bonds - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/oil-slide-treasury-strength-boost-indias-govt-bonds/article71664301.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "SEBI turns to AI for regional-language investor services: What could change for retail investors?",
-   "link": "https://www.livemint.com/market/sebi-turns-to-ai-for-regional-language-investor-services-what-could-change-for-retail-investors-11793770372112.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Awfis Space Solutions shares rally 13% on strong Q2 results | Check stock returns",
-   "link": "https://www.livemint.com/market/stock-market-news/awfis-space-solutions-shares-rally-13-on-strong-q2-results-check-stock-returns-11793772312307.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Pashupati Cotspin shares hit 10% lower circuit ahead of Q2 results after a stunning 70% monthly rally | What lies ahead?",
-   "link": "https://www.livemint.com/market/stock-market-news/pashupati-cotspin-shares-hit-10-lower-circuit-ahead-of-q2-results-after-a-stunning-70-monthly-rally-what-lies-ahead-11793770800395.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "MCX shares fall 5% as Q2 results miss estimates; Motilal Oswal gives 'Neutral' rating",
-   "link": "https://www.moneycontrol.com/news/business/markets/mcx-shares-fall-5-as-q2-results-miss-estimates-motilal-oswal-gives-neutral-rating-14068812.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Martin Wolf: The economic risks of the AI boom",
-   "link": "https://www.moneycontrol.com/news/opinion/martin-wolf-the-economic-risks-of-the-ai-boom-14068762.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00"
-  },
-  {
-   "title": "Urmila Matondkar's maroon velvet and champagne-gold lehenga is festive fashion inspiration for those who love royal ethnic looks",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/urmila-matondkars-maroon-velvet-and-champagne-gold-lehenga-is-festive-fashion-inspiration-for-those-who-love-royal-ethnic-looks-101793772125046.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "North Africa's green hydrogen exports to Europe could harm water supply and marine life: study",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00"
-  },
-  {
-   "title": "Is falling gold price reviving demand?",
-   "link": "https://www.moneycontrol.com/news/opinion/is-falling-gold-price-reviving-demand-14068882.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India's US Treasury holdings climbed to $220 billion in August as RBI absorbed record dollar inflows",
-   "link": "https://www.moneycontrol.com/news/business/banks/india-s-us-treasury-holdings-climb-to-220-billion-in-august-as-rbi-absorbs-record-dollar-inflows-14068807.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T07:00:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout",
-   "link": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T07:00:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
   }
  ]
 }
