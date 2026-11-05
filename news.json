@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-05T19:15:53.680462+00:00",
+ "updated": "2026-11-05T19:31:19.426279+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 35 new items (12 files read)"
+  "gdelt": "ok, 34 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "LIC seeks alignment with global standards, EoM glide path in feedback to Irdai's distribution proposals",
+   "link": "https://www.livemint.com/industry/banking/lic-seeks-alignment-with-global-standards-eom-glide-path-in-feedback-to-irdai-s-distribution-proposals-11793890392546.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T19:15:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "RBI proposes ₹100-crore priority sector lending limit for agri infra, food processing",
+   "link": "https://www.livemint.com/industry/agriculture/rbi-proposes-100-crore-priority-sector-lending-limit-for-agri-infra-loans-11793892601351.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T19:15:00+00:00"
+  },
   {
    "title": "Emami Q2FY27 net profit falls 2.8% to ₹144 cr, revenue rises 36.2%",
    "link": "https://www.business-standard.com/companies/quarterly-results/emami-q2fy27-net-profit-falls-2-8-to-144-cr-revenue-rises-36-2-126110502108_1.html",
@@ -3461,32 +3480,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Karvy, Quant Capital among 8 firms losing SEBI investment adviser registrations over unpaid fees; what does this mean?",
-   "link": "https://www.businesstoday.in/personal-finance/story/karvy-quant-capital-among-8-firms-losing-sebi-investment-adviser-registrations-over-unpaid-fees-what-does-this-mean-565774-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Mahanadi Coalfields, Sagar Defence Engineering, Arjun Jewellers get SEBI nod to launch IPOs",
-   "link": "https://www.moneycontrol.com/news/business/ipo/mahanadi-coalfields-sagar-defence-engineering-arjun-jewellers-get-sebi-nod-to-launch-ipos-14069886.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
   }
  ]
