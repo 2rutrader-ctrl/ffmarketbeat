@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:45:57.280392+00:00",
+ "updated": "2026-11-05T16:01:37.566957+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
@@ -7,6 +7,30 @@
   "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IDBI Bank stake sale: Why employees are protesting against Fairfax deal and demanding privatisation rollback",
+   "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-why-employees-are-protesting-against-fairfax-deal-and-demanding-privatisation-rollback-11793874927748.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:00:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "ONGC Q2 net profit jumps 57% on higher crude, gas realisations",
+   "link": "https://www.thehindu.com/business/Economy/ongc-q2-net-profit-jumps-57-on-higher-crude-gas-realisations/article71670861.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Noel Tata to retire as Titan Company vice-chairman on November 12",
    "link": "https://www.business-standard.com/companies/news/noel-tata-to-retire-as-titan-company-vice-chairman-on-november-12-126110501943_1.html",
@@ -3475,27 +3499,6 @@
     "topic": "How trade duties work through markets",
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "'China's economy is doing really quite badly': British author stunned by tech boom, economic slump",
-   "link": "https://www.businesstoday.in/latest/economy/story/chinas-economy-is-doing-really-quite-badly-british-author-stunned-by-tech-boom-economic-slump-565723-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T12:30:00+00:00"
-  },
-  {
-   "title": "Dabur Q2 results: Net profit rises 12%, revenue at Rs 3,563 crore",
-   "link": "https://www.businesstoday.in/markets/stocks/story/dabur-q2-results-net-profit-rises-12-revenue-at-rs-3563-crore-565730-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
