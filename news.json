@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-05T20:45:55.318936+00:00",
+ "updated": "2026-11-05T21:01:29.883602+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 22 new items (12 files read)"
+  "gdelt": "ok, 14 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "A month after lifting of ban, wheat exports rise fourfold, shows data",
+   "link": "https://www.business-standard.com/industry/agriculture/a-month-after-lifting-of-ban-wheat-exports-rise-fourfold-shows-data-126110502116_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T21:00:00+00:00"
+  },
+  {
+   "title": "Jio launches voice-only plans from ₹147: How do prices compare with Airtel and Vi?",
+   "link": "https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T21:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
   {
    "title": "LIC seeks alignment with global standards, EoM glide path in feedback to Irdai's distribution proposals",
    "link": "https://www.livemint.com/industry/banking/lic-seeks-alignment-with-global-standards-eom-glide-path-in-feedback-to-irdai-s-distribution-proposals-11793890392546.html",
@@ -3454,32 +3473,6 @@
     "topic": "Why government spending and tax policy matter",
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "SEBI eases KYC rules for NRIs, OCIs and foreign nationals; digital onboarding allowed from December 3",
-   "link": "https://www.businesstoday.in/nri/invest/story/sebi-eases-kyc-rules-for-nris-ocis-and-foreign-nationals-digital-onboarding-allowed-from-december-3-565768-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Bond yields fall 11 bps, rupee gains as oil prices slide after US midterms",
-   "link": "https://www.business-standard.com/markets/news/bond-yields-fall-11-bps-rupee-gains-as-oil-prices-slide-after-us-midterms-126110401818_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
