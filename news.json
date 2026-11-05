@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-05T16:01:37.566957+00:00",
+ "updated": "2026-11-05T16:15:55.455021+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Forevermark Diamond Jewellery Expands North India Footprint with New Store at Gold Souk Mall, Gurugram, Inaugurated by Film Star Vaani Kapoor",
+   "link": "https://www.thehindu.com/brandhub/pr-release/forevermark-diamond-jewellery-expands-north-india-footprint-with-new-store-at-gold-souk-mall-gurugram-inaugurated-by-film-star-vaani-kapoor/article71670066.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
+   "link": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T16:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "IDBI Bank stake sale: Why employees are protesting against Fairfax deal and demanding privatisation rollback",
    "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-why-employees-are-protesting-against-fairfax-deal-and-demanding-privatisation-rollback-11793874927748.html",
@@ -3478,27 +3504,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India's Nykaa quarterly profit nearly triples on beauty demand, margin gains",
-   "link": "https://www.moneycontrol.com/news/business/earnings/india-s-nykaa-quarterly-profit-nearly-triples-on-beauty-demand-margin-gains-14069746.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:30:00+00:00"
-  },
-  {
-   "title": "Trump's midterm defeat raises hopes of tariff relief, but India still faces trade risks experts explain",
-   "link": "https://www.businesstoday.in/latest/economy/story/trumps-midterm-defeat-raises-hopes-of-tariff-relief-but-india-still-faces-trade-risks-experts-explain-565728-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
   }
  ]
