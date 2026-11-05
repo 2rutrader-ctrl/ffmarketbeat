@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-05T05:15:54.170054+00:00",
+ "updated": "2026-11-05T05:31:10.009529+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bombay Coated & Special Steels shares list at 12% premium over IPO price",
+   "link": "https://www.business-standard.com/markets/news/bombay-coated-special-steels-shares-list-at-12-premium-over-ipo-price-126110500471_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T05:30:00+00:00"
+  },
+  {
+   "title": "TaMo CV, Ashok Leyland, Maruti rally up to 8% as crude oil price tumbles",
+   "link": "https://www.business-standard.com/markets/news/tamo-cv-ashok-leyland-maruti-rally-up-to-8-as-crude-oil-price-tumbles-126110500463_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T05:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
    "link": "https://www.hindustantimes.com/world-news/how-democrats-coalesced-around-the-economy-to-pull-off-a-stunning-victory-101793849724354.html",
@@ -3489,32 +3510,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "India's free trade agreement pipeline could cover 75% of exports",
-   "link": "https://www.business-standard.com/economy/news/india-s-free-trade-agreement-pipeline-could-cover-75-of-exports-126110301944_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T18:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Andrew Lautz, tax expert, warns US businesses face 'partisan tug-of-war' over taxes and tariffs as midterm Election Day looms",
-   "link": "https://www.hindustantimes.com/world-news/us-news/andrew-lautz-tax-expert-warns-us-businesses-face-partisan-tug-of-war-over-taxes-and-tariffs-as-us-midterm-election-day-looms-101793615200235.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
   }
  ]
