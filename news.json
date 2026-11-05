@@ -1,12 +1,139 @@
 {
- "updated": "2026-11-05T16:45:54.283505+00:00",
+ "updated": "2026-11-05T17:01:38.256627+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Titan misses Q2 revenue estimates but beats profit view as jewellery demand holds up",
+   "link": "https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T17:00:00+00:00",
+   "companies": [
+    "Titan"
+   ]
+  },
+  {
+   "title": "PhysicsWallah Q2 net profit more than doubles to nearly ₹144 crore as revenue rises 18%",
+   "link": "https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T17:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nita Ambani wears handwoven Banarasi Ramavali saree at Reliance Deepawali Utsav 2026. See details",
+   "link": "https://www.livemint.com/news/trends/nita-ambani-wears-handwoven-banarasi-ramavali-saree-at-reliance-deepawali-utsav-2026-see-details-11793890703584.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T17:00:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Berger Paints misses Q2 profit estimates as raw material inflation squeezes margins",
+   "link": "https://www.livemint.com/companies/company-results/berger-paints-misses-q2-profit-estimates-raw-material-inflation-squeezes-margins-11793884875033.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T17:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Dividend stocks: Coal India, TCS, HUDCO, HCL Tech, GAIL among top 10 dividend paying stocks - Check yield, annual return",
+   "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T17:00:00+00:00",
+   "companies": [
+    "TCS",
+    "HCLTech",
+    "Coal India"
+   ]
+  },
+  {
+   "title": "'No reason to go elsewhere': Zerodha CEO Nithin Kamath welcomes SEBI's NRI KYC changes",
+   "link": "https://www.livemint.com/market/stock-market-news/no-reason-to-go-elsewhere-zerodha-ceo-nithin-kamath-welcomes-sebis-nri-kyc-changes-11793886877810.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T17:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Antala Industries IPO subscribed 12.2 times on final day, listing likely next week",
+   "link": "https://www.moneycontrol.com/news/business/ipo/antala-industries-ipo-subscribed-12-2-times-on-final-day-listing-likely-next-week-14071838.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T17:00:00+00:00"
+  },
+  {
+   "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "link": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T16:45:00+00:00"
+  },
+  {
+   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor status",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-issues-framework-allowing-aif-sif-managers-and-portfolio-managers-to-certify-accredited-investor-status-14071842.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "SEBI aligns currency derivatives exposure limits with RBI norms, caps unhedged positions at $5 million",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-aligns-currency-derivatives-exposure-limits-with-rbi-norms-caps-unhedged-positions-at-5-million-14071824.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "IDBI Bank sale: Reserve price never refixed after first bids, says DIPAM chief; restarting process would have been futile",
+   "link": "https://www.moneycontrol.com/banking/idbi-bank-sale-reserve-price-never-refixed-after-first-bids-says-dipam-chief-restarting-process-would-have-been-futile-article-14071804.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:45:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
   {
    "title": "Oil companies receive bids for 1.93 bn litres of ethanol in latest tender",
    "link": "https://www.business-standard.com/industry/agriculture/oil-companies-receive-bids-for-1-93-bn-litres-of-ethanol-in-latest-tender-126110501996_1.html",
@@ -3356,144 +3483,6 @@
    "companies": [
     "Nykaa"
    ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Gold shines as dollar slips to 5-week low, investors await U.S. midterm election results",
-   "link": "https://www.thehindu.com/business/markets/gold-shines-as-dollar-slips-to-5-week-low-investors-await-us-midterm-election-results/article71665738.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "IMFA Q2FY27 net profit rises 50.62% to ₹148.77 crore on higher volumes",
-   "link": "https://www.business-standard.com/companies/quarterly-results/imfa-q2fy27-net-profit-rises-50-62-to-148-77-crore-on-higher-volumes-126110401414_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "'Mercedes-Benz sees India as future export hub; question is when, not if'",
-   "link": "https://www.business-standard.com/companies/news/mercedes-benz-sees-india-as-future-export-hub-question-is-when-not-if-126110401458_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00"
-  },
-  {
-   "title": "BLS International Services net profit rises 8% to ₹201.7 crore in Q2FY27",
-   "link": "https://www.business-standard.com/companies/quarterly-results/bls-international-services-net-profit-rises-8-to-201-7-crore-in-q2fy27-126110301604_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Masked men steal 45 sovereigns of gold jewellery near Attur",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/masked-men-steal-45-sovereigns-of-gold-jewellery-near-attur/article71665576.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Lenskart Q2FY27 net profit more than doubles to ₹232 cr, revenue up 32.5%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/lenskart-q2fy27-net-profit-more-than-doubles-to-232-cr-revenue-up-32-5-126110401577_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "US midterm results: Here's what they could mean for Iran, Ukraine, oil prices and global relations",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-midterm-results-heres-what-they-could-mean-for-iran-ukraine-oil-prices-and-global-relations-101793796930185.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T13:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "How Markets Reacted to Democrats' Win: Stocks U-Turn, Gold Gains",
-   "link": "https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T13:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold and silver prices today: Bought on Dhanteras 2025? Check what your ₹1 lakh investment is worth now",
-   "link": "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-today-bought-on-dhanteras-2025-check-what-your-1-lakh-investment-is-worth-now-11793795164740.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SEBI's mutual fund switch proposal raises an old question: easier exits, or easier churn?",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-s-mutual-fund-switch-proposal-raises-an-old-question-easier-exits-or-easier-churn-14069826.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "PhysicsWallah Q2: Net profit at Rs 143.6 crore, revenue rises 18% YoY",
-   "link": "https://www.moneycontrol.com/news/business/earnings/physicswallah-q2-net-profit-at-rs-143-6-crore-revenue-rises-18-yoy-14069827.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:45:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
