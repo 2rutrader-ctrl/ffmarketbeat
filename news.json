@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-05T05:01:28.048687+00:00",
+ "updated": "2026-11-05T05:15:54.170054+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
+   "link": "https://www.hindustantimes.com/world-news/how-democrats-coalesced-around-the-economy-to-pull-off-a-stunning-victory-101793849724354.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T05:15:00+00:00"
+  },
+  {
+   "title": "US midterm election results impact on Indian Rupee - INR vs USD - What's happening after Trump's loss?",
+   "link": "https://www.livemint.com/money/us-midterm-election-results-impact-on-indian-rupee-inr-vs-usd-whats-happening-after-trumps-loss-11793853169500.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T05:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Gold, silver prices today, 5 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
    "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-5-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740257640.html",
@@ -3495,25 +3516,6 @@
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
-  },
-  {
-   "title": "Ajwa Projects Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/ajwa-projects-apl13-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:00:00+00:00"
-  },
-  {
-   "title": "Competing with airlines not a sound strategy: Adani Airports CEO",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/competing-with-airlines-not-a-sound-strategy-adani-airports-ceo/article71660926.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T18:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
