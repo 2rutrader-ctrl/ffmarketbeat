@@ -1,12 +1,138 @@
 {
- "updated": "2026-11-05T13:15:52.610763+00:00",
+ "updated": "2026-11-05T13:31:13.574876+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Buying gold or silver items on Dhanteras? Check November 6 shubh muhurat in your city, purity and buying tips",
+   "link": "https://www.livemint.com/money/buying-gold-or-silver-items-on-dhanteras-check-november-6-shubh-muhurat-in-your-city-11793876944671.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Titan shines in Q2 Results 2026; Net profit doubles to ₹2,393 crore, aided by one-time gain; jewellery business up 24%",
+   "link": "https://www.livemint.com/market/stock-market-news/titan-shines-in-q2-results-2026-net-profit-doubles-to-rs-2-393-crore-aided-by-one-time-gain-jewellery-business-up-24-11793880484831.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Sebi allows mutual fund schemes to net cash market fund settlements",
+   "link": "https://www.livemint.com/market/sebi-allows-mutual-fund-schemes-to-net-cash-market-fund-settlements-11793879902529.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Bharti Airtel Q2 results: Profit jumps 31% to ₹8,888 crore, ARPU up ₹271 crore, telco stock rallies 121% in 3 yrs",
+   "link": "https://www.livemint.com/market/stock-market-news/bharti-airtel-q2-results-profit-jumps-31-to-rs-8-888-crore-arpu-up-rs-271-telecom-stock-rallies-121-in-3-yrs-11793882129364.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "M&M Q2 consolidated PAT surges on strong SUV demand, beats Maruti and Hyundai",
+   "link": "https://www.livemint.com/companies/company-results/mm-strong-suv-demand-maruti-hyundai-11793878483326.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00"
+  },
+  {
+   "title": "Narayana Murthy once wanted to work at Wipro. Why did Azim Premji turn him down? Here's the story",
+   "link": "https://www.livemint.com/companies/people/narayana-murthy-once-wanted-to-work-at-wipro-why-did-azim-premji-turn-him-down-here-s-the-story-11793876365333.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00",
+   "companies": [
+    "Wipro"
+   ]
+  },
+  {
+   "title": "Why Trump won't let up on tariffs, even with Democrats in control",
+   "link": "https://www.livemint.com/global/why-trump-won-t-let-up-on-tariffs-even-with-democrats-in-control-11793870518579.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "ONGC net profit jumps 57% to ₹15,488.64 crore on higher oil, gas prices",
+   "link": "https://www.business-standard.com/companies/news/ongc-net-profit-jumps-57-to-15-488-64-crore-on-higher-oil-gas-prices-126110501661_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Sebi eases investor accreditation norms, lets fund managers certify status",
+   "link": "https://www.business-standard.com/markets/news/sebi-eases-investor-accreditation-norms-lets-fund-managers-certify-status-126110501539_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "LIC Q2 net profit rises 20% to Rs 12,076 crore on higher premium income",
+   "link": "https://www.moneycontrol.com/news/business/earnings/lic-q2-net-profit-rises-20-to-rs-12-076-crore-on-higher-premium-income-14071748.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T13:00:00+00:00",
+   "companies": [
+    "LIC"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Gold's biggest enemy could become its biggest supporter: The unusual US bond market paradox",
    "link": "https://www.businesstoday.in/latest/economy/story/golds-biggest-enemy-could-become-its-biggest-supporter-the-unusual-us-bond-market-paradox-565875-2026-11-05",
@@ -3382,139 +3508,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Zydus Lifesciences Q2 net profit falls 27% as expenses outpace revenue growth; shares decline 3.5%",
-   "link": "https://www.moneycontrol.com/news/business/markets/zydus-lifesciences-q2-net-profit-falls-27-as-expenses-outpace-revenue-growth-shares-decline-3-5-14069455.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T10:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Alembic Pharma shares hit 20% upper circuit after strong Q2 results",
-   "link": "https://www.moneycontrol.com/news/business/markets/alembic-pharma-shares-hit-20-upper-circuit-after-strong-q2-results-14069459.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T10:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Muthoot Finance, Manappuram shares rise up to 8% as gold jumps 2.5% on softer dollar after Democratic midterm sweep",
-   "link": "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-shares-rise-up-to-8-as-gold-jumps-2-5-on-softer-dollar-after-democratic-midterm-sweep-14069367.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T10:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold price optimism cools among Indians: Should investors change their investment strategy?",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-price-optimism-cools-among-indians-should-investors-change-their-investment-strategy-14069390.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T10:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "RBI sets up market advisory panel to address liquidity, resilience concerns",
-   "link": "https://www.livemint.com/industry/rbi-sets-up-market-advisory-panel-to-address-liquidity-resilience-concerns-11793773573822.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:45:00+00:00",
-   "thought": {
-    "topic": "What banking liquidity changes",
-    "short": "Liquidity",
-    "text": "Liquidity measures change how much money is available in the banking system. This influences short-term interest rates and the ease with which banks can lend."
-   }
-  },
-  {
-   "title": "Small-cap apparel stock jumps over 3% after the announcement of Q2 Results 2026 | Do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/smallcap-apparel-stock-vishal-fabrics-jumps-over-3-after-the-announcement-of-q2-results-2026-do-you-own-11793775946928.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Services sector growth hits a four-month peak in October, PMI survey shows",
-   "link": "https://www.livemint.com/economy/india-services-pmi-hsbc-india-pmi-11793781185446.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:45:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Bharti Airtel Q2 preview: Higher Arpu, subscriber upgrades to drive earnings",
-   "link": "https://www.livemint.com/companies/news/bharti-airtel-q2-results-fy27-revenue-profit-arpu-subscriber-growth-11793772859175.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:45:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Redington shares surge 11% on strong Q2 results; profit rises 21% to Rs 422 crore",
-   "link": "https://www.moneycontrol.com/news/business/markets/redington-shares-surge-11-on-strong-q2-results-profit-rises-21-to-rs-422-crore-14069345.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T09:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Redington Q2 earnings: Stock rises 11% on highest revenue, EBITDA up 41%",
-   "link": "https://www.businesstoday.in/markets/stocks/story/redington-q2-earnings-stock-rises-on-highest-revenue-ebitda-up-565648-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T09:30:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
