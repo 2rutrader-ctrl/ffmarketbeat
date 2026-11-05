@@ -1,12 +1,46 @@
 {
- "updated": "2026-11-05T16:15:55.455021+00:00",
+ "updated": "2026-11-05T16:31:18.944589+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil companies receive bids for 1.93 bn litres of ethanol in latest tender",
+   "link": "https://www.business-standard.com/industry/agriculture/oil-companies-receive-bids-for-1-93-bn-litres-of-ethanol-in-latest-tender-126110501996_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T16:30:00+00:00"
+  },
+  {
+   "title": "Rupee hits over one-month high, 10-year bond yield falls to 7.17%",
+   "link": "https://www.business-standard.com/markets/news/rupee-hits-over-one-month-high-10-year-bond-yield-falls-to-7-17-126110501865_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T16:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Fortis Q2 net profit falls 2.5% on higher expenses, lower exceptional gain",
+   "link": "https://www.business-standard.com/companies/quarterly-results/fortis-q2-net-profit-falls-2-5-on-higher-expenses-lower-exceptional-gain-126110501986_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T16:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Forevermark Diamond Jewellery Expands North India Footprint with New Store at Gold Souk Mall, Gurugram, Inaugurated by Film Star Vaani Kapoor",
    "link": "https://www.thehindu.com/brandhub/pr-release/forevermark-diamond-jewellery-expands-north-india-footprint-with-new-store-at-gold-souk-mall-gurugram-inaugurated-by-film-star-vaani-kapoor/article71670066.ece",
@@ -3464,46 +3498,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Reliance Jio launches truly unlimited 5G data pack at Rs 15 with 24-hour validity: Details",
-   "link": "https://www.moneycontrol.com/technology/reliance-jio-launches-truly-unlimited-5g-data-pack-at-rs-15-with-24-hour-validity-details-article-14069806.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Dabur Q2 net profit rises 12% to Rs 506 crore, beats estimates; global CEO Mohit Malhotra resigns",
-   "link": "https://www.moneycontrol.com/news/business/earnings/dabur-q2-net-profit-rises-12-to-rs-506-crore-beats-estimates-global-ceo-mohit-malhotra-resigns-14069739.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Titan, Kalyan, other jewellery shares rise up to 6% ahead of Dhanteras, rise in gold prices",
-   "link": "https://www.moneycontrol.com/news/business/markets/titan-kalyan-other-jewellery-shares-rise-up-to-6-ahead-of-dhanteras-rise-in-gold-prices-14069426.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:30:00+00:00",
-   "companies": [
-    "Titan"
-   ],
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
