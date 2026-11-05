@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-05T02:01:24.051455+00:00",
+ "updated": "2026-11-05T02:15:49.663330+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Smaller deal sizes, valuation discipline sustain India's record IPO rush",
+   "link": "https://www.livemint.com/market/ipo/ipo-size-and-valuation-trends-in-india-11793774074385.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T02:15:00+00:00"
+  },
+  {
+   "title": "US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views",
+   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-impact-what-trumps-loss-mean-for-sensex-nifty-gold-silver-rates-experts-views-11793838614653.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T02:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Spices Board pushes for value-added and pesticide-free exports",
+   "link": "https://www.thehindu.com/news/national/kerala/spices-board-pushes-for-value-added-and-pesticide-free-exports/article71665923.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T02:15:00+00:00"
+  },
+  {
+   "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+   "link": "https://www.livemint.com/market/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-11793841623449.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T02:15:00+00:00"
+  },
   {
    "title": "From tunnel boring machines to rockets and pod taxis, L&T explores new manufacturing bets",
    "link": "https://www.livemint.com/companies/news/larsen-toubro-new-manufacturing-plans-11793740590114.html",
@@ -3460,51 +3497,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T15:30:00+00:00"
-  },
-  {
-   "title": "RBI to meet bank CEOs to review preparedness for ECL rollout: C S Setty",
-   "link": "https://www.business-standard.com/finance/news/rbi-likely-to-meet-bank-ceos-to-review-their-preparedness-for-ecl-rollout-126110301751_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00"
-  },
-  {
-   "title": "US Midterm Election Results 2026 date today! What Trump's loss mean for gold, Sensex, Nifty, global markets, US bonds?",
-   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-date-today-what-trumps-loss-mean-for-gold-sensex-nifty-global-markets-us-bonds-11793715305962.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold vs Silver ETFs before Diwali 2026: Which delivered better returns? What risks should investors check before buying?",
-   "link": "https://www.livemint.com/money/personal-finance/gold-vs-silver-etfs-before-diwali-2026-which-delivered-better-returns-what-risks-should-investors-check-before-buying-11793710248562.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "IndiGo to get first Airbus A350 in 2028: CEO Willie Walsh outlines 600-plane fleet goal and expansion plan",
-   "link": "https://www.livemint.com/companies/news/indigo-to-get-first-airbus-a350-in-2028-ceo-willie-walsh-outlines-600-plane-fleet-goal-and-expansion-plan-11793712329159.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   }
  ]
 }
