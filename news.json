@@ -1,12 +1,103 @@
 {
- "updated": "2026-11-05T14:01:29.796100+00:00",
+ "updated": "2026-11-05T14:15:54.493005+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Ports to acquire Dutch operator Evos in €1.18 billion deal",
+   "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
+   "link": "https://www.thehindu.com/brandhub/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20000-exchange-bonus/article71669312.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "AMC stocks rebound as equity market recovery lifts earnings expectations",
+   "link": "https://www.business-standard.com/markets/stock-market-news/amc-stocks-rebound-as-equity-market-recovery-lifts-earnings-expectations-126110501795_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T14:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Karnataka govt asks regulator to remove tariff ceiling for renewable energy bids",
+   "link": "https://www.thehindubusinessline.com/news/karnataka-govt-asks-regulator-to-removetariff-ceiling-for-renewable-energy-bids/article71670288.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T14:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "M&M profit rises 25% as SUVs power growth, tractors lose steam",
+   "link": "https://www.thehindubusinessline.com/companies/mm-profit-rises-25-as-suvs-power-growth-tractors-lose-steam/article71670273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "Growth, margins to remain steady for Nykaa on strong beauty biz performance",
+   "link": "https://www.business-standard.com/companies/news/growth-margins-to-remain-steady-for-nykaa-on-strong-beauty-biz-performance-126110501491_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00",
+   "companies": [
+    "Nykaa"
+   ]
+  },
+  {
+   "title": "Sebi allows mutual funds to net cash market obligations from April",
+   "link": "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Blockbuster listing for Bombay Coated and Special Steels' IPO - lists at Rs 91 on the exchange, reaches a high of Rs 96.62 on the exchange",
+   "link": "https://www.thehindu.com/brandhub/pr-release/blockbuster-listing-for-bombay-coated-and-special-steels-ipo-lists-at-rs-91-on-the-exchange-reaches-a-high-of-rs-9662-on-the-exchange/article71669825.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T14:15:00+00:00"
+  },
   {
    "title": "Nifty touches a three-month high: Is Dalal Street's Diwali-week rally a trend change or just festive relief?",
    "link": "https://www.moneycontrol.com/news/business/nifty-touches-a-three-month-high-is-dalal-street-s-diwali-week-rally-a-trend-change-or-just-festive-relief-14071754.html",
@@ -3410,103 +3501,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Maxwell Engineering Solutions SME IPO allotment today; GMP nears 50%, check status on NSE & registrar",
-   "link": "https://www.moneycontrol.com/news/business/ipo/maxwell-engineering-solutions-sme-ipo-allotment-today-gmp-nears-50-check-status-on-nse-registrar-14069555.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00"
-  },
-  {
-   "title": "How global markets reacted to Democrats' midterm sweep: Stocks rebound, Treasury yields fall",
-   "link": "https://www.moneycontrol.com/world/how-global-markets-reacted-to-democrats-midterm-sweep-stocks-rebound-treasury-yields-fall-article-14069509.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "VinFast is now India's No. 4 electric car brand, ahead of Kia, Maruti and Hyundai",
-   "link": "https://www.businesstoday.in/latest/trends/photo/vinfast-is-now-indias-no-4-electric-car-brand-ahead-of-kia-maruti-and-hyundai-565660-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00",
-   "companies": [
-    "Maruti Suzuki"
-   ]
-  },
-  {
-   "title": "NLC India shares gain 9% on Q2 earnings, interim dividend",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nlc-india-shares-gain-9-on-q2-earnings-interim-dividend-565710-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Mumbai airport: 2 passengers from Bahrain caught with Rs 2.09 crore gold dust hidden in undergarments",
-   "link": "https://www.moneycontrol.com/city/mumbai-airport-2-passengers-from-bahrain-caught-with-rs-2-09-crore-gold-dust-hidden-in-undergarments-article-14069534.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Thangamayil Jewellery Q2 earnings: Stock falls 7% amid decline in gross profit, EBITDA margins",
-   "link": "https://www.businesstoday.in/markets/stocks/story/thangamayil-jewellery-q2-earnings-stock-falls-7-amid-decline-in-gross-profit-ebitda-margins-565691-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Alembic Pharmaceuticals shares hit 20% upper circuit on strong Q2 earnings",
-   "link": "https://www.businesstoday.in/markets/stocks/story/alembic-pharmaceuticals-shares-hit-20-upper-circuit-on-strong-q2-earnings-565673-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "This small cap ferrous metal firm declares Rs 5/share dividend; check record date, Q2 results",
-   "link": "https://www.businesstoday.in/markets/stocks/story/this-small-cap-ferrous-metal-firm-declares-rs-5share-dividend-check-record-date-q2-results-565698-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
