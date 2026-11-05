@@ -1,12 +1,147 @@
 {
- "updated": "2026-11-05T17:45:55.057989+00:00",
+ "updated": "2026-11-05T17:57:23.316388+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BEML Q2 net profit falls 31% to ₹33 crore despite 42% revenue growth",
+   "link": "https://www.thehindubusinessline.com/companies/beml-q2-net-profit-falls-31-to-33-crore-despite-42-revenue-growth/article71670890.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
+   "link": "https://www.thehindubusinessline.com/brandhub/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20000-exchange-bonus/article71669313.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Airtel consolidated net profit up 21% y-o-y to ₹9,440.6 crore in Q2 FY27",
+   "link": "https://www.thehindubusinessline.com/info-tech/airtel-consolidated-net-profit-up-21-y-o-y-to-94406-crore-in-q2-fy27/article71670424.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "ONGC Q2 results: Net profit rises 57.3% to ₹15,489 crore; dividend announced",
+   "link": "https://www.thehindubusinessline.com/companies/ongc-q2-profit-rises-57-to-15489-crore-on-higher-crude-oil-realisations/article71671364.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "companies": [
+    "ONGC"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "LIC's Q2FY27 standalone net profit up 20% at ₹12,076 crore",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/lics-q2fy27-standalone-net-profit-up-20-at-12076-crore/article71671032.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "companies": [
+    "LIC"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Jewellers expect fall in gold prices to boost Dhantera sales",
+   "link": "https://www.thehindubusinessline.com/markets/gold/jewellers-expect-fall-in-gold-prices-to-boost-dhantera-sales/article71670298.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T18:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Va Tech WABAG net profit up 18% at ₹104 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/va-tech-wabag-net-profit-up-18-at-104-crore/article71670192.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Rupee closes at a 2-month high on possibility of de-escalation West Asia war, softening crude, weak dollar",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-closes-at-a-2-month-high-on-possibility-of-de-escalation-west-asia-war-softening-crude-weak-dollar/article71670743.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Titan Q2 profit more than doubles on one-off gain; adjusted PBT growth at 18%",
+   "link": "https://www.thehindubusinessline.com/companies/titan-q2-profit-more-than-doubles-on-one-off-gain-adjusted-pbt-growth-at-18/article71670744.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00"
+  },
+  {
+   "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
+   "link": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T18:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Noel Tata to retire as Titan vice-chairman and director on November 12",
    "link": "https://www.moneycontrol.com/news/business/noel-tata-to-retire-as-titan-vice-chairman-and-director-on-november-12-14071862.html",
@@ -3362,126 +3497,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Dabur India net profit up 11.7% at ₹505.5 crore in Q2 - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/dabur-india-net-profit-up-117-at-5055-crore-in-q2/article71666121.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Thangamayil Jewellery net profit flat at ₹59 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/thangamayil-jewellery-net-profit-flat-at-59-crore/article71665142.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "US optimism fuels Nifty's strongest 5-day rally in seven months",
-   "link": "https://www.thehindubusinessline.com/markets/us-optimism-fuels-niftys-strongest-5-day-rally-in-seven-months/article71665638.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:00:00+00:00"
-  },
-  {
-   "title": "Gold Prices and Investment Planning: What Investors Should Consider Before Investing in Gold",
-   "link": "https://www.thehindubusinessline.com/brandhub/gold-prices-and-investment-planning-what-investors-should-consider-before-investing-in-gold/article71656556.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T15:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Trump's tariffs, healthcare cuts face fresh scrutiny after Democrats' election sweep",
-   "link": "https://www.hindustantimes.com/world-news/us-news/democrats-take-control-of-congress-putting-trumps-tariffs-healthcare-and-business-policies-in-focus-101793799332583.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T14:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Real gold, unreal weight: How a new adulteration scam using heavy metals is beating acid and touchstone purity tests",
-   "link": "https://www.livemint.com/money/personal-finance/real-gold-unreal-weight-how-a-new-adulteration-scam-using-heavy-metals-is-beating-acid-and-touchstone-purity-tests-11793792532113.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T14:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "ShareChat eyes late-2027 IPO as micro dramas drive profitability turnaround",
-   "link": "https://www.business-standard.com/companies/news/sharechat-eyes-late-2027-ipo-as-micro-dramas-drive-profitability-turnaround-126110401687_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T14:15:00+00:00"
-  },
-  {
-   "title": "Sebi forms working group to review Innovators Growth Platform framework",
-   "link": "https://www.business-standard.com/markets/news/sebi-forms-working-group-to-review-innovators-growth-platform-framework-126110401649_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T14:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Sebi eases digital KYC rules for NRIs, foreign nationals from December 3",
-   "link": "https://www.business-standard.com/markets/news/sebi-eases-digital-kyc-rules-for-nris-foreign-nationals-from-december-3-126110401461_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "BSE Q2 net profit jumps 45% to ₹809 crore, board clears BKC plot proposal",
-   "link": "https://www.business-standard.com/companies/news/bse-q2-net-profit-jumps-45-to-809-crore-board-clears-bkc-plot-proposal-126110401578_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T13:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
