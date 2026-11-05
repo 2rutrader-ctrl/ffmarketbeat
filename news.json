@@ -1,12 +1,234 @@
 {
- "updated": "2026-11-05T04:15:51.209712+00:00",
+ "updated": "2026-11-05T04:31:12.813843+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nykaa Q2 profit grows over three-fold to ₹101 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/nykaa-q2-grows-over-three-fold-to-101-crore/article71668471.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "companies": [
+    "Nykaa"
+   ]
+  },
+  {
+   "title": "SEBI allows overseas investors to complete KYC digitally without visiting India",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-eases-kyc-rules-for-overseas-investors-allows-digital-onboarding-without-india-visit/article71668485.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "CERT-In flags security vulnerabilities in Tata Motors' iRA connected vehicle apps",
+   "link": "https://www.thehindubusinessline.com/companies/cert-in-flags-high-severity-security-vulnerabilities-in-tata-motors-ira-connected-vehicle-apps/article71668222.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "SEBI's own path for settlement - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/opinion/sebis-own-path-for-settlement/article71666660.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Mahanadi Coalfields IPO gets SEBI approval; key details of Coal India's stake sale",
+   "link": "https://www.thehindubusinessline.com/markets/mahanadi-coalfields-ipo-gets-sebi-approval-coal-india-to-sell-10-stake/article71668486.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "companies": [
+    "Coal India"
+   ],
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "US midterms could slow AI data-centre investments, support Treasury bonds: ICICI Bank",
+   "link": "https://www.thehindubusinessline.com/news/world/us-election-results-could-slow-ai-data-centre-investments-support-treasury-bonds-report/article71668504.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:30:00+00:00",
+   "companies": [
+    "ICICI Bank"
+   ],
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Sebi approves Mahanadi Coalfields IPO as Coal India plans 10% stake sale",
+   "link": "https://www.business-standard.com/markets/ipo/sebi-approves-mahanadi-coalfields-ipo-as-coal-india-plans-10-stake-sale-126110500099_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00",
+   "companies": [
+    "Coal India"
+   ],
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Operation Economic Outcast: US sanctions 4 Indians, other entities over alleged Iran oil trade links",
+   "link": "https://www.businesstoday.in/world/story/operation-economic-outcast-us-sanctions-4-indians-other-entities-over-alleged-iran-oil-trade-links-565788-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Oil prices fall for fourth day as US midterm results ease Iran war fears",
+   "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-for-fourth-day-as-us-midterm-results-ease-iran-war-fears-126110500088_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "From record highs to correction: What's next for gold and silver?",
+   "link": "https://www.business-standard.com/markets/news/from-record-highs-to-correction-what-s-next-for-gold-and-silver-126110500104_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Bulls eye! Sensex seen at 87,000, Nifty at 27,000 by next Diwali: Experts",
+   "link": "https://www.business-standard.com/markets/news/diwali-cheer-ahead-analysts-see-sensex-nifty-at-new-highs-in-next-samvat-126110300941_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
+  {
+   "title": "Sebi eases KYC norms for overseas investors, enables digital onboarding",
+   "link": "https://www.business-standard.com/markets/news/sebi-eases-kyc-norms-for-overseas-investors-enables-digital-onboarding-126110500098_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "How much gold can you keep at home? The 500g rule explained",
+   "link": "https://www.businesstoday.in/latest/trends/photo/how-much-gold-can-you-keep-at-home-the-500g-rule-explained-565770-2026-11-04",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Oil prices hit two-month low after U.S. Democratic win",
+   "link": "https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Will Sensex, Nifty scale new highs in Samvat 2083? What tech analysts say",
+   "link": "https://www.business-standard.com/markets/news/will-sensex-nifty-scale-new-highs-in-samvat-2083-what-tech-analysts-say-126110500083_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
+  {
+   "title": "Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising today",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-sensex-rally-diwali-fireworks-5-reasons-why-stock-market-is-rising-today-565795-2026-11-05",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
+  {
+   "title": "From Sivakasi to Diwali markets: Inside India's firecracker economy",
+   "link": "https://www.business-standard.com/industry/news/india-firecracker-industry-size-growth-sivakasi-green-crackers-market-126110500130_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
+  {
+   "title": "OpenAI says ready to IPO in 2027, now counts majority of sales from enterprises",
+   "link": "https://www.thehindu.com/sci-tech/technology/openai-says-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises/article71668478.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
+  {
+   "title": "Samvat 2082: IPO fundraise crosses ₹2-trillion mark for the first time ever",
+   "link": "https://www.business-standard.com/markets/news/samvat-2082-ipo-fundraise-crosses-2-trillion-mark-for-the-first-time-ever-126110500115_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T04:15:00+00:00"
+  },
   {
    "title": "Commodity Corner: Oil extends losing streak to fourth day; gold holds biggest rally since August",
    "link": "https://www.moneycontrol.com/news/business/stocks/commodity-corner-oil-extends-losing-streak-to-fourth-day-gold-holds-biggest-rally-since-august-14070689.html",
@@ -3295,209 +3517,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-03T18:00:00+00:00"
-  },
-  {
-   "title": "Payments firm Razorpay gets SEBI nod for IPO, likely to list in Q4 of FY 27 at $5 billion",
-   "link": "https://www.moneycontrol.com/technology/payments-firm-razorpay-gets-sebi-nod-for-ipo-likely-to-list-in-q4-of-fy-27-at-5-billion-article-14068061.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "India aims for ₹3 lakh cr defence production, ₹50,000 cr exports by 2029: Rajnath Singh",
-   "link": "https://www.thehindubusinessline.com/news/india-aims-for-3-lakh-cr-defence-production-50000-cr-exports-by-2029-rajnath-singh/article71661469.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:15:00+00:00"
-  },
-  {
-   "title": "Silver crashes 18% to $48 in a month: Is the worst yet to come?",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/silver-crashes-18-just-above-48-in-a-month-is-the-worst-yet-to-come-14068055.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T17:15:00+00:00"
-  },
-  {
-   "title": "Oil prices slide about 2% to multi-week low amid peace talks",
-   "link": "https://www.moneycontrol.com/news/business/oil-prices-slide-about-2-to-multi-week-low-amid-peace-talks-14068056.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T17:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Rs 10.24-crore PNB fraud: CBI arrests bank employee, private individual in Greater Noida case",
-   "link": "https://www.moneycontrol.com/news/india/rs-10-24-crore-pnb-fraud-cbi-arrests-bank-employee-private-individual-in-greater-noida-case-14068053.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:15:00+00:00",
-   "companies": [
-    "Punjab National Bank"
-   ]
-  },
-  {
-   "title": "SBI eyes margin boost from rate hikes, but wary of consumption credit hit",
-   "link": "https://www.livemint.com/industry/banking/sbi-earnings-margin-nim-credit-banking-11793707357031.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:00:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Royal Enfield unveils Himalayan 750, Continental GT 750; expands premium motorcycle portfolio",
-   "link": "https://www.businesstoday.in/auto/story/royal-enfield-unveils-himalayan-750-continental-gt-750-expands-premium-motorcycle-portfolio-565532-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:00:00+00:00",
-   "companies": [
-    "Eicher Motors"
-   ]
-  },
-  {
-   "title": "No striking impact of RBI funding curbs on prop traders: NSE",
-   "link": "https://www.livemint.com/market/stock-market-news/nse-q2-earnings-prop-traders-sebi-cas-rules-stock-markets-india-11793719260733.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:00:00+00:00"
-  },
-  {
-   "title": "BLS International Q2 results: Record revenue on Digital Services growth, but can strong earnings revive shares?",
-   "link": "https://www.livemint.com/market/bls-international-q2-results-record-revenue-on-digital-services-growth-but-can-strong-earnings-revive-shares-11793718530166.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T17:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Gold investment on Dhanteras 2026: Physical gold or gold ETFs? Which offers better tax benefits to investors?",
-   "link": "https://www.livemint.com/money/personal-finance/gold-investment-on-dhanteras-2026-physical-gold-or-gold-etfs-which-offers-better-tax-benefits-to-investors-11793720366747.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T17:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SBI data breach: old guards, new threats",
-   "link": "https://www.livemint.com/opinion/sbi-data-breach-old-guards-new-threats-11793707815701.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T17:00:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Sound underwriting, risk pricing key to sustainable growth: RBI Deputy Guv",
-   "link": "https://www.business-standard.com/finance/news/sound-underwriting-risk-pricing-key-to-sustainable-growth-rbi-deputy-guv-126110301831_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T16:30:00+00:00"
-  },
-  {
-   "title": "ITC's cigarette business likely to remain under pressure in H2FY27",
-   "link": "https://www.business-standard.com/markets/news/itc-s-cigarette-business-likely-to-remain-under-pressure-in-h2fy27-126110301766_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T16:30:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "CCI clears Kotak Bank's acquisition of Deutsche Bank India retail business",
-   "link": "https://www.business-standard.com/companies/news/cci-clears-kotak-bank-s-acquisition-of-deutsche-bank-india-retail-business-126110301856_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T16:30:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Metropolis Q2 net profit jumps 43% to Rs 75.5 crore as specialty, wellness tests power growth",
-   "link": "https://www.moneycontrol.com/news/business/earnings/metropolis-q2-net-profit-jumps-43-to-rs-75-5-crore-as-specialty-wellness-tests-power-growth-14068039.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T16:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Hero MotoCorp's VIDA begins European operations, starts deliveries in 10 countries",
-   "link": "https://www.businesstoday.in/auto/story/hero-motocorps-vida-begins-european-operations-starts-deliveries-in-10-countries-565514-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T16:15:00+00:00",
-   "companies": [
-    "Hero MotoCorp"
-   ]
-  },
-  {
-   "title": "Carver Roboweld Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/carver-roboweld-crl03-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00"
-  },
-  {
-   "title": "'We're hot now': Trump defends his leadership in final message to voters, touts oil prices and US global standing",
-   "link": "https://www.hindustantimes.com/world-news/us-news/were-hot-now-trump-defends-his-leadership-in-final-message-to-voters-touts-oil-prices-and-us-global-standing-101793718224144.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Centre plans to expand import clearance gateways for drugs, medical devices",
-   "link": "https://www.business-standard.com/economy/news/centre-plans-to-expand-import-clearance-gateways-for-drugs-medical-devices-126110301818_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T16:00:00+00:00"
   }
  ]
 }
