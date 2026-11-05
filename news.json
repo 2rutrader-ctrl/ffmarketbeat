@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-05T01:01:23.812975+00:00",
+ "updated": "2026-11-05T01:15:47.503101+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Saif Ali Khan credits Kareena Kapoor for forging a bond with Sara Ali Khan and Ibrahim Ali Khan, says they reciprocate her efforts",
+   "link": "https://www.hindustantimes.com/entertainment/bollywood/saif-ali-khan-credits-kareena-kapoor-for-forging-a-bond-with-sara-ali-khan-and-ibrahim-ali-khan-says-they-reciprocate-her-efforts-101793803566704.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T01:15:00+00:00"
+  },
   {
    "title": "U.S. midterm elections: An economy under pressure, political shift and the road ahead",
    "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece",
@@ -3499,17 +3507,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "ED attaches fresh ₹510 crore assets, including 2 aircraft, of Anil Ambani's Reliance Group",
-   "link": "https://www.businesstoday.in/latest/corporate/story/ed-attaches-fresh-rs510-crore-assets-including-2-aircraft-of-anil-ambanis-reliance-group-565506-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
   }
  ]
 }
