@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-05T00:01:27.625949+00:00",
+ "updated": "2026-11-05T00:15:57.511296+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "U.S. midterm elections: An economy under pressure, political shift and the road ahead",
+   "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T00:15:00+00:00"
+  },
   {
    "title": "Lil Durk bond hearing: Prosecutors argue against rapper's release in VICAR case; alleges he is paying for support",
    "link": "https://www.hindustantimes.com/world-news/us-news/lil-durk-bond-hearing-prosecutors-argue-against-rappers-release-in-vicar-case-alleges-he-is-paying-for-support-101793827851748.html",
@@ -3502,14 +3510,6 @@
    "companies": [
     "Reliance Industries"
    ]
-  },
-  {
-   "title": "Centre proposes expanding import gateways for drugs, medical devices and cosmetics",
-   "link": "https://www.thehindubusinessline.com/latest-news/centre-proposes-expanding-import-gateways-for-drugs-medical-devices-and-cosmetics/article71661382.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T15:00:00+00:00"
   }
  ]
 }
