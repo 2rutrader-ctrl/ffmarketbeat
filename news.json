@@ -1,12 +1,47 @@
 {
- "updated": "2026-11-05T09:15:52.270205+00:00",
+ "updated": "2026-11-05T09:31:11.753809+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 34 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sundaram Finance Q2FY27 results: Net profit rises 6% to ₹517 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/sundaram-finance-q2fy27-results-net-profit-rises-6-to-517-crore-126110500805_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "M&M Q2 consolidated profit rises 25% to ₹4,588 cr on strong auto show",
+   "link": "https://www.business-standard.com/companies/quarterly-results/m-m-q2-consolidated-profit-rises-25-to-4-588-cr-on-strong-auto-show-126110500963_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:30:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
+   "link": "https://www.thehindu.com/brandhub/pr-release/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20-000-exchange-bonus/article71669271.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
   {
    "title": "Shriram Finance shares rise 5.77% on NSE after US election outcome",
    "link": "https://www.thehindubusinessline.com/markets/stock-markets/shriram-finance-gains-nearly-6-as-financial-stocks-rally-after-us-election-outcome/article71668980.ece",
@@ -3470,45 +3505,6 @@
     "topic": "How geopolitical events reach markets",
     "short": "Geopolitics",
     "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Kolte-Patil Q2 results: Net profit at ₹5.7 cr, income jumps over 2-fold",
-   "link": "https://www.business-standard.com/companies/quarterly-results/kolte-patil-q2-results-net-profit-at-5-7cr-income-jumps-over-2-fold-126110400416_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Rupee rises 14 paise to 94.61 against US dollar during early trade",
-   "link": "https://www.business-standard.com/finance/news/rupee-rises-14-paise-to-94-61-against-us-dollar-during-early-trade-126110400403_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Rupee rises 14 paise to 94.61 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-14-paise-to-9461-against-us-dollar-in-early-trade/article71664175.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
