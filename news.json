@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-05T09:01:29.162699+00:00",
+ "updated": "2026-11-05T09:15:52.270205+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Shriram Finance shares rise 5.77% on NSE after US election outcome",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/shriram-finance-gains-nearly-6-as-financial-stocks-rally-after-us-election-outcome/article71668980.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00",
+   "companies": [
+    "Shriram Finance"
+   ]
+  },
+  {
+   "title": "Sensex stocks Adani Ports, TechM at new highs; Eternal, ICICI Bk near peaks",
+   "link": "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Mahindra & Mahindra Q2 FY27 net profit rises 25% to ₹4,588 crore",
+   "link": "https://www.thehindubusinessline.com/companies/mahindra-mahindra-q2-fy27-net-profit-rises-25-to-4588-crore/article71669194.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SPIC Q2 net profit falls 23% to ₹47 crore despite 22% revenue growth",
+   "link": "https://www.thehindubusinessline.com/companies/spic-q2-consolidated-net-profit-falls-23-to-47-crore-despite-22-revenue-growth/article71669196.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Indian stock exchanges need revenue diversification beyond trading: Kotak",
+   "link": "https://www.thehindubusinessline.com/markets/indian-exchanges-need-to-diversify-revenue-beyond-trading-for-next-growth-phase-kotak/article71668951.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "Nykaa's Q2 fails to impress Street despite 200% rise in PAT; stock falls 2%",
+   "link": "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T09:15:00+00:00"
+  },
   {
    "title": "Why US midterm elections may not change the tariff equation for India",
    "link": "https://www.businesstoday.in/latest/economy/story/why-us-midterm-elections-may-not-change-the-tariff-equation-for-india-565865-2026-11-05",
@@ -3440,77 +3510,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Fractal Analytics share price: AI stock rallies 12% after Q2 results - Net profit soars 139%, revenue crosses $100 mn",
-   "link": "https://www.livemint.com/market/stock-market-news/fractal-analytics-share-price-ai-stock-rallies-12-after-q2-results-net-profit-soars-139-revenue-crosses-100-mn-11793766435161.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India's Dollar Hedging Slumps as RBI Cracks Down on Speculation",
-   "link": "https://www.livemint.com/market/indias-dollar-hedging-slumps-as-rbi-cracks-down-on-speculation-11793767845635.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:15:00+00:00"
-  },
-  {
-   "title": "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-rally-in-early-trade-on-foreign-fund-inflows-easing-crude-oil-prices/article71664174.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Brent crude slips below $103, WTI near $95 as investors track US midterm election results, Middle East peace talks",
-   "link": "https://www.moneycontrol.com/news/business/markets/brent-crude-slips-below-103-wti-near-95-as-investors-track-us-midterm-election-results-middle-east-peace-talks-14068719.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Buzzing Stocks: GNG Electronics share price jumps 8% on strong Q2 results; JNK India gains 2% on order win.",
-   "link": "https://www.moneycontrol.com/news/business/markets/buzzing-stocks-gng-electronics-share-price-jumps-8-on-strong-q2-results-jnk-india-gains-2-on-order-win-14068190.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "BHEL shares rise 4% on bagging four Adani Power projects worth Rs 5,000 7,000 crore each",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bhel-shares-soar-4-on-bagging-four-adani-power-projects-worth-rs-5000-7000-crore-each-565554-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
