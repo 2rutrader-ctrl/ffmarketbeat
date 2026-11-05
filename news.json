@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-05T02:31:05.398223+00:00",
+ "updated": "2026-11-05T02:45:52.277252+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Strong Q2 and order inflows to drive gains for Bharat Electronics",
+   "link": "https://www.business-standard.com/markets/news/order-inflow-guidance-outlook-to-drive-gains-for-bharat-electronics-126110401299_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T02:30:00+00:00"
+  },
   {
    "title": "Smaller deal sizes, valuation discipline sustain India's record IPO rush",
    "link": "https://www.livemint.com/market/ipo/ipo-size-and-valuation-trends-in-india-11793774074385.html",
@@ -3489,14 +3497,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Yes Bank bondholders step up pressure for restoration of ₹8,415 crore AT1 bonds",
-   "link": "https://www.livemint.com/companies/news/yes-bank-bondholders-step-up-pressure-for-restoration-of-8-415-crore-at1-bonds-11793700909840.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T15:30:00+00:00"
   }
  ]
 }
