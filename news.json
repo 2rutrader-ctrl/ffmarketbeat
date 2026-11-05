@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-05T07:45:49.555221+00:00",
+ "updated": "2026-11-05T08:01:26.431502+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
-  "ecb": "ok, 6 items",
+  "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-05T08:00:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "₹3 trillion FPI outflows: Samvat 2082 set for worst selling in 17 years",
+   "link": "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:00:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "ED action in Reliance Anil Ambani Group cases | Explained",
+   "link": "https://www.thehindu.com/news/national/ed-action-in-reliance-anil-ambani-group-cases-explained/article71668787.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T08:00:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
   {
    "title": "Dr. Reddy's gets marketing authorisation for generic semaglutide injection in Brazil",
    "link": "https://www.thehindubusinessline.com/companies/dr-reddys-gets-marketing-authorisation-for-generic-semaglutide-injection-in-brazil/article71668676.ece",
@@ -3477,43 +3514,6 @@
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
-  },
-  {
-   "title": "HEG Advanced Materials shares rise 11% on Q2 earnings, capacity expansion nod",
-   "link": "https://www.businesstoday.in/markets/stocks/story/heg-advanced-materials-shares-rise-on-q2-earnings-capacity-expansion-nod-565579-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Democrats gain ground in US midterm election: Could Trump's tariff for India face fresh challenges?",
-   "link": "https://www.moneycontrol.com/world/democrats-gain-ground-in-us-midterm-election-could-trump-s-tariff-for-india-face-fresh-challenges-article-14068645.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Kotak Mahindra Bank gets CCI nod to acquire Deutsche Bank India's retail, private banking businesses",
-   "link": "https://www.moneycontrol.com/news/business/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-india-s-retail-private-banking-businesses-14068768.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T06:00:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
   }
  ]
 }
