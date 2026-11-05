@@ -1,12 +1,133 @@
 {
- "updated": "2026-11-05T07:31:06.357613+00:00",
+ "updated": "2026-11-05T07:45:49.555221+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dr. Reddy's gets marketing authorisation for generic semaglutide injection in Brazil",
+   "link": "https://www.thehindubusinessline.com/companies/dr-reddys-gets-marketing-authorisation-for-generic-semaglutide-injection-in-brazil/article71668676.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00",
+   "companies": [
+    "Dr Reddy's"
+   ]
+  },
+  {
+   "title": "Rupee falls 9 paise to 94.55 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-9-paise-to-9455-against-us-dollar-in-early-trade/article71668650.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Crude oil prices fall on hopes of end to West Asia war after US midterms",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-fall-as-us-midterm-results-raise-hopes-of-end-to-west-asia-war/article71668597.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
+   "link": "https://www.thehindubusinessline.com/news/world/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall/article71668446.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Lenskart hits 52-week high as street cheers strong Q2 results",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/lenskart-hits-52-week-high-as-street-cheers-strong-q2-results/article71668925.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nykaa shares hits 52-week high before retreating on profit booking",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/nykaa-hits-52-week-high-at-open-then-retreats-as-profit-taking-kicks-in/article71668778.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00"
+  },
+  {
+   "title": "Rupee hits five-day high at 94.35 as crude slump and weak Dollar drive rally",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/rupee-hits-five-day-high-at-9435-as-crude-slump-and-weak-dollar-drive-rally/article71668755.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "HDFC Bank shares rise for third day, gain 12% from 52-week low",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-climbs-for-third-straight-session-up-12-from-last-weeks-low/article71668872.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00"
+  },
+  {
+   "title": "Gold rallies on softer dollar, easing yields after US midterm results",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-rallies-on-softer-dollar-easing-yields-after-us-midterm-results/article71668894.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T07:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Nifty Prediction Today – November 5, 2026: Nifty futures: Uptrend intact",
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-5-2026-nifty-futures-uptrend-intact/article71668679.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00"
+  },
+  {
+   "title": "ICICI Bank shares jump 3.47%, near 52-week high of ₹1,480",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/icici-bank-shares-near-52-week-high-as-allotments-signal-employee-scheme-activity/article71668901.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T07:45:00+00:00"
+  },
   {
    "title": "Why Sammaan Capital shares jumped 6% amid Sensex, Nifty Thursday rally after US midterm elections results; stock returns",
    "link": "https://www.livemint.com/market/stock-market-news/why-sammaan-capital-shares-jumped-6-amid-sensex-nifty-thursday-rally-after-us-midterm-elections-results-stock-returns-11793856362358.html",
@@ -3393,142 +3514,6 @@
    "companies": [
     "Kotak Mahindra Bank"
    ]
-  },
-  {
-   "title": "Services PMI rises to 4-month high of 55.8 in Oct as cost inflation eases",
-   "link": "https://www.business-standard.com/economy/news/india-services-pmi-october-2026-four-month-high-55-8-cost-inflation-hiring-126110400488_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T05:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "RBI crackdown on rupee bets drives India's dollar hedging to 8-month low",
-   "link": "https://www.business-standard.com/finance/news/rbi-crackdown-on-rupee-bets-drives-india-s-dollar-hedging-to-8-month-low-126110400464_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T05:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "IndiGo, Asian Paints, IOC: Analyst view on crude sensitives as oil dips 13%",
-   "link": "https://www.business-standard.com/markets/news/indigo-asian-paints-ioc-analyst-view-on-crude-sensitives-shares-as-crude-oil-price-dips-13-126110400466_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T05:45:00+00:00",
-   "companies": [
-    "Asian Paints",
-    "Indian Oil",
-    "IndiGo"
-   ],
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Gold's 10-year Dhanteras scorecard: Grown 4.6 times since 2016",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-s-10-year-dhanteras-scorecard-grown-4-6-times-since-2016-14068348.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T04:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Here's what can anchor the rupee more firmly",
-   "link": "https://www.moneycontrol.com/news/opinion/here-s-what-can-anchor-the-rupee-more-firmly-14068609.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "MCX Q2 results: Net profit more than doubles to ₹455 crore in FY27",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Gold, silver prices today, 4 Nov: Check 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata ahead of Dhanteras",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-4-nov-check-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-ahead-of-dhanteras-11793762831871.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SBI's Q2 mirrors a resilient India, but the real test is yet to come",
-   "link": "https://www.moneycontrol.com/news/opinion/sbi-s-q2-mirrors-a-resilient-india-but-the-real-test-is-yet-to-come-14068533.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:30:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "US midterm election results impact on Indian economy: From trade deal to oil prices and stock markets, explained",
-   "link": "https://www.livemint.com/economy/us-midterm-election-results-impact-indian-economy-trade-deal-h1b-visa-oil-prices-stock-markets-rupee-explained-democrats-11793758887400.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Sanofi India dividend 2026: ₹75 per share payout — record date, dividend history, yield, returns",
-   "link": "https://www.livemint.com/market/stock-market-news/sanofi-india-dividend-2026-75-per-share-payout-record-date-dividend-history-yield-returns-11793760769833.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T04:15:00+00:00"
-  },
-  {
-   "title": "Goa plans to use AI to give tourism economy a new language",
-   "link": "https://www.livemint.com/mint-lounge/business-of-life/goa-ai-policy-for-tourism-11793691549076.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T04:15:00+00:00"
   }
  ]
 }
