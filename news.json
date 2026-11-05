@@ -1,12 +1,105 @@
 {
- "updated": "2026-11-05T15:31:18.435815+00:00",
+ "updated": "2026-11-05T15:45:57.280392+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Noel Tata to retire as Titan Company vice-chairman on November 12",
+   "link": "https://www.business-standard.com/companies/news/noel-tata-to-retire-as-titan-company-vice-chairman-on-november-12-126110501943_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:45:00+00:00",
+   "companies": [
+    "Titan"
+   ]
+  },
+  {
+   "title": "LIC Q2 profit rises 20% to ₹12,115 crore as VNB margin and net premium expands",
+   "link": "https://www.thehindu.com/business/lic-q2-profit-rises-20-to-12115-crore-as-vnb-margin-and-net-premium-expands/article71670728.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:45:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "InMobi appoints Hema Namburi as group CFO ahead of planned India IPO",
+   "link": "https://www.business-standard.com/companies/people/inmobi-appoints-hema-namburi-as-group-cfo-ahead-of-planned-india-ipo-126110501814_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:30:00+00:00"
+  },
+  {
+   "title": "Forevermark Diamond Jewellery Expands North India Footprint with New Store at Gold Souk Mall, Gurugram, Inaugurated by Film Star Vaani Kapoor",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/forevermark-diamond-jewellery-expands-north-india-footprint-with-new-store-at-gold-souk-mall-gurugram-inaugurated-by-film-star-vaani-kapoor/article71670068.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "M&M Q2 PAT rises 25% to ₹4,588 crore on strong auto, finance performance",
+   "link": "https://www.thehindu.com/business/Industry/mm-q2-pat-rises-25-to-4588-crore-on-strong-auto-finance-performance/article71670594.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:15:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "SEBI allows net settlement of funds for MFs from April - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-allows-net-settlement-of-funds-for-mfs-from-april/article71670319.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Bharat Forge net profit down 8% on higher cost - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/bharat-forge-net-profit-down-8-on-higher-cost/article71670184.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SEBI allows fund, portfolio managers to accredit investors",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-allows-fund-portfolio-managers-to-accredit-investors/article71670254.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T15:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Adani Ports to enter Europe with €2.56 billion buyout of Evos",
    "link": "https://www.livemint.com/companies/news/adani-ports-to-enter-europe-with-2-56-billion-buyout-of-evos-11793883536082.html",
@@ -3404,88 +3497,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Biocon Q2 net profit falls 57.3%to ₹56.7 cr - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/biocon-q2-net-profit-falls-573to-567-cr/article71665253.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Technical View: Nifty 50 reclaims 200-day EMA, 24,000 emerges as crucial resistance; Bank Nifty needs to cross 56,100 for further rally",
-   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-reclaims-200-day-ema-24-000-emerges-as-crucial-resistance-bank-nifty-needs-to-cross-56-100-for-further-rally-14069502.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:00:00+00:00"
-  },
-  {
-   "title": "Bank of Baroda WMS Recruitment 2026: Apply for 805 Managerial posts at bankofbaroda.bank.in, details here",
-   "link": "https://www.hindustantimes.com/education/employment-news/bank-of-baroda-wms-recruitment-2026-apply-for-805-managerial-posts-at-bankofbaroda-bank-in-details-here-101793791733670.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T12:00:00+00:00",
-   "companies": [
-    "Bank of Baroda"
-   ]
-  },
-  {
-   "title": "New Zealand's central bank just made a grave error—Fed chair Kevin Warsh should learn from it",
-   "link": "https://www.livemint.com/opinion/online-views/new-zealands-central-bank-just-made-a-grave-error-fed-chair-kevin-warsh-should-learn-from-it-11793703568609.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T11:45:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Rupee likely to resume slide as foreign outflows keep pressure on currency",
-   "link": "https://www.business-standard.com/finance/news/rupee-likely-to-resume-slide-as-foreign-outflows-keep-pressure-on-currency-126110400926_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5%",
-   "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-sensex-nifty-smallcap-100-jumps-2-midcap-100-gains-1-5-14069588.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:45:00+00:00"
-  },
-  {
-   "title": "Stock Market Outlook: History favours bulls in November, but can Nifty rally despite global headwinds?",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-history-favours-bulls-in-november-but-can-nifty-rally-despite-global-headwinds-11793782345049.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:45:00+00:00"
-  },
-  {
-   "title": "Stock Market Rally: Bulls to stay? Nifty, Sensex gain 5.5% in 5 sessions; Can the momentum sustain? Key levels to watch",
-   "link": "https://www.livemint.com/market/stock-market-rally-bulls-to-stay-nifty-sensex-gain-5-5-in-5-sessions-can-the-momentum-sustain-key-levels-to-watch-11793787625537.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T11:45:00+00:00"
   }
  ]
 }
