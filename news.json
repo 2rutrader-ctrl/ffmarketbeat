@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-05T06:15:57.965429+00:00",
+ "updated": "2026-11-05T06:31:10.770840+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pib.gov.in'. (_ssl.c:1010)>",
   "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
