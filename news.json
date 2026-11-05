@@ -1,12 +1,108 @@
 {
- "updated": "2026-11-05T06:01:23.639335+00:00",
+ "updated": "2026-11-05T06:15:57.965429+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 46 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "JK Tyre, IndiGo shares jump over 5% as crude oil plunges; aviation, paint and oil marketing stocks rally",
+   "link": "https://www.moneycontrol.com/news/business/markets/jk-tyre-indigo-shares-jump-over-5-as-crude-oil-plunges-aviation-paint-and-oil-marketing-stocks-rally-14070874.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Bank Nifty surges 2%, trades near 57,000; IndusInd, AU SFB lead gains: What lies ahead?",
+   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-2-trades-near-57-000-indusind-au-sfb-lead-gains-what-lies-ahead-14071073.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00"
+  },
+  {
+   "title": "When the system can see the GST invoices, arrest powers must go",
+   "link": "https://www.moneycontrol.com/news/opinion/when-the-system-can-see-the-gst-invoices-arrest-powers-must-go-14071009.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Reliance Jio Rs 15 unlimited 5G data pack: Benefits, validity and more",
+   "link": "https://www.moneycontrol.com/technology/reliance-jio-rs-15-unlimited-5g-data-pack-benefits-validity-and-more-article-14071023.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Auto stocks rally: Ashok Leyland jumps 9%, Maruti, Tata Motors PV, M&M lead gains as Nifty Auto surges 3%",
+   "link": "https://www.moneycontrol.com/news/business/markets/auto-stocks-rally-ashok-leyland-jumps-9-maruti-tata-motors-pv-m-m-lead-gains-as-nifty-auto-surges-3-14071026.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00"
+  },
+  {
+   "title": "Power Grid: Project pipeline, growth outlook outweigh near-term execution challenges",
+   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/power-grid-project-pipeline-growth-outlook-outweigh-near-term-execution-challenges-14071090.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "companies": [
+    "Power Grid"
+   ]
+  },
+  {
+   "title": "Reliance Digital iPhone 17 Pro deal brings price down to Rs 56,990 with exchange and bank offers",
+   "link": "https://www.moneycontrol.com/technology/reliance-digital-iphone-17-pro-deal-brings-price-down-to-rs-56-990-with-exchange-and-bank-offers-article-14071002.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Two oil tankers, tugboat catch fire after attempting unauthorised routes, says IRGC",
+   "link": "https://www.moneycontrol.com/world/two-oil-tankers-tugboat-catch-fire-after-attempting-unauthorised-routes-says-irgc-article-14071008.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-05T06:15:00+00:00"
+  },
+  {
+   "title": "Currency Check | Rupee gains 29 paise to 94.35/dollar at open as crude oil tumbles",
+   "link": "https://www.moneycontrol.com/news/business/stocks/currency-check-rupee-gains-29-paise-to-94-35-dollar-at-open-as-crude-oil-tumbles-14070687.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-05T06:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "IndiGo, SpiceJet shares surge up to 7% as brent crude price falls",
    "link": "https://www.businesstoday.in/markets/stocks/story/indigo-spicejet-shares-surge-up-to-7-as-brent-crude-price-falls-565797-2026-11-05",
@@ -3413,104 +3509,6 @@
    "companies": [
     "Reliance Industries"
    ]
-  },
-  {
-   "title": "RBI's proposed curbs on revolving credit push NBFCs back to the drawing board",
-   "link": "https://www.livemint.com/industry/rbis-proposed-curbs-on-revolving-credit-push-nbfcs-back-to-the-drawing-board-11793711901553.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T01:30:00+00:00"
-  },
-  {
-   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-11-04T00:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Lupin Q2 net profit falls 22.19 pc to ₹1,155.3 crore",
-   "link": "https://www.livemint.com/focus/lupin-q2-net-profit-falls-22-19-pc-to-rs-1-155-3-crore-11793739442753.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T23:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India may need to spend 3% of GDP on climate adaptation, against 0.5% in rich economies: Report",
-   "link": "https://www.businesstoday.in/latest/economy/story/india-may-need-to-spend-3-of-gdp-on-climate-adaptation-against-0-5-in-rich-economies-report-565517-2026-11-03",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T21:45:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Corn futures hit four-month low on big US crop, export worries",
-   "link": "https://www.livemint.com/market/commodities/corn-futures-hit-four-month-low-on-big-us-crop-export-worries-11793732932545.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T20:45:00+00:00"
-  },
-  {
-   "title": "ED attaches 2 aircraft in probe against Reliance Anil Ambani Group",
-   "link": "https://www.business-standard.com/companies/news/ed-attaches-2-aircraft-in-probe-against-reliance-anil-ambani-group-126110301691_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T20:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Cement market steadily narrows to 2-horse race between UltraTech, Ambuja",
-   "link": "https://www.business-standard.com/industry/news/cement-market-steadily-narrows-to-2-horse-race-between-ultratech-ambuja-126110100749_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-03T20:00:00+00:00",
-   "companies": [
-    "UltraTech Cement"
-   ]
-  },
-  {
-   "title": "Oil slips after early surge as US-Iran tensions persist, Brent falls 3%",
-   "link": "https://www.livemint.com/industry/energy/crude-oil-prices-us-iran-war-qeshm-island-brent-11793717882725.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "How to identify fake silver coins at home: 4 simple tests to check purity before buying this Dhanteras",
-   "link": "https://www.livemint.com/money/personal-finance/how-to-identify-fake-silver-coins-at-home-4-simple-tests-to-check-purity-before-buying-this-dhanteras-11793720726372.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-03T18:45:00+00:00"
   }
  ]
 }
