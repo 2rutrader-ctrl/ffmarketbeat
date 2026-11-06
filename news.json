@@ -1,12 +1,230 @@
 {
- "updated": "2026-11-06T07:31:10.192071+00:00",
+ "updated": "2026-11-06T07:45:48.929664+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Singapore Court grants enforcement orders authorising the seizure and sale of Tata Power's shares in Singapore companies",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/singapore-court-grants-enforcement-orders-authorising-the-seizure-and-sale-of-tata-powers-shares-in-singapore-companies/article71673290.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Gold eases on inflation worries from higher oil; US payrolls data in focus",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus/article71672800.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Gold price outlook: World Gold Council sees signs of an interim bottom",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-prices-may-be-nearing-bottom-as-world-gold-council-sees-recovery-signals/article71673011.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Explosion at Oil India's tank farm leaves five workers critically injured in Assam's Dibrugarh",
+   "link": "https://www.hindustantimes.com/india-news/explosion-at-oil-indias-tank-farm-leaves-death-toll-workers-critically-injured-in-assam-dibrugarh-intermediate-tank-farm-101793948172027.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "US Treasury yields, dollar strength and foreign investor flows: What could trigger the next market shift?",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/us-treasury-yields-dollar-strength-and-foreign-investor-flows-what-could-trigger-the-next-market-shift-14072394.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:45:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Adani Ports flexes its global muscles",
+   "link": "https://www.moneycontrol.com/news/opinion/adani-ports-flexes-its-global-muscles-14072551.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Dalal Street's market capitalisation tops Rs 500 lakh crore as Nifty, Sensex defy global rout",
+   "link": "https://www.moneycontrol.com/news/business/markets/dalal-street-s-market-capitalisation-tops-rs-500-lakh-crore-as-nifty-sensex-defy-global-rout-14072456.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "Vellora Impact Q2 net profit rises to Rs 6.71 crore, revenue surges to Rs 148 crore",
+   "link": "https://www.moneycontrol.com/news/business/companies/vellora-impact-q2-net-profit-rises-to-rs-6-71-crore-revenue-surges-to-rs-148-crore-14072738.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Strait of Hormuz crisis: HPCL faces oil tanker booking challenges amid rising risks",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/strait-of-hormuz-crisis-hpcl-faces-oil-tanker-booking-challenges-amid-rising-risks/article71673083.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "Manish Malhotra's Diwali party: Suhana Khan stuns in brocade, Ananya Panday shines in silver, Shanaya Kapoor goes bold in black",
+   "link": "https://www.moneycontrol.com/entertainment/manish-malhotra-s-diwali-party-suhana-khan-stuns-in-brocade-ananya-panday-shines-in-silver-shanaya-kapoor-goes-bold-in-black-article-14072595.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-9-paise-to-9450-against-us-dollar-in-early-trade/article71672838.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Nifty rises for 7th straight session: Does this rally have more legs? Check key trading levels",
+   "link": "https://www.moneycontrol.com/news/business/markets/nifty-rises-for-7th-straight-session-does-this-rally-have-more-legs-check-key-trading-levels-14072712.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "Nifty opens in red as Wall Street tech sells off; IT stocks under pressure",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-opens-in-red-as-wall-street-tech-rout-spills-over-it-stocks-under-pressure/article71672795.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:45:00+00:00"
+  },
+  {
+   "title": "Gokaldas Exports Q2 Results: PAT rises fivefold to ₹41 crore",
+   "link": "https://www.thehindubusinessline.com/companies/gokaldas-exports-q2-pat-rises-over-fivefold-to-41-crore/article71673117.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Crude oil price gain amid fresh tanker attacks in Strait of Hormuz",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-tops-100-wti-nears-92-amid-fresh-strait-of-hormuz-attacks/article71672815.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Diwali sweet boxes faces inflation bite as sugar prices surge 30%",
+   "link": "https://www.thehindubusinessline.com/economy/diwali-sweet-boxes-faces-inflation-bite-as-sugar-prices-surge-30/article71673174.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "IndiGo issues advisory as low visibility hits flight operations at Hyderabad Airport",
+   "link": "https://www.hindustantimes.com/india-news/indigo-issues-advisory-as-low-visibility-hits-flight-operations-at-hyderabad-airport-101793947853394.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Reliance faces tougher challenge in India's biscuit market than soft drinks, says Britannia CEO",
+   "link": "https://www.thehindubusinessline.com/companies/britannia-ceo-plays-down-reliances-pricing-threat-in-indias-biscuit-market/article71673221.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:30:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "Britannia"
+   ]
+  },
+  {
+   "title": "Is your cooking oil making you sick? An Ayurvedic doctor explains the difference between cold-pressed and refined oils",
+   "link": "https://www.hindustantimes.com/lifestyle/health/coldpressed-oils-and-everyday-nutrition-separating-facts-from-myths-101793805668689.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:30:00+00:00"
+  },
+  {
+   "title": "Govt bonds emerge as top Asian performers as oil, Treasury yields decline",
+   "link": "https://www.thehindubusinessline.com/markets/govt-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/article71673151.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:30:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
   {
    "title": "Gold outlook: Why Jim Rogers says everybody should have gold under their bed",
    "link": "https://www.businesstoday.in/markets/stocks/story/gold-outlook-why-jim-rogers-says-everybody-should-have-gold-under-their-bed-566122-2026-11-06",
@@ -3253,209 +3471,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Bulls eye! Sensex seen at 87,000, Nifty at 27,000 by next Diwali: Experts",
-   "link": "https://www.business-standard.com/markets/news/diwali-cheer-ahead-analysts-see-sensex-nifty-at-new-highs-in-next-samvat-126110300941_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "Sebi eases KYC norms for overseas investors, enables digital onboarding",
-   "link": "https://www.business-standard.com/markets/news/sebi-eases-kyc-norms-for-overseas-investors-enables-digital-onboarding-126110500098_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "How much gold can you keep at home? The 500g rule explained",
-   "link": "https://www.businesstoday.in/latest/trends/photo/how-much-gold-can-you-keep-at-home-the-500g-rule-explained-565770-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T04:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Oil prices hit two-month low after U.S. Democratic win",
-   "link": "https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T04:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Will Sensex, Nifty scale new highs in Samvat 2083? What tech analysts say",
-   "link": "https://www.business-standard.com/markets/news/will-sensex-nifty-scale-new-highs-in-samvat-2083-what-tech-analysts-say-126110500083_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising today",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-sensex-rally-diwali-fireworks-5-reasons-why-stock-market-is-rising-today-565795-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "From Sivakasi to Diwali markets: Inside India's firecracker economy",
-   "link": "https://www.business-standard.com/industry/news/india-firecracker-industry-size-growth-sivakasi-green-crackers-market-126110500130_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "OpenAI says ready to IPO in 2027, now counts majority of sales from enterprises",
-   "link": "https://www.thehindu.com/sci-tech/technology/openai-says-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises/article71668478.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "Samvat 2082: IPO fundraise crosses ₹2-trillion mark for the first time ever",
-   "link": "https://www.business-standard.com/markets/news/samvat-2082-ipo-fundraise-crosses-2-trillion-mark-for-the-first-time-ever-126110500115_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00"
-  },
-  {
-   "title": "Commodity Corner: Oil extends losing streak to fourth day; gold holds biggest rally since August",
-   "link": "https://www.moneycontrol.com/news/business/stocks/commodity-corner-oil-extends-losing-streak-to-fourth-day-gold-holds-biggest-rally-since-august-14070689.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India has a huge fireworks industry, then why does it exports so little?",
-   "link": "https://www.business-standard.com/industry/news/india-has-a-huge-fireworks-industry-then-why-does-it-exports-so-little-126110401196_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T03:45:00+00:00"
-  },
-  {
-   "title": "Korea to introduce cornerstone lockups to curb post-IPO selloffs",
-   "link": "https://www.moneycontrol.com/news/business/markets/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-14070501.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00"
-  },
-  {
-   "title": "US sanctions Chandigarh businessman, wife and 9 Indian entities over alleged Iran oil trade links",
-   "link": "https://www.moneycontrol.com/world/us-sanctions-chandigarh-businessman-wife-and-9-indian-entities-over-alleged-iran-oil-trade-links-article-14070491.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T03:45:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Gold extends rebound above $4,100 as dollar and yields decline",
-   "link": "https://www.moneycontrol.com/news/business/commodities/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result-14070498.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Religare's Ajit Mishra says 24,700 in sight for Nifty; bets on GAIL, HAL",
-   "link": "https://www.business-standard.com/markets/news/religare-s-ajit-mishra-says-24-700-in-sight-for-nifty-bets-on-gail-hal-126110500087_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T03:45:00+00:00",
-   "companies": [
-    "HAL"
-   ]
-  },
-  {
-   "title": "Buying gold on Dhanteras vs equities: Why investors should focus on allocation, timing and investment costs",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-on-dhanteras-vs-equities-why-investors-should-focus-on-allocation-timing-and-investment-costs-14070813.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
-   "link": "https://www.moneycontrol.com/world/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall-article-14070833.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Lil Durk awaits bond decision in VICAR case as judge delays ruling on release from jail",
-   "link": "https://www.hindustantimes.com/world-news/us-news/lil-durk-awaits-bond-decision-in-vicar-case-as-judge-delays-ruling-on-release-from-jail-101793840931085.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00"
-  },
-  {
-   "title": "Oil sector girds for possible windfall tax after Democrats win",
-   "link": "https://www.moneycontrol.com/news/business/oil-sector-girds-for-possible-windfall-tax-after-democrats-win-14070485.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T03:45:00+00:00"
-  },
-  {
-   "title": "Strong Q2 and order inflows to drive gains for Bharat Electronics",
-   "link": "https://www.business-standard.com/markets/news/order-inflow-guidance-outlook-to-drive-gains-for-bharat-electronics-126110401299_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T02:30:00+00:00"
   }
  ]
 }
