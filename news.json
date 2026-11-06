@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-06T02:45:48.625069+00:00",
+ "updated": "2026-11-06T03:01:27.680922+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 2 new items (12 files read)"
+  "gdelt": "ok, 3 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Reading the economic environment can be tricky - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/opinion/reading-the-economic-environment-can-be-tricky/article71670913.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T03:00:00+00:00"
+  },
   {
    "title": "Tata Motors finds task cut out for Iveco turnaround after twin losses",
    "link": "https://www.livemint.com/companies/news/tata-motors-finds-task-cut-out-for-iveco-turnaround-after-twin-losses-11793883786516.html",
@@ -3453,19 +3461,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Gold ETFs attract ₹3,300 crore in Oct as investors go on a buying spree ahead of Diwali",
-   "link": "https://www.thehindubusinessline.com/markets/gold-etfs-attract-3300-crore-in-oct-as-investors-go-on-a-buying-spree-ahead-of-diwali/article71665451.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
