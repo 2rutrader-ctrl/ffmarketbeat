@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-06T06:31:10.442742+00:00",
+ "updated": "2026-11-06T06:45:53.407367+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Kareena Kapoor in gold sequin saree, halter blouse, minimal jewellery and soft glam channels pure Y2K nostalgia at Manish Malhotra's Diwali party",
+   "link": "https://www.hindustantimes.com/lifestyle/fashion/kareena-kapoor-in-gold-sequin-saree-halter-blouse-minimal-jewellery-and-soft-glam-channels-pure-y2k-nostalgia-at-manish-malhotras-diwali-party-101793940229831.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T06:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "HPCL struggles to book tankers for crude shipments via Strait of Hormuz",
+   "link": "https://www.business-standard.com/companies/news/hpcl-struggles-to-book-tankers-for-crude-shipments-via-strait-of-hormuz-126110600624_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T06:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Rupee falls 9 paise to 94.50 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-falls-9-paise-to-94-50-against-us-dollar-during-early-trade-126110600478_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T06:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "LIC shares fall 4% as Q2 VNB misses estimates; APE growth remains weak",
    "link": "https://www.business-standard.com/markets/news/lic-shares-fall-4-as-q2-vnb-misses-estimates-ape-growth-remains-weak-126110600611_1.html",
@@ -3404,30 +3443,6 @@
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
-  },
-  {
-   "title": "Saif Ali Khan credits Kareena Kapoor for forging a bond with Sara Ali Khan and Ibrahim Ali Khan, says they reciprocate her efforts",
-   "link": "https://www.hindustantimes.com/entertainment/bollywood/saif-ali-khan-credits-kareena-kapoor-for-forging-a-bond-with-sara-ali-khan-and-ibrahim-ali-khan-says-they-reciprocate-her-efforts-101793803566704.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T01:15:00+00:00"
-  },
-  {
-   "title": "U.S. midterm elections: An economy under pressure, political shift and the road ahead",
-   "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T00:15:00+00:00"
-  },
-  {
-   "title": "Lil Durk bond hearing: Prosecutors argue against rapper's release in VICAR case; alleges he is paying for support",
-   "link": "https://www.hindustantimes.com/world-news/us-news/lil-durk-bond-hearing-prosecutors-argue-against-rappers-release-in-vicar-case-alleges-he-is-paying-for-support-101793827851748.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T23:00:00+00:00"
   }
  ]
 }
