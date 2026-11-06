@@ -1,12 +1,50 @@
 {
- "updated": "2026-11-06T13:45:52.960884+00:00",
+ "updated": "2026-11-06T14:01:28.526182+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-stock-market-holiday-nse-bse-open-on-sunday-but-closed-this-day-muhurat-trading-date-time-samvat-2083-11793967554645.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T14:00:00+00:00"
+  },
+  {
+   "title": "Airtel brings back ₹299 plan on churn concerns | Company Business News",
+   "link": "https://www.livemint.com/companies/news/bharti-airtel-299-prepaid-mobile-plan-subscribers-arpu-11793965930251.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T14:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Hindalco beats Q2 estimates as strong metal prices offset rising input costs",
+   "link": "https://www.livemint.com/companies/company-results/hindalco-beats-q2-estimates-as-strong-metal-prices-offset-rising-input-costs-11793962947194.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T14:00:00+00:00",
+   "companies": [
+    "Hindalco"
+   ]
+  },
+  {
+   "title": "Silver price in Chennai today, Nov 6, 2026: Up or down on Dhanteras? Check latest rate in 'Gateway to South India'",
+   "link": "https://www.livemint.com/money/silver-price-in-chennai-today-nov-6-2026-up-or-down-on-dhanteras-check-latest-rate-in-gateway-to-south-india-11793963705701.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T14:00:00+00:00"
+  },
   {
    "title": "Asia faces AI reckoning post-midterms, with silver lining on oil",
    "link": "https://www.moneycontrol.com/news/business/markets/asia-faces-ai-reckoning-post-midterms-with-silver-lining-on-oil-14073506.html",
@@ -3406,51 +3444,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T10:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "US midterm election results: Impact of Trump's loss on bond yields in India, overseas markets; experts weigh in",
-   "link": "https://www.livemint.com/money/personal-finance/us-midterm-election-results-impact-of-trumps-loss-on-bond-yields-in-india-overseas-markets-experts-weigh-in-11793856789162.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T10:15:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Diwali 2026, Samvat 2083: Ahead of Muhurat Trading, Uday Kotak shares 5 factors to watch in festive season - List",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-samvat-2083-ahead-of-muhurat-trading-uday-kotak-shares-5-factors-to-watch-in-festive-season-list-11793863466374.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-witness-strong-buying-rise-7-in-1-month-can-new-ceo-improving-fundamentals-drive-next-leg-of-rally-11793861115989.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00"
-  },
-  {
-   "title": "Dhanteras, Diwali 2026 shopping guide: How do the costs of investing in gold ETFs differ from buying gold jewellery?",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-how-do-the-costs-of-investing-in-gold-etfs-differ-from-buying-gold-jewellery-11793868557274.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T09:45:00+00:00",
    "thought": {
     "topic": "Why gold is followed",
     "short": "Gold",
