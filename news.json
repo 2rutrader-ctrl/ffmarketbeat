@@ -1,12 +1,126 @@
 {
- "updated": "2026-11-06T16:01:30.232311+00:00",
+ "updated": "2026-11-06T16:15:49.929954+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IDBI Bank stake sale: 'Very, very remote' chance of finding another buyer at ₹52,000 crore, says DIPAM Secretary Chawla",
+   "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-very-very-remote-chance-of-finding-another-buyer-at-52-000-crore-says-dipam-secretary-chawla-11793971089575.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "Foreign carriers take fight to aviation ministry after Adani blocks 12 airlines",
+   "link": "https://www.livemint.com/news/foreign-carriers-take-fight-to-aviation-min-after-adani-blocks-12-airlines-11793969339931.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Britannia to closely watch Reliance Consumer's entry into biscuit market",
+   "link": "https://www.business-standard.com/companies/news/britannia-to-closely-watch-reliance-consumer-s-entry-into-biscuit-market-126110601859_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "Britannia"
+   ]
+  },
+  {
+   "title": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth",
+   "link": "https://www.livemint.com/auto-news/maruti-suzuki-rides-dhanteras-demand-with-30-000-deliveries-in-one-day-eyes-12-15-festive-growth-11793972553438.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "Maruti Suzuki"
+   ]
+  },
+  {
+   "title": "Angan Guha rejoins Wipro as CEO of its Americas 2 unit, effective Dec 8",
+   "link": "https://www.business-standard.com/companies/news/angan-guha-rejoins-wipro-as-ceo-of-its-americas-2-unit-effective-dec-8-126110601866_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "Wipro"
+   ]
+  },
+  {
+   "title": "IFC extends $150 mn loan to SBI to expand farm credit among rural women",
+   "link": "https://www.business-standard.com/industry/banking/ifc-extends-150-mn-loan-to-sbi-to-expand-farm-credit-among-rural-women-126110601913_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Gokaldas Exports Q2 results: Net profit soars 410% YoY to Rs 41 crore",
+   "link": "https://www.moneycontrol.com/news/business/gokaldas-exports-q2-results-net-profit-soars-410-yoy-to-rs-41-crore-14073719.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Sebi warns Dabur India over delay in disclosing USFDA warning letter",
+   "link": "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Record FII selling of ₹4.55 trillion meets record DII buying in Samvat 2082",
+   "link": "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:00:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "major fire at Oil India Limited's Tengakhat facility in Assam",
+   "link": "https://www.thehindu.com/news/national/assam/one-killed-and-six-injured-in-fire-at-an-oil-facility-in-assam/article71674463.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:00:00+00:00"
+  },
   {
    "title": "ICAR-SBI demonstrates utility of its soil moisture indicator to tribal farmers in Attapady",
    "link": "https://www.thehindu.com/news/cities/Coimbatore/icar-sbi-demonstrates-utility-of-its-soil-moisture-indicator-to-tribal-farmers-in-attapady/article71674829.ece",
@@ -3311,128 +3425,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Adani Ports to acquire 100% of Evos BV at enterprise value of 2.56 billion euros",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-to-acquire-100-of-evos-bv-at-enterprise-value-of-256-billion-euros/article71669508.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Nifty posts best single-day gain since April, crosses 24,500 for first time in three months",
-   "link": "https://www.thehindubusinessline.com/markets/nifty-posts-best-single-day-gain-since-april-crosses-24500-for-first-time-in-three-months/article71669761.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:45:00+00:00"
-  },
-  {
-   "title": "Silver surged 38% before Diwali 2025: Why the white metal could be riskier than gold this festive season",
-   "link": "https://www.businesstoday.in/personal-finance/story/silver-surged-38-before-diwali-2025-why-the-white-metal-could-be-riskier-than-gold-this-festive-season-565921-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T12:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Coal India's IPO-bound arms see sharp decline in coal e-auction premiums",
-   "link": "https://www.business-standard.com/companies/news/coal-india-s-ipo-bound-arms-see-sharp-decline-in-coal-e-auction-premiums-126110501343_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:15:00+00:00",
-   "companies": [
-    "Coal India"
-   ]
-  },
-  {
-   "title": "Juniper Hotels Q2FY27 net profit more than doubles to ₹37.2 crore",
-   "link": "https://www.business-standard.com/companies/quarterly-results/juniper-hotels-q2fy27-net-profit-more-than-doubles-to-37-2-crore-126110501339_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Rupee gains nearly 1% in October, second-best performer in Asia after Korean won",
-   "link": "https://www.moneycontrol.com/news/business/banks/rupee-gains-nearly-1-in-october-second-best-performer-in-asia-after-korean-won-14071692.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Titan Q2 results: Net profit more than doubles to Rs 2,393 crore, beats estimates",
-   "link": "https://www.moneycontrol.com/news/business/earnings/titan-q2-results-net-profit-more-than-doubles-to-rs-2-393-crore-beats-estimates-14071690.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:15:00+00:00",
-   "companies": [
-    "Titan"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "M&M cuts FY27 tractor industry growth forecast to flat amid drought fears",
-   "link": "https://www.business-standard.com/companies/news/m-m-cuts-fy27-tractor-industry-growth-forecast-to-flat-amid-drought-fears-126110501298_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:15:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
-  },
-  {
-   "title": "Rupee settles flat at 94.46 against U.S. dollar",
-   "link": "https://www.thehindu.com/business/markets/rupee-settles-flat-at-9446-against-us-dollar/article71669674.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T12:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Food accounts for 53.5% of rural household spending as inflation rises: NABARD survey",
-   "link": "https://www.livemint.com/economy/nabard-survey-rural-inflation-food-expenditure-11793865782721.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T11:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
   }
  ]
