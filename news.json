@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-06T01:45:53.527264+00:00",
+ "updated": "2026-11-06T02:01:25.951649+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 1 new items (12 files read)"
+  "gdelt": "ok, 2 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Motors finds task cut out for Iveco turnaround after twin losses",
+   "link": "https://www.livemint.com/companies/news/tata-motors-finds-task-cut-out-for-iveco-turnaround-after-twin-losses-11793883786516.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T02:00:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
   {
    "title": "The silver hands of Hupari - The Hindu",
    "link": "https://www.thehindu.com/news/national/maharashtra/the-silver-hands-of-hupari/article71666342.ece",
@@ -3455,19 +3466,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "MRPL's Russian crude sourcing touches 32% in Q2FY27 - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/mrpls-russian-crude-sourcing-touches-32-in-q2fy27/article71666343.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T15:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
