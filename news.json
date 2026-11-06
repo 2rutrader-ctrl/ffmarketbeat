@@ -1,12 +1,72 @@
 {
- "updated": "2026-11-06T12:15:56.369255+00:00",
+ "updated": "2026-11-06T12:31:14.427971+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "NBFC credit grows 15.4% in September, retail loans lead expansion; gold loans surge 66%",
+   "link": "https://www.moneycontrol.com/news/business/banks/nbfc-credit-grows-15-4-in-september-retail-loans-lead-expansion-gold-loans-surge-66-14073424.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T12:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold, silver or stocks this Dhanteras? Nifty 500 won 9 years, gold 7 and silver 5 since 2006",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-or-stocks-this-dhanteras-nifty-500-won-9-years-gold-7-and-silver-5-since-2006-566245-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Raashii Khanna on Dhanteras traditions, family rituals and the gold heirloom close to her heart: \"Love how it brings health and wealth together\"",
+   "link": "https://www.moneycontrol.com/entertainment/raashii-khanna-on-dhanteras-traditions-family-rituals-and-the-gold-heirloom-close-to-her-heart-love-how-it-brings-health-and-wealth-together-article-14073429.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T12:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Fire at Oil India Ltd's intermediate tank farm in Assam's Dibrugarh kills 1- Moneycontrol.com",
+   "link": "https://www.moneycontrol.com/news/india/fire-at-oil-india-ltd-s-intermediate-tank-farm-in-assam-s-dibrugarh-kills-1-14073430.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "title": "India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee",
+   "link": "https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Edelweiss' Rashesh Shah urges India to scrap capital gains tax for foreign investors to revive stock market",
    "link": "https://www.moneycontrol.com/news/india/edelweiss-rashesh-shah-urges-india-to-scrap-capital-gains-tax-for-foreign-investors-to-revive-stock-market-14073405.html",
@@ -3409,61 +3469,6 @@
     "topic": "How trade duties work through markets",
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "PI Industries shares dive 16% to hit 52 week low after Q2 earnings; net profit plunges 70%",
-   "link": "https://www.businesstoday.in/markets/stocks/story/pi-industries-shares-dive-16-to-hit-52-week-low-after-q2-earnings-net-profit-plunges-70-565864-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T08:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bajaj Finance, Shriram Finance, Tata Capital, L&T Finance: NBFCs rise up to 7% amid market rally",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shriram-finance-tata-capital-lt-finance-nbfc-shares-rise-up-to-7-amid-market-rally-key-details-565850-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:15:00+00:00"
-  },
-  {
-   "title": "M&M Q2 results: Standalone profit rises 13% to Rs 5,102 crore, revenue jumps 26%; shares gain nearly 5%",
-   "link": "https://www.moneycontrol.com/news/business/earnings/m-stock-surges-nearly-6-14071380.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Investor wealth crosses Rs 500 lakh crore for first time as Sensex rises for sixth session",
-   "link": "https://www.businesstoday.in/markets/stocks/story/investor-wealth-crosses-rs-500-lakh-crore-for-first-time-as-sensex-rises-for-sixth-session-565869-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:15:00+00:00"
-  },
-  {
-   "title": "Muthoot Finance, Manappuram shares rise up to 4% as gold prices hit a two-week high",
-   "link": "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-shares-rise-up-to-4-as-gold-prices-hit-a-two-week-high-14071204.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T08:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
