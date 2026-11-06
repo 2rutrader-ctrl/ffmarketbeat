@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-06T13:01:30.583087+00:00",
+ "updated": "2026-11-06T13:15:54.405871+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 43 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's forex reserves drop by $2.69 bn to $717 bn",
+   "link": "https://www.thehindu.com/business/markets/indias-forex-reserves-drop-by-269-bn-to-717-bn/article71674389.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "IPO-bound SECI plans 67% capex hike to Rs 3,000 crore in FY28, bets on asset ownership to lift margins",
    "link": "https://www.moneycontrol.com/news/business/ipo-bound-seci-plans-to-raise-capex-to-rs-3-000-crore-in-fy28-targets-10-gw-own-assets-by-2030-14073373.html",
@@ -3445,17 +3458,6 @@
    "published": "2026-11-05T09:30:00+00:00",
    "companies": [
     "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Shriram Finance shares rise 5.77% on NSE after US election outcome",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/shriram-finance-gains-nearly-6-as-financial-stocks-rally-after-us-election-outcome/article71668980.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:15:00+00:00",
-   "companies": [
-    "Shriram Finance"
    ]
   }
  ]
