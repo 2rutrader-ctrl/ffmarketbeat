@@ -1,12 +1,88 @@
 {
- "updated": "2026-11-06T11:01:31.890413+00:00",
+ "updated": "2026-11-06T11:15:52.219061+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali cheer on D St! Nifty reclaims 25,000 as rally extends to 7th session; investors add over Rs 30 lakh crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/diwali-cheer-on-d-st-nifty-reclaims-25000-as-rally-extends-to-7th-session-investors-add-over-rs-30-lakh-crore-566227-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:15:00+00:00"
+  },
+  {
+   "title": "Dhanteras 2026: Buying silver marked 925 or 999? Here's how purity affects price, quality and resale value",
+   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-buying-silver-marked-925-or-999-heres-how-purity-affects-price-quality-and-resale-value-566205-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T11:15:00+00:00"
+  },
+  {
+   "title": "SP Group's Eqyizen plans to raise up to $200 mn via rupee bonds: Bankers",
+   "link": "https://www.business-standard.com/industry/news/sp-group-s-eqyizen-plans-to-raise-up-to-200-mn-via-rupee-bonds-bankers-126110601096_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Govt invites applications for India-UK trade pact duty quotas for 2027",
+   "link": "https://www.business-standard.com/industry/news/govt-invites-applications-for-india-uk-trade-pact-duty-quotas-for-2027-126110600943_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:15:00+00:00"
+  },
+  {
+   "title": "Edelweiss' Rashesh Shah calls for tax relief as FPI outflows top $28 billion",
+   "link": "https://www.businesstoday.in/markets/story/edelweiss-rashesh-shah-calls-for-tax-relief-as-fpi-outflows-top-28-billion-566216-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:15:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "Dhanteras 2026: Bought gold jewellery? Here's how to check if your HUID number is genuine in 2 minutes",
+   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-bought-gold-jewellery-heres-how-to-check-if-your-huid-number-is-genuine-in-2-minutes-566193-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "SEBI and depositories discuss 2-year dormancy rule for demat accounts; move aimed at curbing misuse: Sources",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-and-depositories-discuss-2-year-dormancy-rule-for-demat-accounts-move-aimed-at-curbing-misuse-sources-14073126.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Elgi Equipments Q2 net profit grows 6% to ₹128 crore - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/elgi-equipments-q2-net-profit-grows-6-to-128-crore/article71673516.ece",
@@ -3394,82 +3470,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T07:45:00+00:00"
-  },
-  {
-   "title": "Gold rallies on softer dollar, easing yields after US midterm results",
-   "link": "https://www.thehindubusinessline.com/markets/gold/gold-rallies-on-softer-dollar-easing-yields-after-us-midterm-results/article71668894.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Nifty Prediction Today – November 5, 2026: Nifty futures: Uptrend intact",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-5-2026-nifty-futures-uptrend-intact/article71668679.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00"
-  },
-  {
-   "title": "ICICI Bank shares jump 3.47%, near 52-week high of ₹1,480",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/icici-bank-shares-near-52-week-high-as-allotments-signal-employee-scheme-activity/article71668901.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00"
-  },
-  {
-   "title": "Why Sammaan Capital shares jumped 6% amid Sensex, Nifty Thursday rally after US midterm elections results; stock returns",
-   "link": "https://www.livemint.com/market/stock-market-news/why-sammaan-capital-shares-jumped-6-amid-sensex-nifty-thursday-rally-after-us-midterm-elections-results-stock-returns-11793856362358.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:15:00+00:00"
-  },
-  {
-   "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts",
-   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-on-oil-and-it-shares-reliance-indian-oil-tcs-infosys-10-stocks-from-experts-11793852592707.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:15:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "TCS",
-    "Infosys"
-   ]
-  },
-  {
-   "title": "US midterm election results: Can Trump's setback ease gasoline prices as oil markets bet on Iran war de-escalation?",
-   "link": "https://www.livemint.com/news/world/us-midterm-election-results-can-trumps-setback-ease-gasoline-prices-as-oil-markets-bet-on-iran-war-deescalation-11793860477857.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T07:15:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: Bought gold last year? See how much your 10-gram investment is worth today despite recent dips",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-bought-gold-last-year-see-how-much-your-10-gram-investment-is-worth-today-despite-recent-dips-11793856543601.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T07:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
