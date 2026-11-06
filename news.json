@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-06T05:01:24.488117+00:00",
+ "updated": "2026-11-06T05:15:54.565740+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 23 new items (12 files read)"
+  "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee falls 9 paise to 94.50 against U.S. dollar in early trade",
+   "link": "https://www.thehindu.com/business/Industry/rupee-falls-9-paise-to-9450-against-us-dollar-in-early-trade/article71672841.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T05:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Off-duty fire captain jumps into action after EV crashes into California nail salon and bursts into flames",
    "link": "https://www.hindustantimes.com/trending/offduty-fire-captain-jumps-into-action-after-ev-crashes-into-california-nail-salon-and-bursts-into-flames-101793938271484.html",
@@ -3438,14 +3451,6 @@
    "companies": [
     "Reliance Industries"
    ]
-  },
-  {
-   "title": "CoreWeave bonds hit record lows as US election results raise data centre concerns",
-   "link": "https://www.hindustantimes.com/world-news/coreweave-bonds-hit-record-lows-as-us-election-results-raise-data-centre-concerns-101793810948617.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T17:45:00+00:00"
   }
  ]
 }
