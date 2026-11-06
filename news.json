@@ -1,12 +1,75 @@
 {
- "updated": "2026-11-06T07:01:29.128502+00:00",
+ "updated": "2026-11-06T07:15:50.545853+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 31 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold outlook: Why Jim Rogers says everybody should have gold under their bed",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gold-outlook-why-jim-rogers-says-everybody-should-have-gold-under-their-bed-566122-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T07:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dhanteras 2026: CAIT expects ₹1 lakh crore in gold & silver sales, AIJGF projects 10% YoY increase",
+   "link": "https://www.businesstoday.in/india/story/dhanteras-2026-cait-expects-rs1-lakh-crore-in-gold-silver-sales-aijgf-projects-10-yoy-increase-566100-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Britannia Q2 results: Revenue climbs to Rs 5,542 crore, profit rises 10%; stock reacts",
+   "link": "https://www.businesstoday.in/markets/stocks/story/britannia-q2-results-revenue-climbs-to-rs-5542-crore-profit-rises-10-stock-reacts-566107-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:15:00+00:00",
+   "companies": [
+    "Britannia"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nifty, Sensex escape Wall Street, Asia rout that wipes out over $2 trillion; IT stocks rally; here's why",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-sensex-escape-wall-street-asia-rout-that-wipes-out-over-2-trillion-it-stocks-rally-heres-why-566095-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:15:00+00:00"
+  },
+  {
+   "title": "Gold price crashes Rs 2,000, silver down by Rs 3,000 on Dhanteras 2026; key levels to track",
+   "link": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-time-to-buy-566102-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Noel Tata to step down as Titan vice-chairman and director on 12 November as he turns 70",
    "link": "https://www.livemint.com/companies/people/noel-tata-to-step-down-as-titan-vice-chairman-and-director-on-november-12-as-he-turns-70-11793946571237.html",
@@ -3393,54 +3456,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T02:30:00+00:00"
-  },
-  {
-   "title": "Smaller deal sizes, valuation discipline sustain India's record IPO rush",
-   "link": "https://www.livemint.com/market/ipo/ipo-size-and-valuation-trends-in-india-11793774074385.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T02:15:00+00:00"
-  },
-  {
-   "title": "US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views",
-   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-impact-what-trumps-loss-mean-for-sensex-nifty-gold-silver-rates-experts-views-11793838614653.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T02:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Spices Board pushes for value-added and pesticide-free exports",
-   "link": "https://www.thehindu.com/news/national/kerala/spices-board-pushes-for-value-added-and-pesticide-free-exports/article71665923.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T02:15:00+00:00"
-  },
-  {
-   "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
-   "link": "https://www.livemint.com/market/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-11793841623449.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T02:15:00+00:00"
-  },
-  {
-   "title": "From tunnel boring machines to rockets and pod taxis, L&T explores new manufacturing bets",
-   "link": "https://www.livemint.com/companies/news/larsen-toubro-new-manufacturing-plans-11793740590114.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T01:45:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
   }
  ]
 }
