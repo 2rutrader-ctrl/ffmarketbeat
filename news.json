@@ -1,12 +1,177 @@
 {
- "updated": "2026-11-06T09:01:31.469300+00:00",
+ "updated": "2026-11-06T09:15:52.649562+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "3M India Q2 net profit falls 17% on weaker rupee and rising input costs; shares tumble up to 11%",
+   "link": "https://www.moneycontrol.com/news/business/markets/3m-india-q2-net-profit-falls-17-on-weaker-rupee-and-rising-input-costs-shares-tumble-up-to-11-14072918.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Rupee hits over 6-month high of 94.06 as US dollar softens post midterms",
+   "link": "https://www.business-standard.com/markets/news/rupee-hits-over-6-month-high-of-94-06-as-us-dollar-softens-post-midterms-126110600788_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Silver Price Outlook: Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
+   "link": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Gold Price Outlook: US midterm outcome mildly positive for gold, but Fed risks persist: Analyst",
+   "link": "https://www.business-standard.com/markets/news/us-midterm-outcome-mildly-positive-for-gold-but-fed-risks-persist-analyst-126110600639_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dhanteras gold, silver investments grow nearly 4X since 2005: Kotak Neo",
+   "link": "https://www.business-standard.com/markets/news/dhanteras-gold-silver-investments-grow-nearly-4x-since-2005-kotak-neo-126110600794_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ],
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold returns over 40 years: What investors should know this Dhanteras 2026",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-gold-delivered-11-4-annual-returns-over-40-years-here-s-what-investors-should-know-14072802.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Honasa Consumer Q2 results: Mamaearth-parent's net profit rises 87% YoY to Rs 73 crore, revenue up 36%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/honasa-consumer-q2-results-mamaearth-parent-s-net-profit-rises-87-yoy-to-rs-73-crore-revenue-up-36-14072900.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "SAT slams SEBI's 'late, lacklustre' probe into alleged Rs 3,535-crore Coffee Day fund diversion, orders fresh investigation",
+   "link": "https://www.moneycontrol.com/news/business/markets/sat-slams-sebi-s-late-lacklustre-probe-into-alleged-rs-3-535-crore-coffee-day-fund-diversion-orders-fresh-investigation-14072873.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Gold, silver correction may fuel 15-35% rise by next Dhanteras: Analysts",
+   "link": "https://www.business-standard.com/markets/news/gold-silver-price-crash-offers-scope-for-15-35-gains-by-next-dhanteras-analysts-126110600774_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Rural demand outlook hinges on inflation staying under control: Emami MD",
+   "link": "https://www.moneycontrol.com/news/business/rural-demand-outlook-hinges-on-inflation-staying-under-control-emami-md-14072677.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "The Great AI Trade Reversal: The dollar could be the biggest casualty, says Ritesh Jain",
+   "link": "https://www.moneycontrol.com/news/business/markets/the-great-ai-trade-reversal-the-dollar-could-be-the-biggest-casualty-says-ritesh-jain-14072804.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00"
+  },
+  {
+   "title": "Is Anthropic's mega IPO at risk over its $1.5 trillion valuation?",
+   "link": "https://www.business-standard.com/world-news/is-anthropic-mega-ipo-at-risk-over-its-1-5-trillion-valuation-126110600665_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:00:00+00:00"
+  },
+  {
+   "title": "Hindalco Q2 results: Net profit rises 59% to Rs 7,532 crore, beats estimates",
+   "link": "https://www.moneycontrol.com/news/business/earnings/hindalco-q2-results-net-profit-rises-59-to-rs-7-532-crore-beats-estimates-14072934.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:00:00+00:00",
+   "companies": [
+    "Hindalco"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Singapore Court grants enforcement orders authorising the seizure and sale of Tata Power's shares in Singapore companies",
    "link": "https://www.thehindu.com/brandhub/pr-release/singapore-court-grants-enforcement-orders-authorising-the-seizure-and-sale-of-tata-powers-shares-in-singapore-companies/article71673288.ece",
@@ -3307,162 +3472,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
-   "link": "https://www.hindustantimes.com/world-news/how-democrats-coalesced-around-the-economy-to-pull-off-a-stunning-victory-101793849724354.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:15:00+00:00"
-  },
-  {
-   "title": "US midterm election results impact on Indian Rupee - INR vs USD - What's happening after Trump's loss?",
-   "link": "https://www.livemint.com/money/us-midterm-election-results-impact-on-indian-rupee-inr-vs-usd-whats-happening-after-trumps-loss-11793853169500.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Gold, silver prices today, 5 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-5-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740257640.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Tata Motors Commercial Vehicles shares vroom 8% amid mega Sensex, Nifty rally | Time to book profits or hold? Details",
-   "link": "https://www.livemint.com/market/stock-market-news/tata-motors-commercial-vehicles-shares-vroom-8-amid-mega-sensex-nifty-rally-time-to-book-profits-or-hold-details-11793851200361.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:00:00+00:00"
-  },
-  {
-   "title": "Dhanteras, Diwali 2026 shopping guide: Buying gold coins, bars or Kundan? Know when hallmarking charges may not apply",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-buying-gold-coins-bars-or-kundan-know-when-hallmarking-charges-may-not-apply-11793847325183.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold ETFs fall 4% in a month ahead of Dhanteras 2026: Is this a buying opportunity? Experts weigh in",
-   "link": "https://www.livemint.com/market/commodities/gold-etfs-fall-4-in-a-month-ahead-of-dhanteras-2026-is-this-a-buying-opportunity-experts-weigh-in-11793846746960.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Stock markets open near three-month highs as oil slides after U.S. Democratic win",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T04:45:00+00:00"
-  },
-  {
-   "title": "Nykaa Q2 profit grows over three-fold to ₹101 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/nykaa-q2-grows-over-three-fold-to-101-crore/article71668471.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "companies": [
-    "Nykaa"
-   ]
-  },
-  {
-   "title": "SEBI allows overseas investors to complete KYC digitally without visiting India",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-eases-kyc-rules-for-overseas-investors-allows-digital-onboarding-without-india-visit/article71668485.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "CERT-In flags security vulnerabilities in Tata Motors' iRA connected vehicle apps",
-   "link": "https://www.thehindubusinessline.com/companies/cert-in-flags-high-severity-security-vulnerabilities-in-tata-motors-ira-connected-vehicle-apps/article71668222.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "SEBI's own path for settlement - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/opinion/sebis-own-path-for-settlement/article71666660.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Mahanadi Coalfields IPO gets SEBI approval; key details of Coal India's stake sale",
-   "link": "https://www.thehindubusinessline.com/markets/mahanadi-coalfields-ipo-gets-sebi-approval-coal-india-to-sell-10-stake/article71668486.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "companies": [
-    "Coal India"
-   ],
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "US midterms could slow AI data-centre investments, support Treasury bonds: ICICI Bank",
-   "link": "https://www.thehindubusinessline.com/news/world/us-election-results-could-slow-ai-data-centre-investments-support-treasury-bonds-report/article71668504.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:30:00+00:00",
-   "companies": [
-    "ICICI Bank"
-   ],
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
    }
   }
  ]
