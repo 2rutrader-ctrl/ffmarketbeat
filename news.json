@@ -1,12 +1,77 @@
 {
- "updated": "2026-11-06T03:15:58.913326+00:00",
+ "updated": "2026-11-06T03:31:09.348716+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras 2026 date and time today for gold, silver purchase: Shubh muhurat for buying precious metals on auspicious day",
+   "link": "https://www.livemint.com/money/dhanteras-2026-auspicious-time-to-buy-gold-today-november-6-check-muhurat-and-shopping-tips-11793928276851.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T03:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Major investors are skeptical Anthropic IPO can achieve $1.5 trillion valuation",
+   "link": "https://www.livemint.com/global/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-11793927272641.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T03:30:00+00:00"
+  },
+  {
+   "title": "Are banks open or closed on Dhanteras 2026? Check if SBI and HDFC Bank are operational on 6 November: RBI holiday list",
+   "link": "https://www.livemint.com/money/personal-finance/are-banks-open-or-closed-on-dhanteras-2026-check-if-sbi-and-hdfc-bank-are-operational-on-6-november-rbi-holiday-list-11793927605272.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T03:30:00+00:00",
+   "companies": [
+    "HDFC Bank",
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Anthropic's 'largest IPO on record' ambition on hold? 'AI backlash could threaten timing, $1.5 trillion valuation'",
+   "link": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T03:30:00+00:00"
+  },
+  {
+   "title": "Mumbai airport clips 12 foreign airlines' wings as Adani pushes redevelopment",
+   "link": "https://www.livemint.com/industry/navi-mumbai-adani-airport-international-airlines-11793894827797.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T03:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Dhanteras 2026: Buying gold, silver coins on Blinkit, Instamart today? Check discounts from Malabar, Kalyan and others",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-silver-coins-on-blinkit-instamart-today-check-discounts-from-malabar-kalyan-and-others-11793925044691.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T03:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Gold, silver-coated mithai under FDA scanner; Tukaram Mundhe orders sampling after complaints",
    "link": "https://www.hindustantimes.com/cities/mumbai-news/gold-silver-coated-mithai-under-maharashtra-fda-scanner-tukaram-mundhe-orders-sampling-after-complaints-101793931834316.html",
@@ -3392,73 +3457,6 @@
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
-  },
-  {
-   "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
-   "link": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "HUL proposes raising annual pay cap for non-executive directors to ₹15 cr",
-   "link": "https://www.business-standard.com/companies/news/hul-proposes-raising-annual-pay-cap-for-non-executive-directors-to-15-cr-126110401970_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:15:00+00:00",
-   "companies": [
-    "Hindustan Unilever"
-   ]
-  },
-  {
-   "title": "SIDBI raises ₹5,607 crore via five-year bonds at 8.17% coupon rate",
-   "link": "https://www.business-standard.com/companies/news/sidbi-raises-5-607-crore-via-five-year-bonds-at-8-17-coupon-rate-126110401853_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:15:00+00:00"
-  },
-  {
-   "title": "Strong loan growth, improving asset quality positive for SBI's outlook",
-   "link": "https://www.business-standard.com/markets/news/strong-loan-growth-improving-asset-quality-positive-for-sbi-s-outlook-126110401783_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:15:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "SC upholds states' power to levy additional sales tax under pre-GST laws",
-   "link": "https://www.business-standard.com/india-news/sc-upholds-states-power-to-levy-additional-sales-tax-under-pre-gst-laws-126110401924_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:15:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Apollo Hospitals' Q2 revenue rises 23%; profit up 32% on broad-based growth",
-   "link": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:45:00+00:00",
-   "companies": [
-    "Apollo Hospitals"
-   ]
   }
  ]
 }
