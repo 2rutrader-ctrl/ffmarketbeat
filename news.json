@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-06T04:45:49.678580+00:00",
+ "updated": "2026-11-06T05:01:24.488117+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Off-duty fire captain jumps into action after EV crashes into California nail salon and bursts into flames",
+   "link": "https://www.hindustantimes.com/trending/offduty-fire-captain-jumps-into-action-after-ev-crashes-into-california-nail-salon-and-bursts-into-flames-101793938271484.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T04:45:00+00:00"
+  },
   {
    "title": "Sensex opens in red day after 2,000-point spike; rout in global markets",
    "link": "https://www.hindustantimes.com/business/bse-sensex-today-live-nifty-today-gold-price-silver-price-indian-stocks-2000-point-spike-global-markets-rout-tech-selloff-101793933721043.html",
@@ -3438,19 +3446,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-04T17:45:00+00:00"
-  },
-  {
-   "title": "Trump's midterm losses could give China, India and US allies room to push back on tariffs and trade deals",
-   "link": "https://www.hindustantimes.com/world-news/us-news/trumps-midterm-losses-could-give-china-india-and-us-allies-room-to-push-back-on-tariffs-and-trade-deals-101793811836999.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
   }
  ]
 }
