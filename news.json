@@ -1,12 +1,105 @@
 {
- "updated": "2026-11-06T13:31:13.873173+00:00",
+ "updated": "2026-11-06T13:45:52.960884+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 33 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Asia faces AI reckoning post-midterms, with silver lining on oil",
+   "link": "https://www.moneycontrol.com/news/business/markets/asia-faces-ai-reckoning-post-midterms-with-silver-lining-on-oil-14073506.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T13:45:00+00:00"
+  },
+  {
+   "title": "Inward FDI to ODI ratio narrows to 4.2 times in FY26 from 5.5 times: RBI",
+   "link": "https://www.business-standard.com/economy/news/inward-fdi-to-odi-ratio-narrows-to-4-2-times-in-fy26-from-5-5-times-rbi-126110601554_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00"
+  },
+  {
+   "title": "ONGC eyes operatorship of two Venezuela oil projects in six months, seeks recovery of $500 million dues",
+   "link": "https://www.moneycontrol.com/news/india/ongc-eyes-operatorship-of-two-venezuela-oil-projects-in-six-months-seeks-recovery-of-500-million-dues-14073563.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00",
+   "companies": [
+    "ONGC"
+   ]
+  },
+  {
+   "title": "Reliance Jio launches 3-year unlimited connectivity plan at Rs 10,000: Benefits, validity and more- Moneycontrol.com",
+   "link": "https://www.moneycontrol.com/technology/reliance-jio-launches-3-year-unlimited-connectivity-plan-at-rs-10-000-benefits-validity-and-more-article-14073521.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "SUV gains to cushion volume weakness in tractors for M&M amid new launches",
+   "link": "https://www.business-standard.com/companies/quarterly-results/suv-gains-to-cushion-volume-weakness-in-tractors-for-m-m-amid-new-launches-126110601482_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00"
+  },
+  {
+   "title": "Sagar Defence, Encube Ethicals among 4 firms to secure Sebi's nod for IPOs",
+   "link": "https://www.moneycontrol.com/news/business/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-14073546.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Brent oil price benchmark set for biggest weekly drop since 2020",
+   "link": "https://www.moneycontrol.com/news/business/markets/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020-14073532.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T13:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Rupee hits six-month high of 93.91 against dollar on oil price decline",
+   "link": "https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Paddy procurement to infuse ₹16,000 cr into Uttar Pradesh's rural economy",
+   "link": "https://www.business-standard.com/economy/uttar-pradesh/paddy-procurement-to-infuse-16-000-cr-into-uttar-pradesh-s-rural-economy-126110601545_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:45:00+00:00"
+  },
   {
    "title": "Apollo Hospitals Guwahati Hosts 1st Northeast Endospine Conclave 2026, Advancing Minimally Invasive Spine Surgery",
    "link": "https://www.thehindu.com/brandhub/pr-release/apollo-hospitals-guwahati-hosts-1st-northeast-endospine-conclave-2026-advancing-minimally-invasive-spine-surgery/article71674315.ece",
@@ -3362,104 +3455,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Oil cools, FPIs return: Is Dalal Street ready to run?",
-   "link": "https://www.livemint.com/market/stock-market-news/oil-cools-fpis-return-is-dalal-street-ready-to-run-11793858558879.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00"
-  },
-  {
-   "title": "Malabar vs Joyalukkas vs Tanishq vs Kalyan: Which jeweller has the best festive gold offers for Dhanteras, Diwali 2026?",
-   "link": "https://www.livemint.com/money/personal-finance/malabar-vs-joyalukkas-vs-tanishq-vs-kalyan-which-jeweller-has-the-best-festive-gold-offers-for-dhanteras-diwali-2026-11793863736052.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Repeat gold borrowing rises as outstanding balances hit Rs 22.5 lakh crore, finds TransUnion CIBIL study",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/more-than-half-of-low-risk-gold-loan-borrowers-take-another-loan-within-12-months-finds-cibil-14071413.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Asia's richest banker Uday Kotak sees AI correction boosting flows to India",
-   "link": "https://www.moneycontrol.com/banking/asia-s-richest-banker-sees-ai-correction-boosting-flows-to-india-article-14071382.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Crude oil falls to $94, easing pressure on RBI ahead of December policy",
-   "link": "https://www.moneycontrol.com/news/business/banks/crude-oil-falls-to-94-easing-pressure-on-rbi-ahead-of-december-policy-14071435.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Nykaa gets a margin makeover, but risks remain",
-   "link": "https://www.livemint.com/market/mark-to-market/nykaa-fashion-ebitda-margin-growth-competition-valuation-risks-11793859471376.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00",
-   "companies": [
-    "Nykaa"
-   ]
-  },
-  {
-   "title": "India's data centre push could add $105 billion to the country's import bill, HSBC estimates",
-   "link": "https://www.moneycontrol.com/news/business/economy/india-s-data-centre-push-could-add-105-billion-to-the-country-s-import-bill-hsbc-estimates-14071393.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00"
-  },
-  {
-   "title": "Nifty decisively crosses 24,500: Will benchmark hit 25,000 before hitting any strong resistance? Check what analysts say",
-   "link": "https://www.moneycontrol.com/news/business/markets/nifty-decisively-crosses-24-500-will-benchmark-hit-25-000-before-hitting-any-strong-resistance-check-what-analysts-say-14071504.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:45:00+00:00"
-  },
-  {
-   "title": "Sundaram Finance Q2FY27 results: Net profit rises 6% to ₹517 crore",
-   "link": "https://www.business-standard.com/companies/quarterly-results/sundaram-finance-q2fy27-results-net-profit-rises-6-to-517-crore-126110500805_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
