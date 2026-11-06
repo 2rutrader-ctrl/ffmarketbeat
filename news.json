@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-06T05:31:09.100753+00:00",
+ "updated": "2026-11-06T05:45:49.595558+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras 2026 gold buying story: Why there is rush to purchase yellow metal ahead of Diwali? Know full tradition tale",
+   "link": "https://www.livemint.com/money/dhanteras-2026-gold-buying-story-why-there-is-rush-to-purchase-yellow-metal-ahead-of-diwali-know-full-tradition-tale-11793940719508.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T05:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold, silver prices today, 6 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-6-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740268451.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T05:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Rupee falls 9 paise to 94.50 against U.S. dollar in early trade",
    "link": "https://www.thehindu.com/business/Industry/rupee-falls-9-paise-to-9450-against-us-dollar-in-early-trade/article71672841.ece",
@@ -3427,30 +3453,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T17:45:00+00:00"
-  },
-  {
-   "title": "Brent crude drops below $100 for first time since October as investors assess post-election Iran war outlook",
-   "link": "https://www.moneycontrol.com/news/business/commodities/brent-crude-drops-below-100-for-first-time-since-october-as-investors-assess-post-election-iran-war-outlook-14070367.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T17:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Nita Ambani wears handwoven Ramavali saree, highlighting the spiritual and artistic heritage of Banaras at Reliance Deepawali Utsav",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/nita-ambani-wears-handwoven-ramavali-saree-highlighting-the-spiritual-and-artistic-heritage-of-banaras-at-reliance-deepawali-utsav-101793811771750.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
   }
  ]
 }
