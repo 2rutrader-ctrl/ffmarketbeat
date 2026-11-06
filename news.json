@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-06T06:45:53.407367+00:00",
+ "updated": "2026-11-06T07:01:29.128502+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 29 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Noel Tata to step down as Titan vice-chairman and director on 12 November as he turns 70",
+   "link": "https://www.livemint.com/companies/people/noel-tata-to-step-down-as-titan-vice-chairman-and-director-on-november-12-as-he-turns-70-11793946571237.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T07:00:00+00:00",
+   "companies": [
+    "Titan"
+   ]
+  },
   {
    "title": "Kareena Kapoor in gold sequin saree, halter blouse, minimal jewellery and soft glam channels pure Y2K nostalgia at Manish Malhotra's Diwali party",
    "link": "https://www.hindustantimes.com/lifestyle/fashion/kareena-kapoor-in-gold-sequin-saree-halter-blouse-minimal-jewellery-and-soft-glam-channels-pure-y2k-nostalgia-at-manish-malhotras-diwali-party-101793940229831.html",
@@ -3430,19 +3441,6 @@
    "companies": [
     "Larsen & Toubro"
    ]
-  },
-  {
-   "title": "RBI raises Floating Rate Bond 2034 interest rate to 7.26%: How much extra will investors earn on Rs 1 lakh?",
-   "link": "https://www.businesstoday.in/latest/economy/story/rbi-raises-floating-rate-bond-2034-interest-rate-to-7-26-how-much-extra-will-investors-earn-on-rs-1-lakh-565718-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T01:30:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
   }
  ]
 }
