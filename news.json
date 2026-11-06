@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:45:53.773840+00:00",
+ "updated": "2026-11-06T19:01:32.875696+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
@@ -7,6 +7,54 @@
   "gdelt": "ok, 33 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras special: Gold beats stocks or Nifty takes the lead? Gold vs Nifty 50 returns in Samvat 2082 compared",
+   "link": "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T18:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "TCS Nashik case: Imtiyaz Jaleel named accused in supplementary chargesheet",
+   "link": "https://www.thehindubusinessline.com/news/tcs-nashik-case-aimim-leader-imtiyaz-jaleel-named-accused-in-supplementary-chargesheet/article71675957.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T18:45:00+00:00",
+   "companies": [
+    "TCS"
+   ]
+  },
+  {
+   "title": "Premier Energies Q2 net profit rises 31% to ₹462.4 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/premier-energies-q2-net-profit-rises-31-to-4624-crore/article71673725.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T18:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Tata Power commissions 300 MW solar project in Karnataka, to cut 1 lakh tonnes of carbon emissions yearly",
+   "link": "https://www.livemint.com/companies/news/tata-power-commissions-300-mw-solar-project-in-karnataka-to-cut-1-lakh-tonnes-of-carbon-emissions-yearly-11793982901002.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T18:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
   {
    "title": "Wall Street catches its breath after AI-led multi-trillion-dollar rout",
    "link": "https://www.business-standard.com/world-news/wall-street-catches-its-breath-after-ai-led-multi-trillion-dollar-rout-126110602035_1.html",
@@ -3345,46 +3393,6 @@
    "companies": [
     "Mahindra & Mahindra"
    ]
-  },
-  {
-   "title": "Growth, margins to remain steady for Nykaa on strong beauty biz performance",
-   "link": "https://www.business-standard.com/companies/news/growth-margins-to-remain-steady-for-nykaa-on-strong-beauty-biz-performance-126110501491_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:15:00+00:00",
-   "companies": [
-    "Nykaa"
-   ]
-  },
-  {
-   "title": "Sebi allows mutual funds to net cash market obligations from April",
-   "link": "https://www.business-standard.com/markets/news/sebi-allows-mutual-funds-to-net-cash-market-obligations-from-april-126110501727_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Blockbuster listing for Bombay Coated and Special Steels' IPO - lists at Rs 91 on the exchange, reaches a high of Rs 96.62 on the exchange",
-   "link": "https://www.thehindu.com/brandhub/pr-release/blockbuster-listing-for-bombay-coated-and-special-steels-ipo-lists-at-rs-91-on-the-exchange-reaches-a-high-of-rs-9662-on-the-exchange/article71669825.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:15:00+00:00"
-  },
-  {
-   "title": "Nifty touches a three-month high: Is Dalal Street's Diwali-week rally a trend change or just festive relief?",
-   "link": "https://www.moneycontrol.com/news/business/nifty-touches-a-three-month-high-is-dalal-street-s-diwali-week-rally-a-trend-change-or-just-festive-relief-14071754.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:00:00+00:00"
   }
  ]
 }
