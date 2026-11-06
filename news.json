@@ -1,12 +1,90 @@
 {
- "updated": "2026-11-06T11:31:10.413026+00:00",
+ "updated": "2026-11-06T11:45:53.081191+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Ports to acquire Europe's second largest liquid storage operator Evos for €2.56 billion",
+   "link": "https://www.businesstoday.in/latest/corporate/story/adani-ports-to-acquire-europes-second-largest-liquid-storage-operator-evos-for-eu2-56-billion-566243-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Gold rush chokes traffic in Hyderabad's Panjagutta on November 6; not enough sales say jewellers",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Airtel restores Rs 299 prepaid plan after Q2 subscriber slowdown",
+   "link": "https://www.moneycontrol.com/news/telecom/airtel-restores-rs-299-prepaid-plan-after-q2-subscriber-slowdown-14073257.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:30:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Rupee jumps 56 paise to 93.91, biggest single-day gain since October 12",
+   "link": "https://www.moneycontrol.com/news/business/banks/rupee-jumps-56-paise-to-93-91-biggest-single-day-gain-since-october-12-14073247.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Missiles overtake ships to become India's largest major arms export category in 2025: SIPRI data",
+   "link": "https://www.moneycontrol.com/defence/missiles-overtake-ships-to-become-india-s-largest-major-arms-export-category-in-2025-sipri-data-article-14073206.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:30:00+00:00"
+  },
+  {
+   "title": "CBI books industrialist Kishore Biyani, Future Retail Ltd. in Rs 904.32 crore SBI bank fraud case",
+   "link": "https://www.moneycontrol.com/news/india/cbi-books-industrialist-kishore-biyani-future-retail-ltd-in-rs-904-32-crore-sbi-bank-fraud-case-14073256.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:30:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "M&M to invest up to Rs 1,450 crore in SML Mahindra rights issue",
+   "link": "https://www.moneycontrol.com/news/business/companies/m-m-to-invest-up-to-rs-1-450-crore-in-sml-mahindra-rights-issue-14073193.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T11:30:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
   {
    "title": "Diwali cheer on D St! Nifty reclaims 25,000 as rally extends to 7th session; investors add over Rs 30 lakh crore",
    "link": "https://www.businesstoday.in/markets/stocks/story/diwali-cheer-on-d-st-nifty-reclaims-25000-as-rally-extends-to-7th-session-investors-add-over-rs-30-lakh-crore-566227-2026-11-06",
@@ -3389,87 +3467,6 @@
    "companies": [
     "Dr Reddy's"
    ]
-  },
-  {
-   "title": "Rupee falls 9 paise to 94.55 against US dollar in early trade",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-9-paise-to-9455-against-us-dollar-in-early-trade/article71668650.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Crude oil prices fall on hopes of end to West Asia war after US midterms",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-fall-as-us-midterm-results-raise-hopes-of-end-to-west-asia-war/article71668597.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
-   "link": "https://www.thehindubusinessline.com/news/world/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall/article71668446.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Lenskart hits 52-week high as street cheers strong Q2 results",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/lenskart-hits-52-week-high-as-street-cheers-strong-q2-results/article71668925.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nykaa shares hits 52-week high before retreating on profit booking",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/nykaa-hits-52-week-high-at-open-then-retreats-as-profit-taking-kicks-in/article71668778.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00"
-  },
-  {
-   "title": "Rupee hits five-day high at 94.35 as crude slump and weak Dollar drive rally",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/rupee-hits-five-day-high-at-9435-as-crude-slump-and-weak-dollar-drive-rally/article71668755.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "HDFC Bank shares rise for third day, gain 12% from 52-week low",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-climbs-for-third-straight-session-up-12-from-last-weeks-low/article71668872.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00"
   }
  ]
 }
