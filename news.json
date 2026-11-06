@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-06T17:01:29.254166+00:00",
+ "updated": "2026-11-06T17:15:55.673507+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 54 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee strengthens to close at a six-and-a-half-month high",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-strengthens-to-close-at-a-six-and-a-half-month-high/article71675114.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T17:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Jewellers report brisk Dhanteras sales as gold price drop lures buyers; volumes seen flat- Moneycontrol.com",
    "link": "https://www.moneycontrol.com/news/india/jewellers-report-brisk-dhanteras-sales-as-gold-price-drop-lures-buyers-volumes-seen-flat-14073825.html",
@@ -3382,19 +3395,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T13:45:00+00:00"
-  },
-  {
-   "title": "Gold price jumps Rs 2,200 per 10 grams ahead of Dhanteras; silver gains Rs 1,500 in Delhi",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-price-jumps-rs-2-200-per-10-grams-ahead-of-dhanteras-silver-gains-rs-1-500-in-delhi-14071768.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T13:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
