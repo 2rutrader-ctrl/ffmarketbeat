@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-06T19:01:32.875696+00:00",
+ "updated": "2026-11-06T19:15:47.437842+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 33 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Weakest Samvat in 15 years ends on a high for mkts as Sensex, Nifty rally",
+   "link": "https://www.business-standard.com/markets/news/weakest-samvat-in-15-years-ends-on-a-high-for-mkts-as-sensex-nifty-rally-126110601769_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T19:15:00+00:00"
+  },
   {
    "title": "Dhanteras special: Gold beats stocks or Nifty takes the lead? Gold vs Nifty 50 returns in Samvat 2082 compared",
    "link": "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
@@ -3382,17 +3390,6 @@
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
-  },
-  {
-   "title": "M&M profit rises 25% as SUVs power growth, tractors lose steam",
-   "link": "https://www.thehindubusinessline.com/companies/mm-profit-rises-25-as-suvs-power-growth-tractors-lose-steam/article71670273.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:15:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
   }
  ]
 }
