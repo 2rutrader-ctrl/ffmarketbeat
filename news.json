@@ -1,12 +1,107 @@
 {
- "updated": "2026-11-06T09:31:10.050230+00:00",
+ "updated": "2026-11-06T09:45:51.862242+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 46 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Ports: European foray; balance sheet leverage under control, say analysts",
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-european-foray-balance-sheet-leverage-under-control-say-analysts-566187-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "FPIs defer share sales on hopes of LTCG tax cut as block deals slump over 70%",
+   "link": "https://www.moneycontrol.com/news/business/fpis-defer-share-sales-on-hopes-of-ltcg-tax-cut-as-block-deals-slump-over-70-14073063.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:45:00+00:00"
+  },
+  {
+   "title": "Buying gold in your wife's name? Know the income-tax implications before making the purchase",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-in-your-wife-s-name-know-the-income-tax-implications-before-making-the-purchase-14072973.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "What 21 years of Dhanteras gold and silver buying could be worth today- Moneycontrol.com",
+   "link": "https://www.moneycontrol.com/news/business/commodities/what-21-years-of-dhanteras-gold-and-silver-buying-could-be-worth-today-14073048.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Congress says people must express outrage over inflation by teaching BJP a lesson in upcoming polls",
+   "link": "https://www.thehindu.com/news/national/congress-says-people-must-express-outrage-over-inflation-by-teaching-bjp-a-lesson-in-upcoming-polls/article71673645.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Silver may rally 40% by Dhanteras 2027, but experts advise caution amid near-term weakness",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/silver-may-rally-40-by-dhanteras-2027-but-experts-advise-caution-amid-near-term-weakness-14072974.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:45:00+00:00"
+  },
+  {
+   "title": "Gold outlook: Is the worst of the correction over, or is another fall on the cards?",
+   "link": "https://www.moneycontrol.com/news/business/markets/gold-outlook-is-the-worst-of-the-correction-over-or-is-another-fall-on-the-cards-14073024.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Tata Steel Q2 earnings preview: Revenue pegged at Rs 64,152 crore, stock trading flat",
+   "link": "https://www.businesstoday.in/markets/stocks/story/tata-steel-q2-earnings-preview-revenue-pegged-at-rs-64152-crore-stock-trading-flat-566138-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T09:30:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "3M India Q2 net profit falls 17% on weaker rupee and rising input costs; shares tumble up to 11%",
    "link": "https://www.moneycontrol.com/news/business/markets/3m-india-q2-net-profit-falls-17-on-weaker-rupee-and-rising-input-costs-shares-tumble-up-to-11-14072918.html",
@@ -3384,95 +3479,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-05T05:45:00+00:00"
-  },
-  {
-   "title": "Gold, silver prices on November 5: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-5-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-565798-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "By 2012, Colorado drained Bonny Reservoir after nearly 60 years to meet river compact duties; by 2021, Russian olives spread across its dry lakebed",
-   "link": "https://www.hindustantimes.com/world-news/us-news/by-2012-colorado-drained-bonny-reservoir-after-nearly-60-years-to-meet-river-compact-duties-by-2021-russian-olives-spread-across-its-dry-lakebed-101793788749553.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:45:00+00:00"
-  },
-  {
-   "title": "Adani Power shares gain 60% from 52 week low: What investors should know before entering the counter",
-   "link": "https://www.businesstoday.in/markets/stocks/story/adani-power-shares-gain-60-from-52-week-low-what-investors-should-know-before-entering-the-counter-565807-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:45:00+00:00"
-  },
-  {
-   "title": "Rupee falls 9 paise to 94.55 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-falls-9-paise-to-9455-against-us-dollar-in-early-trade/article71668649.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "From 5% to 30%: How soaring oil shipping costs are fuelling a global inflation threat",
-   "link": "https://www.businesstoday.in/world/story/from-5-to-30-how-soaring-oil-shipping-costs-are-fuelling-a-global-inflation-threat-565802-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Diwali 2026: Buying gold this Dhanteras? What buyers should know before going to their nearest jeweller",
-   "link": "https://www.businesstoday.in/personal-finance/story/diwali-2026-buying-gold-this-dhanteras-what-buyers-should-know-before-going-to-their-nearest-jeweller-565799-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bombay Coated & Special Steels shares list at 12% premium over IPO price",
-   "link": "https://www.business-standard.com/markets/news/bombay-coated-special-steels-shares-list-at-12-premium-over-ipo-price-126110500471_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T05:30:00+00:00"
-  },
-  {
-   "title": "TaMo CV, Ashok Leyland, Maruti rally up to 8% as crude oil price tumbles",
-   "link": "https://www.business-standard.com/markets/news/tamo-cv-ashok-leyland-maruti-rally-up-to-8-as-crude-oil-price-tumbles-126110500463_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T05:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
