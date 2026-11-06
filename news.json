@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-06T04:15:46.843482+00:00",
+ "updated": "2026-11-06T04:31:10.092927+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sensex opens in red day after 2,000-point spike; rout in global markets",
+   "link": "https://www.hindustantimes.com/business/bse-sensex-today-live-nifty-today-gold-price-silver-price-indian-stocks-2000-point-spike-global-markets-rout-tech-selloff-101793933721043.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:30:00+00:00"
+  },
+  {
+   "title": "Ravana's throne in Ramayana was made out of 24K gold, cost ₹1 crore; Surpanakha's chariot cost ₹1.5 crore, reveals art director",
+   "link": "https://www.hindustantimes.com/entertainment/bollywood/ravana-throne-in-ramayana-was-made-out-of-24k-gold-cost-1-crore-surpanakha-chariot-cost-1-5-crore-reveals-art-director-ramesh-yash-rakul-preet-singh-101793936128977.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Healthcare Global Enterprises Q2 net profit declines 55% to ₹9.25 cr",
+   "link": "https://www.thehindubusinessline.com/companies/healthcare-global-enterprises-q2-net-profit-declines-55-to-925-cr/article71672726.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Will AI backlash delay Anthropic IPO? Investors raise doubts",
+   "link": "https://www.thehindubusinessline.com/markets/will-ai-backlash-delay-anthropic-ipo-investors-raise-doubts/article71672682.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T04:30:00+00:00"
+  },
+  {
+   "title": "Rupee to draw support from return of foreign capital ​to Indian markets after months of sustained outflows",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-to-draw-support-from-return-of-foreign-flows-amid-tech-meltdown/article71672733.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "India US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief?",
    "link": "https://www.businesstoday.in/latest/economy/story/india-us-trade-deal-democrats-may-challenge-trumps-tariff-policies-but-will-exporters-get-relief-566074-2026-11-06",
@@ -3396,65 +3451,6 @@
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
-  },
-  {
-   "title": "SBI to report RCom, Anil Ambani as wilful defaulters to credit bureaus",
-   "link": "https://www.business-standard.com/companies/news/sbi-to-report-rcom-anil-ambani-as-wilful-defaulters-to-credit-bureaus-126110401998_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
-   "link": "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "companies": [
-    "HAL"
-   ]
-  },
-  {
-   "title": "Gold vs silver investment: Which metal gave better returns on ₹1 lakh over 1, 3 & 5 years? See the full comparison",
-   "link": "https://www.livemint.com/money/personal-finance/gold-vs-silver-investment-val-which-metal-gave-better-returns-on-1-lakh-over-1-3-5-years-see-the-full-comparis-11793806608030.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Chalet Hotels Q2 net profit rises 40% to ₹216 crore, revenue falls 32%",
-   "link": "https://www.business-standard.com/companies/news/chalet-hotels-q2-net-profit-rises-40-to-216-crore-revenue-falls-32-126110402005_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "How HDFC Bank's Parivartan is helping Kashmir's saffron farmers adapt to climate change",
-   "link": "https://www.businesstoday.in/latest/economy/story/how-hdfc-banks-parivartan-is-helping-kashmirs-saffron-farmers-adapt-to-climate-change-565778-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T17:15:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
   }
  ]
 }
