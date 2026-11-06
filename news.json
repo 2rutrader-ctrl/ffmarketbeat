@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-06T00:31:10.560631+00:00",
+ "updated": "2026-11-06T00:45:51.491248+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (12 of 12 files read, 16140 records scanned, 0 download errors; last error: none)"
+  "gdelt": "ok, 1 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "The silver hands of Hupari - The Hindu",
+   "link": "https://www.thehindu.com/news/national/maharashtra/the-silver-hands-of-hupari/article71666342.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T00:45:00+00:00"
+  },
   {
    "title": "A month after lifting of ban, wheat exports rise fourfold, shows data",
    "link": "https://www.business-standard.com/industry/agriculture/a-month-after-lifting-of-ban-wheat-exports-rise-fourfold-shows-data-126110502116_1.html",
@@ -3460,19 +3468,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Budget 2027: FICCI seeks removal of LTCG tax on equities, suggests higher STT to offset revenue loss",
-   "link": "https://www.businesstoday.in/latest/economy/story/budget-2027-ficci-seeks-removal-of-ltcg-tax-on-equities-suggests-higher-stt-to-offset-revenue-loss-565772-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T15:30:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
    }
   }
  ]
