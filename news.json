@@ -1,12 +1,93 @@
 {
- "updated": "2026-11-06T14:45:56.159176+00:00",
+ "updated": "2026-11-06T15:01:31.641604+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 32 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Correction in gold prices boosts Dhanteras sales, footfalls for jewellers",
+   "link": "https://www.business-standard.com/industry/news/correction-in-gold-prices-boosts-dhanteras-sales-footfalls-for-jewellers-126110601777_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T15:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Airtel restores ₹299 prepaid plan withdrawn in August as additions slow",
+   "link": "https://www.business-standard.com/companies/news/airtel-restores-299-prepaid-plan-withdrawn-in-august-as-additions-slow-126110601758_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Bombay HC plea seeks RBI direction for Tata Sons' stock market listing",
+   "link": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00"
+  },
+  {
+   "title": "Dhanteras rush: Maruti expects 30,000 deliveries, Tata Motors over 12,000; Mahindra grapples with tight SUV stocks",
+   "link": "https://www.businesstoday.in/auto/story/dhanteras-rush-maruti-expects-30000-deliveries-tata-motors-over-12000-mahindra-grapples-with-tight-suv-stocks-566280-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00",
+   "companies": [
+    "Maruti Suzuki",
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "Pressure on rupee continues in Samvat 2082; 10-year bond yields harden",
+   "link": "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Singapore court orders seizure, sale of Tata Power's subsidiary shares",
+   "link": "https://www.business-standard.com/companies/news/singapore-court-orders-seizure-sale-of-tata-power-s-subsidiary-shares-126110601737_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Aster DM Quality Care Q2 net profit more than doubles to ₹262 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/aster-dm-quality-care-q2-net-profit-more-than-doubles-to-262-crore-126110601753_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "SEBI clears IPO papers of Quadria Capital-backed Encube Ethicals for Rs 3,000 crore",
    "link": "https://www.moneycontrol.com/news/business/ipo/quadria-capital-backed-encube-ethicals-gets-sebi-nod-for-rs-3-000-crore-ipo-14073624.html",
@@ -3358,93 +3439,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-05T11:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Coal gasification can save ₹1.5 trillion in forex in 5-7 years: Coal secy",
-   "link": "https://www.business-standard.com/industry/news/coal-gasification-can-save-1-5-trillion-in-forex-in-5-7-years-coal-secy-126110500915_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "LG Electronics Q2 results: Net profit up 25.6% to ₹489 cr, revenue up 20%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/lg-electronics-q2-results-net-profit-up-25-6-to-489-cr-revenue-up-20-126110500829_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "CESC Q2 results: Net profit slips 2.2% to ₹438 cr, income at ₹5,686 cr",
-   "link": "https://www.business-standard.com/companies/quarterly-results/cesc-q2-results-net-profit-slips-2-2-to-438-cr-income-at-5-686-cr-126110500940_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bharti Airtel Q2 results: Net profit rises 31% to Rs 8,888 crore, misses estimates",
-   "link": "https://www.moneycontrol.com/news/business/earnings/bharti-airtel-q2-results-net-profit-rises-31-to-rs-8-888-crore-misses-estimates-14071665.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Tata Power Renewables commissions 300 MW project for Seci in Karnataka",
-   "link": "https://www.business-standard.com/industry/news/tata-power-renewables-commissions-300-mw-project-for-seci-in-karnataka-126110500935_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "India opens deepwater oil, gas bids, offers to fund up to 50% of well costs",
-   "link": "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:30:00+00:00"
-  },
-  {
-   "title": "Jewellery sales volumes to fall 4-6% in FY27, but revenue may rise up to 23% on higher gold prices: Crisil",
-   "link": "https://www.moneycontrol.com/news/business/jewellery-sales-volumes-to-fall-4-6-in-fy27-but-revenue-may-rise-up-to-23-on-higher-gold-prices-crisil-14071638.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T11:15:00+00:00",
    "thought": {
     "topic": "Why gold is followed",
     "short": "Gold",
