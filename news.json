@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-06T11:45:53.081191+00:00",
+ "updated": "2026-11-06T11:59:05.245760+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 55 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Wipro, Rockwell, Lohum arms among 12 cos to enter electronics component manufacturing scheme",
+   "link": "https://www.livemint.com/news/wipro-rockwell-lohum-arms-among-12-new-ecms-approvals-worth-7-5k-crore-11793960604998.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:00:00+00:00",
+   "companies": [
+    "Wipro"
+   ]
+  },
+  {
+   "title": "Parag Parikh Flexi Cap Fund: GIFT City sibling to invest in domestic scheme; check NFO dates, NRI, FII access and more",
+   "link": "https://www.livemint.com/money/personal-finance/parag-parikh-flexi-cap-fund-gift-city-sibling-to-invest-in-domestic-scheme-check-nfo-dates-nri-fii-access-and-more-11793929996277.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:00:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
   {
    "title": "Adani Ports to acquire Europe's second largest liquid storage operator Evos for €2.56 billion",
    "link": "https://www.businesstoday.in/latest/corporate/story/adani-ports-to-acquire-europes-second-largest-liquid-storage-operator-evos-for-eu2-56-billion-566243-2026-11-06",
@@ -3445,28 +3469,6 @@
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
-  },
-  {
-   "title": "ED action in Reliance Anil Ambani Group cases | Explained",
-   "link": "https://www.thehindu.com/news/national/ed-action-in-reliance-anil-ambani-group-cases-explained/article71668787.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Dr. Reddy's gets marketing authorisation for generic semaglutide injection in Brazil",
-   "link": "https://www.thehindubusinessline.com/companies/dr-reddys-gets-marketing-authorisation-for-generic-semaglutide-injection-in-brazil/article71668676.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:45:00+00:00",
-   "companies": [
-    "Dr Reddy's"
-   ]
   }
  ]
 }
