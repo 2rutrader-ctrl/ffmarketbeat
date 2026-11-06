@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-06T15:45:52.071024+00:00",
+ "updated": "2026-11-06T16:01:30.232311+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "ICAR-SBI demonstrates utility of its soil moisture indicator to tribal farmers in Attapady",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/icar-sbi-demonstrates-utility-of-its-soil-moisture-indicator-to-tribal-farmers-in-attapady/article71674829.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T15:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "Gokaldas Exports Q2 consolidated PAT jumps to Rs 41 crore- Moneycontrol.com",
    "link": "https://www.moneycontrol.com/news/business/gokaldas-exports-q2-consolidated-pat-jumps-to-rs-41-crore-14073701.html",
@@ -3423,14 +3434,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "India opens special deepwater oil, gas bidding round, offers to fund up to 50% of well costs",
-   "link": "https://www.moneycontrol.com/news/india/india-opens-special-deepwater-oil-gas-bidding-round-offers-to-fund-up-to-50-of-well-costs-14071670.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T11:45:00+00:00"
   }
  ]
 }
