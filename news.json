@@ -1,12 +1,198 @@
 {
- "updated": "2026-11-06T10:15:51.873264+00:00",
+ "updated": "2026-11-06T10:31:12.497391+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 58 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Elgi Equipments Q2 net profit grows 6% to ₹128 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/elgi-equipments-q2-net-profit-grows-6-to-128-crore/article71673516.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Premier Energies Q2 net profit rises 31% to ₹462.4 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/incoming/premier-energies-q2-net-profit-rises-31-to-4624-crore/article71673725.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Fire at Oil India Ltd's intermediate tank farm in Assam's Dibrugarh kills 1",
+   "link": "https://www.thehindubusinessline.com/companies/fire-at-oil-india-ltds-intermediate-tank-farm-in-assams-dibrugarh-kills-1/article71673422.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00"
+  },
+  {
+   "title": "HDFC Bank shares rally 16% in 4 sessions, cross ₹12-lakh-cr market cap",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-rally-16-in-four-sessions-cross-12-lakh-crore-market-cap/article71673355.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00"
+  },
+  {
+   "title": "Singapore court allows seizure, sale of Tata Power shares in two subsidiaries to enforce ₹6,113 cr award",
+   "link": "https://www.thehindubusinessline.com/companies/singapore-court-allows-seizure-sale-of-tata-power-shares-in-two-subsidiaries-to-enforce-6113-cr-award/article71673362.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "3M India profit falls on weaker rupee and rising input costs, shares tumble",
+   "link": "https://www.thehindubusinessline.com/companies/3m-india-profit-falls-on-weaker-rupee-and-rising-input-costs-shares-tumble/article71673477.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Godrej Agrovet Q2 profit jumps 22% on strong animal nutrition, oil palm sales",
+   "link": "https://www.thehindubusinessline.com/companies/godrej-agrovet-q2-profit-jumps-22-on-strong-animal-nutrition-oil-palm-sales/article71673460.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T10:30:00+00:00"
+  },
+  {
+   "title": "Sensex reclaims 80,000 after March; Nifty tops 24,700 despite global tech rout",
+   "link": "https://www.thehindubusinessline.com/markets/sensex-reclaims-80000-after-march-nifty-tops-24700-despite-global-tech-rout/article71673442.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00"
+  },
+  {
+   "title": "ATMA seeks duty-free natural rubber imports as prices hit ₹300 per kg",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/tyre-makers-seek-duty-free-natural-rubber-imports-as-prices-hit-300-per-kg/article71673677.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00"
+  },
+  {
+   "title": "Dhanteras 2026 date and time today for gold, silver purchase: Shubh muhurat for buying precious metals on auspicious day",
+   "link": "https://www.livemint.com/money/dhanteras-2026-date-and-time-today-for-gold-silver-purchase-shubh-muhurat-for-buying-precious-metals-on-auspicious-day-11793944049222.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T10:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "IndusInd Bank ties up with JP Morgan Payments to offer remittances in 123 currencies",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/indusind-bank-ties-up-with-jp-morgan-payments-to-offer-remittances-in-123-currencies/article71673366.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "companies": [
+    "IndusInd Bank"
+   ]
+  },
+  {
+   "title": "LIC expects limited impact from IRDAI commission caps, says CEO",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/lic-expects-limited-impact-from-irdais-proposed-commission-caps-says-ceo/article71673709.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:30:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "India-US trade deal: What midterm elections mean for trade policy, tariff and export sectors? Experts explain",
+   "link": "https://www.livemint.com/news/india/indiaus-trade-deal-what-midterm-elections-mean-for-trade-policy-tariff-and-export-sectors-expert-suggests-what-new-d-11793958066925.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Dhanteras, Diwali 2026 shopping tips: Buying gold and silver jewellery? 3 hallmark checks and how to use BIS Care app",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-tips-buying-gold-and-silver-jewellery-3-hallmark-checks-and-how-to-use-bis-care-app-11793948934186.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T10:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Airtel sees refurbished market cushioning upgrade slowdown, ARPU growth sustained by pricing intervention",
+   "link": "https://www.moneycontrol.com/news/business/airtel-sees-refurbished-market-cushioning-upgrade-slowdown-arpu-growth-sustained-by-pricing-intervention-14073112.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:15:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Hindalco Q2 result: Net profit jumps 59% to ₹7,533 cr, revenue rises 39%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/hindalco-q2-result-net-profit-jumps-59-to-7-533-cr-revenue-rises-39-126110601026_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "IndusInd Bank taps JP Morgan Xpedite for global remittance expansion",
+   "link": "https://www.business-standard.com/companies/news/indusind-bank-jp-morgan-outward-remittance-123-currencies-126110600941_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T10:15:00+00:00",
+   "companies": [
+    "IndusInd Bank"
+   ]
+  },
   {
    "title": "Dhanteras buyers may purchase 7-8 grams of gold, spend Rs 1.10 lakh on average, says IBJA Secretary",
    "link": "https://www.moneycontrol.com/news/business/personal-finance/dhanteras-buyers-may-purchase-7-8-grams-of-gold-spend-rs-1-10-lakh-on-average-says-ibja-secretary-14073065.html",
@@ -3284,204 +3470,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "US Midterm Election results lift banking, financial stocks - SBI Cards, Bajaj Finance, Axis, ICICI Bank surge up to 6%",
-   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-lift-banking-financial-stocks-sbi-cards-bajaj-finance-axis-icici-bank-surge-up-to-6-11793856386492.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T07:15:00+00:00"
-  },
-  {
-   "title": "PI Industries tanks 15%, hits 6-year low on disappointing Q2 results",
-   "link": "https://www.business-standard.com/markets/news/pi-industries-tanks-15-hits-6-year-low-on-disappointing-q2-results-126110500534_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "US sanctions Indian businessman, wife for helping Iran evade oil curbs",
-   "link": "https://www.business-standard.com/external-affairs-defence-security/news/us-sanctions-indian-businessman-wife-for-helping-iran-evade-oil-curbs-126110500450_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "US Midterm Election Results Impact on Gold, Silver Jewellery Stocks: Senco, PC, Titan shares shine on Trump's loss",
-   "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-senco-gold-pc-jeweller-titan-jewellery-stocks-gain-as-gold-silver-prices-rebound-11793853578027.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "companies": [
-    "Titan"
-   ],
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Medical costs in India to rise 10.1% in 2027, double inflation rate: Aon",
-   "link": "https://www.business-standard.com/finance/personal-finance/medical-costs-in-india-to-rise-10-1-in-2027-double-inflation-rate-aon-126110500576_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Rupee falls 9 paise to 94.55 against US dollar during early trade",
-   "link": "https://www.business-standard.com/finance/news/rupee-falls-9-paise-to-94-55-against-us-dollar-during-early-trade-126110500472_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "BT Explainer | What falling crude, strengthening rupee mean for Indian economy",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bt-explainer-what-falling-crude-strengthening-rupee-mean-for-indian-economy-565837-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "OMCs, IndiGo, paint and tyre stocks rally up to 7% as crude cools below $95",
-   "link": "https://www.business-standard.com/markets/news/omcs-indigo-paint-and-tyre-stocks-rally-up-to-7-as-crude-cools-below-95-126110500630_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Chandigarh-based couple, their firms face US sanctions over Iran oil links",
-   "link": "https://www.livemint.com/focus/chandigarhbased-couple-their-firms-face-us-sanctions-over-iran-oil-links-11793855796945.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T06:30:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "JK Tyre, IndiGo shares jump over 5% as crude oil plunges; aviation, paint and oil marketing stocks rally",
-   "link": "https://www.moneycontrol.com/news/business/markets/jk-tyre-indigo-shares-jump-over-5-as-crude-oil-plunges-aviation-paint-and-oil-marketing-stocks-rally-14070874.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Bank Nifty surges 2%, trades near 57,000; IndusInd, AU SFB lead gains: What lies ahead?",
-   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-2-trades-near-57-000-indusind-au-sfb-lead-gains-what-lies-ahead-14071073.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00"
-  },
-  {
-   "title": "When the system can see the GST invoices, arrest powers must go",
-   "link": "https://www.moneycontrol.com/news/opinion/when-the-system-can-see-the-gst-invoices-arrest-powers-must-go-14071009.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Reliance Jio Rs 15 unlimited 5G data pack: Benefits, validity and more",
-   "link": "https://www.moneycontrol.com/technology/reliance-jio-rs-15-unlimited-5g-data-pack-benefits-validity-and-more-article-14071023.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Auto stocks rally: Ashok Leyland jumps 9%, Maruti, Tata Motors PV, M&M lead gains as Nifty Auto surges 3%",
-   "link": "https://www.moneycontrol.com/news/business/markets/auto-stocks-rally-ashok-leyland-jumps-9-maruti-tata-motors-pv-m-m-lead-gains-as-nifty-auto-surges-3-14071026.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00"
-  },
-  {
-   "title": "Power Grid: Project pipeline, growth outlook outweigh near-term execution challenges",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/power-grid-project-pipeline-growth-outlook-outweigh-near-term-execution-challenges-14071090.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00",
-   "companies": [
-    "Power Grid"
-   ]
-  },
-  {
-   "title": "Reliance Digital iPhone 17 Pro deal brings price down to Rs 56,990 with exchange and bank offers",
-   "link": "https://www.moneycontrol.com/technology/reliance-digital-iphone-17-pro-deal-brings-price-down-to-rs-56-990-with-exchange-and-bank-offers-article-14071002.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T06:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Two oil tankers, tugboat catch fire after attempting unauthorised routes, says IRGC",
-   "link": "https://www.moneycontrol.com/world/two-oil-tankers-tugboat-catch-fire-after-attempting-unauthorised-routes-says-irgc-article-14071008.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T06:15:00+00:00"
   }
  ]
 }
