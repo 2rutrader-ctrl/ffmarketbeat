@@ -1,12 +1,63 @@
 {
- "updated": "2026-11-06T12:31:14.427971+00:00",
+ "updated": "2026-11-06T12:45:53.461243+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Apollo Hospitals Guwahati Hosts 1st Northeast Endospine Conclave 2026, Advancing Minimally Invasive Spine Surgery",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/apollo-hospitals-guwahati-hosts-1st-northeast-endospine-conclave-2026-advancing-minimally-invasive-spine-surgery/article71674319.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:45:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ]
+  },
+  {
+   "title": "Bharti Airtel reclaims 2nd spot in mcap rankings, overtakes Jio Platforms",
+   "link": "https://www.business-standard.com/companies/news/bharti-airtel-reclaims-2nd-spot-in-mcap-rankings-overtakes-jio-platforms-126110601497_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "India proposes two-year quota on soda ash imports after 89% surge",
+   "link": "https://www.thehindubusinessline.com/economy/policy/dgtr-recommends-two-year-import-curbs-on-soda-ash-to-protect-domestic-industry/article71673801.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:45:00+00:00"
+  },
+  {
+   "title": "SP Group unit to raise up to $200 million in rupee-denominated debt, bankers say",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sp-group-unit-to-raise-up-to-200-million-in-rupee-denominated-debt-bankers-say/article71673911.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Midterms may not end Trumpian economic pain",
+   "link": "https://www.hindustantimes.com/opinion/midterms-may-not-end-trumpian-economic-pain-101793905737928.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T12:45:00+00:00"
+  },
   {
    "title": "NBFC credit grows 15.4% in September, retail loans lead expansion; gold loans surge 66%",
    "link": "https://www.moneycontrol.com/news/business/banks/nbfc-credit-grows-15-4-in-september-retail-loans-lead-expansion-gold-loans-surge-66-14073424.html",
@@ -3409,67 +3460,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Mahindra & Mahindra Q2 FY27 net profit rises 25% to ₹4,588 crore",
-   "link": "https://www.thehindubusinessline.com/companies/mahindra-mahindra-q2-fy27-net-profit-rises-25-to-4588-crore/article71669194.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:15:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "SPIC Q2 net profit falls 23% to ₹47 crore despite 22% revenue growth",
-   "link": "https://www.thehindubusinessline.com/companies/spic-q2-consolidated-net-profit-falls-23-to-47-crore-despite-22-revenue-growth/article71669196.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Indian stock exchanges need revenue diversification beyond trading: Kotak",
-   "link": "https://www.thehindubusinessline.com/markets/indian-exchanges-need-to-diversify-revenue-beyond-trading-for-next-growth-phase-kotak/article71668951.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:15:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Nykaa's Q2 fails to impress Street despite 200% rise in PAT; stock falls 2%",
-   "link": "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:15:00+00:00"
-  },
-  {
-   "title": "Why US midterm elections may not change the tariff equation for India",
-   "link": "https://www.businesstoday.in/latest/economy/story/why-us-midterm-elections-may-not-change-the-tariff-equation-for-india-565865-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
   }
  ]
 }
