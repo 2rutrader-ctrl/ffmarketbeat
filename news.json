@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:01:23.960784+00:00",
+ "updated": "2026-11-06T06:15:49.667082+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
@@ -7,6 +7,14 @@
   "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Divyenndu on Dhanteras traditions: My mom made sure those silver coins would come home every year",
+   "link": "https://www.hindustantimes.com/htcity/cinema/divyenndu-on-dhanteras-traditions-my-mom-made-sure-those-silver-coins-would-come-home-every-year-101793943787863.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T06:15:00+00:00"
+  },
   {
    "title": "Bond yield rise squeezes banks' Q2 treasury gains",
    "link": "https://www.livemint.com/economy/banks-treasury-income-earnings-bond-yields-11793867170209.html",
@@ -3425,19 +3433,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-04T19:30:00+00:00"
-  },
-  {
-   "title": "Despite gains since October, rupee still trails its Asian peers in 2026",
-   "link": "https://www.business-standard.com/economy/news/despite-gains-since-october-rupee-still-trails-its-asian-peers-in-2026-126110402135_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T19:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   }
  ]
 }
