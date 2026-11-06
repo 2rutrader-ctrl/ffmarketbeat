@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-06T13:15:54.405871+00:00",
+ "updated": "2026-11-06T13:31:13.873173+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 43 new items (12 files read)"
+  "gdelt": "ok, 33 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Apollo Hospitals Guwahati Hosts 1st Northeast Endospine Conclave 2026, Advancing Minimally Invasive Spine Surgery",
+   "link": "https://www.thehindu.com/brandhub/pr-release/apollo-hospitals-guwahati-hosts-1st-northeast-endospine-conclave-2026-advancing-minimally-invasive-spine-surgery/article71674315.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:30:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ]
+  },
+  {
+   "title": "SEBI proposes mandatory AML/CFT certification for principal officers of market intermediaries",
+   "link": "https://www.thehindu.com/business/markets/sebi-proposes-mandatory-amlcft-certification-for-principal-officers-of-market-intermediaries/article71674309.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T13:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "India's forex reserves drop by $2.69 bn to $717 bn",
    "link": "https://www.thehindu.com/business/markets/indias-forex-reserves-drop-by-269-bn-to-717-bn/article71674389.ece",
@@ -3437,28 +3461,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "M&M Q2 consolidated profit rises 25% to ₹4,588 cr on strong auto show",
-   "link": "https://www.business-standard.com/companies/quarterly-results/m-m-q2-consolidated-profit-rises-25-to-4-588-cr-on-strong-auto-show-126110500963_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:30:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
-  },
-  {
-   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
-   "link": "https://www.thehindu.com/brandhub/pr-release/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20-000-exchange-bonus/article71669271.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T09:30:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
   }
  ]
 }
