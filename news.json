@@ -1,12 +1,60 @@
 {
- "updated": "2026-11-06T04:01:23.168571+00:00",
+ "updated": "2026-11-06T04:15:46.843482+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 14 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief?",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-us-trade-deal-democrats-may-challenge-trumps-tariff-policies-but-will-exporters-get-relief-566074-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Gold, silver prices on November 6: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-6-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566088-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "IDBI Bank sale: Finding buyer willing to pay Rs 50,000 crore was remote, says DIPAM secretary",
+   "link": "https://www.businesstoday.in/india/story/restarting-idbi-bank-sale-was-futile-says-dipam-chief-on-rs-52878-crore-deal-report-566079-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:15:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "Adani CNG tops ₹100 in Ahmedabad for the first time as fuel rates rise across cities",
+   "link": "https://www.businesstoday.in/india/story/adani-cng-tops-rs100-in-ahmedabad-for-the-first-time-as-fuel-rates-rise-across-cities-566086-2026-11-06",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T04:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "LIC Q2 FY27: Can improving margins, business mix drive a valuation re-rating?",
    "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/lic-q2-fy27-can-improving-margins-business-mix-drive-a-valuation-re-rating-14072072.html",
@@ -3407,51 +3455,6 @@
    "companies": [
     "HDFC Bank"
    ]
-  },
-  {
-   "title": "'Tariff policy will be less insane': Gita Gopinath after Democrats stun Trump in US midterms",
-   "link": "https://www.businesstoday.in/india/story/tariff-policy-will-be-less-insane-gita-gopinath-after-democrats-stun-trump-in-us-midterms-565776-2026-11-04",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T17:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "SEBI sets up panel to revive dormant startup listing platform",
-   "link": "https://www.moneycontrol.com/news/business/ipo/sebi-sets-up-panel-to-revive-dormant-startup-listing-platform-14070287.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Nita Ambani shines in pure red Banarasi Ramavali saree featuring woven 'Shri Ram' inscriptions and lord Vishnu's footprints at Reliance Deepawali Utsav",
-   "link": "https://www.moneycontrol.com/entertainment/nita-ambani-shines-in-pure-red-banarasi-ramavali-saree-featuring-woven-shri-ram-inscriptions-and-lord-vishnu-s-footprints-at-reliance-deepawali-utsav-article-14070331.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-04T16:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Fed wins protection with Democrats taking control of the Senate",
-   "link": "https://www.moneycontrol.com/world/fed-wins-protection-with-democrats-taking-control-of-the-senate-article-14070242.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-04T16:45:00+00:00"
   }
  ]
 }
