@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-06T10:01:29.826210+00:00",
+ "updated": "2026-11-06T10:15:51.873264+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 53 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
   {
