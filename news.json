@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-06T08:31:08.260973+00:00",
+ "updated": "2026-11-06T08:45:55.330867+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 52 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Singapore Court grants enforcement orders authorising the seizure and sale of Tata Power's shares in Singapore companies",
+   "link": "https://www.thehindu.com/brandhub/pr-release/singapore-court-grants-enforcement-orders-authorising-the-seizure-and-sale-of-tata-powers-shares-in-singapore-companies/article71673288.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T08:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
   {
    "title": "Dhanteras 2026: Gold price soars over 360%! ₹30,000 investment in gold 10 years ago is ₹1.41 lakh today",
    "link": "https://www.livemint.com/market/commodities/dhanteras-2026-gold-price-soars-over-360-rs-30-000-investment-in-gold-10-years-ago-is-rs-1-41-lakh-today-11793945633056.html",
@@ -3452,22 +3463,6 @@
     "topic": "Why bond yields are watched",
     "short": "Bond yields",
     "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Sebi approves Mahanadi Coalfields IPO as Coal India plans 10% stake sale",
-   "link": "https://www.business-standard.com/markets/ipo/sebi-approves-mahanadi-coalfields-ipo-as-coal-india-plans-10-stake-sale-126110500099_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T04:15:00+00:00",
-   "companies": [
-    "Coal India"
-   ],
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
   }
  ]
