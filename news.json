@@ -1,12 +1,47 @@
 {
- "updated": "2026-11-06T12:01:29.595313+00:00",
+ "updated": "2026-11-06T12:15:56.369255+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Edelweiss' Rashesh Shah urges India to scrap capital gains tax for foreign investors to revive stock market",
+   "link": "https://www.moneycontrol.com/news/india/edelweiss-rashesh-shah-urges-india-to-scrap-capital-gains-tax-for-foreign-investors-to-revive-stock-market-14073405.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:15:00+00:00"
+  },
+  {
+   "title": "Tata Power installs 60 MWh energy storage projects in Mumbai",
+   "link": "https://www.thehindubusinessline.com/companies/tata-power-installs-60-mwh-energy-storage-projects-in-mumbai/article71674046.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:15:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Hindalco Industries Q2 Results: Net up 59% on firm metal prices",
+   "link": "https://www.thehindubusinessline.com/companies/hindalco-industries-q2-net-up-59-at-7533-crore-on-firm-metal-prices/article71674136.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T12:15:00+00:00",
+   "companies": [
+    "Hindalco"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Wipro, Rockwell, Lohum arms among 12 cos to enter electronics component manufacturing scheme",
    "link": "https://www.livemint.com/news/wipro-rockwell-lohum-arms-among-12-new-ecms-approvals-worth-7-5k-crore-11793960604998.html",
@@ -3429,45 +3464,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Oil India, ONCG, other upstream companies' stocks fall up to 5% as crude oil prices decline for 4th day",
-   "link": "https://www.moneycontrol.com/news/business/markets/oil-india-oncg-other-upstream-companies-stocks-fall-up-to-5-as-crude-oil-prices-decline-for-4th-day-14071120.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-11-05T08:00:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "₹3 trillion FPI outflows: Samvat 2082 set for worst selling in 17 years",
-   "link": "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T08:00:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
   }
  ]
