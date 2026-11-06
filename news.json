@@ -1,12 +1,63 @@
 {
- "updated": "2026-11-06T16:31:15.541471+00:00",
+ "updated": "2026-11-06T16:45:52.310136+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 57 new items (12 files read)"
+  "gdelt": "ok, 53 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "First taste of fiery tandoori chicken: Sonia Gandhi's memoir reveals bond with Rajiv Gandhi over Indian cuisine",
+   "link": "https://www.moneycontrol.com/news/india/14073780-14073780.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:45:00+00:00"
+  },
+  {
+   "title": "Anthropic IPO buyers see valuation down as low as $1.2 trillion",
+   "link": "https://www.moneycontrol.com/world/anthropic-ipo-buyers-see-valuation-down-as-low-as-1-2-trillion-article-14073758.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-06T16:45:00+00:00"
+  },
+  {
+   "title": "Chandra hire D'Souza is Voltas chair; Trent MD joins board",
+   "link": "https://www.livemint.com/companies/chandra-hire-d-souza-is-voltas-chair-trent-md-joins-board-11793969347494.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:45:00+00:00",
+   "companies": [
+    "Trent"
+   ]
+  },
+  {
+   "title": "Honasa Consumer eyes hair colour entry as Q2 net profit jumps 87% to ₹73 crore",
+   "link": "https://www.livemint.com/companies/honasa-consumer-eyes-hair-colour-entry-as-q2-net-profit-jumps-87-to-73-crore-11793964302074.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Who is Kishore Biyani? CBI books Future Retail founder, brother in alleged ₹904-crore SBI loan fraud case",
+   "link": "https://www.livemint.com/companies/people/who-is-kishore-biyani-cbi-books-future-retail-founder-brother-in-904-crore-sbi-loan-fraud-case-11793971071226.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-06T16:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "India receives the highest FPI flows in equity in November",
    "link": "https://www.thehindubusinessline.com/data-stories/data-focus/india-receives-the-highest-fpi-flows-in-equity-in-november/article71675348.ece",
@@ -3348,72 +3399,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T13:15:00+00:00"
-  },
-  {
-   "title": "Narayana Murthy once wanted to work at Wipro. Why did Azim Premji turn him down? Here's the story",
-   "link": "https://www.livemint.com/companies/people/narayana-murthy-once-wanted-to-work-at-wipro-why-did-azim-premji-turn-him-down-here-s-the-story-11793876365333.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T13:15:00+00:00",
-   "companies": [
-    "Wipro"
-   ]
-  },
-  {
-   "title": "Why Trump won't let up on tariffs, even with Democrats in control",
-   "link": "https://www.livemint.com/global/why-trump-won-t-let-up-on-tariffs-even-with-democrats-in-control-11793870518579.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T13:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "ONGC net profit jumps 57% to ₹15,488.64 crore on higher oil, gas prices",
-   "link": "https://www.business-standard.com/companies/news/ongc-net-profit-jumps-57-to-15-488-64-crore-on-higher-oil-gas-prices-126110501661_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T13:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Sebi eases investor accreditation norms, lets fund managers certify status",
-   "link": "https://www.business-standard.com/markets/news/sebi-eases-investor-accreditation-norms-lets-fund-managers-certify-status-126110501539_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T13:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "LIC Q2 net profit rises 20% to Rs 12,076 crore on higher premium income",
-   "link": "https://www.moneycontrol.com/news/business/earnings/lic-q2-net-profit-rises-20-to-rs-12-076-crore-on-higher-premium-income-14071748.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T13:00:00+00:00",
-   "companies": [
-    "LIC"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
