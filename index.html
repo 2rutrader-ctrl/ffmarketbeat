@@ -331,6 +331,16 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .cin .cl i{font-style:normal;font-size:11px;color:var(--mu);margin-left:6px}.cin .cf{font-size:12px;color:var(--mu);padding:10px 0 12px;line-height:1.5}
 .tgl{display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--o);color:var(--tx)!important;font:700 13px var(--ui);padding:7px 14px;border-radius:99px;text-decoration:none;white-space:nowrap}.tgl:hover{background:rgba(253,160,67,.14)}.pmb .tgrow{margin-top:12px}
 .plan label{display:block;font-size:12px;font-weight:600;color:var(--mu);margin:12px 0 4px}.plan input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--tx);font:14px var(--ui)}.plan .pst{font-size:12px;color:var(--o);font-weight:700;margin-top:12px}.plan{padding-bottom:6px}
+.seeff{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:22px;align-items:center;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0}
+.seeff img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
+.seeff .k{font:700 11px var(--ui);letter-spacing:.14em;text-transform:uppercase;color:#a85d00;margin-bottom:8px}
+.seeff h3{font-family:var(--serif);font-size:24px;line-height:1.2;margin-bottom:10px}
+.seeff ul{list-style:none;margin:0 0 14px;padding:0}
+.seeff li{font-size:14px;color:var(--tx);line-height:1.5;padding:0 0 8px 18px;position:relative}
+.seeff li:before{content:"";position:absolute;left:0;top:8px;width:8px;height:8px;border-radius:50%;background:var(--g)}
+.seeff .fn{font-size:12px;color:var(--mu);line-height:1.5;margin-top:10px}
+.seeff .act{display:flex;gap:10px;flex-wrap:wrap}
+@media(max-width:760px){.seeff{grid-template-columns:1fr;padding:14px}.seeff h3{font-size:21px}}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WBN49HJN18"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-WBN49HJN18');</script>
@@ -365,6 +375,20 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
   </section>
   <div class="adstrip"><span class="adl">From Financial Frontline</span><span class="adt">Learn to read market structure on your own charts.</span><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=adstrip&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free</a></div>
 
+  <section class="seeff" id="seeff">
+    <img src="ff-setup-nifty.jpg" width="1000" height="454" loading="lazy" alt="FF Setup running on a TradingView chart of NIFTY">
+    <div>
+      <div class="k">See FF Setup on a real chart</div>
+      <h3>Read the news, then see the chart the way FF Setup shows it</h3>
+      <ul>
+        <li>One panel shows the trend colour on several timeframes, from monthly down to 5 minutes, so you do not keep switching screens.</li>
+        <li>Shaded areas and lines are drawn right on your own TradingView chart.</li>
+        <li>It helps you read what the chart is already showing. It does not tell you what to buy or sell.</li>
+      </ul>
+      <div class="act"><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=seeff&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free for 3 days</a><a class="tgl" href="https://t.me/bindramayank?text=Hi%2C%20I%20want%20the%203-day%20free%20trial%20of%20FF%20Setup.%20My%20TradingView%20ID%20is%3A%20" target="_blank" rel="noopener">Or claim it on Telegram in one tap &#8599;</a></div>
+      <p class="fn">A past chart shown only to explain the tool. It is not a view on today's market, a signal or a recommendation. Education only.</p>
+    </div>
+  </section>
   <div class="grid">
     <main>
       <div id="pmb"></div>
