@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-07T03:01:24.105025+00:00",
+ "updated": "2026-11-07T03:15:48.603066+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SEBI's new settlement regulations to come into effect from November 7, online application facility introduced",
+   "link": "https://www.moneycontrol.com/news/business/sebi-s-new-settlement-regulations-to-come-into-effect-from-november-7-online-application-facility-introduced-14073992.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T02:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Travomint parent SNVA Traveltech files UDRHP with SEBI for IPO; issue entirely an offer for sale",
+   "link": "https://www.moneycontrol.com/news/business/ipo/travomint-parent-snva-traveltech-files-udrhp-with-sebi-for-ipo-issue-entirely-an-offer-for-sale-14073634.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T02:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "India sent $29 billion abroad, but LRS isn't the forex problem, says Capitalmind's Deepak Shenoy",
    "link": "https://www.businesstoday.in/latest/economy/story/india-sent-29-billion-abroad-but-lrs-isnt-the-forex-problem-says-capitalminds-deepak-shenoy-566291-2026-11-07",
@@ -3367,31 +3393,6 @@
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
-  },
-  {
-   "title": "SEBI revises currency derivative norms for domestic investors, FPIs; allows to trade up to $5 mn",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn-14071815.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "LIC sees limited impact on bancassurance from IDBI sale, plans to expand bank partnerships: MD & CEO Doraiswamy",
-   "link": "https://www.moneycontrol.com/banking/lic-sees-limited-impact-on-bancassurance-from-idbi-sale-plans-to-expand-bank-partnerships-md-ceo-doraiswamy-article-14071784.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00",
-   "companies": [
-    "IDBI Bank",
-    "LIC"
-   ]
   }
  ]
 }
