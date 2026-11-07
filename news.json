@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-07T00:45:48.033735+00:00",
+ "updated": "2026-11-07T01:01:24.683214+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (10 of 12 files read, 11984 records scanned, 2 download errors; last error: HTTPError: HTTP Error 404: Not Found)"
+  "gdelt": "ok, 2 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Can you convert NSE's Electronic Gold Receipts into jewellery or physical gold? Here's how redemption works",
+   "link": "https://www.businesstoday.in/personal-finance/story/can-you-convert-nses-electronic-gold-receipts-into-jewellery-or-physical-gold-heres-how-redemption-works-566281-2026-11-07",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T00:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+   "link": "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T00:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Why Saudi Arabia is extending $3 bn lifeline to Pak: Reasons Riyadh continues to bankroll Islamabad's struggling economy",
    "link": "https://www.livemint.com/news/world/why-saudi-arabia-is-extending-3-bn-lifeline-to-pak-reasons-riyadh-continues-to-bankroll-islamabad-s-struggling-economy-11793988099638.html",
@@ -3366,25 +3392,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "FIIs stage biggest single-day buying in over a year, net purchase Rs 14,975 crore on November 5",
-   "link": "https://www.moneycontrol.com/news/business/fiis-stage-biggest-single-day-buying-in-over-a-year-net-purchase-rs-14-975-crore-on-november-5-14071781.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00"
-  },
-  {
-   "title": "Adani Ports to acquire Dutch operator Evos in €1.18 billion deal",
-   "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
