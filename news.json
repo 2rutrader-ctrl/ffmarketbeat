@@ -1,12 +1,87 @@
 {
- "updated": "2026-11-07T16:01:26.273923+00:00",
+ "updated": "2026-11-07T16:15:49.885120+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Fredun Pharmaceuticals Q2 results: Net profit jumps 90% on better demand",
+   "link": "https://www.thehindubusinessline.com/companies/fredun-pharmaceuticals-q2-results-net-profit-jumps-90-on-better-demand/article71678377.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T16:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-cheer-missing-nifty-lights-up-but-your-portfolio-may-be-burning-whats-driving-the-disconnect-samco-explains-11794050891575.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:15:00+00:00"
+  },
+  {
+   "title": "Hindustan Coca-Cola Holdings files DRHP for IPO - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/hindustan-coca-cola-holdings-files-drhp-for-ipo/article71678290.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T16:15:00+00:00"
+  },
+  {
+   "title": "Reliance Jio ₹10,000 3-year recharge plan launched ahead of Diwali: JioHotstar, Canva Pro Lite & more; check benefits",
+   "link": "https://www.livemint.com/industry/telecom/reliance-jio-rs-10-000-three-year-recharge-plan-launched-ahead-of-diwali-jiohotstar-canva-pro-lite-more-check-be-11794062122701.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "SBI's US subsidiary opens branch in North Dallas - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sbis-us-subsidiary-opens-branch-in-north-dallas/article71678581.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Bank of Baroda's Guyana subsidiary opens new Head Office, Georgetown branch",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/bank-of-barodas-guyana-subsidiary-opens-new-head-office-georgetown-branch/article71679025.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:15:00+00:00",
+   "companies": [
+    "Bank of Baroda"
+   ]
+  },
+  {
+   "title": "UP retains top position in number of GST assesses, followed by Maharashtra",
+   "link": "https://www.thehindubusinessline.com/economy/up-retains-top-position-in-number-of-gst-assesses-followed-by-maharashtra/article71678210.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:15:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
   {
    "title": "Govt teachers can be assigned election-related duties as BLOs: HC",
    "link": "https://www.hindustantimes.com/cities/others/govt-teachers-can-be-assigned-election-related-duties-as-blos-hc-101794064951181.html",
@@ -3260,71 +3335,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Reading the economic environment can be tricky - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/opinion/reading-the-economic-environment-can-be-tricky/article71670913.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:00:00+00:00"
-  },
-  {
-   "title": "Tata Motors finds task cut out for Iveco turnaround after twin losses",
-   "link": "https://www.livemint.com/companies/news/tata-motors-finds-task-cut-out-for-iveco-turnaround-after-twin-losses-11793883786516.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T02:00:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "The silver hands of Hupari - The Hindu",
-   "link": "https://www.thehindu.com/news/national/maharashtra/the-silver-hands-of-hupari/article71666342.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T00:45:00+00:00"
-  },
-  {
-   "title": "A month after lifting of ban, wheat exports rise fourfold, shows data",
-   "link": "https://www.business-standard.com/industry/agriculture/a-month-after-lifting-of-ban-wheat-exports-rise-fourfold-shows-data-126110502116_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "title": "Jio launches voice-only plans from ₹147: How do prices compare with Airtel and Vi?",
-   "link": "https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T21:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "LIC seeks alignment with global standards, EoM glide path in feedback to Irdai's distribution proposals",
-   "link": "https://www.livemint.com/industry/banking/lic-seeks-alignment-with-global-standards-eom-glide-path-in-feedback-to-irdai-s-distribution-proposals-11793890392546.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:15:00+00:00",
-   "companies": [
-    "LIC"
-   ]
-  },
-  {
-   "title": "RBI proposes ₹100-crore priority sector lending limit for agri infra, food processing",
-   "link": "https://www.livemint.com/industry/agriculture/rbi-proposes-100-crore-priority-sector-lending-limit-for-agri-infra-loans-11793892601351.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:15:00+00:00"
   }
  ]
 }
