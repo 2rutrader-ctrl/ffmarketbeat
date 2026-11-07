@@ -331,7 +331,7 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .cin .cl i{font-style:normal;font-size:11px;color:var(--mu);margin-left:6px}.cin .cf{font-size:12px;color:var(--mu);padding:10px 0 12px;line-height:1.5}
 .tgl{display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--o);color:var(--tx)!important;font:700 13px var(--ui);padding:7px 14px;border-radius:99px;text-decoration:none;white-space:nowrap}.tgl:hover{background:rgba(253,160,67,.14)}.pmb .tgrow{margin-top:12px}
 .plan label{display:block;font-size:12px;font-weight:600;color:var(--mu);margin:12px 0 4px}.plan input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--tx);font:14px var(--ui)}.plan .pst{font-size:12px;color:var(--o);font-weight:700;margin-top:12px}.plan{padding-bottom:6px}
-.seeff{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:22px;align-items:center;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0}
+.seeff{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:40px;align-items:center;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:28px 30px;margin:18px 0}
 .seeff .shot{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;box-shadow:0 14px 34px rgba(60,40,0,.12)}
 .seeff .bar{height:30px;background:var(--s2);border-bottom:1px solid var(--line);display:flex;align-items:center;gap:6px;padding:0 12px;font:600 11px var(--ui);color:var(--mu);letter-spacing:.02em}
 .seeff .bar i{width:9px;height:9px;border-radius:50%;background:#d9d2c3;display:block}
@@ -339,13 +339,14 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .seeff .ch{display:block;width:100%;height:auto}
 .seeff .pn{position:absolute;right:12px;bottom:12px;width:33%;height:auto;border-radius:8px;box-shadow:0 10px 28px rgba(0,0,0,.28)}
 .seeff .k{font:700 11px var(--ui);letter-spacing:.14em;text-transform:uppercase;color:#a85d00;margin-bottom:8px}
-.seeff h3{font-family:var(--serif);font-size:24px;line-height:1.2;margin-bottom:10px}
+.seeff h3{font-family:var(--serif);font-size:28px;line-height:1.18;margin-bottom:12px}
+.seeff .lede{font-size:16px;line-height:1.6;color:var(--mu);margin:0 0 22px}
 .seeff ul{list-style:none;margin:0 0 14px;padding:0}
 .seeff li{font-size:14px;color:var(--tx);line-height:1.5;padding:0 0 8px 18px;position:relative}
 .seeff li:before{content:"";position:absolute;left:0;top:8px;width:8px;height:8px;border-radius:50%;background:var(--g)}
-.seeff .fn{font-size:12px;color:var(--mu);line-height:1.5;margin-top:10px}
-.seeff .act{display:flex;gap:10px;flex-wrap:wrap}
-@media(max-width:760px){.seeff{grid-template-columns:1fr;padding:14px}.seeff h3{font-size:21px}}
+.seeff .fn{font-size:12px;color:var(--mu);line-height:1.5;margin-top:18px}
+.seeff .act{display:flex;gap:12px;flex-wrap:wrap}
+@media(max-width:760px){.seeff{grid-template-columns:1fr;gap:20px;padding:16px}.seeff h3{font-size:23px}.seeff .lede{font-size:15px;margin-bottom:18px}}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WBN49HJN18"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-WBN49HJN18');</script>
@@ -378,20 +379,15 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
     <button class="showall" id="all" hidden>Showing one phase. Show everything</button>
     <svg class="pulse" viewBox="0 0 1200 56" preserveAspectRatio="none" aria-hidden="true"><defs><linearGradient id="pg" x1="0" x2="1"><stop offset="0" stop-color="#F8C22E"/><stop offset="1" stop-color="#EE6F4F"/></linearGradient></defs><path class="pb" pathLength="1000" d="M0 34 H120 L135 34 L148 12 L162 52 L176 34 H430 L445 34 L458 20 L470 46 L484 34 H720 L735 34 L748 10 L762 54 L776 34 H1020 L1035 34 L1048 22 L1060 44 L1074 34 H1200"/><path class="pl" pathLength="1000" d="M0 34 H120 L135 34 L148 12 L162 52 L176 34 H430 L445 34 L458 20 L470 46 L484 34 H720 L735 34 L748 10 L762 54 L776 34 H1020 L1035 34 L1048 22 L1060 44 L1074 34 H1200"/></svg>
   </section>
-  <div class="adstrip"><span class="adl">From Financial Frontline</span><span class="adt">Learn to read market structure on your own charts.</span><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=adstrip&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free</a></div>
 
   <section class="seeff" id="seeff">
     <div class="shot"><div class="bar"><i></i><i></i><i></i><span>NIFTY &middot; TradingView &middot; FF Setup on</span></div><img class="ch" src="ff-setup-chart.jpg" width="1130" height="627" loading="lazy" alt="FF Setup shading and lines on a TradingView chart of NIFTY"><img class="pn" src="ff-setup-panel.jpg" width="354" height="397" loading="lazy" alt="FF Setup panel showing trend colour on each timeframe"></div>
     <div>
       <div class="k">See FF Setup on a real chart</div>
-      <h3>Read the news, then see the chart the way FF Setup shows it</h3>
-      <ul>
-        <li>One panel shows the trend colour on several timeframes, from monthly down to 5 minutes, so you do not keep switching screens.</li>
-        <li>Shaded areas and lines are drawn right on your own TradingView chart.</li>
-        <li>It helps you read what the chart is already showing. It does not tell you what to buy or sell.</li>
-      </ul>
+      <h3>See your chart in one clear view</h3>
+      <p class="lede">A panel shows the trend colour on every timeframe, from monthly down to 5 minutes, drawn right on your own TradingView chart.</p>
       <div class="act"><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=seeff&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free for 3 days</a><a class="tgl" href="https://t.me/bindramayank?text=Hi%2C%20I%20want%20the%203-day%20free%20trial%20of%20FF%20Setup.%20My%20TradingView%20ID%20is%3A%20" target="_blank" rel="noopener">Or claim it on Telegram in one tap &#8599;</a></div>
-      <p class="fn">A past chart shown only to explain the tool. It is not a view on today's market, a signal or a recommendation. Education only.</p>
+      <p class="fn">A past NIFTY chart, shown only to explain the tool. Not a view on today's market, a signal or a recommendation. Education only.</p>
     </div>
   </section>
   <div class="grid">
