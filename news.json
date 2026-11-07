@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-07T01:01:24.683214+00:00",
+ "updated": "2026-11-07T01:15:49.386880+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 2 new items (12 files read)"
+  "gdelt": "ok, 3 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India sent $29 billion abroad, but LRS isn't the forex problem, says Capitalmind's Deepak Shenoy",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-sent-29-billion-abroad-but-lrs-isnt-the-forex-problem-says-capitalminds-deepak-shenoy-566291-2026-11-07",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T01:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Can you convert NSE's Electronic Gold Receipts into jewellery or physical gold? Here's how redemption works",
    "link": "https://www.businesstoday.in/personal-finance/story/can-you-convert-nses-electronic-gold-receipts-into-jewellery-or-physical-gold-heres-how-redemption-works-566281-2026-11-07",
@@ -3379,19 +3392,6 @@
     "IDBI Bank",
     "LIC"
    ]
-  },
-  {
-   "title": "ONGC net profit jumps 57% on higher oil, gas prices",
-   "link": "https://www.moneycontrol.com/news/business/earnings/ongc-net-profit-jumps-57-on-higher-oil-gas-prices-14071800.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
