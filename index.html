@@ -385,7 +385,7 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
       <div class="box sin" id="sin" hidden></div>
       <div class="box"><h2 class="k">Headlines by theme</h2><div class="bars" id="bars"></div></div>
       <div class="box terms"><h2 class="k">Terms in today's news</h2><dl id="terms"></dl></div>
-      <div class="box cbox"><h2 class="k">Read the news, then read the chart</h2><h3>See what the market structure is saying</h3><p>FF Setup is the Financial Frontline indicator for TradingView that helps you read market structure on your charts. Education only. No advice, no signals.</p><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=cbox&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free for 3 days</a></div>
+      <div class="box cbox"><h2 class="k">Read the news, then read the chart</h2><h3>See what the market structure is saying</h3><p>FF Setup is the Financial Frontline indicator for TradingView that helps you read market structure on your charts. Education only. No advice, no signals.</p><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=cbox&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free for 3 days</a> <a class="tgl" href="https://t.me/bindramayank?text=Hi%2C%20I%20want%20the%203-day%20free%20trial%20of%20FF%20Setup.%20My%20TradingView%20ID%20is%3A%20" target="_blank" rel="noopener">Or claim it on Telegram in one tap &#8599;</a><p style="margin:10px 0 0;font-size:12px">One tap opens Telegram with the message ready. Add your TradingView ID and send. Access is added manually.</p></div>
       <div class="box"><h2 class="k">Daily brief on Telegram</h2><p>Every trading day at 8:00 AM, the link to the pre-market brief is shared on the Financial Frontline Telegram channel. Free. Education only.</p><a class="tgl" href="https://t.me/frontlinefinancial" target="_blank" rel="noopener">Join the channel &#8599;</a></div>
       <div class="box"><h2 class="k">What is an FF Thought?</h2><p>A short, general explanation of how this kind of news can reach markets. It teaches how to read the information. It is never a view on direction and never a recommendation.</p></div>
       <div class="box"><h2 class="k">Sources</h2><div class="srcs" id="srcs"></div><p style="margin-top:10px" id="upd"></p></div>
@@ -664,6 +664,7 @@ document.addEventListener('click',function(e){
 var a=e.target.closest&&e.target.closest('a[href]');if(!a||typeof gtag!=='function')return;
 var h=a.href,n=null;
 if(h.indexOf('ffsetup-live.netlify.app')>-1&&!/\/(privacy|terms|refund|contact)/.test(h))n='ff_setup_click';
+else if(h.indexOf('t.me/bindramayank?text=')>-1)n='trial_request_click';
 else if(h.indexOf('t.me/')>-1)n='telegram_click';
 else if(h.indexOf('financialfrontline.co.in')>-1)n='website_click';
 else if(h.indexOf('youtube.com')>-1||h.indexOf('youtu.be')>-1)n='youtube_click';
