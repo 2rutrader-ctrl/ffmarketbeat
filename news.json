@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-07T13:15:47.436143+00:00",
+ "updated": "2026-11-07T13:31:08.255931+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Steel net up 18% in Q2 on better realisation - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/tata-steel-net-up-18-in-q2-on-better-realisation/article71678169.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T13:30:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ]
+  },
+  {
+   "title": "Silver anklet units in Salem get a good amount of orders for this year's Deepavali",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T13:15:00+00:00"
+  },
+  {
+   "title": "Assam OIL facility fire death toll rises to three",
+   "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-three/article71677435.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T13:15:00+00:00"
+  },
+  {
+   "title": "China extends gold buying spree to two years as prices drop, adds 25.8 tonnes in October",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/china-extends-gold-buying-spree-to-two-years-as-prices-drop-adds-25-8-tonnes-in-october-14074516.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
    "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html",
@@ -3290,46 +3330,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Crude price cool-off likely to soften cost squeeze on oil companies",
-   "link": "https://www.business-standard.com/industry/news/crude-price-cool-off-likely-to-soften-cost-squeeze-on-oil-companies-126110502070_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T19:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "RBI proposes ₹100 crore limit on bank loans for agri infrastructure",
-   "link": "https://www.business-standard.com/industry/banking/rbi-proposes-100-crore-limit-on-bank-loans-for-agri-infrastructure-126110501949_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "title": "RBI should deepen financial markets rather than rely on restrictions",
-   "link": "https://www.business-standard.com/opinion/editorial/rbi-should-deepen-financial-markets-rather-than-rely-on-restrictions-126110502073_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "title": "Reserve Bank of India may hike rates by up to 75 bps more: Uday Kotak",
-   "link": "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:00:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
   }
  ]
 }
