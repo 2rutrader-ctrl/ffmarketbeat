@@ -1,12 +1,93 @@
 {
- "updated": "2026-11-07T09:15:48.860090+00:00",
+ "updated": "2026-11-07T09:31:09.099122+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 19 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali Fireworks! Nifty surges over 8% in Nov 2-6 week, best in 6 yrs after US Midterm Election results; RIL soars 13%",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00"
+  },
+  {
+   "title": "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Buying gold or silver Lakshmi-Ganesha idols for Diwali puja 2026? BIS hallmark rules; key checks to make before paying",
+   "link": "https://www.livemint.com/money/personal-finance/buying-gold-or-silver-lakshmi-ganesha-idols-for-diwali-puja-2026-bis-hallmark-rules-key-checks-to-make-before-paying-11794028437671.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
+   "link": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold loan rules 2026: What RBI changed on loan eligibility, valuation, repayment, and auction of pledged gold jewellery",
+   "link": "https://www.livemint.com/money/personal-finance/gold-loan-rules-2026-what-rbi-changed-on-loan-eligibility-valuation-repayment-and-auction-of-pledged-gold-jewellery-11794030749293.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Upcoming dividend, bonus, rights record date next week, 9-13 Nov: Dabur, RITES, CONCOR, HUL, ONGC, Emami among others",
+   "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-bonus-rights-record-date-next-week-9-13-nov-dabur-rites-concor-hul-ongc-emami-among-others-11794037826095.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00",
+   "companies": [
+    "Hindustan Unilever",
+    "ONGC"
+   ]
+  },
+  {
+   "title": "Who is Angan Guha? Ex-Wipro and Chicago Booth biz leader now CEO for Americas 2 Strategic Market Unit - Achievements",
+   "link": "https://www.livemint.com/companies/people/who-is-angan-guha-ex-wipro-biz-leader-now-ceo-of-the-americas-2-strategic-market-unit-education-achievements-11794042316526.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:30:00+00:00",
+   "companies": [
+    "Wipro"
+   ]
+  },
   {
    "title": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
    "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-closes-plea-to-regulate-gold-loans-and-auction-of-pledged-jewellery/article71677391.ece",
@@ -3275,90 +3356,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-05T16:45:00+00:00"
-  },
-  {
-   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor status",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-issues-framework-allowing-aif-sif-managers-and-portfolio-managers-to-certify-accredited-investor-status-14071842.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "SEBI aligns currency derivatives exposure limits with RBI norms, caps unhedged positions at $5 million",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-aligns-currency-derivatives-exposure-limits-with-rbi-norms-caps-unhedged-positions-at-5-million-14071824.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "IDBI Bank sale: Reserve price never refixed after first bids, says DIPAM chief; restarting process would have been futile",
-   "link": "https://www.moneycontrol.com/banking/idbi-bank-sale-reserve-price-never-refixed-after-first-bids-says-dipam-chief-restarting-process-would-have-been-futile-article-14071804.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:45:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Oil companies receive bids for 1.93 bn litres of ethanol in latest tender",
-   "link": "https://www.business-standard.com/industry/agriculture/oil-companies-receive-bids-for-1-93-bn-litres-of-ethanol-in-latest-tender-126110501996_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T16:30:00+00:00"
-  },
-  {
-   "title": "Rupee hits over one-month high, 10-year bond yield falls to 7.17%",
-   "link": "https://www.business-standard.com/markets/news/rupee-hits-over-one-month-high-10-year-bond-yield-falls-to-7-17-126110501865_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Fortis Q2 net profit falls 2.5% on higher expenses, lower exceptional gain",
-   "link": "https://www.business-standard.com/companies/quarterly-results/fortis-q2-net-profit-falls-2-5-on-higher-expenses-lower-exceptional-gain-126110501986_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T16:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Forevermark Diamond Jewellery Expands North India Footprint with New Store at Gold Souk Mall, Gurugram, Inaugurated by Film Star Vaani Kapoor",
-   "link": "https://www.thehindu.com/brandhub/pr-release/forevermark-diamond-jewellery-expands-north-india-footprint-with-new-store-at-gold-souk-mall-gurugram-inaugurated-by-film-star-vaani-kapoor/article71670066.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
