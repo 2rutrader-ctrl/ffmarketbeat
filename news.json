@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-07T19:45:48.108053+00:00",
+ "updated": "2026-11-07T20:01:19.974050+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Royal Enfield takes Flying Flea electric motorcycle to Chennai, plans 14 sales and service touchpoints",
+   "link": "https://www.livemint.com/auto-news/royal-enfield-takes-flying-flea-electric-motorcycle-to-chennai-plans-14-sales-and-service-touchpoints-11794068123671.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T20:00:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ]
+  },
+  {
+   "title": "Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller's valuation | Guide",
+   "link": "https://www.livemint.com/money/personal-finance/exchanging-old-gold-for-new-jewellery-this-diwali-6-things-to-check-before-accepting-your-jeweller-s-valuation-guide-11794066226811.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T20:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight",
    "link": "https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html",
@@ -3300,27 +3324,6 @@
   {
    "title": "Commodity Corner: Oil set for biggest weekly fall since April; gold eyes best week since August",
    "link": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-set-for-biggest-weekly-fall-since-april-gold-eyes-best-week-since-august-14071925.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Apple's ad opportunity in India: Why Mobavenue is betting on the iPhone economy",
-   "link": "https://www.moneycontrol.com/technology/apple-s-ad-opportunity-in-india-why-mobavenue-is-betting-on-the-iphone-economy-article-14072055.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T03:45:00+00:00"
-  },
-  {
-   "title": "Gold may surge 20–40% in Dhanteras 2027, say experts: Here's how wealth has grown in 10 years",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-may-surge-20-40-in-dhanteras-2027-say-experts-here-s-how-wealth-has-grown-in-10-years-14072066.html",
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "Global",
