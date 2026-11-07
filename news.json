@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:15:48.103079+00:00",
+ "updated": "2026-11-07T19:31:09.595190+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,17 @@
   "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight",
+   "link": "https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T19:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
   {
    "title": "Yemen's Houthis claim missile, drone attacks on Saudi oil facilities, Riyadh airport",
    "link": "https://www.moneycontrol.com/world/yemen-s-houthis-claim-missile-drone-attacks-on-saudi-oil-facilities-riyadh-airport-article-14074625.html",
@@ -3314,19 +3325,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-06T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Dhanteras 2026 date and time today for gold, silver purchase: Shubh muhurat for buying precious metals on auspicious day",
-   "link": "https://www.livemint.com/money/dhanteras-2026-auspicious-time-to-buy-gold-today-november-6-check-muhurat-and-shopping-tips-11793928276851.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:30:00+00:00",
    "thought": {
     "topic": "Why gold is followed",
     "short": "Gold",
