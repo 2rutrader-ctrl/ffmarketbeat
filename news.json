@@ -1,12 +1,44 @@
 {
- "updated": "2026-11-07T11:31:08.977903+00:00",
+ "updated": "2026-11-07T11:45:55.116302+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Coca-Cola's Indian bottling arm HCCH files IPO papers; entire issue to be OFS",
+   "link": "https://www.thehindubusinessline.com/markets/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo/article71677901.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:45:00+00:00"
+  },
+  {
+   "title": "Divi's Lab net profit surges 63% to ₹1,127 cr in Q2 - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/divis-lab-net-profit-surges-63-to-1127-cr-in-q2/article71677850.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India is a structural bull market available at a cyclical valuation discount: Nilesh Shah of Kotak AMC",
+   "link": "https://www.thehindubusinessline.com/markets/india-is-a-structural-bull-market-available-at-a-cyclical-valuation-discount-nilesh-shah-of-kotak-amc/article71678003.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:45:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
   {
    "title": "Divi's Labs Q2 result: Net profit rises 64% to ₹1,127 cr on higher revenue",
    "link": "https://www.business-standard.com/companies/quarterly-results/divi-s-labs-q2-result-net-profit-rises-64-to-1-127-cr-on-higher-revenue-126110700599_1.html",
@@ -3303,46 +3335,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-05T18:15:00+00:00"
-  },
-  {
-   "title": "BEML Q2 net profit falls 31% to ₹33 crore despite 42% revenue growth",
-   "link": "https://www.thehindubusinessline.com/companies/beml-q2-net-profit-falls-31-to-33-crore-despite-42-revenue-growth/article71670890.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Reliance Digital's Festival of Electronics: Best Diwali Deals on iPhones, Laptops, TVs & Home Appliances with Up to ₹20,000 Exchange Bonus",
-   "link": "https://www.thehindubusinessline.com/brandhub/reliance-digitals-festival-of-electronics-best-diwali-deals-on-iphones-laptops-tvs-home-appliances-with-up-to-20000-exchange-bonus/article71669313.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Airtel consolidated net profit up 21% y-o-y to ₹9,440.6 crore in Q2 FY27",
-   "link": "https://www.thehindubusinessline.com/info-tech/airtel-consolidated-net-profit-up-21-y-o-y-to-94406-crore-in-q2-fy27/article71670424.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
