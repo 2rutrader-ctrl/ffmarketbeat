@@ -1,12 +1,58 @@
 {
- "updated": "2026-11-07T11:15:50.294139+00:00",
+ "updated": "2026-11-07T11:31:08.977903+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Divi's Labs Q2 result: Net profit rises 64% to ₹1,127 cr on higher revenue",
+   "link": "https://www.business-standard.com/companies/quarterly-results/divi-s-labs-q2-result-net-profit-rises-64-to-1-127-cr-on-higher-revenue-126110700599_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "ONGC Videsh's eyes on two Venezuela oil projects; know what finance head Anupam Agarwal said on $500 mn dividend",
+   "link": "https://www.livemint.com/companies/ongc-videsh-s-eyes-on-two-venezuela-oil-projects-know-what-finance-head-anupam-agarwal-said-on-500-mn-dividend-11794039002471.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:30:00+00:00",
+   "companies": [
+    "ONGC"
+   ]
+  },
+  {
+   "title": "Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm",
+   "link": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Mukesh Ambani vs Gautam Adani: India's richest wealth race since Diwali 2025 - Who won, who lost? Wealth rise in $ bn",
+   "link": "https://www.livemint.com/companies/people/mukesh-ambani-vs-gautam-adani-indias-richest-wealth-race-since-diwali-2025-who-won-who-lost-wealth-rise-in-bn-11794034360761.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
    "link": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
@@ -3292,64 +3338,6 @@
    "companies": [
     "Bharti Airtel"
    ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "ONGC Q2 results: Net profit rises 57.3% to ₹15,489 crore; dividend announced",
-   "link": "https://www.thehindubusinessline.com/companies/ongc-q2-profit-rises-57-to-15489-crore-on-higher-crude-oil-realisations/article71671364.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "companies": [
-    "ONGC"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "LIC's Q2FY27 standalone net profit up 20% at ₹12,076 crore",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/lics-q2fy27-standalone-net-profit-up-20-at-12076-crore/article71671032.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "companies": [
-    "LIC"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Jewellers expect fall in gold prices to boost Dhantera sales",
-   "link": "https://www.thehindubusinessline.com/markets/gold/jewellers-expect-fall-in-gold-prices-to-boost-dhantera-sales/article71670298.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T18:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Va Tech WABAG net profit up 18% at ₹104 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/va-tech-wabag-net-profit-up-18-at-104-crore/article71670192.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
