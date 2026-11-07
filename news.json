@@ -1,12 +1,83 @@
 {
- "updated": "2026-11-07T11:01:26.897888+00:00",
+ "updated": "2026-11-07T11:15:50.294139+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
+   "link": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:15:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO",
+   "link": "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:15:00+00:00"
+  },
+  {
+   "title": "SEBI settlement rules from November 7: Who can apply online, how much to pay and the 90-day deadline explained",
+   "link": "https://www.livemint.com/money/personal-finance/sebi-settlement-rules-from-november-7-who-can-apply-online-how-much-to-pay-and-the-90-day-deadline-explained-11794046408426.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Coca-Cola India bottling arm HCCB's parent files DRHP with SEBI for IPO",
+   "link": "https://www.moneycontrol.com/news/business/ipo/coca-cola-india-bottling-arm-hccb-s-parent-files-drhp-with-sebi-for-ipo-14074375.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Hindustan Coca-Cola Holdings files draft papers with Sebi for IPO",
+   "link": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Amber Enterprises arm IL JIN Electronics files DRHP for ₹2,500 crore IPO",
+   "link": "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T11:00:00+00:00"
+  },
   {
    "title": "Dhanteras 2026: NSE gold receipts hit record trading volume of 2.27 lakh units as demand surges",
    "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-nse-gold-receipts-hit-record-trading-volume-of-2-27-lakh-units-as-demand-surges-566307-2026-11-07",
@@ -3279,78 +3350,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Rupee closes at a 2-month high on possibility of de-escalation West Asia war, softening crude, weak dollar",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-closes-at-a-2-month-high-on-possibility-of-de-escalation-west-asia-war-softening-crude-weak-dollar/article71670743.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Titan Q2 profit more than doubles on one-off gain; adjusted PBT growth at 18%",
-   "link": "https://www.thehindubusinessline.com/companies/titan-q2-profit-more-than-doubles-on-one-off-gain-adjusted-pbt-growth-at-18/article71670744.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00"
-  },
-  {
-   "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
-   "link": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T18:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Noel Tata to retire as Titan vice-chairman and director on November 12",
-   "link": "https://www.moneycontrol.com/news/business/noel-tata-to-retire-as-titan-vice-chairman-and-director-on-november-12-14071862.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:30:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "Titan misses Q2 revenue estimates but beats profit view as jewellery demand holds up",
-   "link": "https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:00:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "PhysicsWallah Q2 net profit more than doubles to nearly ₹144 crore as revenue rises 18%",
-   "link": "https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:00:00+00:00",
    "thought": {
     "topic": "How company results reach the index",
     "short": "Results",
