@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-07T08:01:21.025423+00:00",
+ "updated": "2026-11-07T08:15:53.723260+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why soaring freight costs amid West Asia conflict are squeezing Keralam exports",
+   "link": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T08:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
   {
    "title": "BSNL plans inter-circle roaming pact with Vodafone Idea in 12-13 circles",
    "link": "https://www.thehindubusinessline.com/info-tech/bsnl-plans-roaming-pact-with-vodafone-idea-in-12-13-more-telecom-circles/article71677404.ece",
@@ -3360,14 +3373,6 @@
    "companies": [
     "LIC"
    ]
-  },
-  {
-   "title": "InMobi appoints Hema Namburi as group CFO ahead of planned India IPO",
-   "link": "https://www.business-standard.com/companies/people/inmobi-appoints-hema-namburi-as-group-cfo-ahead-of-planned-india-ipo-126110501814_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T15:30:00+00:00"
   }
  ]
 }
