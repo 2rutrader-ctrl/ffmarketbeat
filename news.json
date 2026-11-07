@@ -1,12 +1,73 @@
 {
- "updated": "2026-11-07T03:45:51.502710+00:00",
+ "updated": "2026-11-07T04:01:25.809767+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Daily Voice: 3 triggers that could drive major FII inflows in Samvat 2083; Rishabh Nahar on investment themes",
+   "link": "https://www.moneycontrol.com/news/business/markets/daily-voice-3-key-factors-that-could-trigger-substantial-fii-inflows-in-samvat-2083-rishabh-nahar-shares-investment-themes-14074017.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T04:00:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "Nita Ambani wears multi-million-dollar diamond earrings to Manish Malhotra's Diwali bash: here are all the details",
+   "link": "https://www.hindustantimes.com/lifestyle/fashion/nita-ambani-wears-multi-million-dollar-diamond-earrings-to-manish-malhotra-diwali-bash-here-are-all-the-details-101794018368672.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T03:45:00+00:00"
+  },
+  {
+   "title": "The week in charts: GST collections, aviation fuel costs, US midterm elections",
+   "link": "https://www.livemint.com/news/the-week-in-charts-gst-collections-aviation-fuel-costs-us-midterm-elections-11793863130914.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T03:45:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "The midterms give Fed more room to raise rates, mut maybe less reason to do so",
+   "link": "https://www.livemint.com/economy/the-midterms-give-fed-more-room-to-raise-rates-mut-maybe-less-reason-to-do-so-11794016324680.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T03:45:00+00:00"
+  },
+  {
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 7 Nov ahead of Diwali? Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-are-sbi-hdfc-icici-branches-open-or-closed-on-saturdayn-these-days-from-2-8-nov-check-rbi-calenda-11794012634040.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T03:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "No fresh curbs on broken rice exports as India banks on steady paddy procurement",
+   "link": "https://www.livemint.com/economy/no-fresh-curbs-on-broken-rice-exports-as-india-banks-on-paddy-procurement-11793964472557.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T03:45:00+00:00"
+  },
   {
    "title": "Zomato launches 40 km food delivery in seven cities: How to order from restaurants farther away",
    "link": "https://www.businesstoday.in/technology/news/story/zomato-launches-40-km-food-delivery-in-seven-cities-how-to-order-from-restaurants-farther-away-566226-2026-11-07",
@@ -3326,70 +3387,6 @@
     "topic": "How SEBI rules shape the market",
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Nifty trading at 18% discount to 10 year average: Is it time to invest in large cap mutual funds?",
-   "link": "https://www.businesstoday.in/mutual-funds/story/nifty-trading-at-18-discount-to-10-year-average-is-it-time-to-invest-in-large-cap-mutual-funds-566029-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:45:00+00:00"
-  },
-  {
-   "title": "Renewable energy could save India $240 billion in coal, gas imports by 2030: IEA",
-   "link": "https://www.moneycontrol.com/news/economy-2/renewable-energy-could-save-india-240-billion-in-coal-gas-imports-by-2030-iea-14071816.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:45:00+00:00"
-  },
-  {
-   "title": "US 10-year Treasury yield falls after Democrats' midterm win, jobs data in focus",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-10-year-treasury-yield-falls-after-democrats-midterm-win-jobs-data-in-focus-101793885542425.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T14:45:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Adani Ports to acquire Europe's second largest liquid storage operator Evos, add 8 European terminals",
-   "link": "https://www.businesstoday.in/latest/corporate/story/adani-ports-to-acquire-europes-second-largest-liquid-storage-operator-evos-add-8-european-terminals-566027-2026-11-05",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Britannia Industries Q2: Consolidated profit rises 11% to Rs 726 crore, revenue up 16%",
-   "link": "https://www.moneycontrol.com/news/business/earnings/britannia-industries-q2-consolidated-profit-rises-11-to-rs-726-crore-revenue-up-16-14071801.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00",
-   "companies": [
-    "Britannia"
-   ]
-  },
-  {
-   "title": "Signature Global Q2 net profit at ₹70 crore as revenue rises 148%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/signature-global-q2-net-profit-at-70-crore-as-revenue-rises-148-126110501841_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
