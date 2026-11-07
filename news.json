@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-07T17:01:26.445110+00:00",
+ "updated": "2026-11-07T17:15:52.768715+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Saudi oil sites, troops and Riyadh airport targeted: Houthis",
+   "link": "https://www.thehindu.com/news/international/houthis-say-saudi-oil-sites-troops-and-riyadh-airport-targeted-updates/article71679324.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T17:15:00+00:00"
+  },
   {
    "title": "Lucknow-bound IndiGo flight emergency returns to Bengaluru after hijack threat note found onboard",
    "link": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
@@ -3320,19 +3328,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Dhanteras 2026: Buying gold, silver coins on Blinkit, Instamart today? Check discounts from Malabar, Kalyan and others",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-silver-coins-on-blinkit-instamart-today-check-discounts-from-malabar-kalyan-and-others-11793925044691.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
