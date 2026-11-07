@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-07T08:45:50.857553+00:00",
+ "updated": "2026-11-07T09:01:28.077049+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Electricity as the new geography of economic power",
+   "link": "https://www.hindustantimes.com/ht-insight/economy/electricity-as-the-new-geography-of-economic-power-101794039708421.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T09:00:00+00:00"
+  },
+  {
+   "title": "Hyderabad's Osmania General Hospital introduces 48-hour weekly duty limit for junior doctors, interns",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-osmania-general-hospital-introduces-48-hour-weekly-duty-limit-for-junior-doctors-interns/article71677573.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T08:30:00+00:00"
+  },
   {
    "title": "Why soaring freight costs amid West Asia conflict are squeezing Keralam exports",
    "link": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
@@ -3351,28 +3367,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Noel Tata to retire as Titan Company vice-chairman on November 12",
-   "link": "https://www.business-standard.com/companies/news/noel-tata-to-retire-as-titan-company-vice-chairman-on-november-12-126110501943_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T15:45:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "LIC Q2 profit rises 20% to ₹12,115 crore as VNB margin and net premium expands",
-   "link": "https://www.thehindu.com/business/lic-q2-profit-rises-20-to-12115-crore-as-vnb-margin-and-net-premium-expands/article71670728.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T15:45:00+00:00",
-   "companies": [
-    "LIC"
-   ]
   }
  ]
 }
