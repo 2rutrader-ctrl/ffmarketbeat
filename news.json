@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:15:49.885120+00:00",
+ "updated": "2026-11-07T16:31:11.037230+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,17 @@
   "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Lucknow-bound IndiGo flight emergency returns to Bengaluru after hijack threat note found onboard",
+   "link": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T16:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
   {
    "title": "Fredun Pharmaceuticals Q2 results: Net profit jumps 90% on better demand",
    "link": "https://www.thehindubusinessline.com/companies/fredun-pharmaceuticals-q2-results-net-profit-jumps-90-on-better-demand/article71678377.ece",
@@ -3317,19 +3328,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-06T03:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold, silver-coated mithai under FDA scanner; Tukaram Mundhe orders sampling after complaints",
-   "link": "https://www.hindustantimes.com/cities/mumbai-news/gold-silver-coated-mithai-under-maharashtra-fda-scanner-tukaram-mundhe-orders-sampling-after-complaints-101793931834316.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:15:00+00:00",
    "thought": {
     "topic": "Why gold is followed",
     "short": "Gold",
