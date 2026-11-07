@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-07T12:01:29.032704+00:00",
+ "updated": "2026-11-07T12:15:50.106124+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Coca-Cola doubles down on India with affordability, premiumisation push as bottling arm files IPO papers",
+   "link": "https://www.moneycontrol.com/news/business/coca-cola-doubles-down-on-india-with-affordability-premiumisation-push-as-bottling-arm-files-ipo-papers-14074444.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T12:15:00+00:00"
+  },
   {
    "title": "Toll in explosion at OIL facility in Assam rises to three",
    "link": "https://www.hindustantimes.com/cities/others/toll-in-explosion-at-oil-facility-in-assam-rises-to-three-101794051585696.html",
@@ -3327,14 +3335,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "title": "VANS Electroengineerings IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/vectras-enprocon-vel03-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T18:15:00+00:00"
   }
  ]
 }
