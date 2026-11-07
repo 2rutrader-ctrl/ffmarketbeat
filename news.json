@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-07T13:45:49.907508+00:00",
+ "updated": "2026-11-07T14:01:26.324123+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
-  "ecb": "ok, 7 items",
+  "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 21 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Coca Cola India bottler files IPO papers with SEBI; nearly 100 crore shares on offer, revenue rises 20%",
+   "link": "https://www.businesstoday.in/markets/ipo-corner/story/coca-cola-india-bottler-files-ipo-papers-with-sebi-nearly-100-crore-shares-on-offer-revenue-rises-20-566322-2026-11-07",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T14:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Tata Steel net up 18% in Q2 on better realisation - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/tata-steel-net-up-18-in-q2-on-better-realisation/article71678169.ece",
@@ -3316,19 +3329,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Early Diwali cheer: Markets see fireworks; rupee rises, bond yields ease",
-   "link": "https://www.business-standard.com/markets/news/early-diwali-cheer-markets-see-fireworks-rupee-rises-bond-yields-ease-126110502021_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T19:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
