@@ -332,7 +332,12 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
 .tgl{display:inline-flex;align-items:center;gap:7px;border:1.5px solid var(--o);color:var(--tx)!important;font:700 13px var(--ui);padding:7px 14px;border-radius:99px;text-decoration:none;white-space:nowrap}.tgl:hover{background:rgba(253,160,67,.14)}.pmb .tgrow{margin-top:12px}
 .plan label{display:block;font-size:12px;font-weight:600;color:var(--mu);margin:12px 0 4px}.plan input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--tx);font:14px var(--ui)}.plan .pst{font-size:12px;color:var(--o);font-weight:700;margin-top:12px}.plan{padding-bottom:6px}
 .seeff{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:22px;align-items:center;background:var(--s1);border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0}
-.seeff img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
+.seeff .shot{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;box-shadow:0 14px 34px rgba(60,40,0,.12)}
+.seeff .bar{height:30px;background:var(--s2);border-bottom:1px solid var(--line);display:flex;align-items:center;gap:6px;padding:0 12px;font:600 11px var(--ui);color:var(--mu);letter-spacing:.02em}
+.seeff .bar i{width:9px;height:9px;border-radius:50%;background:#d9d2c3;display:block}
+.seeff .bar span{margin-left:8px}
+.seeff .ch{display:block;width:100%;height:auto}
+.seeff .pn{position:absolute;right:12px;bottom:12px;width:33%;height:auto;border-radius:8px;box-shadow:0 10px 28px rgba(0,0,0,.28)}
 .seeff .k{font:700 11px var(--ui);letter-spacing:.14em;text-transform:uppercase;color:#a85d00;margin-bottom:8px}
 .seeff h3{font-family:var(--serif);font-size:24px;line-height:1.2;margin-bottom:10px}
 .seeff ul{list-style:none;margin:0 0 14px;padding:0}
@@ -376,7 +381,7 @@ ul.fl2 a:hover{text-decoration:underline;color:var(--o)}
   <div class="adstrip"><span class="adl">From Financial Frontline</span><span class="adt">Learn to read market structure on your own charts.</span><a class="cta" href="https://ffsetup-live.netlify.app/?utm_source=ffmarketbeat&utm_medium=adstrip&utm_campaign=marketbeat" target="_blank" rel="noopener">Try FF Setup free</a></div>
 
   <section class="seeff" id="seeff">
-    <img src="ff-setup-nifty.jpg" width="1000" height="454" loading="lazy" alt="FF Setup running on a TradingView chart of NIFTY">
+    <div class="shot"><div class="bar"><i></i><i></i><i></i><span>NIFTY &middot; TradingView &middot; FF Setup on</span></div><img class="ch" src="ff-setup-chart.jpg" width="1130" height="627" loading="lazy" alt="FF Setup shading and lines on a TradingView chart of NIFTY"><img class="pn" src="ff-setup-panel.jpg" width="354" height="397" loading="lazy" alt="FF Setup panel showing trend colour on each timeframe"></div>
     <div>
       <div class="k">See FF Setup on a real chart</div>
       <h3>Read the news, then see the chart the way FF Setup shows it</h3>
