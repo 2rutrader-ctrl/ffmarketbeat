@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-07T06:01:23.194070+00:00",
+ "updated": "2026-11-07T06:15:47.761463+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments",
+   "link": "https://www.livemint.com/money/personal-finance/gold-etf-folios-surge-164-in-3-years-outpacing-equity-mutual-funds-study-warns-against-fomo-driven-gold-investments-11794021741009.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T06:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Daily Voice: 3 triggers that could drive major FII inflows in Samvat 2083; Rishabh Nahar on investment themes",
    "link": "https://www.moneycontrol.com/news/business/markets/daily-voice-3-key-factors-that-could-trigger-substantial-fii-inflows-in-samvat-2083-rishabh-nahar-shares-investment-themes-14074017.html",
@@ -3374,19 +3387,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Gold loan provider IFL Finance receives SEBI approval to launch IPO",
-   "link": "https://www.moneycontrol.com/news/business/ipo/gold-loan-provider-ifl-finance-receives-sebi-approval-to-launch-ipo-14071819.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T14:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
   }
  ]
