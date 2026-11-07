@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:45:55.116302+00:00",
+ "updated": "2026-11-07T12:01:29.032704+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
@@ -7,6 +7,14 @@
   "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Toll in explosion at OIL facility in Assam rises to three",
+   "link": "https://www.hindustantimes.com/cities/others/toll-in-explosion-at-oil-facility-in-assam-rises-to-three-101794051585696.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T12:00:00+00:00"
+  },
   {
    "title": "Coca-Cola's Indian bottling arm HCCH files IPO papers; entire issue to be OFS",
    "link": "https://www.thehindubusinessline.com/markets/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo/article71677901.ece",
@@ -3323,14 +3331,6 @@
   {
    "title": "VANS Electroengineerings IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
    "link": "https://www.moneycontrol.com/ipo/vectras-enprocon-vel03-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T18:15:00+00:00"
-  },
-  {
-   "title": "Johnsoncab Electricals Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/johnsoncab-electricals-jel-ipodetail",
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "Global",
