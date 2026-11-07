@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-07T07:15:49.516033+00:00",
+ "updated": "2026-11-07T07:31:09.012560+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BSNL plans inter-circle roaming pact with Vodafone Idea in 12-13 circles",
+   "link": "https://www.thehindubusinessline.com/info-tech/bsnl-plans-roaming-pact-with-vodafone-idea-in-12-13-more-telecom-circles/article71677404.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T07:30:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "IL JIN Electronics files draft papers for ₹2,500-crore IPO",
+   "link": "https://www.thehindubusinessline.com/markets/il-jin-electronics-files-draft-papers-for-2500-crore-ipo/article71677465.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T07:30:00+00:00"
+  },
   {
    "title": "Assam OIL facility fire death toll rises to two",
    "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-two/article71677435.ece",
@@ -3349,30 +3368,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-05T15:30:00+00:00"
-  },
-  {
-   "title": "Forevermark Diamond Jewellery Expands North India Footprint with New Store at Gold Souk Mall, Gurugram, Inaugurated by Film Star Vaani Kapoor",
-   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/forevermark-diamond-jewellery-expands-north-india-footprint-with-new-store-at-gold-souk-mall-gurugram-inaugurated-by-film-star-vaani-kapoor/article71670068.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T15:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "M&M Q2 PAT rises 25% to ₹4,588 crore on strong auto, finance performance",
-   "link": "https://www.thehindu.com/business/Industry/mm-q2-pat-rises-25-to-4588-crore-on-strong-auto-finance-performance/article71670594.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T15:15:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
   }
  ]
 }
