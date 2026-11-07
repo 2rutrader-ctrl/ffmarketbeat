@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:01:28.077049+00:00",
+ "updated": "2026-11-07T09:15:48.860090+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
@@ -7,6 +7,35 @@
   "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-closes-plea-to-regulate-gold-loans-and-auction-of-pledged-jewellery/article71677391.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T09:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Diwali 2026: From Kriti Sanon's pastel sharara to Ananya Panday's silver lehenga, Diwali fashion inspiration this season",
+   "link": "https://www.moneycontrol.com/entertainment/diwali-2026-from-kriti-sanon-s-pastel-sharara-to-ananya-panday-s-silver-lehenga-diwali-fashion-inspiration-this-season-article-14074267.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T09:15:00+00:00"
+  },
+  {
+   "title": "Who is Stephen Miller? Trump's new chief of staff who once criticised India over Russian oil, trade",
+   "link": "https://www.moneycontrol.com/world/who-is-stephen-miller-trump-s-new-chief-of-staff-who-once-criticised-india-over-russian-oil-trade-article-14074283.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:15:00+00:00"
+  },
   {
    "title": "Electricity as the new geography of economic power",
    "link": "https://www.hindustantimes.com/ht-insight/economy/electricity-as-the-new-geography-of-economic-power-101794039708421.html",
@@ -3329,43 +3358,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
-   "link": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T16:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "IDBI Bank stake sale: Why employees are protesting against Fairfax deal and demanding privatisation rollback",
-   "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-why-employees-are-protesting-against-fairfax-deal-and-demanding-privatisation-rollback-11793874927748.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:00:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "ONGC Q2 net profit jumps 57% on higher crude, gas realisations",
-   "link": "https://www.thehindu.com/business/Economy/ongc-q2-net-profit-jumps-57-on-higher-crude-gas-realisations/article71670861.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T16:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
