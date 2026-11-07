@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-07T09:31:09.099122+00:00",
+ "updated": "2026-11-07T09:45:57.003358+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 19 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Samvat 2083: Kotak Mutual Fund's equity outlook and preferred schemes",
+   "link": "https://www.thehindubusinessline.com/markets/samvat-2083-kotak-mutual-fund-expects-moderate-equity-returns-favours-quality-stocks/article71677537.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:45:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "Toll in explosion at OIL facility in Assam rises to two - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/news/toll-in-explosion-at-oil-facility-in-assam-rises-to-two/article71677581.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-07T09:45:00+00:00"
+  },
+  {
+   "title": "NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras",
+   "link": "https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Assam oil facility fire: Sonowal speaks to Oil India CMD, urges medical care for injured",
+   "link": "https://www.thehindubusinessline.com/news/national/sarbananda-sonowal-calls-oil-india-cmd-over-tengakhat-fire-urges-best-medical-care-for-injured/article71677560.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T09:45:00+00:00"
+  },
   {
    "title": "Diwali Fireworks! Nifty surges over 8% in Nov 2-6 week, best in 6 yrs after US Midterm Election results; RIL soars 13%",
    "link": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
@@ -3314,48 +3354,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Dividend stocks: Coal India, TCS, HUDCO, HCL Tech, GAIL among top 10 dividend paying stocks - Check yield, annual return",
-   "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:00:00+00:00",
-   "companies": [
-    "TCS",
-    "HCLTech",
-    "Coal India"
-   ]
-  },
-  {
-   "title": "'No reason to go elsewhere': Zerodha CEO Nithin Kamath welcomes SEBI's NRI KYC changes",
-   "link": "https://www.livemint.com/market/stock-market-news/no-reason-to-go-elsewhere-zerodha-ceo-nithin-kamath-welcomes-sebis-nri-kyc-changes-11793886877810.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Antala Industries IPO subscribed 12.2 times on final day, listing likely next week",
-   "link": "https://www.moneycontrol.com/news/business/ipo/antala-industries-ipo-subscribed-12-2-times-on-final-day-listing-likely-next-week-14071838.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T17:00:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
-   "link": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T16:45:00+00:00"
   }
  ]
 }
