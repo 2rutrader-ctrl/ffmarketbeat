@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-07T10:01:23.132227+00:00",
+ "updated": "2026-11-07T10:15:49.773892+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 7 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 20 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dhanteras 2026: NSE gold receipts hit record trading volume of 2.27 lakh units as demand surges",
+   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-nse-gold-receipts-hit-record-trading-volume-of-2-27-lakh-units-as-demand-surges-566307-2026-11-07",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T10:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "SEBI's new settlement rules effective November 7: Online applications, revised fees, fast track process explained",
+   "link": "https://www.businesstoday.in/markets/story/sebis-new-settlement-rules-effective-november-7-online-applications-revised-fees-fast-track-process-explained-566305-2026-11-07",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-07T10:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Samvat 2083: Kotak Mutual Fund's equity outlook and preferred schemes",
    "link": "https://www.thehindubusinessline.com/markets/samvat-2083-kotak-mutual-fund-expects-moderate-equity-returns-favours-quality-stocks/article71677537.ece",
@@ -3329,30 +3355,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nita Ambani wears handwoven Banarasi Ramavali saree at Reliance Deepawali Utsav 2026. See details",
-   "link": "https://www.livemint.com/news/trends/nita-ambani-wears-handwoven-banarasi-ramavali-saree-at-reliance-deepawali-utsav-2026-see-details-11793890703584.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-05T17:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Berger Paints misses Q2 profit estimates as raw material inflation squeezes margins",
-   "link": "https://www.livemint.com/companies/company-results/berger-paints-misses-q2-profit-estimates-raw-material-inflation-squeezes-margins-11793884875033.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-05T17:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
   }
  ]
