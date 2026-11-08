@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-08T06:45:49.092450+00:00",
+ "updated": "2026-11-08T07:01:29.839579+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "El Niño's ripple effect on India's dairy economy: Why milk supply is becoming a seasonal risk",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/el-ninos-ripple-effect-on-indias-dairy-economy-why-milk-supply-is-becoming-a-seasonal-risk/article71677563.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T07:00:00+00:00"
+  },
+  {
+   "title": "Meta's bond sale shows new reality for tech debt - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/info-tech/metas-bond-sale-shows-new-reality-for-tech-debt/article71680480.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T07:00:00+00:00"
+  },
+  {
+   "title": "Bullion may remain under pressure as markets track US-Iran war, inflation",
+   "link": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T07:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Gold, silver outlook hinges on US-Iran tensions, global inflation data next week",
+   "link": "https://www.thehindubusinessline.com/markets/gold-silver-outlook-hinges-on-us-iran-tensions-global-inflation-data-next-week/article71680614.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T07:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Adani Enterprises plans ₹40,000 cr annual capex over two years",
+   "link": "https://www.thehindubusinessline.com/companies/adani-enterprises-plans-35000-40000-cr-annual-capex-in-next-two-years/article71680572.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T07:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Adani Energy Solutions Step-Eleven says parent has funds to support power licence for proposed Noida data centre project",
+   "link": "https://www.livemint.com/companies/news/adani-energy-solutions-step-eleven-parent-has-funds-support-power-licence-proposed-noida-data-centre-project-investment-11794112060477.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T07:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-rate-999-silver-price-today-8-november-retail-diwali-delhi-mumbai-chennai-bangalore-kolkata-coimbatore-11794112139097.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T06:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Adani Enterprises plans ₹35,000-₹40,000 cr annual capex in next two years",
    "link": "https://www.business-standard.com/companies/news/adani-enterprises-plans-35-000-40-000-cr-annual-capex-in-next-two-years-126110800133_1.html",
@@ -3070,17 +3147,6 @@
    }
   },
   {
-   "title": "Noel Tata to step down as Titan vice-chairman and director on 12 November as he turns 70",
-   "link": "https://www.livemint.com/companies/people/noel-tata-to-step-down-as-titan-vice-chairman-and-director-on-november-12-as-he-turns-70-11793946571237.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:00:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3254,74 +3320,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-25T18:00:00+00:00"
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-19T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-29T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-14T18:00:00+00:00"
-  },
-  {
-   "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-09T19:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-08T18:00:00+00:00",
    "thought": {
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
