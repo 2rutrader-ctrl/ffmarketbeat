@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:31:08.145891+00:00",
+ "updated": "2026-11-08T05:45:52.768738+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -3273,32 +3273,6 @@
    "published": "2026-11-06T06:00:00+00:00"
   },
   {
-   "title": "Dhanteras 2026 gold buying story: Why there is rush to purchase yellow metal ahead of Diwali? Know full tradition tale",
-   "link": "https://www.livemint.com/money/dhanteras-2026-gold-buying-story-why-there-is-rush-to-purchase-yellow-metal-ahead-of-diwali-know-full-tradition-tale-11793940719508.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T05:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold, silver prices today, 6 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-6-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740268451.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T05:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3318,6 +3292,32 @@
    "source_key": "ecb",
    "category": "Global",
    "published": "2026-11-04T00:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
+  },
+  {
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-10-30T14:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
+  },
+  {
+   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+   "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-10-29T14:00:00+00:00",
    "thought": {
     "topic": "Why the ECB matters beyond Europe",
     "short": "ECB",
