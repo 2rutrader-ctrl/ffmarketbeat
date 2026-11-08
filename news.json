@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-08T10:15:48.317515+00:00",
+ "updated": "2026-11-08T10:31:12.499554+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
+   "link": "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T10:30:00+00:00",
+   "companies": [
+    "ICICI Bank"
+   ]
+  },
+  {
+   "title": "The Legal Rearview: SC rules on lenders' CoC eligibility, reopens two-child norm debate, strengthens arrest safeguards; SEBI settlement rules take effect",
+   "link": "https://www.moneycontrol.com/news/india/the-legal-rearview-sc-rules-on-lenders-coc-eligibility-reopens-two-child-norm-debate-strengthens-arrest-safeguards-sebi-settlement-rules-take-effect-14074902.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T10:30:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
+   "link": "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T10:30:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Hindalco flags coal shortage, expects 5% rise in aluminium production costs",
    "link": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html",
@@ -2453,131 +2493,6 @@
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
-  },
-  {
-   "title": "Elgi Equipments Q2 net profit grows 6% to ₹128 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/elgi-equipments-q2-net-profit-grows-6-to-128-crore/article71673516.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Premier Energies Q2 net profit rises 31% to ₹462.4 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/incoming/premier-energies-q2-net-profit-rises-31-to-4624-crore/article71673725.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Fire at Oil India Ltd's intermediate tank farm in Assam's Dibrugarh kills 1",
-   "link": "https://www.thehindubusinessline.com/companies/fire-at-oil-india-ltds-intermediate-tank-farm-in-assams-dibrugarh-kills-1/article71673422.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00"
-  },
-  {
-   "title": "HDFC Bank shares rally 16% in 4 sessions, cross ₹12-lakh-cr market cap",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-rally-16-in-four-sessions-cross-12-lakh-crore-market-cap/article71673355.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00"
-  },
-  {
-   "title": "Singapore court allows seizure, sale of Tata Power shares in two subsidiaries to enforce ₹6,113 cr award",
-   "link": "https://www.thehindubusinessline.com/companies/singapore-court-allows-seizure-sale-of-tata-power-shares-in-two-subsidiaries-to-enforce-6113-cr-award/article71673362.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "3M India profit falls on weaker rupee and rising input costs, shares tumble",
-   "link": "https://www.thehindubusinessline.com/companies/3m-india-profit-falls-on-weaker-rupee-and-rising-input-costs-shares-tumble/article71673477.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Godrej Agrovet Q2 profit jumps 22% on strong animal nutrition, oil palm sales",
-   "link": "https://www.thehindubusinessline.com/companies/godrej-agrovet-q2-profit-jumps-22-on-strong-animal-nutrition-oil-palm-sales/article71673460.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T10:30:00+00:00"
-  },
-  {
-   "title": "Sensex reclaims 80,000 after March; Nifty tops 24,700 despite global tech rout",
-   "link": "https://www.thehindubusinessline.com/markets/sensex-reclaims-80000-after-march-nifty-tops-24700-despite-global-tech-rout/article71673442.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00"
-  },
-  {
-   "title": "ATMA seeks duty-free natural rubber imports as prices hit ₹300 per kg",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/tyre-makers-seek-duty-free-natural-rubber-imports-as-prices-hit-300-per-kg/article71673677.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00"
-  },
-  {
-   "title": "Dhanteras 2026 date and time today for gold, silver purchase: Shubh muhurat for buying precious metals on auspicious day",
-   "link": "https://www.livemint.com/money/dhanteras-2026-date-and-time-today-for-gold-silver-purchase-shubh-muhurat-for-buying-precious-metals-on-auspicious-day-11793944049222.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T10:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "IndusInd Bank ties up with JP Morgan Payments to offer remittances in 123 currencies",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/indusind-bank-ties-up-with-jp-morgan-payments-to-offer-remittances-in-123-currencies/article71673366.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "companies": [
-    "IndusInd Bank"
-   ]
-  },
-  {
-   "title": "LIC expects limited impact from IRDAI commission caps, says CEO",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/lic-expects-limited-impact-from-irdais-proposed-commission-caps-says-ceo/article71673709.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T10:30:00+00:00",
-   "companies": [
-    "LIC"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
