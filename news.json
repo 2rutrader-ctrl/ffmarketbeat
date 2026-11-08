@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-08T16:31:13.690935+00:00",
+ "updated": "2026-11-08T16:45:54.005656+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 7 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali 2026: Planning to invest in gold savings schemes by jewellers? How they work, benefits, risks and what to check",
+   "link": "https://www.livemint.com/money/diwali-2026-planning-to-invest-in-gold-savings-schemes-by-jewellers-how-they-work-benefits-risks-and-what-to-check-11794141520527.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T16:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "The Democratic surge will cap Trump's reach at the Fed",
    "link": "https://www.hindustantimes.com/world-news/the-democratic-surge-will-cap-trump-s-reach-at-the-fed-101794139981256.html",
@@ -1591,57 +1604,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "title": "First taste of fiery tandoori chicken: Sonia Gandhi's memoir reveals bond with Rajiv Gandhi over Indian cuisine",
-   "link": "https://www.moneycontrol.com/news/india/14073780-14073780.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:45:00+00:00"
-  },
-  {
-   "title": "Anthropic IPO buyers see valuation down as low as $1.2 trillion",
-   "link": "https://www.moneycontrol.com/world/anthropic-ipo-buyers-see-valuation-down-as-low-as-1-2-trillion-article-14073758.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T16:45:00+00:00"
-  },
-  {
-   "title": "Chandra hire D'Souza is Voltas chair; Trent MD joins board",
-   "link": "https://www.livemint.com/companies/chandra-hire-d-souza-is-voltas-chair-trent-md-joins-board-11793969347494.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:45:00+00:00",
-   "companies": [
-    "Trent"
-   ]
-  },
-  {
-   "title": "Honasa Consumer eyes hair colour entry as Q2 net profit jumps 87% to ₹73 crore",
-   "link": "https://www.livemint.com/companies/honasa-consumer-eyes-hair-colour-entry-as-q2-net-profit-jumps-87-to-73-crore-11793964302074.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Who is Kishore Biyani? CBI books Future Retail founder, brother in alleged ₹904-crore SBI loan fraud case",
-   "link": "https://www.livemint.com/companies/people/who-is-kishore-biyani-cbi-books-future-retail-founder-brother-in-904-crore-sbi-loan-fraud-case-11793971071226.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
