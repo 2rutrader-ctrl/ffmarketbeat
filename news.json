@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T04:31:13.923505+00:00",
+ "updated": "2026-11-08T04:45:47.415210+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
   {
@@ -3312,12 +3312,17 @@
    }
   },
   {
-   "title": "Off-duty fire captain jumps into action after EV crashes into California nail salon and bursts into flames",
-   "link": "https://www.hindustantimes.com/trending/offduty-fire-captain-jumps-into-action-after-ev-crashes-into-california-nail-salon-and-bursts-into-flames-101793938271484.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
    "category": "Global",
-   "published": "2026-11-06T04:45:00+00:00"
+   "published": "2026-11-05T08:00:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
   }
  ]
 }
