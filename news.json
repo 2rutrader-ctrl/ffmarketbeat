@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T21:15:52.159016+00:00",
+ "updated": "2026-11-08T21:31:10.561702+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (12 of 12 files read, 7313 records scanned, 0 download errors; last error: none)"
+  "gdelt": "FAILED: RuntimeError: no usable headlines (12 of 12 files read, 7158 records scanned, 0 download errors; last error: none)"
  },
  "items": [
   {
@@ -1484,25 +1484,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Why Saudi Arabia is extending $3 bn lifeline to Pak: Reasons Riyadh continues to bankroll Islamabad's struggling economy",
-   "link": "https://www.livemint.com/news/world/why-saudi-arabia-is-extending-3-bn-lifeline-to-pak-reasons-riyadh-continues-to-bankroll-islamabad-s-struggling-economy-11793988099638.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T21:30:00+00:00"
-  },
-  {
-   "title": "Angan Guha returns to Wipro as President and CEO for US units: Who is he? Why he re-joined the company?",
-   "link": "https://www.livemint.com/companies/people/angan-guha-returns-to-wipro-as-president-and-ceo-for-us-units-who-is-he-why-he-re-joined-the-company-11793988793419.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T21:30:00+00:00",
-   "companies": [
-    "Wipro"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
