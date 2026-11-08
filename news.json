@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:01:23.053495+00:00",
+ "updated": "2026-11-08T05:15:51.409552+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -3299,19 +3299,6 @@
    }
   },
   {
-   "title": "Rupee falls 9 paise to 94.50 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/Industry/rupee-falls-9-paise-to-9450-against-us-dollar-in-early-trade/article71672841.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T05:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3322,6 +3309,19 @@
     "topic": "How interest rates reach the market",
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-04T00:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
    }
   }
  ]
