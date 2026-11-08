@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-08T11:01:26.377664+00:00",
+ "updated": "2026-11-08T11:15:54.337857+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Who was Paramjeet Dhankar? Ex-Tech Mahindra Asia Pacific head killed by scrap dealer over parking in Faridabad | Case",
+   "link": "https://www.livemint.com/news/india/who-was-paramjeet-dhankar-ex-tech-mahindra-asia-pacific-head-killed-by-scrap-dealer-over-parking-in-faridabad-case-11794133762372.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T11:15:00+00:00",
+   "companies": [
+    "Tech Mahindra"
+   ]
+  },
+  {
+   "title": "India's forex reserves fall $2.69 billion to $717 billion: Why RBI is selling dollars and what it means for the rupee",
+   "link": "https://www.livemint.com/economy/indias-forex-reserves-fall-2-69-billion-to-717-billion-why-rbi-is-selling-dollars-and-what-it-means-for-the-rupee-11794125996170.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T11:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
    "link": "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
@@ -2417,69 +2441,6 @@
    "companies": [
     "Mahindra & Mahindra"
    ]
-  },
-  {
-   "title": "Diwali cheer on D St! Nifty reclaims 25,000 as rally extends to 7th session; investors add over Rs 30 lakh crore",
-   "link": "https://www.businesstoday.in/markets/stocks/story/diwali-cheer-on-d-st-nifty-reclaims-25000-as-rally-extends-to-7th-session-investors-add-over-rs-30-lakh-crore-566227-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T11:15:00+00:00"
-  },
-  {
-   "title": "Dhanteras 2026: Buying silver marked 925 or 999? Here's how purity affects price, quality and resale value",
-   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-buying-silver-marked-925-or-999-heres-how-purity-affects-price-quality-and-resale-value-566205-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T11:15:00+00:00"
-  },
-  {
-   "title": "SP Group's Eqyizen plans to raise up to $200 mn via rupee bonds: Bankers",
-   "link": "https://www.business-standard.com/industry/news/sp-group-s-eqyizen-plans-to-raise-up-to-200-mn-via-rupee-bonds-bankers-126110601096_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T11:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Govt invites applications for India-UK trade pact duty quotas for 2027",
-   "link": "https://www.business-standard.com/industry/news/govt-invites-applications-for-india-uk-trade-pact-duty-quotas-for-2027-126110600943_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T11:15:00+00:00"
-  },
-  {
-   "title": "Edelweiss' Rashesh Shah calls for tax relief as FPI outflows top $28 billion",
-   "link": "https://www.businesstoday.in/markets/story/edelweiss-rashesh-shah-calls-for-tax-relief-as-fpi-outflows-top-28-billion-566216-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T11:15:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: Bought gold jewellery? Here's how to check if your HUID number is genuine in 2 minutes",
-   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-bought-gold-jewellery-heres-how-to-check-if-your-huid-number-is-genuine-in-2-minutes-566193-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
