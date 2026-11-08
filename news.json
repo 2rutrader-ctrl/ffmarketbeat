@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T16:15:54.367399+00:00",
+ "updated": "2026-11-08T16:31:13.690935+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
   {
@@ -1641,110 +1641,6 @@
    "published": "2026-11-06T16:45:00+00:00",
    "companies": [
     "State Bank of India"
-   ]
-  },
-  {
-   "title": "India receives the highest FPI flows in equity in November",
-   "link": "https://www.thehindubusinessline.com/data-stories/data-focus/india-receives-the-highest-fpi-flows-in-equity-in-november/article71675348.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "ONGC expects to acquire operatorship rights in Venezuelan oil projects in 3-6 months' time",
-   "link": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "companies": [
-    "ONGC"
-   ]
-  },
-  {
-   "title": "Wipro appoints Angan Guha as President and CEO for Americas 2 SMU",
-   "link": "https://www.thehindubusinessline.com/info-tech/wipro-appoints-angan-guha-as-president-and-ceo-for-americas-2-smu/article71675202.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "companies": [
-    "Wipro"
-   ]
-  },
-  {
-   "title": "Nifty reclaims 25,000, Sensex crosses 81,000 as India shrugs off global tech rout",
-   "link": "https://www.thehindubusinessline.com/markets/nifty-reclaims-25000-sensex-crosses-81000-as-india-shrugs-off-global-tech-rout/article71674840.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00"
-  },
-  {
-   "title": "SEBI weighs two-year dormancy rule for demat accounts - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-weighs-two-year-dormancy-rule-for-demat-accounts/article71675190.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "NIT-T launches AI and ML centre with TCS Foundation backing",
-   "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/nit-t-launches-ai-and-ml-centre-with-tcs-foundation-backing/article71675484.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "companies": [
-    "TCS"
-   ]
-  },
-  {
-   "title": "SEBI proposes mandatory AML certification for intermediaries' principal officers",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-proposes-mandatory-aml-certification-for-intermediaries-principal-officers/article71675333.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Gold Investment in India: Types, Returns, Taxation & Options (2026)",
-   "link": "https://www.thehindubusinessline.com/brandhub/gold-investment-in-india-types-returns-taxation-amp-options-2026/article71665298.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Airtel brings back ₹299 plan amidst subscriber churn - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/info-tech/airtel-brings-back-299-plan-amidst-subscriber-churn/article71675245.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:30:00+00:00",
-   "companies": [
-    "Bharti Airtel"
    ]
   },
   {
