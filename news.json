@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-08T14:01:25.402027+00:00",
+ "updated": "2026-11-08T14:15:51.931169+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Toll in OIL's Assam facility fire rises to 4 as another injured dies; 4 suspended",
+   "link": "https://www.hindustantimes.com/cities/others/toll-in-oil-s-assam-facility-fire-rises-to-4-as-another-injured-dies-4-suspended-101794144345603.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T14:15:00+00:00"
+  },
   {
    "title": "Technical View: Nifty 50 ends 7-day rally, further consolidation likely with 24,800 as key support; Bank Nifty risks further profit booking below 58,700",
    "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-ends-7-day-rally-further-consolidation-likely-with-24-800-as-key-support-bank-nifty-risks-further-profit-booking-below-58-700-14074983.html",
