@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-08T16:45:54.005656+00:00",
+ "updated": "2026-11-08T17:01:29.968857+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "GST needs a consumption-based overhaul, not piecemeal refund reforms",
+   "link": "https://www.business-standard.com/opinion/columns/gst-needs-a-consumption-based-overhaul-not-piecemeal-refund-reforms-126110800523_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T17:00:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
   {
    "title": "Diwali 2026: Planning to invest in gold savings schemes by jewellers? How they work, benefits, risks and what to check",
    "link": "https://www.livemint.com/money/diwali-2026-planning-to-invest-in-gold-savings-schemes-by-jewellers-how-they-work-benefits-risks-and-what-to-check-11794141520527.html",
@@ -1548,62 +1561,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Jewellers report brisk Dhanteras sales as gold price drop lures buyers; volumes seen flat- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/india/jewellers-report-brisk-dhanteras-sales-as-gold-price-drop-lures-buyers-volumes-seen-flat-14073825.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T17:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bharti Airtel overtakes Jio Platforms to become India's second most valuable listed company after RIL",
-   "link": "https://www.businesstoday.in/latest/corporate/story/bharti-airtel-overtakes-jio-platforms-to-become-indias-second-most-valuable-listed-company-after-ril-566288-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T17:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "Jewellery demand remains resilient for Q3 despite gold price surge",
-   "link": "https://www.thehindu.com/incoming/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T17:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Order seafood work lunch on Zomato",
-   "link": "https://www.thehindu.com/food/fresh-seafood-lunch-delivery-karthiyayinikovai-on-zomato/article71644663.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T17:00:00+00:00",
-   "companies": [
-    "Eternal (Zomato)"
-   ]
-  },
-  {
-   "title": "Anthropic IPO buyers see valuation as low as $1.1 trillion",
-   "link": "https://www.moneycontrol.com/news/business/companies/anthropic-ipo-buyers-see-valuation-as-low-as-1-1-trillion-14073828.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T17:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
