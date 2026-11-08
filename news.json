@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:15:53.031482+00:00",
+ "updated": "2026-11-08T15:31:15.059278+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1863,22 +1863,6 @@
    "companies": [
     "State Bank of India"
    ]
-  },
-  {
-   "title": "Gokaldas Exports Q2 consolidated PAT jumps to Rs 41 crore- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/business/gokaldas-exports-q2-consolidated-pat-jumps-to-rs-41-crore-14073701.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:30:00+00:00"
-  },
-  {
-   "title": "Oil set for biggest weekly drop; may bring relief for India's oil bill",
-   "link": "https://www.business-standard.com/industry/news/oil-set-for-biggest-weekly-drop-may-bring-relief-for-india-s-oil-bill-126110601681_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:30:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
