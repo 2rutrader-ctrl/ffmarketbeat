@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-08T14:15:51.931169+00:00",
+ "updated": "2026-11-08T14:31:12.073812+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Assam OIL facility fire: death toll rises to four as another injured dies; four suspended",
+   "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T14:30:00+00:00"
+  },
   {
    "title": "Toll in OIL's Assam facility fire rises to 4 as another injured dies; 4 suspended",
    "link": "https://www.hindustantimes.com/cities/others/toll-in-oil-s-assam-facility-fire-rises-to-4-as-another-injured-dies-4-suspended-101794144345603.html",
@@ -1980,119 +1988,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "SEBI clears IPO papers of Quadria Capital-backed Encube Ethicals for Rs 3,000 crore",
-   "link": "https://www.moneycontrol.com/news/business/ipo/quadria-capital-backed-encube-ethicals-gets-sebi-nod-for-rs-3-000-crore-ipo-14073624.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "SEBI proposes mandatory AML certification for Principal Officers of all market intermediaries",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-proposes-mandatory-aml-certification-for-principal-officers-of-all-market-intermediaries-14073638.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Govt opens TRQ applications for British vehicle imports for CY 2027",
-   "link": "https://www.thehindubusinessline.com/economy/govt-opens-trq-applications-for-british-vehicle-imports-for-cy-2027/article71674747.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T14:30:00+00:00"
-  },
-  {
-   "title": "TCS and SASTRA University tie up to equip students with Japanese language and business skills",
-   "link": "https://www.thehindubusinessline.com/info-tech/tcs-and-sastra-university-tie-up-to-equip-students-with-japanese-language-and-business-skills/article71674238.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00",
-   "companies": [
-    "TCS"
-   ]
-  },
-  {
-   "title": "3M India Q2 profit down 17% at ₹158.4 crore on rupee slide, rising input costs",
-   "link": "https://www.thehindubusinessline.com/companies/3m-india-q2-profit-down-17-at-1584-crore-on-rupee-slide-rising-input-costs/article71673973.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Indian companies' overseas investments rise 41% in FY26, narrowing gap with inward FDI: RBI",
-   "link": "https://www.moneycontrol.com/news/business/banks/indian-companies-overseas-investments-rise-41-in-fy26-narrowing-gap-with-inward-fdi-rbi-14073614.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00"
-  },
-  {
-   "title": "NBFCs registered higher credit growth of 15.4% in Sept 2026: RBI data",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/nbfcsregistered-higher-credit-growth-of-154-in-sept-2026-rbi-data/article71674445.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00"
-  },
-  {
-   "title": "Retail inflation may breach 6% in October amid rising food prices",
-   "link": "https://www.thehindubusinessline.com/economy/retail-inflation-may-breach-6-in-october-amid-rising-food-prices/article71674546.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Honasa Consumer Q2 net profit rises 87% to ₹73.24 crore, revenue up 36% to ₹731.18 crore",
-   "link": "https://www.thehindubusinessline.com/companies/honasa-consumer-q2-net-profit-rises-87-to-7324-crore-revenue-up-36-to-73118-crore/article71674687.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Forex reserves fall $2.69 billion to $717.06 billion, decline for second consecutive week",
-   "link": "https://www.moneycontrol.com/news/business/banks/forex-reserves-fall-2-69-billion-to-717-06-billion-decline-for-second-consecutive-week-14073609.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T14:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   },
   {
