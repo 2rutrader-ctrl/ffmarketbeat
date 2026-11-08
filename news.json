@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-08T09:01:21.233569+00:00",
+ "updated": "2026-11-08T09:15:52.838661+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold rate on Diwali: 24K at ₹1,43,570 per 10g, check prices in Delhi, Mumbai, Bengaluru, others",
+   "link": "https://www.hindustantimes.com/business/gold-rate-today-24k-22k-gold-silver-prices-in-delhi-mumbai-chennai-bengaluru-november-8-2026-101794126160488.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T09:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "US inflation set to cool in October after two months of sharp increases",
    "link": "https://www.business-standard.com/world-news/us-inflation-set-to-cool-in-october-after-two-months-of-sharp-increases-126110800246_1.html",
