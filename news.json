@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:31:12.393411+00:00",
+ "updated": "2026-11-08T12:45:54.749826+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2217,57 +2217,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-06T13:00:00+00:00"
-  },
-  {
-   "title": "Apollo Hospitals Guwahati Hosts 1st Northeast Endospine Conclave 2026, Advancing Minimally Invasive Spine Surgery",
-   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/apollo-hospitals-guwahati-hosts-1st-northeast-endospine-conclave-2026-advancing-minimally-invasive-spine-surgery/article71674319.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:45:00+00:00",
-   "companies": [
-    "Apollo Hospitals"
-   ]
-  },
-  {
-   "title": "Bharti Airtel reclaims 2nd spot in mcap rankings, overtakes Jio Platforms",
-   "link": "https://www.business-standard.com/companies/news/bharti-airtel-reclaims-2nd-spot-in-mcap-rankings-overtakes-jio-platforms-126110601497_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:45:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "India proposes two-year quota on soda ash imports after 89% surge",
-   "link": "https://www.thehindubusinessline.com/economy/policy/dgtr-recommends-two-year-import-curbs-on-soda-ash-to-protect-domestic-industry/article71673801.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:45:00+00:00"
-  },
-  {
-   "title": "SP Group unit to raise up to $200 million in rupee-denominated debt, bankers say",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/sp-group-unit-to-raise-up-to-200-million-in-rupee-denominated-debt-bankers-say/article71673911.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Midterms may not end Trumpian economic pain",
-   "link": "https://www.hindustantimes.com/opinion/midterms-may-not-end-trumpian-economic-pain-101793905737928.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T12:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
