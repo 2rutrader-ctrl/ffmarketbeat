@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T13:31:15.092589+00:00",
+ "updated": "2026-11-08T13:45:54.334574+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
   {
@@ -2087,99 +2087,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-06T14:00:00+00:00"
-  },
-  {
-   "title": "Asia faces AI reckoning post-midterms, with silver lining on oil",
-   "link": "https://www.moneycontrol.com/news/business/markets/asia-faces-ai-reckoning-post-midterms-with-silver-lining-on-oil-14073506.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T13:45:00+00:00"
-  },
-  {
-   "title": "Inward FDI to ODI ratio narrows to 4.2 times in FY26 from 5.5 times: RBI",
-   "link": "https://www.business-standard.com/economy/news/inward-fdi-to-odi-ratio-narrows-to-4-2-times-in-fy26-from-5-5-times-rbi-126110601554_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00"
-  },
-  {
-   "title": "ONGC eyes operatorship of two Venezuela oil projects in six months, seeks recovery of $500 million dues",
-   "link": "https://www.moneycontrol.com/news/india/ongc-eyes-operatorship-of-two-venezuela-oil-projects-in-six-months-seeks-recovery-of-500-million-dues-14073563.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00",
-   "companies": [
-    "ONGC"
-   ]
-  },
-  {
-   "title": "Reliance Jio launches 3-year unlimited connectivity plan at Rs 10,000: Benefits, validity and more- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/technology/reliance-jio-launches-3-year-unlimited-connectivity-plan-at-rs-10-000-benefits-validity-and-more-article-14073521.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "SUV gains to cushion volume weakness in tractors for M&M amid new launches",
-   "link": "https://www.business-standard.com/companies/quarterly-results/suv-gains-to-cushion-volume-weakness-in-tractors-for-m-m-amid-new-launches-126110601482_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00"
-  },
-  {
-   "title": "Sagar Defence, Encube Ethicals among 4 firms to secure Sebi's nod for IPOs",
-   "link": "https://www.moneycontrol.com/news/business/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-14073546.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Brent oil price benchmark set for biggest weekly drop since 2020",
-   "link": "https://www.moneycontrol.com/news/business/markets/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020-14073532.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T13:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Rupee hits six-month high of 93.91 against dollar on oil price decline",
-   "link": "https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Paddy procurement to infuse ₹16,000 cr into Uttar Pradesh's rural economy",
-   "link": "https://www.business-standard.com/economy/uttar-pradesh/paddy-procurement-to-infuse-16-000-cr-into-uttar-pradesh-s-rural-economy-126110601545_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
