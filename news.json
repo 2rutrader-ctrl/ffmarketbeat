@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:01:28.027638+00:00",
+ "updated": "2026-11-08T13:15:49.983635+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2195,19 +2195,6 @@
     "topic": "How SEBI rules shape the market",
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "India's forex reserves drop by $2.69 bn to $717 bn",
-   "link": "https://www.thehindu.com/business/markets/indias-forex-reserves-drop-by-269-bn-to-717-bn/article71674389.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T13:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   },
   {
