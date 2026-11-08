@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-08T14:45:49.490165+00:00",
+ "updated": "2026-11-08T15:00:01.054857+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Passenger misses train despite reaching station on time; Consumer Commission orders Railways, IRCTC to pay ₹15,620",
+   "link": "https://www.livemint.com/news/india/passenger-misses-train-despite-reaching-station-on-time-consumer-commission-orders-railways-irctc-to-pay-rs-15620-11794140646657.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T14:45:00+00:00",
+   "companies": [
+    "IRCTC"
+   ]
+  },
+  {
+   "title": "RBI cheque book rules: Will existing CTS cheque books become invalid from January 1, 2027? Here's what RBI said",
+   "link": "https://www.livemint.com/money/rbi-cheque-book-rules-will-existing-cts-cheque-books-become-invalid-from-january-1-2027-heres-what-rbi-said-11794143901828.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T14:45:00+00:00"
+  },
   {
    "title": "Assam OIL facility fire: death toll rises to four as another injured dies; four suspended",
    "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece",
