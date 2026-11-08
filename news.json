@@ -1,12 +1,58 @@
 {
- "updated": "2026-11-08T03:01:23.484422+00:00",
+ "updated": "2026-11-08T03:15:50.732347+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (11 of 12 files read, 5269 records scanned, 1 download errors; last error: HTTPError: HTTP Error 404: Not Found)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Explosions rock Iran's Qeshm Island, Jask; two oil tankers hit mines in Strait of Hormuz",
+   "link": "https://www.moneycontrol.com/news/business/explosions-rock-iran-s-qeshm-island-jask-two-oil-tankers-hit-mines-in-strait-of-hormuz-14074655.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T03:00:00+00:00"
+  },
+  {
+   "title": "Amber Enterprises subsidiary IL Jin Electronics files draft papers for Rs 2,500-crore IPO; plans to reduce debt",
+   "link": "https://www.moneycontrol.com/news/business/ipo/amber-enterprises-subsidiary-il-jin-electronics-files-draft-papers-for-rs-2-500-crore-ipo-plans-to-reduce-debt-14074639.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T03:00:00+00:00"
+  },
+  {
+   "title": "Saudi Arabia under attack: Houthis claim missile, drone strikes on Aramco oil facilities, Riyadh airport",
+   "link": "https://www.moneycontrol.com/news/business/saudi-arabia-under-attack-houthis-claim-missile-drone-strikes-on-aramco-oil-facilities-riyadh-airport-14074657.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T03:00:00+00:00"
+  },
+  {
+   "title": "IndiGo Bengaluru-Lucknow flight returns after hijack threat note found onboard; threat declared hoax",
+   "link": "https://www.moneycontrol.com/news/business/indigo-bengaluru-lucknow-flight-returns-after-hijack-threat-note-found-onboard-threat-declared-hoax-14074647.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T03:00:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "SBI expands US footprint, opens first SBIC Bank branch outside California in Texas",
+   "link": "https://www.moneycontrol.com/news/business/sbi-expands-us-footprint-opens-first-sbic-bank-branch-outside-california-in-texas-14074648.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T03:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
   {
    "title": "Indians invest 56% more in foreign stocks and bonds even as overseas remittances fall: What's driving the shift?",
    "link": "https://www.businesstoday.in/personal-finance/story/indians-invest-56-more-in-foreign-stocks-and-bonds-even-as-overseas-remittances-fall-whats-driving-the-shift-566292-2026-11-08",
@@ -3268,65 +3314,6 @@
     "topic": "How trade duties work through markets",
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Gold, silver prices on November 6: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-6-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566088-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "IDBI Bank sale: Finding buyer willing to pay Rs 50,000 crore was remote, says DIPAM secretary",
-   "link": "https://www.businesstoday.in/india/story/restarting-idbi-bank-sale-was-futile-says-dipam-chief-on-rs-52878-crore-deal-report-566079-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:15:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Adani CNG tops ₹100 in Ahmedabad for the first time as fuel rates rise across cities",
-   "link": "https://www.businesstoday.in/india/story/adani-cng-tops-rs100-in-ahmedabad-for-the-first-time-as-fuel-rates-rise-across-cities-566086-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "LIC Q2 FY27: Can improving margins, business mix drive a valuation re-rating?",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/lic-q2-fy27-can-improving-margins-business-mix-drive-a-valuation-re-rating-14072072.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T03:45:00+00:00",
-   "companies": [
-    "LIC"
-   ]
-  },
-  {
-   "title": "Gold, silver and the US political shift: What investors should watch for?",
-   "link": "https://www.moneycontrol.com/news/opinion/gold-silver-and-the-us-political-shift-what-investors-should-watch-for-14071903.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T03:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
