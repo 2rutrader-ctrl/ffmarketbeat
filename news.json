@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-08T03:31:06.241114+00:00",
+ "updated": "2026-11-08T03:45:49.738493+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Ex Tech Mahindra executive shot dead over dog, parking dispute during Diwali visit to Faridabad",
+   "link": "https://www.businesstoday.in/india/story/ex-tech-mahindra-executive-shot-dead-over-dog-parking-dispute-during-diwali-visit-to-faridabad-566350-2026-11-08",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T03:30:00+00:00",
+   "companies": [
+    "Tech Mahindra"
+   ]
+  },
   {
    "title": "Explosions rock Iran's Qeshm Island, Jask; two oil tankers hit mines in Strait of Hormuz",
    "link": "https://www.moneycontrol.com/news/business/explosions-rock-iran-s-qeshm-island-jask-two-oil-tankers-hit-mines-in-strait-of-hormuz-14074655.html",
@@ -3301,19 +3312,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "India US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief?",
-   "link": "https://www.businesstoday.in/latest/economy/story/india-us-trade-deal-democrats-may-challenge-trumps-tariff-policies-but-will-exporters-get-relief-566074-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
   }
  ]
