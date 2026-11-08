@@ -1,12 +1,34 @@
 {
- "updated": "2026-11-08T07:15:51.894560+00:00",
+ "updated": "2026-11-08T07:31:08.804904+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+   "link": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T07:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Mid air hijack scare: IndiGo flight returns to Bengaluru after threat note found in toilet",
+   "link": "https://www.businesstoday.in/india/story/mid-air-hijack-scare-indigo-flight-returns-to-bengaluru-after-threat-note-found-in-toilet-566359-2026-11-08",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T07:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
   {
    "title": "El Niño's ripple effect on India's dairy economy: Why milk supply is becoming a seasonal risk",
    "link": "https://www.thehindubusinessline.com/economy/agri-business/el-ninos-ripple-effect-on-indias-dairy-economy-why-milk-supply-is-becoming-a-seasonal-risk/article71677563.ece",
@@ -3001,89 +3023,6 @@
    "published": "2026-11-06T07:45:00+00:00"
   },
   {
-   "title": "Gokaldas Exports Q2 Results: PAT rises fivefold to ₹41 crore",
-   "link": "https://www.thehindubusinessline.com/companies/gokaldas-exports-q2-pat-rises-over-fivefold-to-41-crore/article71673117.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Crude oil price gain amid fresh tanker attacks in Strait of Hormuz",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-tops-100-wti-nears-92-amid-fresh-strait-of-hormuz-attacks/article71672815.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T07:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Diwali sweet boxes faces inflation bite as sugar prices surge 30%",
-   "link": "https://www.thehindubusinessline.com/economy/diwali-sweet-boxes-faces-inflation-bite-as-sugar-prices-surge-30/article71673174.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T07:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "IndiGo issues advisory as low visibility hits flight operations at Hyderabad Airport",
-   "link": "https://www.hindustantimes.com/india-news/indigo-issues-advisory-as-low-visibility-hits-flight-operations-at-hyderabad-airport-101793947853394.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:30:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Reliance faces tougher challenge in India's biscuit market than soft drinks, says Britannia CEO",
-   "link": "https://www.thehindubusinessline.com/companies/britannia-ceo-plays-down-reliances-pricing-threat-in-indias-biscuit-market/article71673221.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:30:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "Britannia"
-   ]
-  },
-  {
-   "title": "Is your cooking oil making you sick? An Ayurvedic doctor explains the difference between cold-pressed and refined oils",
-   "link": "https://www.hindustantimes.com/lifestyle/health/coldpressed-oils-and-everyday-nutrition-separating-facts-from-myths-101793805668689.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T07:30:00+00:00"
-  },
-  {
-   "title": "Govt bonds emerge as top Asian performers as oil, Treasury yields decline",
-   "link": "https://www.thehindubusinessline.com/markets/govt-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/article71673151.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T07:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3312,6 +3251,66 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-07-09T19:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-07-08T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-06-17T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-06-17T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-05-26T18:00:00+00:00"
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-05-20T18:00:00+00:00",
    "thought": {
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
