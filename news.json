@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:01:28.015946+00:00",
+ "updated": "2026-11-08T16:15:54.367399+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1745,73 +1745,6 @@
    "published": "2026-11-06T16:30:00+00:00",
    "companies": [
     "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "IDBI Bank stake sale: 'Very, very remote' chance of finding another buyer at ₹52,000 crore, says DIPAM Secretary Chawla",
-   "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-very-very-remote-chance-of-finding-another-buyer-at-52-000-crore-says-dipam-secretary-chawla-11793971089575.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Foreign carriers take fight to aviation ministry after Adani blocks 12 airlines",
-   "link": "https://www.livemint.com/news/foreign-carriers-take-fight-to-aviation-min-after-adani-blocks-12-airlines-11793969339931.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Britannia to closely watch Reliance Consumer's entry into biscuit market",
-   "link": "https://www.business-standard.com/companies/news/britannia-to-closely-watch-reliance-consumer-s-entry-into-biscuit-market-126110601859_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "Britannia"
-   ]
-  },
-  {
-   "title": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth",
-   "link": "https://www.livemint.com/auto-news/maruti-suzuki-rides-dhanteras-demand-with-30-000-deliveries-in-one-day-eyes-12-15-festive-growth-11793972553438.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "Maruti Suzuki"
-   ]
-  },
-  {
-   "title": "Angan Guha rejoins Wipro as CEO of its Americas 2 unit, effective Dec 8",
-   "link": "https://www.business-standard.com/companies/news/angan-guha-rejoins-wipro-as-ceo-of-its-americas-2-unit-effective-dec-8-126110601866_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "Wipro"
-   ]
-  },
-  {
-   "title": "IFC extends $150 mn loan to SBI to expand farm credit among rural women",
-   "link": "https://www.business-standard.com/industry/banking/ifc-extends-150-mn-loan-to-sbi-to-expand-farm-credit-among-rural-women-126110601913_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:15:00+00:00",
-   "companies": [
-    "State Bank of India"
    ]
   },
   {
