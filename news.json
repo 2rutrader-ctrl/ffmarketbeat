@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T11:31:12.654630+00:00",
+ "updated": "2026-11-08T11:45:49.411364+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 7 new items (12 files read)"
  },
  "items": [
   {
@@ -2362,30 +2362,6 @@
     "topic": "Why foreign investor flows matter",
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Adani Ports to acquire Europe's second largest liquid storage operator Evos for €2.56 billion",
-   "link": "https://www.businesstoday.in/latest/corporate/story/adani-ports-to-acquire-europes-second-largest-liquid-storage-operator-evos-for-eu2-56-billion-566243-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T11:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Gold rush chokes traffic in Hyderabad's Panjagutta on November 6; not enough sales say jewellers",
-   "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   },
   {
