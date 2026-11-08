@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-08T05:45:52.768738+00:00",
+ "updated": "2026-11-08T06:01:21.018982+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [Errno -5] No address associated with hostname>",
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Janhvi Kapoor gives desi glam clean-girl twist in shimmering silver saree with minimalist makeup",
+   "link": "https://www.hindustantimes.com/lifestyle/fashion/janhvi-kapoor-gives-desi-glam-clean-girl-twist-in-shimmering-silver-saree-with-minimalist-makeup-101794111950399.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T06:00:00+00:00"
+  },
+  {
+   "title": "AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week",
+   "link": "https://www.moneycontrol.com/news/business/ai-stocks-lose-their-shine-india-gains-fpis-pump-rs-38-971-crore-into-equities-in-a-week-14074703.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T06:00:00+00:00"
+  },
+  {
+   "title": "Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more",
+   "link": "https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T06:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms",
    "link": "https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html",
@@ -3138,141 +3167,6 @@
    "published": "2026-11-06T06:15:00+00:00"
   },
   {
-   "title": "Bond yield rise squeezes banks' Q2 treasury gains",
-   "link": "https://www.livemint.com/economy/banks-treasury-income-earnings-bond-yields-11793867170209.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T06:00:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
-   "link": "https://www.moneycontrol.com/news/business/markets/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade-14072283.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Dhanteras 2026 shopping: Gold, silver to stocks — experts unveil investment strategy for wealth creation in Samvat 2083",
-   "link": "https://www.livemint.com/market/stock-market-news/dhanteras-2026-shopping-gold-silver-to-stocks-experts-unveil-investment-strategy-for-wealth-creation-in-samvat-2083-11793936133314.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: Buying gold or silver? Know how jewellery, coins, ETFs and SGBs are taxed",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-buying-gold-or-silver-know-how-jewellery-coins-etfs-and-sgbs-are-taxed-14071715.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Apollo Hospitals Q2FY27: Growth drivers intact; restructuring is the near-term overhang",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/apollo-hospitals-q2fy27-growth-drivers-intact-restructuring-is-the-near-term-overhang-14072183.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00",
-   "companies": [
-    "Apollo Hospitals"
-   ]
-  },
-  {
-   "title": "Jewellery stocks performance on Dhanteras 2026: Titan, Kalyan Jewellers, Senco Gold - How gold, silver shares are faring",
-   "link": "https://www.livemint.com/market/stock-market-news/jewellery-stocks-performance-on-dhanteras-2026-titan-kalyan-jewellers-senco-gold-how-gold-silver-shares-are-faring-11793938815833.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00",
-   "companies": [
-    "Titan"
-   ],
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Daily Voice: FIIs may return to India as AI rally loses steam, but there's a catch",
-   "link": "https://www.moneycontrol.com/news/business/markets/daily-voice-fiis-may-return-to-india-as-ai-rally-loses-steam-but-there-s-a-catch-14071899.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00"
-  },
-  {
-   "title": "Mahindra & Mahindra: Auto momentum offsets farm softness",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/mahindra-mahindra-auto-momentum-offsets-farm-softness-14072276.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
-  },
-  {
-   "title": "Gold price correction brings buyers back to jewellery stores, but demand shifts to lightweight pieces",
-   "link": "https://www.moneycontrol.com/news/business/commodities/gold-price-correction-brings-buyers-back-to-jewellery-stores-but-demand-shifts-to-lightweight-pieces-14072175.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "RBI to meet bankers, industry stakeholders on Nov 12 to discuss ECL provisioning framework",
-   "link": "https://www.moneycontrol.com/news/business/banks/rbi-to-meet-bankers-industry-stakeholders-on-nov-12-to-discuss-ecl-provisioning-framework-14072234.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00"
-  },
-  {
-   "title": "8.95% KERALA INFRASTRUCTURE INVESTMENT FUND BOARD 20/Dec/2030 Bond Price, Coupon Rate, Issue Date, Maturity Date",
-   "link": "https://www.moneycontrol.com/bonds/corporate-bonds/8-95-kerala-infrastructure-investment-fund-board-20-dec-2030/INE658F08102",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T06:00:00+00:00"
-  },
-  {
-   "title": "From orphanage school to Rs 5 crore portfolio: How a 38-year-old built wealth without stock-picking or IPO bets",
-   "link": "https://www.moneycontrol.com/news/business/markets/from-orphanage-school-to-rs-5-crore-portfolio-how-a-38-year-old-built-wealth-without-stock-picking-or-ipo-bets-14072374.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T06:00:00+00:00"
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3323,6 +3217,108 @@
     "short": "ECB",
     "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
    }
+  },
+  {
+   "title": "Monetary policy decisions",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-10-29T13:15:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-10-28T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "October 2026 euro area bank lending survey",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-10-27T00:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-10-13T18:00:00+00:00"
+  },
+  {
+   "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-10-08T08:30:00+00:00"
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-10-07T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Jefferson, The U.S. Economy and Monetary Policy",
+   "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-10-01T17:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Barr, Economic Conditions and Monetary Policy",
+   "link": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-09-29T16:40:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Cook, An Update on AI and the Economy",
+   "link": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-09-28T17:25:00+00:00"
   }
  ]
 }
