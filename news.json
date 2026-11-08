@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-08T13:45:54.334574+00:00",
+ "updated": "2026-11-08T14:01:25.402027+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Technical View: Nifty 50 ends 7-day rally, further consolidation likely with 24,800 as key support; Bank Nifty risks further profit booking below 58,700",
+   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-ends-7-day-rally-further-consolidation-likely-with-24-800-as-key-support-bank-nifty-risks-further-profit-booking-below-58-700-14074983.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T13:45:00+00:00"
+  },
+  {
+   "title": "Rupee, bond outlook in Samvat 2083 hinges on West Asia, inflation, flows",
+   "link": "https://www.business-standard.com/economy/news/rupee-bond-outlook-in-samvat-2083-hinges-on-west-asia-inflation-flows-126110800392_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T13:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
+   "link": "https://www.moneycontrol.com/news/business/economy/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan-14074971.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T13:45:00+00:00"
+  },
+  {
+   "title": "Warfare technology finds new use on Britain's farms to boost crop yields",
+   "link": "https://www.business-standard.com/world-news/warfare-technology-finds-new-use-on-britain-s-farms-to-boost-crop-yields-126110800323_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T13:45:00+00:00"
+  },
   {
    "title": "Toll in OIL's Assam facility fire rises to 4 as another injured dies",
    "link": "https://www.thehindubusinessline.com/companies/toll-in-oils-assam-facility-fire-rises-to-4-as-another-injured-dies/article71680935.ece",
@@ -2049,44 +2086,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-stock-market-holiday-nse-bse-open-on-sunday-but-closed-this-day-muhurat-trading-date-time-samvat-2083-11793967554645.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:00:00+00:00"
-  },
-  {
-   "title": "Airtel brings back ₹299 plan on churn concerns | Company Business News",
-   "link": "https://www.livemint.com/companies/news/bharti-airtel-299-prepaid-mobile-plan-subscribers-arpu-11793965930251.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "Hindalco beats Q2 estimates as strong metal prices offset rising input costs",
-   "link": "https://www.livemint.com/companies/company-results/hindalco-beats-q2-estimates-as-strong-metal-prices-offset-rising-input-costs-11793962947194.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:00:00+00:00",
-   "companies": [
-    "Hindalco"
-   ]
-  },
-  {
-   "title": "Silver price in Chennai today, Nov 6, 2026: Up or down on Dhanteras? Check latest rate in 'Gateway to South India'",
-   "link": "https://www.livemint.com/money/silver-price-in-chennai-today-nov-6-2026-up-or-down-on-dhanteras-check-latest-rate-in-gateway-to-south-india-11793963705701.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T14:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
