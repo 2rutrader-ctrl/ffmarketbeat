@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T07:01:29.839579+00:00",
+ "updated": "2026-11-08T07:15:51.894560+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 15 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
   {
@@ -3084,69 +3084,6 @@
    }
   },
   {
-   "title": "Gold outlook: Why Jim Rogers says everybody should have gold under their bed",
-   "link": "https://www.businesstoday.in/markets/stocks/story/gold-outlook-why-jim-rogers-says-everybody-should-have-gold-under-their-bed-566122-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T07:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Dhanteras 2026: CAIT expects ₹1 lakh crore in gold & silver sales, AIJGF projects 10% YoY increase",
-   "link": "https://www.businesstoday.in/india/story/dhanteras-2026-cait-expects-rs1-lakh-crore-in-gold-silver-sales-aijgf-projects-10-yoy-increase-566100-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Britannia Q2 results: Revenue climbs to Rs 5,542 crore, profit rises 10%; stock reacts",
-   "link": "https://www.businesstoday.in/markets/stocks/story/britannia-q2-results-revenue-climbs-to-rs-5542-crore-profit-rises-10-stock-reacts-566107-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:15:00+00:00",
-   "companies": [
-    "Britannia"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nifty, Sensex escape Wall Street, Asia rout that wipes out over $2 trillion; IT stocks rally; here's why",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-sensex-escape-wall-street-asia-rout-that-wipes-out-over-2-trillion-it-stocks-rally-heres-why-566095-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:15:00+00:00"
-  },
-  {
-   "title": "Gold price crashes Rs 2,000, silver down by Rs 3,000 on Dhanteras 2026; key levels to track",
-   "link": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-time-to-buy-566102-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T07:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3320,6 +3257,61 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-09-16T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-08-25T18:00:00+00:00"
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-08-19T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-07-29T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-07-14T18:00:00+00:00"
+  },
+  {
+   "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-07-09T19:00:00+00:00",
    "thought": {
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
