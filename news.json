@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-08T15:45:52.458646+00:00",
+ "updated": "2026-11-08T16:01:28.015946+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "The Democratic surge will cap Trump's reach at the Fed",
+   "link": "https://www.hindustantimes.com/world-news/the-democratic-surge-will-cap-trump-s-reach-at-the-fed-101794139981256.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T15:45:00+00:00"
+  },
   {
    "title": "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
    "link": "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
@@ -1805,53 +1813,6 @@
    "companies": [
     "State Bank of India"
    ]
-  },
-  {
-   "title": "Gokaldas Exports Q2 results: Net profit soars 410% YoY to Rs 41 crore",
-   "link": "https://www.moneycontrol.com/news/business/gokaldas-exports-q2-results-net-profit-soars-410-yoy-to-rs-41-crore-14073719.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Sebi warns Dabur India over delay in disclosing USFDA warning letter",
-   "link": "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Record FII selling of ₹4.55 trillion meets record DII buying in Samvat 2082",
-   "link": "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:00:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "major fire at Oil India Limited's Tengakhat facility in Assam",
-   "link": "https://www.thehindu.com/news/national/assam/one-killed-and-six-injured-in-fire-at-an-oil-facility-in-assam/article71674463.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T16:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
