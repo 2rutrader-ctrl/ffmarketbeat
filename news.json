@@ -1,12 +1,60 @@
 {
- "updated": "2026-11-08T18:01:26.811688+00:00",
+ "updated": "2026-11-08T18:15:55.736045+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Recovery signals: Sensex valuation rebounds as November rally gathers pace",
+   "link": "https://www.business-standard.com/markets/news/recovery-signals-sensex-valuation-rebounds-as-november-rally-gathers-pace-126110501948_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T18:15:00+00:00"
+  },
+  {
+   "title": "No room for pessimism as India's economy continues to show resilience",
+   "link": "https://www.business-standard.com/opinion/columns/no-room-for-pessimism-as-india-s-economy-continues-to-show-resilience-126110800364_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T18:15:00+00:00"
+  },
+  {
+   "title": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors to watch",
+   "link": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-q2-earnings-us-india-inflation-fii-flow-oil-prices-among-10-key-factors-to-watch-14075029.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T18:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "TaMo keeps M&M in its rearview as EV sales drive lead in PV market race",
+   "link": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T18:15:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "Street signs: Select MFs shine, promoter stake rises, IPO market slows",
+   "link": "https://www.business-standard.com/markets/news/street-signs-select-mfs-shine-promoter-stake-rises-ipo-market-slows-126110800592_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T18:15:00+00:00"
+  },
   {
    "title": "GST needs a consumption-based overhaul, not piecemeal refund reforms",
    "link": "https://www.business-standard.com/opinion/columns/gst-needs-a-consumption-based-overhaul-not-piecemeal-refund-reforms-126110800523_1.html",
@@ -1524,30 +1572,6 @@
    "companies": [
     "Tata Power"
    ]
-  },
-  {
-   "title": "Wall Street catches its breath after AI-led multi-trillion-dollar rout",
-   "link": "https://www.business-standard.com/world-news/wall-street-catches-its-breath-after-ai-led-multi-trillion-dollar-rout-126110602035_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T18:15:00+00:00"
-  },
-  {
-   "title": "Hassett says no economic policy shift even after election rout",
-   "link": "https://www.moneycontrol.com/world/hassett-says-no-economic-policy-shift-even-after-election-rout-article-14073875.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T18:15:00+00:00"
-  },
-  {
-   "title": "Investors seek lower valuation as AI backlash clouds Anthropic IPO plans",
-   "link": "https://www.business-standard.com/world-news/investors-seek-lower-valuation-as-ai-backlash-clouds-anthropic-ipo-plans-126110602042_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T18:15:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
