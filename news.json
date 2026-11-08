@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T09:31:13.010938+00:00",
+ "updated": "2026-11-08T09:45:50.547012+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [Errno -5] No address associated with hostname>",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
+  "gdelt": "ok, 16 new items (12 files read)"
  },
  "items": [
   {
@@ -2664,85 +2664,6 @@
     "topic": "Why government spending and tax policy matter",
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Adani Ports: European foray; balance sheet leverage under control, say analysts",
-   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-european-foray-balance-sheet-leverage-under-control-say-analysts-566187-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T09:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "FPIs defer share sales on hopes of LTCG tax cut as block deals slump over 70%",
-   "link": "https://www.moneycontrol.com/news/business/fpis-defer-share-sales-on-hopes-of-ltcg-tax-cut-as-block-deals-slump-over-70-14073063.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T09:45:00+00:00"
-  },
-  {
-   "title": "Buying gold in your wife's name? Know the income-tax implications before making the purchase",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-in-your-wife-s-name-know-the-income-tax-implications-before-making-the-purchase-14072973.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "What 21 years of Dhanteras gold and silver buying could be worth today- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/business/commodities/what-21-years-of-dhanteras-gold-and-silver-buying-could-be-worth-today-14073048.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Congress says people must express outrage over inflation by teaching BJP a lesson in upcoming polls",
-   "link": "https://www.thehindu.com/news/national/congress-says-people-must-express-outrage-over-inflation-by-teaching-bjp-a-lesson-in-upcoming-polls/article71673645.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T09:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Silver may rally 40% by Dhanteras 2027, but experts advise caution amid near-term weakness",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/silver-may-rally-40-by-dhanteras-2027-but-experts-advise-caution-amid-near-term-weakness-14072974.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T09:45:00+00:00"
-  },
-  {
-   "title": "Gold outlook: Is the worst of the correction over, or is another fall on the cards?",
-   "link": "https://www.moneycontrol.com/news/business/markets/gold-outlook-is-the-worst-of-the-correction-over-or-is-another-fall-on-the-cards-14073024.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   },
   {
