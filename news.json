@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:31:15.059278+00:00",
+ "updated": "2026-11-08T15:45:52.458646+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1852,17 +1852,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-06T16:00:00+00:00"
-  },
-  {
-   "title": "ICAR-SBI demonstrates utility of its soil moisture indicator to tribal farmers in Attapady",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/icar-sbi-demonstrates-utility-of-its-soil-moisture-indicator-to-tribal-farmers-in-attapady/article71674829.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
