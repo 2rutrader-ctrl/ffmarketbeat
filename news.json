@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:15:51.226015+00:00",
+ "updated": "2026-11-08T12:31:12.393411+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2268,66 +2268,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-06T12:45:00+00:00"
-  },
-  {
-   "title": "NBFC credit grows 15.4% in September, retail loans lead expansion; gold loans surge 66%",
-   "link": "https://www.moneycontrol.com/news/business/banks/nbfc-credit-grows-15-4-in-september-retail-loans-lead-expansion-gold-loans-surge-66-14073424.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T12:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold, silver or stocks this Dhanteras? Nifty 500 won 9 years, gold 7 and silver 5 since 2006",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-or-stocks-this-dhanteras-nifty-500-won-9-years-gold-7-and-silver-5-since-2006-566245-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Raashii Khanna on Dhanteras traditions, family rituals and the gold heirloom close to her heart: \"Love how it brings health and wealth together\"",
-   "link": "https://www.moneycontrol.com/entertainment/raashii-khanna-on-dhanteras-traditions-family-rituals-and-the-gold-heirloom-close-to-her-heart-love-how-it-brings-health-and-wealth-together-article-14073429.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T12:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Fire at Oil India Ltd's intermediate tank farm in Assam's Dibrugarh kills 1- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/india/fire-at-oil-india-ltd-s-intermediate-tank-farm-in-assam-s-dibrugarh-kills-1-14073430.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "title": "India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee",
-   "link": "https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T12:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
