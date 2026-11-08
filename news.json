@@ -1,12 +1,61 @@
 {
- "updated": "2026-11-08T04:01:21.186375+00:00",
+ "updated": "2026-11-08T04:15:51.988731+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms",
+   "link": "https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-08T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these six days between 9-15 Nov. Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-branches-will-beopen-or-closed-from-9-15-nov-ahead-of-diwali-check-rbi-calend-11794098511014.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T04:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Mint Explainer: Will Sebi's new rules on currency derivatives help the falling rupee?",
+   "link": "https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T04:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "How SBI is steadily catching up with HDFC Bank in the margin race",
+   "link": "https://www.livemint.com/companies/news/how-sbi-is-steadily-catching-up-with-hdfc-bank-in-the-margin-race-11793966592420.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-08T04:15:00+00:00",
+   "companies": [
+    "HDFC Bank",
+    "State Bank of India"
+   ]
+  },
   {
    "title": "SBI expands US footprint as California subsidiary opens first Texas branch",
    "link": "https://www.business-standard.com/companies/news/sbi-expands-us-footprint-as-california-subsidiary-opens-first-texas-branch-126110800036_1.html",
@@ -3269,48 +3318,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-06T04:45:00+00:00"
-  },
-  {
-   "title": "Sensex opens in red day after 2,000-point spike; rout in global markets",
-   "link": "https://www.hindustantimes.com/business/bse-sensex-today-live-nifty-today-gold-price-silver-price-indian-stocks-2000-point-spike-global-markets-rout-tech-selloff-101793933721043.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:30:00+00:00"
-  },
-  {
-   "title": "Ravana's throne in Ramayana was made out of 24K gold, cost ₹1 crore; Surpanakha's chariot cost ₹1.5 crore, reveals art director",
-   "link": "https://www.hindustantimes.com/entertainment/bollywood/ravana-throne-in-ramayana-was-made-out-of-24k-gold-cost-1-crore-surpanakha-chariot-cost-1-5-crore-reveals-art-director-ramesh-yash-rakul-preet-singh-101793936128977.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Healthcare Global Enterprises Q2 net profit declines 55% to ₹9.25 cr",
-   "link": "https://www.thehindubusinessline.com/companies/healthcare-global-enterprises-q2-net-profit-declines-55-to-925-cr/article71672726.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T04:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Will AI backlash delay Anthropic IPO? Investors raise doubts",
-   "link": "https://www.thehindubusinessline.com/markets/will-ai-backlash-delay-anthropic-ipo-investors-raise-doubts/article71672682.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T04:30:00+00:00"
   }
  ]
 }
