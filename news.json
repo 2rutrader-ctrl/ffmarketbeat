@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:00:01.054857+00:00",
+ "updated": "2026-11-08T15:01:29.746520+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1927,87 +1927,6 @@
    "companies": [
     "Wipro"
    ]
-  },
-  {
-   "title": "Correction in gold prices boosts Dhanteras sales, footfalls for jewellers",
-   "link": "https://www.business-standard.com/industry/news/correction-in-gold-prices-boosts-dhanteras-sales-footfalls-for-jewellers-126110601777_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-06T15:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Airtel restores ₹299 prepaid plan withdrawn in August as additions slow",
-   "link": "https://www.business-standard.com/companies/news/airtel-restores-299-prepaid-plan-withdrawn-in-august-as-additions-slow-126110601758_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "Bombay HC plea seeks RBI direction for Tata Sons' stock market listing",
-   "link": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00"
-  },
-  {
-   "title": "Dhanteras rush: Maruti expects 30,000 deliveries, Tata Motors over 12,000; Mahindra grapples with tight SUV stocks",
-   "link": "https://www.businesstoday.in/auto/story/dhanteras-rush-maruti-expects-30000-deliveries-tata-motors-over-12000-mahindra-grapples-with-tight-suv-stocks-566280-2026-11-06",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00",
-   "companies": [
-    "Maruti Suzuki",
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "Pressure on rupee continues in Samvat 2082; 10-year bond yields harden",
-   "link": "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Singapore court orders seizure, sale of Tata Power's subsidiary shares",
-   "link": "https://www.business-standard.com/companies/news/singapore-court-orders-seizure-sale-of-tata-power-s-subsidiary-shares-126110601737_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "Aster DM Quality Care Q2 net profit more than doubles to ₹262 crore",
-   "link": "https://www.business-standard.com/companies/quarterly-results/aster-dm-quality-care-q2-net-profit-more-than-doubles-to-262-crore-126110601753_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-06T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
