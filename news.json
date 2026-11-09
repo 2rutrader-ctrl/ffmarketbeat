@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:15:49.520251+00:00",
+ "updated": "2026-11-09T08:31:13.517769+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,14 @@
   "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Alphabet mulls Asia bond sale as AI concerns fuel global volatility",
+   "link": "https://www.business-standard.com/world-news/alphabet-mulls-asia-bond-sale-as-ai-concerns-fuel-global-volatility-126110900413_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T08:30:00+00:00"
+  },
   {
    "title": "Data Patterns: Why defence stock is up 8% today despite 56% fall in Q2 net profit",
    "link": "https://www.businesstoday.in/markets/stocks/story/data-patterns-why-defence-stock-is-up-today-despite-fall-in-q2-net-profit-566450-2026-11-09",
@@ -1821,14 +1829,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T09:00:00+00:00"
-  },
-  {
-   "title": "Hyderabad's Osmania General Hospital introduces 48-hour weekly duty limit for junior doctors, interns",
-   "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-osmania-general-hospital-introduces-48-hour-weekly-duty-limit-for-junior-doctors-interns/article71677573.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T08:30:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
