@@ -1,12 +1,54 @@
 {
- "updated": "2026-11-09T12:45:55.495332+00:00",
+ "updated": "2026-11-09T13:01:30.987377+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 21 new items (12 files read)"
+  "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI said to query bank valuations of some bond derivative trades",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/article71682416.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:45:00+00:00"
+  },
+  {
+   "title": "Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns",
+   "link": "https://www.hindustantimes.com/world-news/us-news/oil-prices-today-brent-crude-wti-fall-as-trump-rules-out-fresh-iran-strikes-amid-strait-of-hormuz-concerns-101794225386109.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T12:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Nifty holds 25,000 after volatile session; PSU Banks surge 3.7%, IT drags",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-holds-25000-after-volatile-session-psu-banks-surge-37-it-drags/article71682374.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:45:00+00:00"
+  },
+  {
+   "title": "MakeMyTrip's India arm gets SEBI nod to float IPO - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/article71681826.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Alphabet eyes $3 billion bond sale in Hong Kong, Singapore: How Google parent is leveraging Asian markets amid AI fears",
    "link": "https://www.livemint.com/market/stock-market-news/alphabet-eyes-3-billion-bond-sale-in-hong-kong-singapore-how-google-parent-is-leveraging-asian-markets-amid-ai-fears-11794219861137.html",
