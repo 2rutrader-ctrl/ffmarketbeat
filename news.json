@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-09T04:15:52.568013+00:00",
+ "updated": "2026-11-09T04:31:31.907581+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error timed out>",
   "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
