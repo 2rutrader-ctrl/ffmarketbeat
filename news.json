@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T13:15:54.038876+00:00",
+ "updated": "2026-11-09T13:31:14.862895+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 29 new items (12 files read)"
+  "gdelt": "ok, 33 new items (12 files read)"
  },
  "items": [
   {
@@ -1959,17 +1959,6 @@
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
-  },
-  {
-   "title": "Tata Steel net up 18% in Q2 on better realisation - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/tata-steel-net-up-18-in-q2-on-better-realisation/article71678169.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T13:30:00+00:00",
-   "companies": [
-    "Tata Steel"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
