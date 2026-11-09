@@ -1,12 +1,114 @@
 {
- "updated": "2026-11-09T08:01:30.964926+00:00",
+ "updated": "2026-11-09T08:15:49.520251+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 16 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Data Patterns: Why defence stock is up 8% today despite 56% fall in Q2 net profit",
+   "link": "https://www.businesstoday.in/markets/stocks/story/data-patterns-why-defence-stock-is-up-today-despite-fall-in-q2-net-profit-566450-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T08:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Oil lamp left overnight sparks deadly fire in MP's Katni, kills 6 of family including infant",
+   "link": "https://www.hindustantimes.com/india-news/oil-lamp-left-overnight-sparks-deadly-fire-in-mp-s-katni-kills-6-of-family-including-infant-101794207540839.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T08:15:00+00:00"
+  },
+  {
+   "title": "Bosch share price falls below Rs 50K mark after stock split, 3:1 bonus issue and Q2 results",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bosch-share-price-falls-below-rs-50k-mark-after-stock-split-31-bonus-issue-and-q2-results-566466-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T08:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch",
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-09-2026-nifty-50-futures-scope-for-a-near-term-correction-wait-and-watch/article71681466.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T08:00:00+00:00"
+  },
+  {
+   "title": "Brent oil futures flat after Trump's remarks on Iran war - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/brent-oil-futures-flat-after-trumps-remarks-on-iran-war/article71681409.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T08:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "India could benefit from US midterm outcome via lower oil prices and yields: Axis MF",
+   "link": "https://www.thehindubusinessline.com/economy/india-could-benefit-from-us-midterm-outcome-via-lower-oil-prices-and-yields-axis-mf/article71681350.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T08:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Rupee rally faces test as AI jitters calm - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rally-faces-test-as-ai-jitters-calm/article71681341.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T08:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Gold rises over 1% as softer oil prices ease inflation worries",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries/article71681460.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T08:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "India bonds could rally some more as fundamentals favour bulls",
+   "link": "https://www.thehindubusinessline.com/markets/india-bonds-could-rally-some-more-as-fundamentals-favour-bulls/article71681355.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T08:00:00+00:00"
+  },
   {
    "title": "OPINION | The Crown Jewel's Sparkle: Why UP's road to its economic ambitions runs through Noida",
    "link": "https://www.moneycontrol.com/news/opinion/the-crown-jewel-s-sparkle-why-up-s-road-to-its-economic-ambitions-runs-through-noida-14075306.html",
