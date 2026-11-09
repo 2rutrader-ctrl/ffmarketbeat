@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-09T07:01:27.134486+00:00",
+ "updated": "2026-11-09T07:15:53.941569+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Ports shares gain 10% since Q2 earnings, approach Rs 2,000 mark; what's next?",
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-shares-gain-since-q2-earnings-approach-rs-2000-mark-whats-next-566405-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold, silver prices rise after Diwali: What's driving the surge and what should investors do?",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gold-silver-prices-rise-after-diwali-whats-driving-the-surge-and-what-should-investors-do-566424-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Dabur shares fall 2% as SEBI flags delay in disclosure of USFDA warning letter",
+   "link": "https://www.businesstoday.in/markets/stocks/story/dabur-shares-fall-2-as-sebi-flags-delay-in-disclosure-of-usfda-warning-letter-566403-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "China's factory-gate inflation rises in Oct, consumer prices stay muted",
    "link": "https://www.business-standard.com/world-news/china-s-factory-gate-inflation-rises-in-oct-consumer-prices-stay-muted-126110900075_1.html",
@@ -1593,14 +1632,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T07:30:00+00:00"
-  },
-  {
-   "title": "Assam OIL facility fire death toll rises to two",
-   "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-two/article71677435.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T07:15:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
