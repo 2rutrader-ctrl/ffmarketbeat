@@ -1,12 +1,101 @@
 {
- "updated": "2026-11-09T12:01:28.288202+00:00",
+ "updated": "2026-11-09T12:15:54.236857+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee rises 5 paise to close at 93.93 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/Industry/rupee-rises-5-paise-to-close-at-9393-against-us-dollar/article71682383.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
+   "link": "https://www.moneycontrol.com/news/business/markets/sat-upholds-sebi-fraud-findings-against-former-ricoh-india-ceo-takano-cuts-penalty-to-rs-10-lakh-14075566.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat, Monday trade",
+   "link": "https://www.moneycontrol.com/news/business/markets/stock-market-holiday-tomorrow-bse-nse-shut-on-november-10-for-diwali-balipratipada-after-sunday-muhurat-monday-trade-14075578.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00"
+  },
+  {
+   "title": "Wall Street futures rise up to 0.8% as crude oil prices decline; NVIDIA shares fall 5% in pre-market trade",
+   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-rise-up-to-0-8-as-crude-oil-prices-decline-nvidia-shares-fall-5-in-pre-market-trade-14075585.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T12:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "MakeMyTrip's India arm gets SEBI nod to float IPO",
+   "link": "https://www.moneycontrol.com/news/business/ipo/makemytrip-s-india-arm-gets-sebi-nod-to-float-ipo-14075562.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Technical View: Nifty 50 must cross 25,200 to resume uptrend, until then range-bound trading may continue; Bank Nifty faces crucial resistance at 60,400",
+   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-must-cross-25-200-to-resume-uptrend-until-then-range-bound-trading-may-continue-bank-nifty-faces-crucial-resistance-at-60-400-14075563.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00"
+  },
+  {
+   "title": "FPI inflows into FAR G-Secs rise nearly ₹8K cr as rupee gains, yields ease",
+   "link": "https://www.business-standard.com/economy/news/fpi-inflows-into-far-g-secs-rise-nearly-8k-cr-as-rupee-gains-yields-ease-126110900736_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",
+   "link": "https://www.moneycontrol.com/news/business/markets/nifty-it-index-falls-over-1-as-global-ai-stocks-stage-recovery-mphasis-hcl-tech-infosys-down-2-3-14075649.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:15:00+00:00"
+  },
   {
    "title": "FPI investments in FAR G-Secs rise nearly ₹8,000 cr as rupee gains, bond yields ease",
    "link": "https://www.thehindubusinessline.com/markets/fpi-investments-in-far-g-secs-rise-nearly-8000-cr-as-rupee-gains-bond-yields-ease/article71682301.ece",
@@ -1858,14 +1947,6 @@
    "companies": [
     "Tata Steel"
    ]
-  },
-  {
-   "title": "Coca-Cola doubles down on India with affordability, premiumisation push as bottling arm files IPO papers",
-   "link": "https://www.moneycontrol.com/news/business/coca-cola-doubles-down-on-india-with-affordability-premiumisation-push-as-bottling-arm-files-ipo-papers-14074444.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T12:15:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
