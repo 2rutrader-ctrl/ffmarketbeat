@@ -1,12 +1,123 @@
 {
- "updated": "2026-11-09T09:31:15.463938+00:00",
+ "updated": "2026-11-09T09:45:51.838356+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 37 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here",
+   "link": "https://www.livemint.com/money/purchased-gold-during-dhanteras-diwali-puja-done-want-to-keep-in-bank-locker-rules-limits-for-keeping-at-home-here-11794202456198.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Nifty's 25,000 hurdle: Bulls see breakout, bears dig in for weekly expiry today",
+   "link": "https://www.livemint.com/market/stock-market-news/india-stock-markets-today-nifty-sense-levels-call-options-put-options-11794206566782.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "Coal India, IOCL, Vedanta to BPCL: What dividends mean for the Indian stock market amid bull trend buzz? Experts decode",
+   "link": "https://www.livemint.com/market/stock-market-news/coal-india-iocl-vedanta-to-bpcl-what-dividends-mean-for-the-indian-stock-market-amid-bull-trend-buzz-experts-decode-11794196051354.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00",
+   "companies": [
+    "Vedanta",
+    "Coal India",
+    "BPCL"
+   ]
+  },
+  {
+   "title": "Persistent cost inflation delays the treat for Britannia investors",
+   "link": "https://www.livemint.com/market/mark-to-market/britannia-industries-biscuit-industry-input-cost-inflation-gross-margin-ebitda-margin-grammage-cuts-price-hikes-11794211688592.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00",
+   "companies": [
+    "Britannia"
+   ],
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock?",
+   "link": "https://www.livemint.com/market/stock-market-news/why-sun-pharma-advanced-research-shares-surge-11-despite-weak-sentiments-on-d-street-whats-boosting-medical-stock-11794207169769.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "Democrats Promised to Fix the Economy. What Can They Really Do?",
+   "link": "https://www.hindustantimes.com/world-news/democrats-promised-to-fix-the-economy-what-can-they-really-do-101794214970704.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",
+   "link": "https://www.livemint.com/market/stock-market-news/is-stock-market-closed-tomorrow-in-india-holiday-in-nse-bse-or-trading-of-shares-allowed-check-exchange-calendar-11794214735706.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "Early November trend indicates return of FPIs into Indian equities",
+   "link": "https://www.thehindu.com/business/Industry/early-november-trend-indicates-return-of-fpis-into-indian-equities/article71681716.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "Hindustan Coca-Cola IPO filings reveal Thums Up is outperforming Coke across 10 key Indian states",
+   "link": "https://www.livemint.com/companies/news/hindustan-coca-cola-ipo-filings-reveal-thums-up-is-outperforming-coke-across-10-key-indian-states-11794214255906.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
+  {
+   "title": "CAS weighs on NSE, BSE Q2 earnings; MCX rides gold, silver volatility",
+   "link": "https://www.livemint.com/market/cas-weighs-on-nse-bse-q2-earnings-mcx-rides-gold-silver-volatility-11794206165459.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Will old your cheque book become invalid after December 31, 2026? Big development from RBI",
+   "link": "https://www.livemint.com/money/will-old-your-cheque-book-become-invalid-after-december-31-2026-big-development-from-rbi-11794210127344.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T09:45:00+00:00"
+  },
   {
    "title": "Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts",
    "link": "https://www.business-standard.com/markets/news/ashok-leyland-paytm-down-after-6-day-rally-analyst-flags-positive-charts-126110900526_1.html",
@@ -1679,46 +1790,6 @@
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
-  },
-  {
-   "title": "Samvat 2083: Kotak Mutual Fund's equity outlook and preferred schemes",
-   "link": "https://www.thehindubusinessline.com/markets/samvat-2083-kotak-mutual-fund-expects-moderate-equity-returns-favours-quality-stocks/article71677537.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T09:45:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Toll in explosion at OIL facility in Assam rises to two - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/news/toll-in-explosion-at-oil-facility-in-assam-rises-to-two/article71677581.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T09:45:00+00:00"
-  },
-  {
-   "title": "NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras",
-   "link": "https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Assam oil facility fire: Sonowal speaks to Oil India CMD, urges medical care for injured",
-   "link": "https://www.thehindubusinessline.com/news/national/sarbananda-sonowal-calls-oil-india-cmd-over-tengakhat-fire-urges-best-medical-care-for-injured/article71677560.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T09:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
