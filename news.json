@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T08:45:56.471360+00:00",
+ "updated": "2026-11-09T09:01:31.365997+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
   {
@@ -1821,14 +1821,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T09:15:00+00:00"
-  },
-  {
-   "title": "Electricity as the new geography of economic power",
-   "link": "https://www.hindustantimes.com/ht-insight/economy/electricity-as-the-new-geography-of-economic-power-101794039708421.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T09:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
