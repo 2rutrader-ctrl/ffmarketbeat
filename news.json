@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-09T15:45:55.599270+00:00",
+ "updated": "2026-11-09T16:01:30.025228+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Kaju katli, Diet Coke and gold coins: What India bought on quick-commerce platforms this Diwali",
+   "link": "https://www.moneycontrol.com/news/india/kaju-katli-diet-coke-and-gold-coins-what-india-bought-on-quick-commerce-platforms-this-diwali-14075741.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T16:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "HUL increases prices of popular detergent brands Surf Excel, Rin and Wheel",
+   "link": "https://www.moneycontrol.com/news/business/companies/hul-increases-prices-of-popular-detergent-brands-surf-excel-rin-and-wheel-14075758.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T16:00:00+00:00",
+   "companies": [
+    "Hindustan Unilever"
+   ]
+  },
   {
    "title": "RBI extends Abhyudaya Co-operative Bank board supersession by another year",
    "link": "https://www.business-standard.com/finance/news/rbi-extends-abhyudaya-co-operative-bank-board-supersession-by-another-year-126110901201_1.html",
