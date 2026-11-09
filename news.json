@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-09T23:01:29.379902+00:00",
+ "updated": "2026-11-09T23:15:49.789389+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
+   "link": "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T23:00:00+00:00"
+  },
+  {
+   "title": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+   "link": "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T23:00:00+00:00"
+  },
   {
    "title": "Anthropic launches new AI models, Claude Fable 5.2 and Mythos 5.2, ahead of IPO",
    "link": "https://www.hindustantimes.com/business/anthropic-launches-new-ai-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-101794253931618.html",
