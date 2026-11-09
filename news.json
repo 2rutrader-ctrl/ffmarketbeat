@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-09T02:31:09.030708+00:00",
+ "updated": "2026-11-09T02:35:40.970064+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (12 of 12 files read, 6553 records scanned, 0 download errors; last error: none)"
+  "gdelt": "ok, 2 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Monday, 9 November for Diwali? Check cities, RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-branch-closed-monday-9-november-diwali-2026-laxmi-puja-check-your-cities-rbi-calendar-11794186250022.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T02:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Democrats promised to fix the economy. What can they really do?",
+   "link": "https://www.livemint.com/global/democrats-promised-to-fix-the-economy-what-can-they-really-do-11794190401458.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T02:45:00+00:00"
+  },
   {
    "title": "Recovery signals: Sensex valuation rebounds as November rally gathers pace",
    "link": "https://www.business-standard.com/markets/news/recovery-signals-sensex-valuation-rebounds-as-november-rally-gathers-pace-126110501948_1.html",
