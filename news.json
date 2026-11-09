@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-09T16:15:58.388347+00:00",
+ "updated": "2026-11-09T16:31:14.758104+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 13 new items (12 files read)"
+  "gdelt": "ok, 16 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Promoter holding in Nifty 50 firms falls to 40% - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/promoter-holding-in-nifty-50-firms-falls-to-40/article71683186.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T16:30:00+00:00"
+  },
+  {
+   "title": "50 sovereigns of gold jewellery goes missing from PACCS locker in Kanniyakumari",
+   "link": "https://www.thehindu.com/news/cities/Madurai/50-sovereigns-of-gold-jewellery-goes-missing-from-paccs-locker-in-kanniyakumari/article71683543.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T16:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "RBI extends Abhyudaya Bank supersession by another year",
+   "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T16:30:00+00:00"
+  },
   {
    "title": "Kaju katli, Diet Coke and gold coins: What India bought on quick-commerce platforms this Diwali",
    "link": "https://www.moneycontrol.com/news/india/kaju-katli-diet-coke-and-gold-coins-what-india-bought-on-quick-commerce-platforms-this-diwali-14075741.html",
@@ -2006,17 +2035,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T17:15:00+00:00"
-  },
-  {
-   "title": "Lucknow-bound IndiGo flight emergency returns to Bengaluru after hijack threat note found onboard",
-   "link": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T16:30:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
