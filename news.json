@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-09T17:31:14.242255+00:00",
+ "updated": "2026-11-09T17:46:00.560366+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bond yields fall as oil prices soften amid easing geopolitical concerns",
+   "link": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T17:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "DGTR initiates anti-dumping probe into aluminium extrusion imports",
+   "link": "https://www.business-standard.com/economy/news/dgtr-launches-anti-dumping-probe-into-aluminium-imports-from-4-nations-126110901234_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T17:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11%",
+   "link": "https://www.business-standard.com/industry/news/hul-hikes-prices-of-detergent-brands-surf-excel-rin-wheel-by-up-to-11-126110901252_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T17:30:00+00:00",
+   "companies": [
+    "Hindustan Unilever"
+   ]
+  },
   {
    "title": "Eternal shares rebound over 70% from March lows, emerge as top Nifty 50 recovery stock; what drove the rally?",
    "link": "https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html",
@@ -2042,14 +2079,6 @@
    "companies": [
     "IndiGo"
    ]
-  },
-  {
-   "title": "Yemen's Houthis claim missile, drone attacks on Saudi oil facilities, Riyadh airport",
-   "link": "https://www.moneycontrol.com/world/yemen-s-houthis-claim-missile-drone-attacks-on-saudi-oil-facilities-riyadh-airport-article-14074625.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T17:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
