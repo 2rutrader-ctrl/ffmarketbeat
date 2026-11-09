@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T22:45:51.699462+00:00",
+ "updated": "2026-11-09T23:01:29.379902+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
   {
@@ -2170,14 +2170,6 @@
    "companies": [
     "State Bank of India"
    ]
-  },
-  {
-   "title": "Indians invest 56% more in foreign stocks and bonds even as overseas remittances fall: What's driving the shift?",
-   "link": "https://www.businesstoday.in/personal-finance/story/indians-invest-56-more-in-foreign-stocks-and-bonds-even-as-overseas-remittances-fall-whats-driving-the-shift-566292-2026-11-08",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T23:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
