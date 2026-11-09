@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-09T06:45:50.991594+00:00",
+ "updated": "2026-11-09T07:01:27.134486+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "China's factory-gate inflation rises in Oct, consumer prices stay muted",
+   "link": "https://www.business-standard.com/world-news/china-s-factory-gate-inflation-rises-in-oct-consumer-prices-stay-muted-126110900075_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Rupee rises 24 paise to 93.74 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-rises-24-paise-to-93-74-against-us-dollar-during-early-trade-126110900195_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "What the global AI rout means for India | Stock Market News",
    "link": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
