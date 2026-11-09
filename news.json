@@ -1,12 +1,81 @@
 {
- "updated": "2026-11-09T04:01:26.420891+00:00",
+ "updated": "2026-11-09T04:15:52.568013+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Ordering food on a train? IRCTC warns passengers about these unauthorised websites and apps",
+   "link": "https://www.businesstoday.in/india/story/ordering-food-on-a-train-irctc-warns-passengers-about-these-unauthorised-websites-and-apps-566400-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T04:15:00+00:00",
+   "companies": [
+    "IRCTC"
+   ]
+  },
+  {
+   "title": "Stock market: HSBC upgrades India to 'Overweight', cuts China rating to 'Neutral'; here's why",
+   "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-hsbc-upgrades-india-to-overweight-cuts-china-rating-to-neutral-heres-why-566395-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T04:15:00+00:00"
+  },
+  {
+   "title": "Asian stocks steady as AI, West Asia jitters ease; dollar firms on Fed bets",
+   "link": "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T04:15:00+00:00"
+  },
+  {
+   "title": "Oil prices fall on open as Trump says fresh Iran attacks 'unlikely'",
+   "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-open-as-trump-says-fresh-iran-attacks-unlikely-126110900038_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T04:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Why FPIs turned aggressive buyers in November? Choice Wealth explains",
+   "link": "https://www.business-standard.com/markets/news/why-fpis-turned-aggressive-stock-buyers-in-november-choice-wealth-explains-126110900074_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T04:15:00+00:00"
+  },
+  {
+   "title": "Amber Enterprises shares in focus as arm files DRHP for Rs 2,500 crore IPO",
+   "link": "https://www.businesstoday.in/markets/stocks/story/amber-enterprises-shares-in-focus-as-arm-il-jin-electronics-files-drhp-for-rs-2500-crore-ipo-566401-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T04:15:00+00:00"
+  },
+  {
+   "title": "Consumer firms absorb rising costs as inflation squeezes household budgets",
+   "link": "https://www.business-standard.com/industry/news/consumer-firms-absorb-rising-costs-as-inflation-squeezes-household-budgets-126110900100_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T04:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Oil falls as Donald Trump says new Iran attacks 'unlikely'",
    "link": "https://www.thehindu.com/business/Economy/oil-falls-as-donald-trump-says-new-iran-attacks-unlikely/article71681302.ece",
