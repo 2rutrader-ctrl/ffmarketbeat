@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T06:31:13.171719+00:00",
+ "updated": "2026-11-09T06:45:50.991594+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 26 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
   {
@@ -1575,33 +1575,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T07:15:00+00:00"
-  },
-  {
-   "title": "Plea filed in Bombay High Court seeking Tata Sons stock market listing: Report",
-   "link": "https://www.businesstoday.in/latest/corporate/story/plea-filed-in-bombay-high-court-seeking-tata-sons-stock-market-listing-report-566301-2026-11-07",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T06:45:00+00:00"
-  },
-  {
-   "title": "Former Tech Mahindra business head shot dead by neighbour over parking dispute in Faridabad",
-   "link": "https://www.hindustantimes.com/india-news/former-tech-mahindra-business-head-shot-dead-by-neighbour-over-parking-dispute-in-faridabad-101794031990314.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T06:45:00+00:00",
-   "companies": [
-    "Tech Mahindra"
-   ]
-  },
-  {
-   "title": "Robert Pattinson, Nicholas Hoult among contenders for next James Bond role",
-   "link": "https://www.hindustantimes.com/entertainment/hollywood/robert-pattinson-nicholas-hoult-among-contenders-for-next-james-bond-role-101794031499923.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T06:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
