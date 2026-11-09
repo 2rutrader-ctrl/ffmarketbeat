@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-09T11:01:34.057785+00:00",
+ "updated": "2026-11-09T11:15:52.881187+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 31 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bharat Electronics bags additional orders worth Rs 909 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharat-electronics-bags-additional-orders-worth-rs-909-crore-566461-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T11:15:00+00:00",
+   "companies": [
+    "Bharat Electronics"
+   ]
+  },
+  {
+   "title": "Gold, silver prices on November 9: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-9-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566475-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Indian stock market outlook for Samvat 2083: Top 10 factors investors should watch",
+   "link": "https://www.businesstoday.in/markets/story/indian-stock-market-outlook-for-samvat-2083-top-10-factors-investors-should-watch-566472-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T11:15:00+00:00"
+  },
+  {
+   "title": "NSE stock leads turnover; ICICI Bank, HDFC Bank, Indian Hotels shares follow suit",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nse-stock-logs-top-turnover-icici-bank-hdfc-bank-indian-hotels-other-gainers-566500-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T11:15:00+00:00",
+   "companies": [
+    "HDFC Bank",
+    "ICICI Bank"
+   ]
+  },
+  {
+   "title": "Tyra Banks dazzles at Diwali celebration in New York, chooses traditional green and gold brocade lehenga with extravagant diamond necklace",
+   "link": "https://www.hindustantimes.com/lifestyle/fashion/tyra-banks-dazzles-at-diwali-celebration-in-new-york-chooses-traditional-green-and-gold-brocade-lehenga-with-extravagant-diamond-necklace-101794217649517.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Rain Industries shares fall 9% after Q3 results; revenue jumps 23%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/rain-industries-shares-fall-9-after-q3-results-revenue-jumps-23-profit-rises-99-566467-2026-11-09",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T11:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "DGTR proposes anti-dumping duty of up to $565 on rubber glove imports",
    "link": "https://www.business-standard.com/industry/news/dgtr-proposes-anti-dumping-duty-of-up-to-565-on-rubber-glove-imports-126110900501_1.html",
@@ -1818,30 +1888,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
-   "link": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T11:15:00+00:00",
-   "companies": [
-    "Tata Steel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO",
-   "link": "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T11:15:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
