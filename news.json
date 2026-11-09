@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-09T12:31:17.858210+00:00",
+ "updated": "2026-11-09T12:45:55.495332+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 43 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Alphabet eyes $3 billion bond sale in Hong Kong, Singapore: How Google parent is leveraging Asian markets amid AI fears",
+   "link": "https://www.livemint.com/market/stock-market-news/alphabet-eyes-3-billion-bond-sale-in-hong-kong-singapore-how-google-parent-is-leveraging-asian-markets-amid-ai-fears-11794219861137.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T12:30:00+00:00"
+  },
+  {
+   "title": "Stock markets end higher amid easing crude oil prices, buying in banks",
+   "link": "https://www.thehindu.com/business/markets/stock-markets-end-higher-amid-easing-crude-oil-prices-buying-in-banks/article71682332.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T12:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Why it will take more than just signing FTAs to boost India's exports",
+   "link": "https://www.livemint.com/economy/why-indian-exporters-struggle-to-benefit-from-ftas-11794222712302.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T12:30:00+00:00"
+  },
   {
    "title": "Rupee rises 5 paise to close at 93.93 against U.S. dollar",
    "link": "https://www.thehindu.com/business/Industry/rupee-rises-5-paise-to-close-at-9393-against-us-dollar/article71682383.ece",
@@ -1928,25 +1957,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T12:45:00+00:00"
-  },
-  {
-   "title": "Tata Steel beats Q2 profit estimates on strong demand, cost savings",
-   "link": "https://www.livemint.com/companies/company-results/tata-steel-q2-profit-iron-ore-demand-noel-tata-steel-production-11794048612978.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T12:45:00+00:00",
-   "companies": [
-    "Tata Steel"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
