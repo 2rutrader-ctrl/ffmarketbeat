@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:45:50.372504+00:00",
+ "updated": "2026-11-09T14:01:34.027918+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,45 @@
   "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US Treasury yields today: 10-year, 30-year bond yields hold steady as investors await US inflation data",
+   "link": "https://www.hindustantimes.com/world-news/us-news/us-treasury-yields-today-10-year-30-year-bond-yields-hold-steady-as-investors-await-us-inflation-data-101794229978035.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T14:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Inside Iran's hidden oil network in China: Leaked letter details how Tehran bypasses US sanctions",
+   "link": "https://www.moneycontrol.com/world/inside-iran-s-hidden-oil-network-in-china-leaked-letter-details-how-tehran-bypasses-us-sanctions-article-14075665.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T13:45:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Norwest Venture Partners and Kedaara Capital-backed Veritas Finance IPO gets SEBI nod",
+   "link": "https://www.moneycontrol.com/news/business/ipo/norwest-venture-partners-and-kedaara-capital-backed-veritas-finance-ipo-gets-sebi-nod-14075645.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T13:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "RBI said to query bank valuations of some bond derivative trades",
    "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/article71682416.ece",
@@ -1946,19 +1985,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T15:45:00+00:00"
-  },
-  {
-   "title": "Coca Cola India bottler files IPO papers with SEBI; nearly 100 crore shares on offer, revenue rises 20%",
-   "link": "https://www.businesstoday.in/markets/ipo-corner/story/coca-cola-india-bottler-files-ipo-papers-with-sebi-nearly-100-crore-shares-on-offer-revenue-rises-20-566322-2026-11-07",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T14:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
