@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T17:15:57.815273+00:00",
+ "updated": "2026-11-09T17:31:14.242255+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
   {
@@ -2050,41 +2050,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T17:45:00+00:00"
-  },
-  {
-   "title": "Tech Query: Alkem Laboratories, Intellect Design Arena, Trent, SRF — What is the outlook? Where are these stocks headed?",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-alkem-laboratoriesintellect-design-arena-trent-srf-what-is-the-outlook-where-are-these-stocks-headed/article71674469.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T17:30:00+00:00",
-   "companies": [
-    "Trent"
-   ]
-  },
-  {
-   "title": "Crude Check: Bears make their move - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-bears-make-their-move/article71677755.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T17:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "What Should Investors Do About Canara Bank's Stock? - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-should-investors-do-about-canara-banks-stock/article71673435.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T17:30:00+00:00",
-   "companies": [
-    "Canara Bank"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
