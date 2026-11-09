@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T00:45:49.057756+00:00",
+ "updated": "2026-11-09T01:01:17.729226+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "FAILED: RuntimeError: no usable headlines (10 of 12 files read, 5174 records scanned, 2 download errors; last error: HTTPError: HTTP Error 404: Not Found)"
+  "gdelt": "FAILED: RuntimeError: no usable headlines (9 of 12 files read, 4699 records scanned, 3 download errors; last error: HTTPError: HTTP Error 404: Not Found)"
  },
  "items": [
   {
