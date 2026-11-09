@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T13:01:30.987377+00:00",
+ "updated": "2026-11-09T13:15:54.038876+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
   {
@@ -1970,35 +1970,6 @@
    "companies": [
     "Tata Steel"
    ]
-  },
-  {
-   "title": "Silver anklet units in Salem get a good amount of orders for this year's Deepavali",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T13:15:00+00:00"
-  },
-  {
-   "title": "Assam OIL facility fire death toll rises to three",
-   "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-three/article71677435.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T13:15:00+00:00"
-  },
-  {
-   "title": "China extends gold buying spree to two years as prices drop, adds 25.8 tonnes in October",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/china-extends-gold-buying-spree-to-two-years-as-prices-drop-adds-25-8-tonnes-in-october-14074516.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T13:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
