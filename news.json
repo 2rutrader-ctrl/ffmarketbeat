@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:31:09.941633+00:00",
+ "updated": "2026-11-09T03:45:53.078819+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1387,54 +1387,6 @@
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
-  },
-  {
-   "title": "Nita Ambani wears multi-million-dollar diamond earrings to Manish Malhotra's Diwali bash: here are all the details",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/nita-ambani-wears-multi-million-dollar-diamond-earrings-to-manish-malhotra-diwali-bash-here-are-all-the-details-101794018368672.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T03:45:00+00:00"
-  },
-  {
-   "title": "The week in charts: GST collections, aviation fuel costs, US midterm elections",
-   "link": "https://www.livemint.com/news/the-week-in-charts-gst-collections-aviation-fuel-costs-us-midterm-elections-11793863130914.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T03:45:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "The midterms give Fed more room to raise rates, mut maybe less reason to do so",
-   "link": "https://www.livemint.com/economy/the-midterms-give-fed-more-room-to-raise-rates-mut-maybe-less-reason-to-do-so-11794016324680.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T03:45:00+00:00"
-  },
-  {
-   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 7 Nov ahead of Diwali? Check RBI calendar",
-   "link": "https://www.livemint.com/money/bank-holiday-today-are-sbi-hdfc-icici-branches-open-or-closed-on-saturdayn-these-days-from-2-8-nov-check-rbi-calenda-11794012634040.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T03:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "No fresh curbs on broken rice exports as India banks on steady paddy procurement",
-   "link": "https://www.livemint.com/economy/no-fresh-curbs-on-broken-rice-exports-as-india-banks-on-paddy-procurement-11793964472557.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T03:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
