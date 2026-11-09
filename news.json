@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:15:49.157920+00:00",
+ "updated": "2026-11-09T03:31:09.941633+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1435,17 +1435,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T03:45:00+00:00"
-  },
-  {
-   "title": "Zomato launches 40 km food delivery in seven cities: How to order from restaurants farther away",
-   "link": "https://www.businesstoday.in/technology/news/story/zomato-launches-40-km-food-delivery-in-seven-cities-how-to-order-from-restaurants-farther-away-566226-2026-11-07",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T03:30:00+00:00",
-   "companies": [
-    "Eternal (Zomato)"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
