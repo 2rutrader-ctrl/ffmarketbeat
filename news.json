@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-09T17:46:00.560366+00:00",
+ "updated": "2026-11-09T18:01:34.690404+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 15 new items (12 files read)"
+  "gdelt": "ok, 16 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "L&T bags ₹1,000 - ₹2,500 crore order from Noida Metro Rail Corporation for Aqua Line extension",
+   "link": "https://www.thehindu.com/business/Industry/lt-bags-1000-2500-crore-order-from-noida-metro-rail-corporation-for-aqua-line-extension/article71683873.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T18:00:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
   {
    "title": "Bond yields fall as oil prices soften amid easing geopolitical concerns",
    "link": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
