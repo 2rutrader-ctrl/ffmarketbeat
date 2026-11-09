@@ -1,12 +1,80 @@
 {
- "updated": "2026-11-09T19:45:53.204811+00:00",
+ "updated": "2026-11-09T20:01:26.178599+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil prices slide over 5% as Trump signals no fresh Iran strikes amid talks",
+   "link": "https://www.business-standard.com/world-news/oil-prices-slide-over-5-as-trump-signals-no-fresh-iran-strikes-amid-talks-126110901602_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T20:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Change the way bond derivatives trades are valuated: RBI to some lenders",
+   "link": "https://www.business-standard.com/industry/banking/change-the-way-bond-derivatives-trades-are-valuated-rbi-to-some-lenders-126110901556_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T20:00:00+00:00"
+  },
+  {
+   "title": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism",
+   "link": "https://www.business-standard.com/markets/news/jewellery-stocks-outshine-nifty-as-festive-gold-demand-fuels-optimism-126110901183_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T20:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "October retail inflation may have breached RBI's 6% upper limit: BS poll",
+   "link": "https://www.business-standard.com/economy/news/october-retail-inflation-may-have-breached-rbi-s-6-upper-limit-bs-poll-126110901082_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T20:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Upcoming IPO: Veritas Finance gets Sebi nod to launch public issue – Top things for investors",
+   "link": "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T20:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Canadian dollar underperforms most G10 currencies as oil falls",
+   "link": "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T20:00:00+00:00"
+  },
   {
    "title": "Worker killed as tractor tyre bursts during inflation at Sholinganallur",
    "link": "https://www.thehindu.com/news/cities/chennai/worker-killed-as-tractor-tyre-bursts-during-inflation-at-sholinganallur/article71683505.ece",
@@ -2068,30 +2136,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T23:00:00+00:00"
-  },
-  {
-   "title": "Royal Enfield takes Flying Flea electric motorcycle to Chennai, plans 14 sales and service touchpoints",
-   "link": "https://www.livemint.com/auto-news/royal-enfield-takes-flying-flea-electric-motorcycle-to-chennai-plans-14-sales-and-service-touchpoints-11794068123671.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T20:00:00+00:00",
-   "companies": [
-    "Eicher Motors"
-   ]
-  },
-  {
-   "title": "Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller's valuation | Guide",
-   "link": "https://www.livemint.com/money/personal-finance/exchanging-old-gold-for-new-jewellery-this-diwali-6-things-to-check-before-accepting-your-jeweller-s-valuation-guide-11794066226811.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T20:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
