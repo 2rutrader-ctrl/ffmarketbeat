@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:15:53.941569+00:00",
+ "updated": "2026-11-09T07:31:11.587545+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -1613,25 +1613,6 @@
     "short": "Geopolitics",
     "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
    }
-  },
-  {
-   "title": "BSNL plans inter-circle roaming pact with Vodafone Idea in 12-13 circles",
-   "link": "https://www.thehindubusinessline.com/info-tech/bsnl-plans-roaming-pact-with-vodafone-idea-in-12-13-more-telecom-circles/article71677404.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T07:30:00+00:00",
-   "companies": [
-    "Vodafone Idea"
-   ]
-  },
-  {
-   "title": "IL JIN Electronics files draft papers for ₹2,500-crore IPO",
-   "link": "https://www.thehindubusinessline.com/markets/il-jin-electronics-files-draft-papers-for-2500-crore-ipo/article71677465.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T07:30:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
