@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T06:01:22.521503+00:00",
+ "updated": "2026-11-09T06:15:54.505078+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
   {
@@ -1504,38 +1504,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-07T06:45:00+00:00"
-  },
-  {
-   "title": "China raises gold reserves to 78.3 million ounces in October",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/china-buys-gold-for-24th-straight-month-reserves-rise-to-783-million-ounces/article71677248.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T06:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Noel Tata to retire as Titan Vice-Chairman on November 12 at 70",
-   "link": "https://www.thehindubusinessline.com/companies/noel-tata-to-retire-as-titan-vice-chairman-on-november-12-under-tata-group-age-policy/article71677226.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T06:15:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "Beyond the hectares: India's oil palm mission must measure what it sustains",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/beyond-the-hectares-indias-oil-palm-mission-must-measure-what-it-sustains/article71675858.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T06:15:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
