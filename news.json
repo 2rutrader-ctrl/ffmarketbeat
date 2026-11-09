@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-09T05:45:52.116693+00:00",
+ "updated": "2026-11-09T06:01:22.521503+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 16 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Weekly policy watch: Retail inflation, forex reserves and deposits in focus",
+   "link": "https://www.business-standard.com/economy/news/weekly-policy-watch-india-retail-inflation-forex-reserves-deposit-growth-126110900126_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T05:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Rupee rises 24 paise to 93.74 against U.S. dollar in early trade",
    "link": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-9374-against-us-dollar-in-early-trade/article71681429.ece",
@@ -1523,19 +1536,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T06:15:00+00:00"
-  },
-  {
-   "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments",
-   "link": "https://www.livemint.com/money/personal-finance/gold-etf-folios-surge-164-in-3-years-outpacing-equity-mutual-funds-study-warns-against-fomo-driven-gold-investments-11794021741009.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-07T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
