@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-09T10:31:10.408520+00:00",
+ "updated": "2026-11-09T10:45:53.663801+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 31 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
+   "link": "https://www.business-standard.com/economy/news/india-s-oilmeal-exports-fall-28-5-as-soymeal-loses-to-brazil-argentina-126110900396_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:45:00+00:00"
+  },
+  {
+   "title": "Widowed at 20, worked as SBI sweeper and then became a doctor: Know Pratiksha Tondwalkar's inspiring journey",
+   "link": "https://www.hindustantimes.com/education/success-stories/widowed-at-20-worked-as-sbi-sweeper-and-then-became-a-doctor-know-pratiksha-tondwalkar-s-inspiring-journey-101794219271042.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Govt extends deepsea oil, gas block bidding deadline again to December 10",
+   "link": "https://www.business-standard.com/economy/news/govt-extends-deepsea-oil-gas-block-bidding-deadline-again-to-december-10-126110900479_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T10:45:00+00:00"
+  },
   {
    "title": "Ex-Airtel COO shares how years of work stress affected health: 'At 40, I was paralysed'",
    "link": "https://www.moneycontrol.com/news/trends/ex-airtel-coo-shares-how-years-of-work-stress-affected-health-at-40-i-was-paralysed-14075383.html",
