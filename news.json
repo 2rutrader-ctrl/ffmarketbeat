@@ -1,12 +1,76 @@
 {
- "updated": "2026-11-09T10:01:34.424729+00:00",
+ "updated": "2026-11-09T10:15:55.563183+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 39 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Ex-Airtel COO shares how years of work stress affected health: 'At 40, I was paralysed'",
+   "link": "https://www.moneycontrol.com/news/trends/ex-airtel-coo-shares-how-years-of-work-stress-affected-health-at-40-i-was-paralysed-14075383.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "MC Exclusive | LIC to expand protection business, strengthen digital capabilities over next five years: R Doraiswamy",
+   "link": "https://www.moneycontrol.com/news/business/banks/lic-to-expand-protection-business-strengthen-digital-capabilities-over-next-five-years-r-doraiswamy-14075382.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "Tata Steel shares down 3% post-Q2 results, brokerages cautious about UK operations' growth",
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-steel-shares-down-3-post-q2-results-brokerages-cautious-about-uk-operations-growth-14075524.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Bank Nifty surges 1% to trade above 59,500; PSU banks lead gains: What lies ahead?",
+   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-1-to-trade-above-59-500-psu-banks-lead-gains-what-lies-ahead-14075518.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00"
+  },
+  {
+   "title": "MakeMyTrip's India subsidiary receives Sebi approval to float IPO",
+   "link": "https://www.business-standard.com/companies/news/makemytrip-s-india-subsidiary-receives-sebi-approval-to-float-ipo-126110900451_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "India's April-August oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
+   "link": "https://www.thehindu.com/news/national/indias-april-august-oilmeal-exports-fall-285-as-soymeal-loses-to-brazil-argentina/article71681830.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T10:15:00+00:00"
+  },
   {
    "title": "Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here",
    "link": "https://www.livemint.com/money/purchased-gold-during-dhanteras-diwali-puja-done-want-to-keep-in-bank-locker-rules-limits-for-keeping-at-home-here-11794202456198.html",
@@ -1764,32 +1828,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-07T11:00:00+00:00"
-  },
-  {
-   "title": "Dhanteras 2026: NSE gold receipts hit record trading volume of 2.27 lakh units as demand surges",
-   "link": "https://www.businesstoday.in/personal-finance/story/dhanteras-2026-nse-gold-receipts-hit-record-trading-volume-of-2-27-lakh-units-as-demand-surges-566307-2026-11-07",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T10:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SEBI's new settlement rules effective November 7: Online applications, revised fees, fast track process explained",
-   "link": "https://www.businesstoday.in/markets/story/sebis-new-settlement-rules-effective-november-7-online-applications-revised-fees-fast-track-process-explained-566305-2026-11-07",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-07T10:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
