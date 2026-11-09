@@ -1,12 +1,139 @@
 {
- "updated": "2026-11-09T07:31:11.587545+00:00",
+ "updated": "2026-11-09T07:45:55.294255+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "OPINION | The Crown Jewel's Sparkle: Why UP's road to its economic ambitions runs through Noida",
+   "link": "https://www.moneycontrol.com/news/opinion/the-crown-jewel-s-sparkle-why-up-s-road-to-its-economic-ambitions-runs-through-noida-14075306.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:45:00+00:00"
+  },
+  {
+   "title": "Chennai pollution: Diwali night smog over Chennai airport delays 26 flights, IndiGo flight diverted to Bengaluru",
+   "link": "https://www.moneycontrol.com/city/diwali-night-smoke-over-chennai-airport-delays-26-flights-indigo-flight-diverted-to-bengaluru-article-14075298.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "LIC stock valuation upsets me, says MD & CEO R Doraiswamy",
+   "link": "https://www.moneycontrol.com/banking/lic-stock-valuation-upsets-me-says-md-ceo-r-doraiswamy-article-14075175.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "Rupee rises 24 paise to 93.74 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-24-paise-to-9374-against-us-dollar-in-early-trade/article71681425.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Jio Platforms, Shiprocket, SBI Funds among 116 companies facing share lock-in expiries worth $35 billion",
+   "link": "https://www.moneycontrol.com/news/business/markets/jio-platforms-shiprocket-sbi-funds-among-116-companies-facing-share-lock-in-expiries-worth-35-billion-14075308.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Honasa shares rise nearly 2% as strong Q2 results draw mixed analyst calls",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/honasa-shares-rise-nearly-2-as-strong-q2-results-draw-mixed-analyst-calls/article71681701.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Jubilant FoodWorks shares fall 4.5% as Q2 net profit declines 43%; brokerages give mixed outlook",
+   "link": "https://www.moneycontrol.com/news/business/markets/jubilant-foodworks-shares-fall-4-5-as-q2-net-profit-declines-43-brokerages-give-mixed-outlook-14075357.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Muthoot Finance, Manappuram shares gain up to 3% as gold prices rebound",
+   "link": "https://www.moneycontrol.com/news/business/markets/muthoot-finance-manappuram-shares-gain-up-to-3-as-gold-prices-rebound-14075180.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Indian Overseas Bank launches CBDC app for Digital Rupee transactions",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/indian-overseas-bank-launches-cbdc-app-for-digital-rupee-transactions/article71681750.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Tata Steel slides 2.75% at open despite in-line Q2 results; analysts divided on recovery path",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/tata-steel-slides-275-at-open-despite-in-line-q2-results-analysts-divided-on-recovery-path/article71681592.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nifty slips below 25,000 as IT, power stocks drag; banks, pharma hold firm",
+   "link": "https://www.thehindubusinessline.com/markets/nifty-slips-below-25000-as-it-power-stocks-drag-banks-pharma-hold-firm/article71681395.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-09T07:45:00+00:00"
+  },
   {
    "title": "Adani Ports shares gain 10% since Q2 earnings, approach Rs 2,000 mark; what's next?",
    "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-shares-gain-since-q2-earnings-approach-rs-2000-mark-whats-next-566405-2026-11-09",
