@@ -1,12 +1,54 @@
 {
- "updated": "2026-11-10T13:15:56.889196+00:00",
+ "updated": "2026-11-10T13:31:17.233218+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 33 new items (12 files read)"
+  "gdelt": "ok, 32 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "FIIs invest $2.8 billion in Indian equities in October second half",
+   "link": "https://www.thehindubusinessline.com/markets/fiis-may-return-to-indian-equities-as-global-headwinds-ease-and-domestic-fundamentals-remain-strong-report/article71685694.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:30:00+00:00"
+  },
+  {
+   "title": "Rupee may strengthen to 90 against dollar as India enters sweet spot",
+   "link": "https://www.thehindubusinessline.com/economy/india-in-a-sweet-spot-as-crude-oil-eases-and-foreign-inflows-rise-says-kotak-neo-expert/article71685625.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Weekly Rupee View: Poised for further gains - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewpoised-for-further-gains/article71685989.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Higher US yields could push India towards export-led growth: SBICAPS",
+   "link": "https://www.thehindubusinessline.com/economy/higher-us-yields-could-push-india-towards-export-led-growth-sbicaps/article71685698.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:30:00+00:00"
+  },
   {
    "title": "FPIs turn net buyers in November, pump ₹53,739 crore into Indian equities",
    "link": "https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html",
@@ -2787,14 +2829,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-08T13:45:00+00:00"
-  },
-  {
-   "title": "Toll in OIL's Assam facility fire rises to 4 as another injured dies",
-   "link": "https://www.thehindubusinessline.com/companies/toll-in-oils-assam-facility-fire-rises-to-4-as-another-injured-dies/article71680935.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T13:30:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
