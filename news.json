@@ -1,12 +1,46 @@
 {
- "updated": "2026-11-10T15:31:14.624896+00:00",
+ "updated": "2026-11-10T15:45:58.888881+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 26 new items (12 files read)"
+  "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Calm your spicy food cravings with this chilli oil paneer noodles recipe",
+   "link": "https://www.hindustantimes.com/lifestyle/recipe/calm-your-spicy-food-cravings-with-this-chilli-oil-paneer-noodles-recipe-101794321711721.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T15:45:00+00:00"
+  },
+  {
+   "title": "Bhai Dooj gift tax rules: Got money or gold from your brother? Check when festival presents become taxable",
+   "link": "https://www.livemint.com/money/personal-finance/bhai-dooj-gift-tax-rules-got-money-or-gold-from-your-brother-check-when-festival-presents-become-taxable-11794319980639.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T15:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Brent near $90 offers relief on fiscal, inflation fronts",
+   "link": "https://www.livemint.com/economy/brent-near-90-offers-relief-on-fiscal-inflation-fronts-11794317269583.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T15:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Sonia Gandhi memoir reflects on UPA's economic reforms, 2014 poll defeat",
    "link": "https://www.business-standard.com/india-news/sonia-gandhi-memoir-reflects-on-upa-s-economic-reforms-2014-poll-defeat-126111000858_1.html",
@@ -2872,14 +2906,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "The Democratic surge will cap Trump's reach at the Fed",
-   "link": "https://www.hindustantimes.com/world-news/the-democratic-surge-will-cap-trump-s-reach-at-the-fed-101794139981256.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T15:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
