@@ -1,12 +1,90 @@
 {
- "updated": "2026-11-10T07:01:29.356099+00:00",
+ "updated": "2026-11-10T07:15:51.386537+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus",
+   "link": "https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T07:15:00+00:00"
+  },
+  {
+   "title": "Gold, Silver Outlook: Can Falling Crude Oil Prices Support Precious Metals' Recovery?",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gold-silver-outlook-can-falling-crude-oil-prices-support-precious-metals-recovery-566608-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T07:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
+   "link": "https://www.livemint.com/market/stock-market-news/amfi-rejig-reliances-jio-platforms-nse-lenskart-lg-among-7-stocks-set-for-large-cap-upgrade-vedanta-in-mid-cap-11794286571524.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T07:15:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "Vedanta"
+   ]
+  },
+  {
+   "title": "ITC, Power Grid, ONGC, Coal India, SBI Life: Nifty stocks trade near 52 week lows; what's next?",
+   "link": "https://www.businesstoday.in/markets/stocks/story/itc-power-grid-ongc-coal-india-sbi-life-nifty-stocks-trade-near-52-week-lows-whats-next-566633-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T07:15:00+00:00",
+   "companies": [
+    "State Bank of India",
+    "ITC",
+    "Coal India"
+   ]
+  },
+  {
+   "title": "Rs 53,739 crore FPI inflows in Nov, highest since Sept 2024; why and what's next",
+   "link": "https://www.businesstoday.in/markets/stocks/story/rs-53739-crore-fpi-inflows-in-nov-highest-since-sept-2024-why-and-whats-next-566627-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T07:15:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
+  {
+   "title": "Who is RamG Vallath? Meet ex-Airtel COO who left corporate life to become a speaker; what he said about work stress",
+   "link": "https://www.livemint.com/companies/people/who-is-ramg-vallath-meet-ex-airtel-coo-who-left-corporate-life-to-become-a-speaker-what-he-said-about-work-stress-11794281943743.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T07:15:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Asian stocks ride tech rally higher as oil falls",
+   "link": "https://www.livemint.com/market/stock-market-news/asian-stocks-ride-tech-rally-higher-as-oil-falls-11794291620755.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T07:15:00+00:00"
+  },
   {
    "title": "Easing oil, bond yields to support bank margins, RBI rate hikes likely in Dec: Jefferies",
    "link": "https://www.thehindubusinessline.com/money-and-banking/easing-oil-bond-yields-to-support-bank-margins-rbi-rate-hikes-likely-in-dec-jefferies/article71685084.ece",
