@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-10T18:15:56.023864+00:00",
+ "updated": "2026-11-10T18:31:24.448321+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Power fast-tracks groundwork for ₹30K crore Odisha project",
+   "link": "https://www.business-standard.com/industry/news/adani-power-fast-tracks-groundwork-for-30k-crore-odisha-project-126111000699_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T18:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Profit bonanza for govt OMCs in Q2 FY27 despite crude oil turmoil",
+   "link": "https://www.business-standard.com/economy/news/profit-bonanza-for-govt-omcs-in-q2-fy27-despite-crude-oil-turmoil-126111001053_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T18:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Gold prices fall Rs 500 per 10 gm on subdued festive demand, weak global cues; silver remains steady",
    "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html",
@@ -3316,27 +3340,6 @@
     "short": "US Fed",
     "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
    }
-  },
-  {
-   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-06-17T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-05-26T18:00:00+00:00"
   }
  ]
 }
