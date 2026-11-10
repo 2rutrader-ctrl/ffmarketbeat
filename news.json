@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-10T16:31:13.863499+00:00",
+ "updated": "2026-11-10T16:45:55.855015+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 21 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-10T16:45:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
+  },
   {
    "title": "NTPC submits two applications in second round of Rs 37,500-crore coal gasification scheme",
    "link": "https://www.moneycontrol.com/news/business/ntpc-submits-two-applications-in-second-round-of-rs-37-500-crore-coal-gasification-scheme-14076448.html",
@@ -2984,19 +2997,6 @@
    }
   },
   {
-   "title": "Diwali 2026: Planning to invest in gold savings schemes by jewellers? How they work, benefits, risks and what to check",
-   "link": "https://www.livemint.com/money/diwali-2026-planning-to-invest-in-gold-savings-schemes-by-jewellers-how-they-work-benefits-risks-and-what-to-check-11794141520527.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T16:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3072,19 +3072,6 @@
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
     "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "October 2026 euro area bank lending survey",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-27T00:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
    }
   },
   {
