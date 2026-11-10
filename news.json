@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T08:15:53.366991+00:00",
+ "updated": "2026-11-10T08:31:10.110217+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 15 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
   {
@@ -2282,38 +2282,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Reliance Jio Rs 10,000 plan: Validity, data and other benefits to know",
-   "link": "https://www.moneycontrol.com/technology/reliance-jio-rs-10-000-plan-validity-data-and-other-benefits-to-know-article-14074884.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T08:30:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Gold, silver prices next week: Why analysts warn of fresh pressure despite a strong rally",
-   "link": "https://www.moneycontrol.com/news/business/commodities/gold-silver-prices-next-week-why-analysts-warn-of-fresh-pressure-despite-a-strong-rally-14074831.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T08:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Muhurat Trading Plan: Can Nifty 50 extend its rally for 8th straight session, Bank Nifty hold above 59,000?",
-   "link": "https://www.moneycontrol.com/news/business/markets/muhurat-trading-plan-can-nifty-50-extend-its-rally-for-8th-straight-session-bank-nifty-hold-above-59-000-14074874.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T08:30:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
