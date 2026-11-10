@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-10T22:15:50.701000+00:00",
+ "updated": "2026-11-10T22:31:12.708407+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 7 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
+   "link": "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T22:30:00+00:00"
+  },
+  {
+   "title": "Fed's Bowman Warns of Stock Correction If AI Bets Don't Pan Out",
+   "link": "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T22:30:00+00:00"
+  },
+  {
+   "title": "US Household Delinquencies Rise Slightly, NY Fed Report Shows",
+   "link": "https://www.livemint.com/news/us-news/us-household-delinquencies-rise-slightly-ny-fed-report-shows-11794340179924.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T22:30:00+00:00"
+  },
+  {
+   "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
+   "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T22:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
    "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
@@ -3283,53 +3320,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-25T18:00:00+00:00"
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-08-19T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-29T18:00:00+00:00",
    "thought": {
     "topic": "How the US Federal Reserve reaches markets",
     "short": "US Fed",
