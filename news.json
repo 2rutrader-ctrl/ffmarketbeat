@@ -1,12 +1,111 @@
 {
- "updated": "2026-11-10T09:31:12.423258+00:00",
+ "updated": "2026-11-10T09:46:11.887519+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 21 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
+   "link": "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:45:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes?",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-over-6-in-past-5-sessions-more-rally-from-tomorrow-or-profit-booking-will-dent-returns-hopes-11794292057445.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:45:00+00:00"
+  },
+  {
+   "title": "Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained",
+   "link": "https://www.livemint.com/money/personal-finance/bhai-dooj-2026-financial-gift-gold-etfs-for-your-sibling-how-it-differs-from-mutual-funds-process-rules-explained-11794295936814.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Tata Steel's domestic business shines in Q2; Netherlands uncertainty poses risk",
+   "link": "https://www.livemint.com/market/mark-to-market/tata-steel-domestic-business-q2-netherlands-uncertainty-risk-11794295394886.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:45:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ]
+  },
+  {
+   "title": "Olectra Greentech Q2 results: profit up 5% to ₹52 cr - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/olectra-greentech-q2-results-profit-up-5-to-52-cr/article71684970.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Gold hits $4,135, but silver steals the show as Diwali shuts markets",
+   "link": "https://www.thehindubusinessline.com/markets/gold-hits-4135-silver-outpaces-yellow-metal-as-diwali-shuts-markets/article71685233.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gokaldas Exports eyes ₹450–500 crore capex next year as demand outlook improves",
+   "link": "https://www.thehindubusinessline.com/companies/gokaldas-exports-eyes-450500-crore-capex-next-year-as-demand-outlook-improves/article71685325.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:30:00+00:00"
+  },
+  {
+   "title": "Mutual funds' Nifty 50 allocation falls to 21-year low - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/mutual-funds-nifty-50-allocation-falls-to-21-year-low/article71685515.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:30:00+00:00"
+  },
+  {
+   "title": "FII selling eases in October as technology and telecom attract foreign investors: Motilal Oswal",
+   "link": "https://www.thehindubusinessline.com/markets/fii-selling-eases-in-october-as-technology-and-telecom-attract-foreign-investors-motilal-oswal/article71685538.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:30:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
   {
    "title": "Why Union Budget 2027-28 should focus on resilience and reform",
    "link": "https://www.livemint.com/opinion/online-views/why-union-budget-2027-28-should-focus-on-resilience-and-reform-11794289531132.html",
