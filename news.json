@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:15:54.318544+00:00",
+ "updated": "2026-11-10T12:31:15.576946+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Brent crude falls below $90 a barrel for first time since August",
+   "link": "https://www.hindustantimes.com/world-news/brent-crude-oil-price-falls-below-90-a-barrel-for-first-time-since-august-trump-iran-war-101794308972042.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T12:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "MRF Q2 Results: Net profit declines 27% to ₹387 cr - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/mrf-reports-27-decline-in-q2-pat/article71685759.ece",
