@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:01:30.640122+00:00",
+ "updated": "2026-11-10T18:15:56.023864+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,32 @@
   "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold prices fall Rs 500 per 10 gm on subdued festive demand, weak global cues; silver remains steady",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T18:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "US stocks, bonds fall as CPI data fuel Fed-hike bets",
+   "link": "https://www.moneycontrol.com/news/business/markets/us-stocks-bonds-fall-as-cpi-data-fuel-fed-hike-bets-14076482.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T18:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Oil shock strains FY27 finances, but buffers may contain fiscal slippage",
    "link": "https://www.business-standard.com/opinion/columns/oil-shock-strains-fy27-finances-but-buffers-may-contain-fiscal-slippage-126111000994_1.html",
@@ -3044,54 +3070,6 @@
    "published": "2026-11-09T02:45:00+00:00"
   },
   {
-   "title": "Recovery signals: Sensex valuation rebounds as November rally gathers pace",
-   "link": "https://www.business-standard.com/markets/news/recovery-signals-sensex-valuation-rebounds-as-november-rally-gathers-pace-126110501948_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T18:15:00+00:00"
-  },
-  {
-   "title": "No room for pessimism as India's economy continues to show resilience",
-   "link": "https://www.business-standard.com/opinion/columns/no-room-for-pessimism-as-india-s-economy-continues-to-show-resilience-126110800364_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T18:15:00+00:00"
-  },
-  {
-   "title": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors to watch",
-   "link": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-q2-earnings-us-india-inflation-fii-flow-oil-prices-among-10-key-factors-to-watch-14075029.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T18:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "TaMo keeps M&M in its rearview as EV sales drive lead in PV market race",
-   "link": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T18:15:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
-  },
-  {
-   "title": "Street signs: Select MFs shine, promoter stake rises, IPO market slows",
-   "link": "https://www.business-standard.com/markets/news/street-signs-select-mfs-shine-promoter-stake-rises-ipo-market-slows-126110800592_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T18:15:00+00:00"
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3325,6 +3303,40 @@
     "short": "US Fed",
     "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
    }
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-06-17T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-06-17T18:00:00+00:00",
+   "thought": {
+    "topic": "How the US Federal Reserve reaches markets",
+    "short": "US Fed",
+    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
+   }
+  },
+  {
+   "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-05-26T18:00:00+00:00"
   }
  ]
 }
