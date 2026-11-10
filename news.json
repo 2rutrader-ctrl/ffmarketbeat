@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:45:56.310736+00:00",
+ "updated": "2026-11-10T04:01:22.303949+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2183,17 +2183,6 @@
    "published": "2026-11-08T04:15:00+00:00",
    "companies": [
     "HDFC Bank",
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "SBI expands US footprint as California subsidiary opens first Texas branch",
-   "link": "https://www.business-standard.com/companies/news/sbi-expands-us-footprint-as-california-subsidiary-opens-first-texas-branch-126110800036_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T04:00:00+00:00",
-   "companies": [
     "State Bank of India"
    ]
   },
