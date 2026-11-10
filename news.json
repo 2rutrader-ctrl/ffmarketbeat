@@ -1,12 +1,59 @@
 {
- "updated": "2026-11-10T11:01:33.174815+00:00",
+ "updated": "2026-11-10T11:15:56.978809+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 26 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Mutual funds cut Nifty 50 exposure to 21 year low of 49.4% as investments shift beyond blue chip stocks: Report",
+   "link": "https://www.businesstoday.in/mutual-funds/story/mutual-funds-cut-nifty-50-exposure-to-21-year-low-of-49-4-as-investments-shift-beyond-blue-chip-stocks-report-566706-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T11:15:00+00:00"
+  },
+  {
+   "title": "₹1 lakh bought 33 grams of gold on Dhanteras 2016. This year it bought about 7grams",
+   "link": "https://www.businesstoday.in/latest/trends/photo/rs1-lakh-bought-33-grams-of-gold-on-dhanteras-2016-this-year-it-bought-about-7grams-566698-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Competition for Britannia, Parle, ITC? Reliance Consumer Products expands with 'Independence' biscuits portfolio",
+   "link": "https://www.businesstoday.in/markets/stocks/story/competition-for-britannia-parle-itc-reliance-consumer-products-expands-with-independence-biscuits-portfolio-566668-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T11:15:00+00:00",
+   "companies": [
+    "Reliance Industries",
+    "ITC",
+    "Britannia"
+   ]
+  },
+  {
+   "title": "US debt crisis fears rise after Trump's defeat: Could gold gain as stocks and bonds turn volatile?",
+   "link": "https://www.businesstoday.in/latest/economy/story/us-debt-crisis-fears-rise-after-trumps-defeat-could-gold-gain-as-stocks-and-bonds-turn-volatile-566681-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
    "link": "https://www.moneycontrol.com/news/business/markets/cochin-shipyard-q2-net-profit-halves-to-rs-54-crore-declares-dividend-14076175.html",
@@ -2487,30 +2534,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-08T11:45:00+00:00"
-  },
-  {
-   "title": "Who was Paramjeet Dhankar? Ex-Tech Mahindra Asia Pacific head killed by scrap dealer over parking in Faridabad | Case",
-   "link": "https://www.livemint.com/news/india/who-was-paramjeet-dhankar-ex-tech-mahindra-asia-pacific-head-killed-by-scrap-dealer-over-parking-in-faridabad-case-11794133762372.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T11:15:00+00:00",
-   "companies": [
-    "Tech Mahindra"
-   ]
-  },
-  {
-   "title": "India's forex reserves fall $2.69 billion to $717 billion: Why RBI is selling dollars and what it means for the rupee",
-   "link": "https://www.livemint.com/economy/indias-forex-reserves-fall-2-69-billion-to-717-billion-why-rbi-is-selling-dollars-and-what-it-means-for-the-rupee-11794125996170.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T11:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
