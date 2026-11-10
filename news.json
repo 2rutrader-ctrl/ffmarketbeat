@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T07:45:50.354644+00:00",
+ "updated": "2026-11-10T08:01:28.218072+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 22 new items (12 files read)"
+  "gdelt": "ok, 16 new items (12 files read)"
  },
  "items": [
   {
@@ -2314,22 +2314,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-08T08:30:00+00:00"
-  },
-  {
-   "title": "Nifty, Sensex log worst Samvat returns in 15 years. What lies ahead in 2083?",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-sensex-worst-samvat-returns-15-years-equity-investors-samvat-2083-11793888291373.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T08:00:00+00:00"
-  },
-  {
-   "title": "Muhurat Trading 2026 prediction today for Nifty 50, Sensex, Bank Nifty on Diwali 2026 special session",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T08:00:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
