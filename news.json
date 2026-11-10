@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:25:36.265874+00:00",
+ "updated": "2026-11-10T03:31:11.419912+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2195,17 +2195,6 @@
    "published": "2026-11-08T04:00:00+00:00",
    "companies": [
     "State Bank of India"
-   ]
-  },
-  {
-   "title": "Ex Tech Mahindra executive shot dead over dog, parking dispute during Diwali visit to Faridabad",
-   "link": "https://www.businesstoday.in/india/story/ex-tech-mahindra-executive-shot-dead-over-dog-parking-dispute-during-diwali-visit-to-faridabad-566350-2026-11-08",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T03:30:00+00:00",
-   "companies": [
-    "Tech Mahindra"
    ]
   },
   {
