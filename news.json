@@ -1,12 +1,85 @@
 {
- "updated": "2026-11-10T12:31:15.576946+00:00",
+ "updated": "2026-11-10T12:45:58.109823+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Wall Street futures mixed as Fed's Waller backs rate hike; inflation data in focus",
+   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-mixed-as-fed-s-waller-backs-rate-hike-inflation-data-in-focus-14076289.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Budget 2027: PHDCCI seeks scrapping of LTCG tax on equities, cut in STCG rate to 10%",
+   "link": "https://www.moneycontrol.com/budget/budget-2027-phdcci-seeks-scrapping-of-ltcg-tax-on-equities-cut-in-stcg-rate-to-10-article-14076351.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:45:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
+   "link": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:45:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "FPIs turn net buyers; invest Rs 53,739-crore in Indian equities in first 9 days of November",
+   "link": "https://www.moneycontrol.com/news/business/markets/fpis-turn-net-buyers-invest-rs-53-739-crore-in-indian-equities-in-first-9-days-of-november-14076374.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:45:00+00:00"
+  },
+  {
+   "title": "Gold slips below $4,100, silver at $52 as Brent crude falls below $90; Fed rate hike bets rise",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-slips-below-4-100-silver-at-52-as-brent-crude-falls-below-90-fed-rate-hike-bets-rise-14076373.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Fed Governor Christopher J. Waller favors 25 bps rate hike in December; 50 bps may be needed if inflation persists",
+   "link": "https://www.moneycontrol.com/world/fed-governor-christopher-j-waller-favors-25-bps-rate-hike-in-december-50-bps-may-be-needed-if-inflation-persists-article-14076347.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
   {
    "title": "Brent crude falls below $90 a barrel for first time since August",
    "link": "https://www.hindustantimes.com/world-news/brent-crude-oil-price-falls-below-90-a-barrel-for-first-time-since-august-trump-iran-war-101794308972042.html",
