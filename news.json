@@ -1,12 +1,55 @@
 {
- "updated": "2026-11-10T02:01:26.192068+00:00",
+ "updated": "2026-11-10T02:15:50.757948+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 1 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India eyes solar cell exports as capacity surges: Pralhad Joshi",
+   "link": "https://www.livemint.com/news/solar-cells-export-renewable-energy-pralhad-joshi-interview-11793961012906.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T02:15:00+00:00"
+  },
+  {
+   "title": "Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire",
+   "link": "https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T02:15:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR",
+   "link": "https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T02:15:00+00:00",
+   "companies": [
+    "Tata Power"
+   ],
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Netherlands says 'difficult' to track product origin, remains among top buyers as India continues Russian oil purchase",
+   "link": "https://www.livemint.com/economy/netherlands-difficult-to-track-product-origin-remains-among-top-buyers-as-india-continues-russian-oil-purchase-11794216109816.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T02:15:00+00:00"
+  },
   {
    "title": "RBI extends Abhyudaya Co-operative Bank board supersession for another year",
    "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-extends-supersession-of-abhyudaya-co-operative-bank-board-by-another-year/article71684189.ece",
