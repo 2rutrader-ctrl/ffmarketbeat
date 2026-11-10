@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-10T20:01:24.696502+00:00",
+ "updated": "2026-11-10T20:15:55.128462+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Anthropic IPO: Check OpenAI, Amazon, Alphabet, Pentagon connection; how CEO Amodei's housemates, sister too related",
+   "link": "https://www.livemint.com/companies/news/anthropic-ipo-check-openai-amazon-alphabet-pentagon-connection-how-ceo-amodei-s-housemates-sister-too-related-11794329869622.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T20:00:00+00:00"
+  },
+  {
+   "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+   "link": "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T20:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Corn Soars After USDA Cuts American Yield in Another Surprise",
+   "link": "https://www.livemint.com/market/corn-soars-after-usda-cuts-american-yield-in-another-surprise-11794339085566.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T20:00:00+00:00"
+  },
   {
    "title": "Adani Power fast-tracks groundwork for ₹30K crore Odisha project",
    "link": "https://www.business-standard.com/industry/news/adani-power-fast-tracks-groundwork-for-30k-crore-odisha-project-126111000699_1.html",
@@ -3301,45 +3330,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-07-14T18:00:00+00:00"
-  },
-  {
-   "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-09T19:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-07-08T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-06-17T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
   }
  ]
 }
