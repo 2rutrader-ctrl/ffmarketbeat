@@ -1,12 +1,55 @@
 {
- "updated": "2026-11-10T11:45:55.334546+00:00",
+ "updated": "2026-11-10T12:01:28.729478+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 35 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "MRF Q2 Results: Net profit declines 27% to ₹387 cr - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/mrf-reports-27-decline-in-q2-pat/article71685759.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "FPIs invest $8.2 billion in Indian equities since mid-October: Jefferies",
+   "link": "https://www.thehindubusinessline.com/markets/fpis-pour-82-billion-into-indian-equities-since-mid-october-after-nearly-two-years-of-selling-jefferies/article71685714.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:00:00+00:00"
+  },
+  {
+   "title": "Bajaj Finance issues 5.74 cr warrants to promoter for ₹5,799 cr",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/bajaj-finance-issues-574-cr-warrants-to-promoter-for-5799-cr/article71685893.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:00:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Adani Group plans over $120 billion investment in five years",
+   "link": "https://www.thehindubusinessline.com/companies/adani-group-plans-to-invest-over-120-billion-across-businesses-in-next-five-years/article71685919.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T12:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Brent crude falls to lowest level since August; will markets extend recovery?",
    "link": "https://www.businesstoday.in/markets/stocks/story/brent-crude-falls-to-lowest-level-since-august-will-markets-extend-recovery-566713-2026-11-10",
