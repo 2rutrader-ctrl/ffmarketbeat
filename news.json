@@ -1,12 +1,98 @@
 {
- "updated": "2026-11-10T08:45:54.754388+00:00",
+ "updated": "2026-11-10T09:01:29.642745+00:00",
  "feed_status": {
-  "fed": "ok, 15 items; ok, 4 items",
+  "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 14 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+   "source": "US Federal Reserve Board",
+   "source_key": "fed",
+   "category": "Global",
+   "published": "2026-11-10T09:00:00+00:00"
+  },
+  {
+   "title": "Gold edges lower as focus shifts to US inflation data",
+   "link": "https://www.moneycontrol.com/news/business/markets/gold-edges-lower-as-focus-shifts-to-us-inflation-data-14076164.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-moves-to-keep-spoofing-orders-out-protect-genuine-investors-in-pre-open-trading-and-time-priority-14076084.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "MRF Q2 net profit falls 28% to Rs 369 crore on higher raw material costs; revenue rises 18%",
+   "link": "https://www.moneycontrol.com/news/business/earnings/mrf-q2-net-profit-falls-28pc-to-rs-369-crore-on-higher-raw-material-costs-revenue-rises-18pc-14076126.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Buying gold coins? Check purity, design premiums and buyback policies",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-coins-check-purity-design-premiums-and-buyback-policies-14076091.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Over 50 crude bomb blasts rock Dhaka, bus driver burnt alive amid arson attacks",
+   "link": "https://www.moneycontrol.com/world/over-50-crude-bomb-blasts-rock-dhaka-bus-driver-burnt-alive-amid-arson-attacks-article-14076088.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Brent crude prices today: Crude oil prices fall to $91 a barrel as Trump signals pause in further military strikes on Iran",
+   "link": "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-fall-to-91-a-barrel-as-trump-signals-pause-in-further-military-strikes-on-iran-14076070.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T09:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Trump loses, rupee gains: How US midterm elections triggered a turnaround in India's currency",
    "link": "https://www.businesstoday.in/latest/economy/story/trump-loses-rupee-gains-how-us-midterm-elections-triggered-a-turnaround-in-indias-currency-566646-2026-11-10",
