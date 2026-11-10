@@ -1,12 +1,48 @@
 {
- "updated": "2026-11-10T10:01:31.410998+00:00",
+ "updated": "2026-11-10T10:15:54.504900+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 26 new items (12 files read)"
+  "gdelt": "ok, 22 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil prices fall as Trump signals pause in military action against Iran",
+   "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T10:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Apollo Hospitals stock supported by expansion, value unlocking triggers",
+   "link": "https://www.business-standard.com/markets/news/apollo-hospitals-q2-fy27-results-capacity-expansion-healthco-stock-outlook-126111000308_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:15:00+00:00",
+   "companies": [
+    "Apollo Hospitals"
+   ]
+  },
+  {
+   "title": "Britannia, PepsiCo, HUL rethink recipes as food labelling rules loom",
+   "link": "https://www.business-standard.com/india-news/britannia-pepsico-hul-rethink-recipes-as-food-labelling-rules-loom-126111000348_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:15:00+00:00",
+   "companies": [
+    "Hindustan Unilever",
+    "Britannia"
+   ]
+  },
   {
    "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
    "link": "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
