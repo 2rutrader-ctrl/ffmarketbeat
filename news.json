@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:45:50.651185+00:00",
+ "updated": "2026-11-10T03:01:28.464487+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2206,52 +2206,6 @@
    "published": "2026-11-08T03:30:00+00:00",
    "companies": [
     "Tech Mahindra"
-   ]
-  },
-  {
-   "title": "Explosions rock Iran's Qeshm Island, Jask; two oil tankers hit mines in Strait of Hormuz",
-   "link": "https://www.moneycontrol.com/news/business/explosions-rock-iran-s-qeshm-island-jask-two-oil-tankers-hit-mines-in-strait-of-hormuz-14074655.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T03:00:00+00:00"
-  },
-  {
-   "title": "Amber Enterprises subsidiary IL Jin Electronics files draft papers for Rs 2,500-crore IPO; plans to reduce debt",
-   "link": "https://www.moneycontrol.com/news/business/ipo/amber-enterprises-subsidiary-il-jin-electronics-files-draft-papers-for-rs-2-500-crore-ipo-plans-to-reduce-debt-14074639.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T03:00:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia under attack: Houthis claim missile, drone strikes on Aramco oil facilities, Riyadh airport",
-   "link": "https://www.moneycontrol.com/news/business/saudi-arabia-under-attack-houthis-claim-missile-drone-strikes-on-aramco-oil-facilities-riyadh-airport-14074657.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T03:00:00+00:00"
-  },
-  {
-   "title": "IndiGo Bengaluru-Lucknow flight returns after hijack threat note found onboard; threat declared hoax",
-   "link": "https://www.moneycontrol.com/news/business/indigo-bengaluru-lucknow-flight-returns-after-hijack-threat-note-found-onboard-threat-declared-hoax-14074647.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T03:00:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "SBI expands US footprint, opens first SBIC Bank branch outside California in Texas",
-   "link": "https://www.moneycontrol.com/news/business/sbi-expands-us-footprint-opens-first-sbic-bank-branch-outside-california-in-texas-14074648.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T03:00:00+00:00",
-   "companies": [
-    "State Bank of India"
    ]
   },
   {
