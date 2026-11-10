@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-10T04:01:22.303949+00:00",
+ "updated": "2026-11-10T04:15:51.186145+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 6 new items (12 files read)"
+  "gdelt": "ok, 8 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Beyond the gateway: West Bengal has the products, but needs an export strategy",
+   "link": "https://www.livemint.com/opinion/online-views/west-bengal-export-policy-goods-export-niti-aayog-11794213193794.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T04:15:00+00:00"
+  },
+  {
+   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
+   "link": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T04:15:00+00:00"
+  },
   {
    "title": "Stock market holiday: Are BSE, NSE closed on November 10? Check remaining holidays in 2026",
    "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10",
@@ -2136,55 +2152,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms",
-   "link": "https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T04:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these six days between 9-15 Nov. Check RBI calendar",
-   "link": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-branches-will-beopen-or-closed-from-9-15-nov-ahead-of-diwali-check-rbi-calend-11794098511014.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T04:15:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Mint Explainer: Will Sebi's new rules on currency derivatives help the falling rupee?",
-   "link": "https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T04:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "How SBI is steadily catching up with HDFC Bank in the margin race",
-   "link": "https://www.livemint.com/companies/news/how-sbi-is-steadily-catching-up-with-hdfc-bank-in-the-margin-race-11793966592420.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T04:15:00+00:00",
-   "companies": [
-    "HDFC Bank",
-    "State Bank of India"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
