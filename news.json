@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-10T17:15:54.472335+00:00",
+ "updated": "2026-11-10T17:31:16.993637+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 22 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Govt extends medical devices PLI till FY36, shifts focus to components to cut import dependence",
+   "link": "https://www.moneycontrol.com/news/business/stocks/govt-invites-fresh-applications-under-pli-scheme-for-medical-devices-extends-tenure-till-2035-36-14076436.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T17:15:00+00:00"
+  },
   {
    "title": "Patna Municipal Corporation lists Bihar's first municipal bond on NSE",
    "link": "https://www.thehindubusinessline.com/markets/patna-municipal-corporation-lists-bihars-first-municipal-bond-on-nse/article71686272.ece",
