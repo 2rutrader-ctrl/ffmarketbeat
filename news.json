@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-10T09:01:29.642745+00:00",
+ "updated": "2026-11-10T09:15:56.418056+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 20 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why Union Budget 2027-28 should focus on resilience and reform",
+   "link": "https://www.livemint.com/opinion/online-views/why-union-budget-2027-28-should-focus-on-resilience-and-reform-11794289531132.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T09:15:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
   {
    "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
    "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
@@ -2359,19 +2372,6 @@
    "companies": [
     "Hindalco"
    ]
-  },
-  {
-   "title": "Gold rate on Diwali: 24K at ₹1,43,570 per 10g, check prices in Delhi, Mumbai, Bengaluru, others",
-   "link": "https://www.hindustantimes.com/business/gold-rate-today-24k-22k-gold-silver-prices-in-delhi-mumbai-chennai-bengaluru-november-8-2026-101794126160488.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T09:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
