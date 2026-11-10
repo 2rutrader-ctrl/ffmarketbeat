@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:15:51.793507+00:00",
+ "updated": "2026-11-10T06:31:11.729888+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2301,17 +2301,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Adani Enterprises plans ₹35,000-₹40,000 cr annual capex in next two years",
-   "link": "https://www.business-standard.com/companies/news/adani-enterprises-plans-35-000-40-000-cr-annual-capex-in-next-two-years-126110800133_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T06:30:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
