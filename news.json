@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-10T11:15:56.978809+00:00",
+ "updated": "2026-11-10T11:31:11.583929+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 32 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US Fed's Waller plans to support at least a quarter-point rate hike in December",
+   "link": "https://www.thehindubusinessline.com/news/world/us-feds-waller-plans-to-support-at-least-a-quarter-point-rate-hike-in-december/article71685592.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T11:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Crude oil price fall offers India relief, but exporters await cheaper inputs: IIFT Vice Chancellor K Rangarajan",
+   "link": "https://www.moneycontrol.com/news/business/trade/crude-oil-price-fall-offers-india-relief-but-exporters-await-cheaper-inputs-iift-vice-chancellor-k-rangarajan-14076280.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T11:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Mutual funds cut Nifty 50 exposure to 21 year low of 49.4% as investments shift beyond blue chip stocks: Report",
    "link": "https://www.businesstoday.in/mutual-funds/story/mutual-funds-cut-nifty-50-exposure-to-21-year-low-of-49-4-as-investments-shift-beyond-blue-chip-stocks-report-566706-2026-11-10",
