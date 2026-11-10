@@ -1,12 +1,42 @@
 {
- "updated": "2026-11-10T08:31:10.110217+00:00",
+ "updated": "2026-11-10T08:45:54.754388+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 14 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Trump loses, rupee gains: How US midterm elections triggered a turnaround in India's currency",
+   "link": "https://www.businesstoday.in/latest/economy/story/trump-loses-rupee-gains-how-us-midterm-elections-triggered-a-turnaround-in-indias-currency-566646-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T08:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "RIL, HDFC Bank, Axis, Kotak Bank, VBL and Sona BLW shares among plays on FPI reversal",
+   "link": "https://www.businesstoday.in/markets/stocks/story/ril-hdfc-bank-axis-kotak-bank-vbl-and-sona-blw-shares-among-plays-on-fpi-reversal-566664-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T08:45:00+00:00",
+   "companies": [
+    "HDFC Bank",
+    "Kotak Mahindra Bank"
+   ],
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
   {
    "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
    "link": "https://www.thehindu.com/sci-tech/technology/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/article71684856.ece",
@@ -2255,32 +2285,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "US inflation set to cool in October after two months of sharp increases",
-   "link": "https://www.business-standard.com/world-news/us-inflation-set-to-cool-in-october-after-two-months-of-sharp-increases-126110800246_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T08:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile",
-   "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T08:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   },
   {
