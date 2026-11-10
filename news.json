@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:31:11.729888+00:00",
+ "updated": "2026-11-10T06:45:52.984997+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
@@ -2288,19 +2288,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore",
-   "link": "https://www.livemint.com/money/gold-24k-22k-18k-rate-999-silver-price-today-8-november-retail-diwali-delhi-mumbai-chennai-bangalore-kolkata-coimbatore-11794112139097.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T06:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
