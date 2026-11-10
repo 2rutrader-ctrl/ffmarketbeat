@@ -1,12 +1,62 @@
 {
- "updated": "2026-11-10T16:45:55.855015+00:00",
+ "updated": "2026-11-10T17:01:33.410481+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 13 new items (12 files read)"
+  "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Patna Municipal Corporation lists Bihar's first municipal bond on NSE",
+   "link": "https://www.thehindubusinessline.com/markets/patna-municipal-corporation-lists-bihars-first-municipal-bond-on-nse/article71686272.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T17:00:00+00:00"
+  },
+  {
+   "title": "Q2 Results 10th Nov Oct Highlights: Cochin Shipyard Q2 profit falls 53%, MRF PAT down 28%, Matrimony profit zooms, Kalyan Jewellers, Avanti Feeds, Titagarh Rail Systems, MMTC to announce Q2 results",
+   "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-kalyan-jewellers-mrf-cochin-shipyard-avanti-feeds-titagarh-rail-systems-mntc-company-results-10-november-2026/article71684906.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T17:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India on track for $1 trillion exports in FY27, says Piyush Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/india-on-track-to-achieve-1-trillion-export-target-this-fiscal-says-piyush-goyal/article71687185.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T17:00:00+00:00"
+  },
+  {
+   "title": "India's 2026-27 apple imports may increase 19% to 5.11 lakh tonne on rising demand",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-2026-27-apple-imports-may-increase-19-to-511-lakh-tonne-on-rising-demand/article71686635.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T17:00:00+00:00"
+  },
+  {
+   "title": "National Housing Bank's Q2FY27 net profit declines 15% to ₹417 crore",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/national-housing-banks-q2fy26-net-profit-declines-15-to-417-crore/article71686457.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T17:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
@@ -2982,19 +3032,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-08T18:15:00+00:00"
-  },
-  {
-   "title": "GST needs a consumption-based overhaul, not piecemeal refund reforms",
-   "link": "https://www.business-standard.com/opinion/columns/gst-needs-a-consumption-based-overhaul-not-piecemeal-refund-reforms-126110800523_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T17:00:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
