@@ -1,12 +1,80 @@
 {
- "updated": "2026-11-10T12:45:58.109823+00:00",
+ "updated": "2026-11-10T13:01:34.516847+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "FPIs turn net buyers in November, pump ₹53,739 crore into Indian equities",
+   "link": "https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:00:00+00:00"
+  },
+  {
+   "title": "Most Americans want new US Congress to end Trump's Iran war, repeal tariffs: Survey",
+   "link": "https://www.hindustantimes.com/world-news/most-americans-want-new-us-congress-to-end-trump-iran-war-repeal-tariffs-survey-101794313680764.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T13:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "US midterm results may ease India's oil import bill, but tariff risks stay",
+   "link": "https://www.business-standard.com/economy/news/us-midterm-elections-india-crude-oil-imports-iran-war-russian-oil-tariffs-126111000452_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T13:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "World stocks rise as oil slips below $90 on hopes of US-Iran peace talks",
+   "link": "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T13:00:00+00:00"
+  },
+  {
+   "title": "PHDCCI seeks zero duty on LNG, naphtha, key feedstocks in Budget",
+   "link": "https://www.business-standard.com/economy/news/phdcci-seeks-zero-duty-on-lng-naphtha-key-feedstocks-in-budget-126111000654_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T13:00:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Canada eyes US tariff relief after Trump's midterm election setback",
+   "link": "https://www.business-standard.com/world-news/canada-eyes-us-tariff-relief-after-trump-s-midterm-election-setback-126111000461_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T13:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "Wall Street futures mixed as Fed's Waller backs rate hike; inflation data in focus",
    "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-mixed-as-fed-s-waller-backs-rate-hike-inflation-data-in-focus-14076289.html",
