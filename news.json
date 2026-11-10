@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-10T23:15:51.657656+00:00",
+ "updated": "2026-11-10T23:31:12.276486+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nvidia-backed Nscale considers delaying $35 billion IPO: Report",
+   "link": "https://www.hindustantimes.com/business/nvidiabacked-nscale-considers-delaying-35-billion-ipo-report-101794344144519.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T23:15:00+00:00"
+  },
   {
    "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
    "link": "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
@@ -3312,19 +3320,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-09-28T17:25:00+00:00"
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-09-16T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
   }
  ]
 }
