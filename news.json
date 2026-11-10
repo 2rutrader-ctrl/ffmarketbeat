@@ -1,12 +1,130 @@
 {
- "updated": "2026-11-10T05:15:51.900785+00:00",
+ "updated": "2026-11-10T05:31:09.861119+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 22 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "China's trade surplus tops $1 trn for 2nd straight year, exports jump 35%",
+   "link": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:30:00+00:00"
+  },
+  {
+   "title": "Anthropic IPO: Anthropic retracts $69.3 bn IPO figures, says revised details to follow",
+   "link": "https://www.business-standard.com/world-news/anthropic-retracts-69-3-bn-ipo-figures-says-revised-details-to-follow-126111000143_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:30:00+00:00"
+  },
+  {
+   "title": "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
+   "link": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Hindustan Copper Q2 earnings: Another strong quarter for Miniratna firm? What Anand Rathi expects",
+   "link": "https://www.businesstoday.in/markets/stocks/story/hindustan-copper-q2-earnings-another-strong-quarter-for-miniratna-firm-what-brokerage-anand-rathi-expects-566588-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Kalyan Jewellers India Q2 results today; key expectations, what you should know",
+   "link": "https://www.businesstoday.in/markets/stocks/story/kalyan-jewellers-india-q2-results-today-key-expectations-what-you-should-know-566592-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T05:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Anthropic sends out $69.3 billion IPO details, then retracts, tells banks they will update new figures",
+   "link": "https://www.livemint.com/companies/news/anthropic-sends-out-69-3-billion-ipo-details-then-retracts-tells-banks-they-will-update-new-figures-11794280119925.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:00:00+00:00"
+  },
+  {
+   "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T05:00:00+00:00"
+  },
+  {
+   "title": "Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-10-nov-tuesday-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794279668430.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
+   "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T05:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "China's trade surplus surpasses $1 trillion for 2nd straight year, as exports surge 35%",
+   "link": "https://www.thehindubusinessline.com/news/world/chinas-trade-surplus-surpasses-1-trillion-for-2nd-straight-year-as-exports-surge-35/article71684914.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:00:00+00:00"
+  },
+  {
+   "title": "Trump says US-Iran war 'effectively over' militarily but issues another 'locked and loaded' warning; oil tumbles",
+   "link": "https://www.livemint.com/news/us-news/trump-says-us-iran-war-effectively-over-militarily-but-issues-another-locked-and-loaded-warning-oil-tumbles-11794277541573.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T05:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
   {
    "title": "Oil falls as Trump downplays prospect of escalation with Iran",
    "link": "https://www.moneycontrol.com/news/business/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-14075922.html",
