@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:40:20.152197+00:00",
+ "updated": "2026-11-10T11:45:55.334546+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
@@ -2598,30 +2598,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-08T13:30:00+00:00"
-  },
-  {
-   "title": "Muhurat Trading 2026: Sensex, Nifty edge lower; key sectors to watch",
-   "link": "https://www.businesstoday.in/markets/stocks/story/muhurat-trading-2026-sensex-nifty-edge-lower-key-sectors-to-watch-566377-2026-11-08",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T11:45:00+00:00"
-  },
-  {
-   "title": "Poverty down to 3.9%, so why free ration for 80 crore? PM's economic advisor explains",
-   "link": "https://www.businesstoday.in/latest/economy/story/poverty-down-to-3-9-so-why-free-ration-for-80-crore-pms-economic-advisor-explains-566364-2026-11-08",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T11:45:00+00:00"
-  },
-  {
-   "title": "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi",
-   "link": "https://www.thehindu.com/news/national/notebandi-devastated-economy-votebandi-destroying-polity-congress-slams-pm-modi/article71680863.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T11:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
