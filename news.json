@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:31:17.233218+00:00",
+ "updated": "2026-11-10T13:45:56.951299+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
@@ -2792,43 +2792,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-08T14:15:00+00:00"
-  },
-  {
-   "title": "Technical View: Nifty 50 ends 7-day rally, further consolidation likely with 24,800 as key support; Bank Nifty risks further profit booking below 58,700",
-   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-ends-7-day-rally-further-consolidation-likely-with-24-800-as-key-support-bank-nifty-risks-further-profit-booking-below-58-700-14074983.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T13:45:00+00:00"
-  },
-  {
-   "title": "Rupee, bond outlook in Samvat 2083 hinges on West Asia, inflation, flows",
-   "link": "https://www.business-standard.com/economy/news/rupee-bond-outlook-in-samvat-2083-hinges-on-west-asia-inflation-flows-126110800392_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T13:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-   "link": "https://www.moneycontrol.com/news/business/economy/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan-14074971.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T13:45:00+00:00"
-  },
-  {
-   "title": "Warfare technology finds new use on Britain's farms to boost crop yields",
-   "link": "https://www.business-standard.com/world-news/warfare-technology-finds-new-use-on-britain-s-farms-to-boost-crop-yields-126110800323_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T13:45:00+00:00"
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
