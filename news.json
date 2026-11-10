@@ -1,12 +1,101 @@
 {
- "updated": "2026-11-10T16:15:53.942135+00:00",
+ "updated": "2026-11-10T16:31:13.863499+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 14 new items (12 files read)"
+  "gdelt": "ok, 21 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "NTPC submits two applications in second round of Rs 37,500-crore coal gasification scheme",
+   "link": "https://www.moneycontrol.com/news/business/ntpc-submits-two-applications-in-second-round-of-rs-37-500-crore-coal-gasification-scheme-14076448.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T16:30:00+00:00",
+   "companies": [
+    "NTPC"
+   ]
+  },
+  {
+   "title": "NTPC submits two coal gasification proposals under ₹37,500-crore scheme",
+   "link": "https://www.thehindubusinessline.com/companies/ntpc-submits-two-coal-gasification-proposals-under-centres-37500-crore-scheme/article71686307.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T16:30:00+00:00",
+   "companies": [
+    "NTPC"
+   ]
+  },
+  {
+   "title": "US October inflation exceeds forecasts as consumer prices rise 0.4%; Fed rate hike in focus",
+   "link": "https://www.moneycontrol.com/world/us-october-inflation-exceeds-forecasts-as-consumer-prices-rise-0-4-fed-rate-hike-in-focus-article-14076445.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T16:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Bajaj Finserv subscribes to warrants issued by Bajaj Finance at ₹1,010/ warrant aggregating to ₹5,800 cr",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/bajaj-finserv-subscribes-to-warrantsissued-by-bajaj-finance-at-1010-warrant-aggregating-to-5800-cr/article71686892.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T16:30:00+00:00",
+   "companies": [
+    "Bajaj Finance",
+    "Bajaj Finserv"
+   ]
+  },
+  {
+   "title": "Local manufacturers urge govt to impose duty on Malaysian and Thai imported medical gloves",
+   "link": "https://www.thehindubusinessline.com/news/national/local-manufacturers-urge-govt-to-impose-duty-on-malaysian-and-thai-imported-medical-gloves/article71686820.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T16:15:00+00:00"
+  },
+  {
+   "title": "US CPI inflation slows to 0.4% in October as energy prices ease",
+   "link": "https://www.thehindubusinessline.com/news/world/us-consumer-inflation-slows-to-04-in-october-as-energy-price-pressures-ease/article71686589.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T16:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Housing assistance instalments for 32,000 families this fiscal: Minister",
+   "link": "https://www.thehindu.com/news/national/kerala/housing-assistance-instalments-for-32000-families-this-fiscal-minister/article71686792.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T16:15:00+00:00"
+  },
+  {
+   "title": "US sanctions inflicting 'extraordinary economic pain' on Iran, no need for major combat ops: Rubio",
+   "link": "https://www.hindustantimes.com/world-news/iran-facing-extraordinary-economic-pain-from-us-sanctions-no-need-for-major-combat-operations-marco-rubio-101794323324876.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T16:15:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
   {
    "title": "Calm your spicy food cravings with this chilli oil paneer noodles recipe",
    "link": "https://www.hindustantimes.com/lifestyle/recipe/calm-your-spicy-food-cravings-with-this-chilli-oil-paneer-noodles-recipe-101794321711721.html",
