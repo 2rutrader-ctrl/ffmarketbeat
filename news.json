@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T05:45:48.452350+00:00",
+ "updated": "2026-11-10T06:01:29.991044+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 4 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
   {
@@ -2312,35 +2312,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Janhvi Kapoor gives desi glam clean-girl twist in shimmering silver saree with minimalist makeup",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/janhvi-kapoor-gives-desi-glam-clean-girl-twist-in-shimmering-silver-saree-with-minimalist-makeup-101794111950399.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-08T06:00:00+00:00"
-  },
-  {
-   "title": "AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week",
-   "link": "https://www.moneycontrol.com/news/business/ai-stocks-lose-their-shine-india-gains-fpis-pump-rs-38-971-crore-into-equities-in-a-week-14074703.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T06:00:00+00:00"
-  },
-  {
-   "title": "Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more",
-   "link": "https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T06:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   },
   {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
