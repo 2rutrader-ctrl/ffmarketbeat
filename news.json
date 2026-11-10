@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-10T10:15:54.504900+00:00",
+ "updated": "2026-11-10T10:31:09.329469+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 5 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 22 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
+   "link": "https://www.moneycontrol.com/news/business/markets/cochin-shipyard-q2-net-profit-halves-to-rs-54-crore-declares-dividend-14076175.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Island fisheries to anchor India's Blue Economy push, focus on tuna, seaweed",
+   "link": "https://www.hindustantimes.com/india-news/island-fisheries-to-anchor-india-s-blue-economy-push-focus-on-tuna-seaweed-101794303919970.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:30:00+00:00"
+  },
+  {
+   "title": "Brent crude falls below $90 on Iran war de-escalation optimism",
+   "link": "https://www.moneycontrol.com/news/business/markets/brent-crude-falls-below-90-on-iran-war-de-escalation-optimism-14076241.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-10T10:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's decline to 14.9%.",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-falls-21-4-globally-but-rupee-depreciation-limits-india-s-decline-to-14-9-14076173.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Patna Municipal Corporation raises Rs 200 crore through Bihar's first municipal bond",
+   "link": "https://www.moneycontrol.com/city/patna-municipal-corporation-raises-rs-200-crore-through-bihar-s-first-municipal-bond-article-14076196.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-10T10:30:00+00:00"
+  },
   {
    "title": "Oil prices fall as Trump signals pause in military action against Iran",
    "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
@@ -2455,46 +2510,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",
-   "link": "https://www.business-standard.com/markets/news/icici-bank-divi-s-among-14-nse-500-stocks-hit-new-highs-in-muhurat-session-126110800329_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T10:30:00+00:00",
-   "companies": [
-    "ICICI Bank"
-   ]
-  },
-  {
-   "title": "The Legal Rearview: SC rules on lenders' CoC eligibility, reopens two-child norm debate, strengthens arrest safeguards; SEBI settlement rules take effect",
-   "link": "https://www.moneycontrol.com/news/india/the-legal-rearview-sc-rules-on-lenders-coc-eligibility-reopens-two-child-norm-debate-strengthens-arrest-safeguards-sebi-settlement-rules-take-effect-14074902.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T10:30:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
-   "link": "https://www.business-standard.com/markets/news/tata-steel-spurts-3-in-muhurat-trading-session-post-steady-q2-earnings-126110800313_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-08T10:30:00+00:00",
-   "companies": [
-    "Tata Steel"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   },
   {
