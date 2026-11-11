@@ -1,12 +1,88 @@
 {
- "updated": "2026-11-11T04:01:26.810872+00:00",
+ "updated": "2026-11-11T04:15:55.769935+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 17 new items (12 files read)"
+  "gdelt": "ok, 22 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns",
+   "link": "https://www.livemint.com/money/personal-finance/global-gold-price-drop-2026-yellow-metal-slips-6-in-dollar-terms-but-top-indian-gold-etfs-still-deliver-7-5-returns-11794363967503.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "The Fed may raise rates a half-point in December. Here's the case.",
+   "link": "https://www.livemint.com/global/the-fed-may-raise-rates-a-half-point-in-december-here-s-the-case-11794358784634.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T04:15:00+00:00"
+  },
+  {
+   "title": "Budget 2027: Manufacturers seek lower duties on raw materials to cut costs",
+   "link": "https://www.livemint.com/news/budget-2027-manufacturers-seek-lower-duties-raw-materials-cut-costs-11794305690856.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T04:15:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Fed forced to confront case for bigger and faster rate rises",
+   "link": "https://www.livemint.com/global/fed-forced-to-confront-case-for-bigger-and-faster-rate-rises-11794359995408.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T04:15:00+00:00"
+  },
+  {
+   "title": "Trump says Iran war 'effectively over': How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
+   "link": "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T04:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "This biscuit giant sees strong growth, but inflation clouds outlook",
+   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/this-biscuit-giant-sees-strong-growth-but-inflation-clouds-outlook-14076713.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T04:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Anthropic IPO gets bigger? Bankers eye $1.5 trillion valuation after strong investor demand",
+   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-ipo-gets-bigger-bankers-eye-1-5-trillion-valuation-after-strong-investor-demand-14076731.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T04:15:00+00:00"
+  },
   {
    "title": "Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
    "link": "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
@@ -3228,76 +3304,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T04:45:00+00:00"
-  },
-  {
-   "title": "LIC seeks calibrated rollout of IRDAI's proposed commission norms, flags agents' interests",
-   "link": "https://www.moneycontrol.com/banking/lic-seeks-calibrated-rollout-of-irdai-s-proposed-commission-norms-flags-agents-interests-article-14075148.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:45:00+00:00",
-   "companies": [
-    "LIC"
-   ]
-  },
-  {
-   "title": "LIC eyes financial conglomerate ambitions, may revisit banking opportunities if regulations change: MD & CEO R Doraiswamy",
-   "link": "https://www.moneycontrol.com/banking/lic-eyes-financial-conglomerate-ambitions-may-revisit-banking-opportunities-if-regulations-change-md-ceo-r-doraiswamy-article-14075108.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:45:00+00:00",
-   "companies": [
-    "LIC"
-   ]
-  },
-  {
-   "title": "US CPI, Fed rhetoric and Iran talks in focus after Democratic midterm sweep",
-   "link": "https://www.moneycontrol.com/news/opinion/us-cpi-fed-rhetoric-and-iran-talks-in-focus-after-democratic-midterm-sweep-14075060.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T04:45:00+00:00"
-  },
-  {
-   "title": "Ordering food on a train? IRCTC warns passengers about these unauthorised websites and apps",
-   "link": "https://www.businesstoday.in/india/story/ordering-food-on-a-train-irctc-warns-passengers-about-these-unauthorised-websites-and-apps-566400-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:15:00+00:00",
-   "companies": [
-    "IRCTC"
-   ]
-  },
-  {
-   "title": "Stock market: HSBC upgrades India to 'Overweight', cuts China rating to 'Neutral'; here's why",
-   "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-hsbc-upgrades-india-to-overweight-cuts-china-rating-to-neutral-heres-why-566395-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:15:00+00:00"
-  },
-  {
-   "title": "Asian stocks steady as AI, West Asia jitters ease; dollar firms on Fed bets",
-   "link": "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:15:00+00:00"
-  },
-  {
-   "title": "Oil prices fall on open as Trump says fresh Iran attacks 'unlikely'",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-on-open-as-trump-says-fresh-iran-attacks-unlikely-126110900038_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T04:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
