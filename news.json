@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-11T12:31:10.614029+00:00",
+ "updated": "2026-11-11T12:45:49.954757+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 45 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SASTRA to host seminar on GST on November 14, 15",
+   "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/sastra-to-host-seminar-on-gst-on-november-14-15/article71689519.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:45:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
   {
    "title": "Gold ETF inflows decline 22% to ₹3,470 crore in October: Are investors turning cautious on gold?",
    "link": "https://www.businesstoday.in/personal-finance/story/gold-etf-inflows-decline-22-to-rs3470-crore-in-october-are-investors-turning-cautious-on-gold-566904-2026-11-11",
@@ -3244,14 +3257,6 @@
    "companies": [
     "Hindustan Unilever"
    ]
-  },
-  {
-   "title": "Eternal shares rebound over 70% from March lows, emerge as top Nifty 50 recovery stock; what drove the rally?",
-   "link": "https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T17:15:00+00:00"
   }
  ]
 }
