@@ -1,12 +1,76 @@
 {
- "updated": "2026-11-11T15:31:09.775765+00:00",
+ "updated": "2026-11-11T15:45:53.086573+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's renewable energy push saved $100 bn in fuel imports: IEA report",
+   "link": "https://www.business-standard.com/industry/news/india-s-renewable-energy-push-saved-100-bn-in-fuel-imports-iea-report-126111101361_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T15:30:00+00:00"
+  },
+  {
+   "title": "Tata Power approves ₹11,871 crore pumped storage project in Maharashtra",
+   "link": "https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T15:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "FMCG firms may face volume pressure in H2 as inflation drives price hikes",
+   "link": "https://www.business-standard.com/industry/news/fmcg-firms-may-face-volume-pressure-in-h2-as-inflation-drives-price-hikes-126111101354_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T15:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Rupee outperforms most Asian peers as foreign inflows boost sentiment",
+   "link": "https://www.business-standard.com/economy/news/rupee-outperforms-most-asian-peers-as-foreign-inflows-boost-sentiment-126111101383_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T15:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Tata Power Q2 profit rises 33% to ₹1,652 cr; ₹11,871 cr project approved",
+   "link": "https://www.business-standard.com/companies/quarterly-results/tata-power-q2-profit-rises-33-to-1-652-cr-11-871-cr-project-approved-126111101450_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T15:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Singapore Airlines backs Air India despite billion-dollar losses",
+   "link": "https://www.livemint.com/companies/company-results/singapore-airlines-backs-air-india-despite-billion-dollar-losses-11794403370187.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T15:30:00+00:00"
+  },
   {
    "title": "Anthropic's IPO is said to be multiple times oversubscribed",
    "link": "https://www.moneycontrol.com/artificial-intelligence/anthropic-s-ipo-is-said-to-be-multiple-times-oversubscribed-article-14077382.html",
@@ -3200,65 +3264,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-10T02:45:00+00:00"
-  },
-  {
-   "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",
-   "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:45:00+00:00"
-  },
-  {
-   "title": "India eyes solar cell exports as capacity surges: Pralhad Joshi",
-   "link": "https://www.livemint.com/news/solar-cells-export-renewable-energy-pralhad-joshi-interview-11793961012906.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:15:00+00:00"
-  },
-  {
-   "title": "Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire",
-   "link": "https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR",
-   "link": "https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:15:00+00:00",
-   "companies": [
-    "Tata Power"
-   ],
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Netherlands says 'difficult' to track product origin, remains among top buyers as India continues Russian oil purchase",
-   "link": "https://www.livemint.com/economy/netherlands-difficult-to-track-product-origin-remains-among-top-buyers-as-india-continues-russian-oil-purchase-11794216109816.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:15:00+00:00"
-  },
-  {
-   "title": "RBI extends Abhyudaya Co-operative Bank board supersession for another year",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-extends-supersession-of-abhyudaya-co-operative-bank-board-by-another-year/article71684189.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T00:45:00+00:00"
   }
  ]
 }
