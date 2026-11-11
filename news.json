@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-11T16:31:08.918771+00:00",
+ "updated": "2026-11-11T16:45:54.269460+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 24 new items (12 files read)"
+  "gdelt": "ok, 25 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SEBI directs market intermediaries to update KYC, tax-reporting systems under new income tax rules",
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-directs-market-intermediaries-to-update-kyc-tax-reporting-systems-under-new-income-tax-rules-14077399.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Chittoor, Annamayya mango growers fear dry spell, rainfall deficit likely to impact 2027 yields",
    "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-annamayya-mango-growers-fear-dry-spell-rainfall-deficit-likely-to-impact-2027-yields/article71689549.ece",
@@ -3258,19 +3271,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-10T04:30:00+00:00"
-  },
-  {
-   "title": "Canada expands US tariff exemptions, cuts some aluminum relief",
-   "link": "https://www.moneycontrol.com/world/canada-expands-us-tariff-exemptions-cuts-some-aluminum-relief-article-14075839.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
   }
  ]
 }
