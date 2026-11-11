@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-11T13:45:47.172070+00:00",
+ "updated": "2026-11-11T14:01:25.793651+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Saudi Arabia raises oil output 26% in October to highest level since war began",
+   "link": "https://www.moneycontrol.com/news/business/saudi-arabia-raises-oil-output-26-in-october-to-highest-level-since-war-began-14077357.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T14:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
   {
    "title": "EAAA India Alternatives Q2 results 2026: Net profit jumps 27%; 140% interim dividend of ₹7/share; check record date",
    "link": "https://www.livemint.com/market/stock-market-news/eaaa-india-alternatives-q2-results-2026-net-profit-jumps-27-140-interim-dividend-of-rs-7-share-check-record-date-11794399717392.html",
@@ -3241,19 +3254,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "October retail inflation may have breached RBI's 6% upper limit: BS poll",
-   "link": "https://www.business-standard.com/economy/news/october-retail-inflation-may-have-breached-rbi-s-6-upper-limit-bs-poll-126110901082_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T20:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
   }
  ]
