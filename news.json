@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-11T17:31:08.607645+00:00",
+ "updated": "2026-11-11T17:45:51.075025+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Axis Trustee files contempt plea against Yes Bank over AT-1 bonds",
+   "link": "https://www.livemint.com/news/axis-trustee-files-contempt-plea-against-yes-bank-over-at-1-bonds-11794414358426.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T17:45:00+00:00"
+  },
   {
    "title": "Tata Power appoints renewable energy head Sanjay Banga as next CEO and MD",
    "link": "https://www.moneycontrol.com/news/business/companies/tata-power-appoints-renewable-energy-head-sanjay-banga-as-next-ceo-and-md-14077410.html",
@@ -3266,19 +3274,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Hindustan Copper Q2 earnings: Another strong quarter for Miniratna firm? What Anand Rathi expects",
-   "link": "https://www.businesstoday.in/markets/stocks/story/hindustan-copper-q2-earnings-another-strong-quarter-for-miniratna-firm-what-brokerage-anand-rathi-expects-566588-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T05:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
