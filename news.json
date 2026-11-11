@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-11T01:45:58.927867+00:00",
+ "updated": "2026-11-11T02:01:25.649832+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Iran's economic pain will intensify, says US Secretary of State Marco Rubio",
+   "link": "https://www.thehindubusinessline.com/news/world/irans-economic-pain-to-intensify-in-coming-months-says-marco-rubio/article71687530.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T02:00:00+00:00"
+  },
   {
    "title": "India's defence export boom must close its quality gap",
    "link": "https://www.hindustantimes.com/opinion/indias-defence-export-boom-must-close-its-quality-gap-101794338987657.html",
@@ -3305,14 +3313,6 @@
    "source_key": "fed",
    "category": "Global",
    "published": "2026-10-13T18:00:00+00:00"
-  },
-  {
-   "title": "Waller, The Signaling Value of the Summary of Economic Projections",
-   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-10-08T08:30:00+00:00"
   }
  ]
 }
