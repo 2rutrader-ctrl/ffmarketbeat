@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-11T03:45:51.568782+00:00",
+ "updated": "2026-11-11T04:01:26.810872+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 16 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
+   "link": "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T04:00:00+00:00"
+  },
   {
    "title": "For boomers, economic boom times are over",
    "link": "https://www.hindustantimes.com/world-news/for-boomers-economic-boom-times-are-over-101794364630897.html",
@@ -3290,14 +3298,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Why FPIs turned aggressive buyers in November? Choice Wealth explains",
-   "link": "https://www.business-standard.com/markets/news/why-fpis-turned-aggressive-stock-buyers-in-november-choice-wealth-explains-126110900074_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:15:00+00:00"
   }
  ]
 }
