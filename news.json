@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-11T12:45:49.954757+00:00",
+ "updated": "2026-11-11T13:01:25.335524+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Budget 2027: Industry bodies seek LTCG tax cuts even as FPIs return to Indian equities",
+   "link": "https://www.moneycontrol.com/budget/budget-2027-industry-bodies-seek-ltcg-tax-cuts-even-as-fpis-return-to-indian-equities-article-14077308.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:00:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "Tata Power Q2 profit rises 33% to Rs 1,652 crore; revenue up 26%",
+   "link": "https://www.moneycontrol.com/news/business/tata-power-q2-profit-rises-33-to-rs-1-652-crore-revenue-up-26-14077313.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:00:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
   {
    "title": "SASTRA to host seminar on GST on November 14, 15",
    "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/sastra-to-host-seminar-on-gst-on-november-14-15/article71689519.ece",
@@ -3233,30 +3257,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "DGTR initiates anti-dumping probe into aluminium extrusion imports",
-   "link": "https://www.business-standard.com/economy/news/dgtr-launches-anti-dumping-probe-into-aluminium-imports-from-4-nations-126110901234_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T17:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11%",
-   "link": "https://www.business-standard.com/industry/news/hul-hikes-prices-of-detergent-brands-surf-excel-rin-wheel-by-up-to-11-126110901252_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T17:30:00+00:00",
-   "companies": [
-    "Hindustan Unilever"
-   ]
   }
  ]
 }
