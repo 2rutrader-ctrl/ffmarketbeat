@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-11T08:15:50.159998+00:00",
+ "updated": "2026-11-11T08:31:07.050929+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "75% or 150%? Pernod, Diageo Scotch imports stuck in India-UK trade deal dispute",
+   "link": "https://www.moneycontrol.com/news/business/75-or-150-pernod-diageo-scotch-imports-stuck-in-india-uk-trade-deal-dispute-14077138.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "LIC remains open to strategic investments in standalone health insurance companies, says MD & CEO Doraiswamy",
    "link": "https://www.moneycontrol.com/banking/lic-remains-open-to-strategic-investments-in-standalone-health-insurance-companies-says-md-ceo-doraiswamy-article-14077051.html",
@@ -3269,14 +3282,6 @@
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
-  },
-  {
-   "title": "India's April-August oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
-   "link": "https://www.thehindu.com/news/national/indias-april-august-oilmeal-exports-fall-285-as-soymeal-loses-to-brazil-argentina/article71681830.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00"
   }
  ]
 }
