@@ -1,12 +1,74 @@
 {
- "updated": "2026-11-11T06:01:28.243224+00:00",
+ "updated": "2026-11-11T06:15:54.921297+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 23 new items (12 files read)"
+  "gdelt": "ok, 26 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",
+   "link": "https://www.business-standard.com/markets/news/at-new-highs-eternal-groww-adani-ports-ather-16-more-nse-500-stocks-126111100312_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T06:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "IndiGo extends Saudi flight suspension till Nov 30 amid Houthi attacks",
+   "link": "https://www.business-standard.com/india-news/indigo-extends-suspension-saudi-arabia-flights-security-concerns-126111100306_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T06:15:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Anthropic bankers weigh raising IPO valuation to $1.5 trillion or more",
+   "link": "https://www.business-standard.com/world-news/anthropic-bankers-weigh-raising-ipo-valuation-to-1-5-trillion-or-more-126111100341_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T06:15:00+00:00"
+  },
+  {
+   "title": "Anthropic backers offer up to $500 million in IPO shares at a premium",
+   "link": "https://www.business-standard.com/world-news/anthropic-backers-offer-up-to-500-million-in-ipo-shares-at-a-premium-126111100105_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T06:15:00+00:00"
+  },
+  {
+   "title": "Indian garment makers rethink reliance on US after tariffs disrupt trade",
+   "link": "https://www.business-standard.com/industry/news/indian-garment-makers-rethink-reliance-on-us-after-tariffs-disrupt-trade-126111100074_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T06:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "FWA drives India's broadband growth, as Airtel leads on experience: Opensignal",
+   "link": "https://www.hindustantimes.com/business/fwa-drives-india-s-broadband-growth-as-airtel-leads-on-experience-opensignal-101794376533496.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T06:15:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
   {
    "title": "Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction? Check key trading levels",
    "link": "https://www.moneycontrol.com/news/business/markets/nifty-trades-above-25-350-is-benchmark-index-heading-towards-26-000-before-any-meaningful-correction-check-key-trading-levels-14076922.html",
@@ -3232,79 +3294,6 @@
     "topic": "How SEBI rules shape the market",
     "short": "SEBI rules",
     "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "China's factory-gate inflation rises in Oct, consumer prices stay muted",
-   "link": "https://www.business-standard.com/world-news/china-s-factory-gate-inflation-rises-in-oct-consumer-prices-stay-muted-126110900075_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T07:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Rupee rises 24 paise to 93.74 against US dollar during early trade",
-   "link": "https://www.business-standard.com/finance/news/rupee-rises-24-paise-to-93-74-against-us-dollar-during-early-trade-126110900195_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T07:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "What the global AI rout means for India | Stock Market News",
-   "link": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T06:30:00+00:00"
-  },
-  {
-   "title": "Gold, silver prices today, 9 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-9-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794188827441.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T06:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "US-Iran war: What is Trump's 'Task Force Iron Gate'? How will land 'blockade' impact Tehran, its economy? Explained",
-   "link": "https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T06:30:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "China extends suspension of 24% tariff on US imports for two months",
-   "link": "https://www.business-standard.com/world-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-126110900120_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T06:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
   }
  ]
