@@ -1,12 +1,111 @@
 {
- "updated": "2026-11-11T08:01:22.395503+00:00",
+ "updated": "2026-11-11T08:15:50.159998+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "LIC remains open to strategic investments in standalone health insurance companies, says MD & CEO Doraiswamy",
+   "link": "https://www.moneycontrol.com/banking/lic-remains-open-to-strategic-investments-in-standalone-health-insurance-companies-says-md-ceo-doraiswamy-article-14077051.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00",
+   "companies": [
+    "LIC"
+   ]
+  },
+  {
+   "title": "Moody's upgrades India's growth outlook to 7%, says economy may be on cusp of new investment boom",
+   "link": "https://www.moneycontrol.com/news/business/moody-s-upgrades-india-s-growth-outlook-to-7-says-economy-may-be-on-cusp-of-new-investment-boom-14077133.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00"
+  },
+  {
+   "title": "IRCTC penalises caterer after passenger finds metal piece in dal on Guwahati train",
+   "link": "https://www.hindustantimes.com/trending/irctc-penalises-caterer-after-passenger-finds-metal-piece-in-dal-on-guwahati-train-101794382612528.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00",
+   "companies": [
+    "IRCTC"
+   ]
+  },
+  {
+   "title": "Railway stocks rise: Titagarh Rail shares jump 5% post-strong Q2 results; Jupiter Wagons, RVNL, others rally up to 9%",
+   "link": "https://www.moneycontrol.com/news/business/stocks/railway-stocks-rise-titagarh-rail-shares-jump-5-post-strong-q2-results-jupiter-wagons-rvnl-others-rally-up-to-9-14077103.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T08:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher",
+   "link": "https://www.moneycontrol.com/news/business/markets/bajaj-finance-may-launch-rs-11-700-crore-qip-to-fund-growth-shares-trade-higher-14077107.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Canada trade minister to visit India to deepen economic ties",
+   "link": "https://www.hindustantimes.com/world-news/canada-trade-minister-to-visit-india-to-deepen-economic-ties-101794382186466.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00"
+  },
+  {
+   "title": "Nifty Bank index rallies 4% in two days, nears record high; here's why",
+   "link": "https://www.business-standard.com/markets/news/nifty-bank-index-rallies-4-in-two-days-nears-record-high-here-s-why-126111100463_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00"
+  },
+  {
+   "title": "Gold Futures: Gold faces inflation headwinds on hawkish Fed tilt; $4,150 stays key hurdle",
+   "link": "https://www.business-standard.com/markets/news/gold-futures-gold-faces-inflation-headwinds-on-hawkish-fed-tilt-4-150-stays-key-hurdle-126111100555_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T08:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "iPhone 17 Pro price in India drops to Rs 54,990 at Reliance Digital with exchange offer and bank discount",
+   "link": "https://www.moneycontrol.com/technology/iphone-17-pro-price-in-india-drops-to-rs-54-990-at-reliance-digital-with-exchange-offer-and-bank-discount-article-14077109.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00"
+  },
+  {
+   "title": "Bank Nifty tops 61,000, nears all-time high; what do charts say?",
+   "link": "https://www.business-standard.com/markets/news/bank-nifty-tops-61-000-nears-all-time-high-what-do-charts-say-126111100417_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:15:00+00:00"
+  },
   {
    "title": "Netweb, E2E Networks, other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift global AI sentiment",
    "link": "https://www.moneycontrol.com/news/business/markets/netweb-e2e-networks-other-ai-related-stocks-rise-up-to-9-as-anthropic-ipo-coreweave-earnings-lift-global-ai-sentiment-14077042.html",
@@ -3178,109 +3277,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T10:15:00+00:00"
-  },
-  {
-   "title": "Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here",
-   "link": "https://www.livemint.com/money/purchased-gold-during-dhanteras-diwali-puja-done-want-to-keep-in-bank-locker-rules-limits-for-keeping-at-home-here-11794202456198.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Nifty's 25,000 hurdle: Bulls see breakout, bears dig in for weekly expiry today",
-   "link": "https://www.livemint.com/market/stock-market-news/india-stock-markets-today-nifty-sense-levels-call-options-put-options-11794206566782.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Coal India, IOCL, Vedanta to BPCL: What dividends mean for the Indian stock market amid bull trend buzz? Experts decode",
-   "link": "https://www.livemint.com/market/stock-market-news/coal-india-iocl-vedanta-to-bpcl-what-dividends-mean-for-the-indian-stock-market-amid-bull-trend-buzz-experts-decode-11794196051354.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00",
-   "companies": [
-    "Vedanta",
-    "Coal India",
-    "BPCL"
-   ]
-  },
-  {
-   "title": "Persistent cost inflation delays the treat for Britannia investors",
-   "link": "https://www.livemint.com/market/mark-to-market/britannia-industries-biscuit-industry-input-cost-inflation-gross-margin-ebitda-margin-grammage-cuts-price-hikes-11794211688592.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00",
-   "companies": [
-    "Britannia"
-   ],
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock?",
-   "link": "https://www.livemint.com/market/stock-market-news/why-sun-pharma-advanced-research-shares-surge-11-despite-weak-sentiments-on-d-street-whats-boosting-medical-stock-11794207169769.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Democrats Promised to Fix the Economy. What Can They Really Do?",
-   "link": "https://www.hindustantimes.com/world-news/democrats-promised-to-fix-the-economy-what-can-they-really-do-101794214970704.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",
-   "link": "https://www.livemint.com/market/stock-market-news/is-stock-market-closed-tomorrow-in-india-holiday-in-nse-bse-or-trading-of-shares-allowed-check-exchange-calendar-11794214735706.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Early November trend indicates return of FPIs into Indian equities",
-   "link": "https://www.thehindu.com/business/Industry/early-november-trend-indicates-return-of-fpis-into-indian-equities/article71681716.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Hindustan Coca-Cola IPO filings reveal Thums Up is outperforming Coke across 10 key Indian states",
-   "link": "https://www.livemint.com/companies/news/hindustan-coca-cola-ipo-filings-reveal-thums-up-is-outperforming-coke-across-10-key-indian-states-11794214255906.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "CAS weighs on NSE, BSE Q2 earnings; MCX rides gold, silver volatility",
-   "link": "https://www.livemint.com/market/cas-weighs-on-nse-bse-q2-earnings-mcx-rides-gold-silver-volatility-11794206165459.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
