@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-11T10:01:21.690567+00:00",
+ "updated": "2026-11-11T10:15:50.661568+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BHEL bags Rs 600-900 crore order from Power Grid for synchronous condensers in Gujarat",
+   "link": "https://www.moneycontrol.com/news/business/bhel-bags-rs-600-900-crore-order-from-power-grid-for-synchronous-condensers-in-gujarat-14077210.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T10:15:00+00:00",
+   "companies": [
+    "Power Grid"
+   ]
+  },
+  {
+   "title": "Waaree admitted misreporting solar import origin in submission to US trade commission",
+   "link": "https://www.moneycontrol.com/news/business/waaree-admitted-misreporting-solar-import-origin-in-submission-to-us-trade-commission-14077211.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T10:15:00+00:00"
+  },
   {
    "title": "Bhai Dooj | From Jigra to Bhaag Milkha Bhaag, 5 Bollywood films about the brother-sister bond you can revisit today",
    "link": "https://www.hindustantimes.com/htcity/cinema/bhai-dooj-from-jigra-to-bhaag-milkha-bhaag-5-bollywood-films-about-the-brother-sister-bond-you-can-revisit-today-101794384804931.html",
@@ -3244,27 +3263,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T12:45:00+00:00"
-  },
-  {
-   "title": "MakeMyTrip's India arm gets SEBI nod to float IPO - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/article71681826.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Alphabet eyes $3 billion bond sale in Hong Kong, Singapore: How Google parent is leveraging Asian markets amid AI fears",
-   "link": "https://www.livemint.com/market/stock-market-news/alphabet-eyes-3-billion-bond-sale-in-hong-kong-singapore-how-google-parent-is-leveraging-asian-markets-amid-ai-fears-11794219861137.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T12:30:00+00:00"
   }
  ]
 }
