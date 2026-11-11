@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-11T22:45:47.742407+00:00",
+ "updated": "2026-11-11T23:01:26.796617+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil up 1% as Iran official says country will keep enriched nuclear material",
+   "link": "https://www.livemint.com/market/oil-up-1-as-iran-official-says-country-will-keep-enriched-nuclear-material-11794427796838.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T23:00:00+00:00"
+  },
+  {
+   "title": "Dollar climbs as traders raise December Fed hike bets",
+   "link": "https://www.livemint.com/market/dollar-climbs-as-traders-raise-december-fed-hike-bets-11794431410639.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T23:00:00+00:00"
+  },
+  {
+   "title": "India–EU FTA's €119 billion trade promise: Could Europe's fiscal troubles threaten Indian exporters?",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T23:00:00+00:00"
+  },
   {
    "title": "Fairfax likely to exit IIFL Finance to fund its acquisition of IDBI Bank",
    "link": "https://www.business-standard.com/industry/banking/fairfax-likely-to-exit-iifl-finance-to-fund-its-acquisition-of-idbi-bank-126111100864_1.html",
@@ -3250,35 +3274,6 @@
     "topic": "Why foreign investor flows matter",
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
-   "link": "https://www.thehindu.com/sci-tech/technology/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/article71684856.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T07:30:00+00:00"
-  },
-  {
-   "title": "IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus",
-   "link": "https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T07:15:00+00:00"
-  },
-  {
-   "title": "Gold, Silver Outlook: Can Falling Crude Oil Prices Support Precious Metals' Recovery?",
-   "link": "https://www.businesstoday.in/markets/stocks/story/gold-silver-outlook-can-falling-crude-oil-prices-support-precious-metals-recovery-566608-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T07:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
