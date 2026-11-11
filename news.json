@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-11T22:01:22.827682+00:00",
+ "updated": "2026-11-11T22:15:51.386973+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>",
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
   "gdelt": "ok, 3 new items (12 files read)"
  },
  "items": [
