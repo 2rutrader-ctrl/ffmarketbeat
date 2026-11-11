@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-11T17:45:51.075025+00:00",
+ "updated": "2026-11-11T18:01:28.094191+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nifty eyes record as largecaps lead charge on strong corporate earnings",
+   "link": "https://www.business-standard.com/markets/news/nifty-eyes-record-as-largecaps-lead-charge-on-strong-corporate-earnings-126111101368_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans",
+   "link": "https://www.business-standard.com/companies/start-ups/from-reliance-to-sarvam-nvidia-sits-at-the-heart-of-india-s-ai-plans-126111101483_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "RBI consolidates money transfer rules, allows ₹50,000 cash NEFT transfers",
+   "link": "https://www.business-standard.com/industry/banking/rbi-consolidates-money-transfer-rules-allows-50-000-cash-neft-transfers-126111101533_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00"
+  },
+  {
+   "title": "RBI revises domestic money transfer rules, sets cash pay-in and pay-out limits",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/banks-can-offer-cash-pay-in-and-pay-out-services-under-revised-domestic-money-transfer-norms/article71690997.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00"
+  },
+  {
+   "title": "Airtel's restored entry tariff highlights telcos' revenue-growth dilemma",
+   "link": "https://www.business-standard.com/opinion/editorial/airtel-s-restored-entry-tariff-highlights-telcos-revenue-growth-dilemma-126111101570_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "RBI issues domestic transfer norms; walk-in customers can send up to ₹50k",
+   "link": "https://www.hindustantimes.com/india-news/rbi-issues-domestic-transfer-norms-walk-in-customers-can-send-up-to-rs-50k-101794412658123.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00"
+  },
+  {
+   "title": "Benchmarks rise nearly 1%; auto, bank stocks lead gains amid FPI inflows",
+   "link": "https://www.business-standard.com/markets/news/benchmarks-rise-nearly-1-auto-bank-stocks-lead-gains-amid-fpi-inflows-126111101384_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T18:00:00+00:00",
+   "thought": {
+    "topic": "Why foreign investor flows matter",
+    "short": "Foreign flows",
+    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
+   }
+  },
   {
    "title": "Axis Trustee files contempt plea against Yes Bank over AT-1 bonds",
    "link": "https://www.livemint.com/news/axis-trustee-files-contempt-plea-against-yes-bank-over-at-1-bonds-11794414358426.html",
@@ -3204,77 +3281,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-10T07:15:00+00:00"
-  },
-  {
-   "title": "Easing oil, bond yields to support bank margins, RBI rate hikes likely in Dec: Jefferies",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/easing-oil-bond-yields-to-support-bank-margins-rbi-rate-hikes-likely-in-dec-jefferies/article71685084.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T07:00:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Anthropic's plan for nearly $70 billion IPO briefly circulated to banks, then retracted",
-   "link": "https://www.thehindubusinessline.com/info-tech/anthropics-plan-for-nearly-70-billion-ipo-briefly-circulated-to-banks-then-retracted/article71685044.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T07:00:00+00:00"
-  },
-  {
-   "title": "Gold edges lower as focus shifts to US inflation data - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/gold/gold-edges-lower-as-focus-shifts-to-us-inflation-data/article71684990.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T07:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "China's trade surplus tops $1 trillion ahead of Xi-Trump meeting, exports surge 35.2%",
-   "link": "https://www.moneycontrol.com/world/china-s-trade-surplus-tops-1-trillion-ahead-of-xi-trump-meeting-exports-surge-35-2-article-14075992.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T07:00:00+00:00"
-  },
-  {
-   "title": "China's trade surplus tops $1 trn for 2nd straight year, exports jump 35%",
-   "link": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T05:30:00+00:00"
-  },
-  {
-   "title": "Anthropic IPO: Anthropic retracts $69.3 bn IPO figures, says revised details to follow",
-   "link": "https://www.business-standard.com/world-news/anthropic-retracts-69-3-bn-ipo-figures-says-revised-details-to-follow-126111000143_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T05:30:00+00:00"
-  },
-  {
-   "title": "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
-   "link": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T05:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
