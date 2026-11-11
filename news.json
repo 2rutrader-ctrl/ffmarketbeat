@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:45:53.086573+00:00",
+ "updated": "2026-11-11T16:01:25.743109+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,30 @@
   "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's Q2 GDP growth likely at 7.8%, above RBI estimate of 7.2%: SBI Research",
+   "link": "https://www.moneycontrol.com/news/business/economy/india-s-q2-gdp-growth-likely-at-7-8-above-rbi-estimate-of-7-2-sbi-research-14077393.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ],
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
+  {
+   "title": "Tata Power Q2 profit jumps 32% to ₹1,652 crore",
+   "link": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:00:00+00:00"
+  },
   {
    "title": "India's renewable energy push saved $100 bn in fuel imports: IEA report",
    "link": "https://www.business-standard.com/industry/news/india-s-renewable-energy-push-saved-100-bn-in-fuel-imports-iea-report-126111101361_1.html",
@@ -3248,22 +3272,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-10T04:15:00+00:00"
-  },
-  {
-   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-   "link": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:15:00+00:00"
-  },
-  {
-   "title": "Stock market holiday: Are BSE, NSE closed on November 10? Check remaining holidays in 2026",
-   "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T02:45:00+00:00"
   }
  ]
 }
