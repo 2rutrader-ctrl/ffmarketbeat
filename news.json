@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-11T13:01:25.335524+00:00",
+ "updated": "2026-11-11T13:15:50.619077+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Govt bans lithium-ion battery black mass exports to aid domestic recyclers",
+   "link": "https://www.business-standard.com/industry/news/govt-bans-lithium-ion-battery-black-mass-exports-to-aid-domestic-recyclers-126111101149_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T13:15:00+00:00"
+  },
   {
    "title": "Budget 2027: Industry bodies seek LTCG tax cuts even as FPIs return to Indian equities",
    "link": "https://www.moneycontrol.com/budget/budget-2027-industry-bodies-seek-ltcg-tax-cuts-even-as-fpis-return-to-indian-equities-article-14077308.html",
@@ -3244,19 +3252,6 @@
    "companies": [
     "Larsen & Toubro"
    ]
-  },
-  {
-   "title": "Bond yields fall as oil prices soften amid easing geopolitical concerns",
-   "link": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T17:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
