@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-11T20:01:22.477828+00:00",
+ "updated": "2026-11-11T20:15:54.213583+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Karnataka Minister Eshwar Khandre asks officials to blacklist Larsen & Toubro for 'delaying' works",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-minister-eshwar-khandre-asks-officials-to-blacklist-larsen-toubro-for-delaying-works/article71690624.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T20:15:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
+  {
+   "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
+   "link": "https://www.livemint.com/companies/usbacked-lithium-americas-hit-by-rising-costs-on-trump-tariffs-11794422211711.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T20:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "Gold ornament presented for deity in Parthasarathi temple",
    "link": "https://www.thehindu.com/news/cities/chennai/gold-ornament-presented-for-deity-in-parthasarathi-temple/article71690548.ece",
@@ -3257,32 +3281,6 @@
     "Reliance Industries",
     "Vedanta"
    ]
-  },
-  {
-   "title": "ITC, Power Grid, ONGC, Coal India, SBI Life: Nifty stocks trade near 52 week lows; what's next?",
-   "link": "https://www.businesstoday.in/markets/stocks/story/itc-power-grid-ongc-coal-india-sbi-life-nifty-stocks-trade-near-52-week-lows-whats-next-566633-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T07:15:00+00:00",
-   "companies": [
-    "State Bank of India",
-    "ITC",
-    "Coal India"
-   ]
-  },
-  {
-   "title": "Rs 53,739 crore FPI inflows in Nov, highest since Sept 2024; why and what's next",
-   "link": "https://www.businesstoday.in/markets/stocks/story/rs-53739-crore-fpi-inflows-in-nov-highest-since-sept-2024-why-and-whats-next-566627-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T07:15:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
   }
  ]
 }
