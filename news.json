@@ -1,12 +1,68 @@
 {
- "updated": "2026-11-11T14:45:47.424861+00:00",
+ "updated": "2026-11-11T15:01:27.611763+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 15 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Power says it has a 'good case' in Kleros dispute, sees no immediate balance sheet impact",
+   "link": "https://www.thehindubusinessline.com/companies/tata-power-says-it-has-a-good-case-in-kleros-dispute-sees-no-immediate-balance-sheet-impact/article71690054.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T14:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "SEBI updates KYC and FATCA-CRS reporting requirements for intermediaries",
+   "link": "https://www.thehindubusinessline.com/markets/sebi-directs-market-intermediaries-to-update-kyc-and-tax-reporting-systems-under-new-rules/article71689709.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T14:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
+   "link": "https://www.thehindubusinessline.com/companies/tata-power-appoints-sanjay-banga-as-ceo-md-designate-approves-11871-cr-pumped-storage-project/article71690242.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T14:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Former bank appraiser held for stealing gold ornaments worth ₹1.80 crore; 1.198 kg recovered",
+   "link": "https://www.thehindu.com/news/national/karnataka/former-bank-appraiser-held-for-stealing-gold-ornaments-worth-180-crore-1198-kg-recovered/article71688909.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T14:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "AEMA seeks govt to remove 8.25% duty on aluminium imports",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/aema-seeks-govt-to-remove-825-duty-on-aluminium-imports/article71689365.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T14:15:00+00:00"
+  },
   {
    "title": "Saudi Arabia raises oil output 26% in October to highest level since war began",
    "link": "https://www.moneycontrol.com/news/business/saudi-arabia-raises-oil-output-26-in-october-to-highest-level-since-war-began-14077357.html",
@@ -3199,61 +3255,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Gold falls 21% globally but only 15% in India: How the rupee protected investors",
-   "link": "https://www.businesstoday.in/latest/economy/story/gold-falls-21-globally-but-only-15-in-india-how-the-rupee-protected-investors-566568-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T21:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "SFBs request RBI ease up on the prescription relating to loan portfolio composition",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/sfbs-request-rbi-ease-up-on-the-prescription-relating-to-loan-portfolio-composition/article71682442.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T21:15:00+00:00"
-  },
-  {
-   "title": "Oil prices slide over 5% as Trump signals no fresh Iran strikes amid talks",
-   "link": "https://www.business-standard.com/world-news/oil-prices-slide-over-5-as-trump-signals-no-fresh-iran-strikes-amid-talks-126110901602_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T20:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Change the way bond derivatives trades are valuated: RBI to some lenders",
-   "link": "https://www.business-standard.com/industry/banking/change-the-way-bond-derivatives-trades-are-valuated-rbi-to-some-lenders-126110901556_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T20:00:00+00:00"
-  },
-  {
-   "title": "Jewellery stocks outshine Nifty as festive gold demand fuels optimism",
-   "link": "https://www.business-standard.com/markets/news/jewellery-stocks-outshine-nifty-as-festive-gold-demand-fuels-optimism-126110901183_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T20:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
