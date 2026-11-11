@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:01:25.649832+00:00",
+ "updated": "2026-11-11T02:15:52.891249+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crude oil: A breather for India - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/opinion/crude-oil-a-breather-for-india/article71686936.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T02:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Iran's economic pain will intensify, says US Secretary of State Marco Rubio",
    "link": "https://www.thehindubusinessline.com/news/world/irans-economic-pain-to-intensify-in-coming-months-says-marco-rubio/article71687530.ece",
@@ -3305,14 +3318,6 @@
     "short": "US Fed",
     "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
    }
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-10-13T18:00:00+00:00"
   }
  ]
 }
