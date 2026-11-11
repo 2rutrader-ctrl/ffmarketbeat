@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-11T20:15:54.213583+00:00",
+ "updated": "2026-11-11T21:01:25.409134+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 13 new items (12 files read)"
+  "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Fairfax likely to exit IIFL Finance to fund its acquisition of IDBI Bank",
+   "link": "https://www.business-standard.com/industry/banking/fairfax-likely-to-exit-iifl-finance-to-fund-its-acquisition-of-idbi-bank-126111100864_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T20:45:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
   {
    "title": "Karnataka Minister Eshwar Khandre asks officials to blacklist Larsen & Toubro for 'delaying' works",
    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-minister-eshwar-khandre-asks-officials-to-blacklist-larsen-toubro-for-delaying-works/article71690624.ece",
@@ -3269,18 +3280,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
-   "link": "https://www.livemint.com/market/stock-market-news/amfi-rejig-reliances-jio-platforms-nse-lenskart-lg-among-7-stocks-set-for-large-cap-upgrade-vedanta-in-mid-cap-11794286571524.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T07:15:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "Vedanta"
-   ]
   }
  ]
 }
