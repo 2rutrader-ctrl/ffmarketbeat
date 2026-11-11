@@ -1,12 +1,87 @@
 {
- "updated": "2026-11-11T11:31:08.223772+00:00",
+ "updated": "2026-11-11T11:45:53.235006+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 45 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Eternal's IPO investors sitting on 375% gains as stock hits new record high; from ₹76 price to ₹361, what changed?",
+   "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00"
+  },
+  {
+   "title": "Stock markets end higher; Sensex and Nifty jump nearly 1%",
+   "link": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00"
+  },
+  {
+   "title": "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels",
+   "link": "https://www.livemint.com/market/stock-market-news/railway-stocks-on-fast-track-rvnl-irfc-jump-up-to-10-amid-sensex-nifty-rise-whats-behind-momentum-key-levels-11794378046674.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00"
+  },
+  {
+   "title": "Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch",
+   "link": "https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Rupee rises 7 paise to close at 93.70 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9370-against-us-dollar/article71689369.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "MSCI Rejig: Adani Green, LIC, Coforge, Meesho shares set to enter India Standard Index; ICICI Life, PI Industries out?",
+   "link": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-green-lic-coforge-meesho-shares-set-to-enter-india-standard-index-icici-life-pi-industries-out-11794390119879.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00",
+   "companies": [
+    "Adani Group",
+    "LIC"
+   ]
+  },
+  {
+   "title": "Inflation seen hitting RBI's 6% ceiling in October, putting rate policy in focus",
+   "link": "https://www.livemint.com/news/retail-inflation-likely-hit-a-two-year-high-of-6-in-october-mint-poll-11794382308555.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Mint Explainer | Incorporation boom: what rising company registrations mean for jobs and economic growth",
    "link": "https://www.livemint.com/companies/news/india-business-incorporation-boom-jobs-growth-impact-11794386751186.html",
@@ -3179,83 +3254,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "RBI extends Abhyudaya Bank supersession by another year",
-   "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T16:30:00+00:00"
-  },
-  {
-   "title": "Kaju katli, Diet Coke and gold coins: What India bought on quick-commerce platforms this Diwali",
-   "link": "https://www.moneycontrol.com/news/india/kaju-katli-diet-coke-and-gold-coins-what-india-bought-on-quick-commerce-platforms-this-diwali-14075741.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T16:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "HUL increases prices of popular detergent brands Surf Excel, Rin and Wheel",
-   "link": "https://www.moneycontrol.com/news/business/companies/hul-increases-prices-of-popular-detergent-brands-surf-excel-rin-and-wheel-14075758.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T16:00:00+00:00",
-   "companies": [
-    "Hindustan Unilever"
-   ]
-  },
-  {
-   "title": "RBI extends Abhyudaya Co-operative Bank board supersession by another year",
-   "link": "https://www.business-standard.com/finance/news/rbi-extends-abhyudaya-co-operative-bank-board-supersession-by-another-year-126110901201_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T15:45:00+00:00"
-  },
-  {
-   "title": "₹1.11 lakh on gold coins! Inside India's biggest Diwali shopping splurges",
-   "link": "https://www.business-standard.com/finance/personal-finance/1-11-lakh-on-gold-coins-inside-india-s-biggest-diwali-shopping-splurges-126110901202_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T15:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "L&T bags Noida Metro Rail order for Aqua Line: 10 elevated stations; Botanical Garden, Sec 142, Depot, Boraki – details",
-   "link": "https://www.livemint.com/industry/infrastructure/lt-bags-noida-metro-rail-order-for-aqua-line-10-elevated-stations-botanical-garden-sec-142-depot-boraki-ke-11794223765121.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T14:45:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
-   "link": "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T14:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
