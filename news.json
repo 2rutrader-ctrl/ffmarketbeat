@@ -1,12 +1,80 @@
 {
- "updated": "2026-11-11T12:15:50.136355+00:00",
+ "updated": "2026-11-11T12:31:10.614029+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 43 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold ETF inflows decline 22% to ₹3,470 crore in October: Are investors turning cautious on gold?",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-etf-inflows-decline-22-to-rs3470-crore-in-october-are-investors-turning-cautious-on-gold-566904-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Rupee rises 7 paise to close at 93.70 against US dollar - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-close-at-9370-against-us-dollar/article71689281.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Gold ETF Gold ETF inflows cross Rs 49,000 crore in 2026, surpass full-year 2025 collectionsinflows beat full-year 2025 total in just 10 months, cross Rs 49,000 crore",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-etf-inflows-beat-full-year-2025-total-in-just-10-months-cross-rs-49-000-crore-14077312.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "EAAA India Alternatives' Q2 net profit rises 27% to Rs 88 crore; declares Rs 7 dividend",
+   "link": "https://www.moneycontrol.com/news/business/eaaa-india-alternatives-q2-net-profit-rises-27-to-rs-88-crore-declares-rs-7-dividend-14077309.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Argentina, Malaysia overtake Indonesia as top veg oil exporters to India",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/argentina-malaysia-overtake-indonesia-as-top-veg-oil-exporters-to-india/article71689201.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:30:00+00:00"
+  },
+  {
+   "title": "India bans export of battery 'black mass' to cut import dependence for EV, storage sector",
+   "link": "https://www.hindustantimes.com/business/india-bans-export-of-battery-black-mass-to-cut-import-dependence-for-ev-storage-sector-101794397732288.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T12:15:00+00:00"
+  },
   {
    "title": "Eternal's IPO investors sitting on 375% gains as stock hits new record high; from ₹76 price to ₹361, what changed?",
    "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
@@ -3184,77 +3252,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T17:15:00+00:00"
-  },
-  {
-   "title": "DPIIT eyes Budget FY28 push to localise 100 import-heavy items – from pharma to machinery",
-   "link": "https://www.thehindubusinessline.com/economy/dpiit-eyes-budget-fy28-push-to-localise-100-import-heavy-items-from-pharma-to-machinery/article71683165.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T17:00:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Investments in gold ETFs turn mixed as the precious metal turns volatile",
-   "link": "https://www.thehindubusinessline.com/markets/investments-in-gold-etfs-turn-mixed-as-the-precious-metal-turns-volatile/article71683169.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T17:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Festival boost: Indian gold jewellery sales top $6.6 billion in 2 days",
-   "link": "https://www.thehindubusinessline.com/markets/gold/festival-boost-indian-gold-jewellery-sales-top-66-billion-in-2-days/article71682622.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T17:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bank of Baroda ups MCLR by 5 to 20 bps - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/bank-of-baroda-ups-mclr-by-5-to-20-bps/article71682613.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T17:00:00+00:00",
-   "companies": [
-    "Bank of Baroda"
-   ]
-  },
-  {
-   "title": "Promoter holding in Nifty 50 firms falls to 40% - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/promoter-holding-in-nifty-50-firms-falls-to-40/article71683186.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T16:30:00+00:00"
-  },
-  {
-   "title": "50 sovereigns of gold jewellery goes missing from PACCS locker in Kanniyakumari",
-   "link": "https://www.thehindu.com/news/cities/Madurai/50-sovereigns-of-gold-jewellery-goes-missing-from-paccs-locker-in-kanniyakumari/article71683543.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T16:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
