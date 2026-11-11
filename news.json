@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-11T07:01:58.939056+00:00",
+ "updated": "2026-11-11T07:15:59.165018+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 47 new items (12 files read)"
+  "gdelt": "ok, 29 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BHEL shares rise over 3% on order win from Power Grid",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bhel-shares-rise-on-order-win-from-power-grid-566800-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T07:15:00+00:00",
+   "companies": [
+    "Power Grid"
+   ]
+  },
+  {
+   "title": "HDFC Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52 week high",
+   "link": "https://www.businesstoday.in/markets/trending-stocks/story/hdfc-bank-sbi-icici-bank-axis-bank-bob-rally-up-6-nifty-bank-nears-52-week-high-566796-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T07:15:00+00:00"
+  },
+  {
+   "title": "Debt mutual funds vs listed bonds: Which offers better post tax returns under the new tax rules?",
+   "link": "https://www.businesstoday.in/personal-finance/story/debt-mutual-funds-vs-listed-bonds-which-offers-better-post-tax-returns-under-the-new-tax-rules-566787-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T07:15:00+00:00"
+  },
   {
    "title": "Three forces behind November's market turnaround: AI correction, Rs 54,000-crore FII comeback and earnings resilience",
    "link": "https://www.moneycontrol.com/news/business/markets/three-forces-behind-november-s-market-turnaround-ai-correction-rs-54-000-crore-fii-comeback-and-earnings-resilience-14077031.html",
@@ -3249,35 +3276,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T09:45:00+00:00"
-  },
-  {
-   "title": "Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts",
-   "link": "https://www.business-standard.com/markets/news/ashok-leyland-paytm-down-after-6-day-rally-analyst-flags-positive-charts-126110900526_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T09:30:00+00:00"
-  },
-  {
-   "title": "Alphabet mulls Asia bond sale as AI concerns fuel global volatility",
-   "link": "https://www.business-standard.com/world-news/alphabet-mulls-asia-bond-sale-as-ai-concerns-fuel-global-volatility-126110900413_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T08:30:00+00:00"
-  },
-  {
-   "title": "Data Patterns: Why defence stock is up 8% today despite 56% fall in Q2 net profit",
-   "link": "https://www.businesstoday.in/markets/stocks/story/data-patterns-why-defence-stock-is-up-today-despite-fall-in-q2-net-profit-566450-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T08:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
