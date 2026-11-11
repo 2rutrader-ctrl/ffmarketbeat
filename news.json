@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:31:12.588829+00:00",
+ "updated": "2026-11-11T04:45:53.820356+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -3277,33 +3277,43 @@
    "published": "2026-11-09T05:00:00+00:00"
   },
   {
-   "title": "Rupee rises 3% from record lows; analysts see it at 92.5/$ by December-end",
-   "link": "https://www.moneycontrol.com/news/business/markets/rupee-rises-3-from-record-lows-analysts-see-it-at-92-5-by-december-end-14075194.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:45:00+00:00",
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-05T08:00:00+00:00",
    "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
   },
   {
-   "title": "LIC looks to gain further from IDBI Bank stake reduction, may hold 0-15% depending on prospects",
-   "link": "https://www.moneycontrol.com/banking/lic-looks-to-gain-further-from-idbi-bank-stake-reduction-may-hold-0-15-depending-on-prospects-article-14075172.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:45:00+00:00"
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-11-04T00:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
   },
   {
-   "title": "Current rally increases possibility of market consolidation? Milan Vaishnav expects Bank Nifty to outperform broader index",
-   "link": "https://www.moneycontrol.com/news/business/markets/current-rally-increases-possibility-of-market-consolidation-milan-vaishnav-expects-bank-nifty-to-outperform-broader-index-14075068.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:45:00+00:00"
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "source": "European Central Bank",
+   "source_key": "ecb",
+   "category": "Global",
+   "published": "2026-10-30T14:00:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
   }
  ]
 }
