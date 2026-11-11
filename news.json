@@ -1,12 +1,65 @@
 {
- "updated": "2026-11-11T11:01:24.472106+00:00",
+ "updated": "2026-11-11T11:15:49.201997+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
-  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: URLError: <urlopen error [Errno 104] Connection reset by peer>",
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crude down 24%, FPIs invest ₹53,739 crore: GTRI explains what's driving rupee recovery",
+   "link": "https://www.businesstoday.in/latest/economy/story/crude-down-24-fpis-invest-rs53739-crore-gtri-explains-whats-driving-rupee-recovery-566891-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "TVS Motor expands global portfolio with Callisto 110 launch in Istanbul",
+   "link": "https://www.businesstoday.in/markets/stocks/story/tvs-motor-expands-global-portfolio-with-callisto-110-launch-in-istanbul-566885-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:15:00+00:00",
+   "companies": [
+    "TVS Motor"
+   ]
+  },
+  {
+   "title": "BHEL shares up 3.5% on Power Grid order for Gujarat synchronous condensers",
+   "link": "https://www.business-standard.com/markets/news/bhel-shares-up-3-5-on-power-grid-order-for-gujarat-synchronous-condensers-126111100646_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:15:00+00:00"
+  },
+  {
+   "title": "GRSE Q2 earnings: Net profit rises 12%, revenue at Rs 1,826 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/grse-q2-earnings-net-profit-rises-12-revenue-at-rs-1826-crore-566886-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T11:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "China university buys Nvidia H200 AI chips despite US export restrictions and trade blacklist",
+   "link": "https://www.hindustantimes.com/world-news/us-news/china-university-buys-nvidia-h200-ai-chips-despite-us-export-restrictions-and-trade-blacklist-101794391980222.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T11:15:00+00:00"
+  },
   {
    "title": "Kashmir saffron yield rises over 15% despite weather uncertainties",
    "link": "https://www.thehindubusinessline.com/economy/agri-business/kashmir-saffron-yield-rises-over-15-despite-weather-uncertainties/article71689029.ece",
@@ -3198,70 +3251,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Buying gold jewellery? Government makes hallmarking mandatory in six more districts across India. Check the full list",
-   "link": "https://www.livemint.com/money/personal-finance/buying-gold-jewellery-government-makes-hallmarking-mandatory-in-six-more-districts-across-india-check-the-full-list-11794233861691.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T14:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Reliance may struggle to repeat cola disruption in biscuits: Britannia CEO",
-   "link": "https://www.business-standard.com/companies/news/reliance-may-struggle-to-repeat-cola-disruption-in-biscuits-britannia-ceo-126110900953_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T14:30:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "Britannia"
-   ]
-  },
-  {
-   "title": "US Treasury yields today: 10-year, 30-year bond yields hold steady as investors await US inflation data",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-treasury-yields-today-10-year-30-year-bond-yields-hold-steady-as-investors-await-us-inflation-data-101794229978035.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T14:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Inside Iran's hidden oil network in China: Leaked letter details how Tehran bypasses US sanctions",
-   "link": "https://www.moneycontrol.com/world/inside-iran-s-hidden-oil-network-in-china-leaked-letter-details-how-tehran-bypasses-us-sanctions-article-14075665.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T13:45:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Norwest Venture Partners and Kedaara Capital-backed Veritas Finance IPO gets SEBI nod",
-   "link": "https://www.moneycontrol.com/news/business/ipo/norwest-venture-partners-and-kedaara-capital-backed-veritas-finance-ipo-gets-sebi-nod-14075645.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T13:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
    }
   }
  ]
