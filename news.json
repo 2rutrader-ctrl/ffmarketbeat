@@ -1,12 +1,60 @@
 {
- "updated": "2026-11-11T13:31:09.805941+00:00",
+ "updated": "2026-11-11T13:45:47.172070+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "EAAA India Alternatives Q2 results 2026: Net profit jumps 27%; 140% interim dividend of ₹7/share; check record date",
+   "link": "https://www.livemint.com/market/stock-market-news/eaaa-india-alternatives-q2-results-2026-net-profit-jumps-27-140-interim-dividend-of-rs-7-share-check-record-date-11794399717392.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "'Trashed Panda' strikes gold: Drunk raccoon's viral liquor store stunt helps raise ₹2.3 crore for animal shelter",
+   "link": "https://www.livemint.com/news/trends/trashed-panda-strikes-gold-drunk-raccoon-s-viral-liquor-store-stunt-helps-raise-rs-2-3-crore-for-animal-shelter-11794398455599.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Who is Shuchi Suri? Mahindra & Mahindra appoints Executive VP as Chief Sales and Marketing officer - Automotive",
+   "link": "https://www.livemint.com/companies/people/who-is-shuchi-suri-mahindra-mahindra-appoints-executive-vp-as-chief-sales-and-marketing-officer-automotive-11794395531417.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:30:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "HDFC Bank raises MCLR by 5-15 bps across all tenures: Check new lending rates and what they mean for your loan EMIs",
+   "link": "https://www.livemint.com/money/personal-finance/hdfc-bank-raises-mclr-by-5-15-bps-across-all-tenures-check-new-lending-rates-and-what-they-mean-for-your-loan-emis-11794396761391.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T13:30:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
   {
    "title": "Govt bans lithium-ion battery black mass exports to aid domestic recyclers",
    "link": "https://www.business-standard.com/industry/news/govt-bans-lithium-ion-battery-black-mass-exports-to-aid-domestic-recyclers-126111101149_1.html",
@@ -3207,51 +3255,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Upcoming IPO: Veritas Finance gets Sebi nod to launch public issue – Top things for investors",
-   "link": "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T20:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Canadian dollar underperforms most G10 currencies as oil falls",
-   "link": "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T20:00:00+00:00"
-  },
-  {
-   "title": "Worker killed as tractor tyre bursts during inflation at Sholinganallur",
-   "link": "https://www.thehindu.com/news/cities/chennai/worker-killed-as-tractor-tyre-bursts-during-inflation-at-sholinganallur/article71683505.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T19:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "L&T bags ₹1,000 - ₹2,500 crore order from Noida Metro Rail Corporation for Aqua Line extension",
-   "link": "https://www.thehindu.com/business/Industry/lt-bags-1000-2500-crore-order-from-noida-metro-rail-corporation-for-aqua-line-extension/article71683873.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T18:00:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
   }
  ]
 }
