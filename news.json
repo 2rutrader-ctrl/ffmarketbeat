@@ -1,12 +1,69 @@
 {
- "updated": "2026-11-11T16:15:51.988908+00:00",
+ "updated": "2026-11-11T16:31:08.918771+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 16 new items (12 files read)"
+  "gdelt": "ok, 24 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Chittoor, Annamayya mango growers fear dry spell, rainfall deficit likely to impact 2027 yields",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-annamayya-mango-growers-fear-dry-spell-rainfall-deficit-likely-to-impact-2027-yields/article71689549.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T16:30:00+00:00"
+  },
+  {
+   "title": "Who is Sanjay Banga? Meet Tata Power's new CEO, a Harvard alumnus with 37 years of power sector experience",
+   "link": "https://www.livemint.com/companies/people/who-is-sanjay-banga-meet-tata-powers-new-ceo-a-harvard-alumnus-with-37-years-of-power-sector-experience-11794409947305.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Noida Metro Aqua Line Extension: L&T secures order from NMRC to build 15.1-km elevated viaduct – Inside the contract",
+   "link": "https://www.livemint.com/companies/news/noida-metro-aqua-line-extension-l-t-secures-order-from-nmrc-to-build-15-1-km-elevated-viaduct-inside-the-contract-11794405082608.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:30:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
+  {
+   "title": "'Polluters must pay': UN chief urges govt to tax oil giants' profits to fund climate action",
+   "link": "https://www.hindustantimes.com/world-news/un-chief-antonio-guterres-urges-govt-to-tax-oil-giants-profits-to-fund-climate-action-polluters-must-pay-101794411414327.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T16:30:00+00:00"
+  },
+  {
+   "title": "Tata Power says Singapore shares pledged with banks, safe from immediate seizure",
+   "link": "https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T16:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "CII underlines role of airports for Tamil Nadu to achieve $1.5 trillion economy goal",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/cii-underlines-role-of-airports-for-tamil-nadu-to-achieve-15-trillion-economy-goal/article71690439.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T16:30:00+00:00"
+  },
   {
    "title": "India's Q2 GDP growth likely at 7.8%, above RBI estimate of 7.2%: SBI Research",
    "link": "https://www.moneycontrol.com/news/business/economy/india-s-q2-gdp-growth-likely-at-7-8-above-rbi-estimate-of-7-2-sbi-research-14077393.html",
@@ -3214,64 +3271,6 @@
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
    }
-  },
-  {
-   "title": "S&P 500 rallies most since April as oil drop lures back buyers",
-   "link": "https://www.moneycontrol.com/news/business/markets/s-p-500-rallies-most-since-april-as-oil-drop-lures-back-buyers-14075820.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00"
-  },
-  {
-   "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-   "link": "https://www.moneycontrol.com/news/business/companies/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo-14075812.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00"
-  },
-  {
-   "title": "Wall Street jumps as oil slide cools inflation worries; Nvidia slumps",
-   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-jumps-as-oil-slide-cools-inflation-worries-nvidia-slumps-14075800.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Antala Industries Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
-   "link": "https://www.moneycontrol.com/ipo/antala-industries-ail13-ipodetail",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00"
-  },
-  {
-   "title": "Bitcoin trims early gains, trades below $74,500 as investors await US inflation data",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-trims-early-gains-trades-below-74-500-as-investors-await-us-inflation-data-14075963.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Beyond the gateway: West Bengal has the products, but needs an export strategy",
-   "link": "https://www.livemint.com/opinion/online-views/west-bengal-export-policy-goods-export-niti-aayog-11794213193794.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T04:15:00+00:00"
   }
  ]
 }
