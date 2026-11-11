@@ -1,12 +1,78 @@
 {
- "updated": "2026-11-11T02:31:06.749251+00:00",
+ "updated": "2026-11-11T02:45:47.196670+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Oil prices rebound from two-month lows as Strait of Hormuz attacks cloud peace hopes; Brent tops $92",
+   "link": "https://www.moneycontrol.com/news/business/commodities/oil-prices-rebound-from-two-month-lows-as-strait-of-hormuz-attacks-cloud-peace-hopes-brent-tops-92-14076588.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T02:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Anthropic investors shop IPO shares early, and at a big premium",
+   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium-14076525.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "title": "US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6%",
+   "link": "https://www.moneycontrol.com/news/business/markets/us-stocks-falla-as-hotter-inflation-fuels-fed-rate-hike-fears-nvidia-slides-nearly-6-14076505.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T02:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "FIIs invest $22 billion in IPOs, dump $50 billion in listed stocks: Why the sharp contrast?",
+   "link": "https://www.businesstoday.in/markets/story/fiis-invest-22-billion-in-ipos-dump-50-billion-in-listed-stocks-why-the-sharp-contrast-566674-2026-11-10",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "title": "'US military luring helpless oil tankers into walls of fire with lie that Strait of Hormuz is open': IRGC",
+   "link": "https://www.moneycontrol.com/world/us-military-luring-helpless-oil-tankers-into-walls-of-fire-with-lie-that-strait-of-hormuz-is-open-irgc-article-14076506.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "title": "India's 11% dollar-growth pitch could draw FPIs back, but tax U-turn risks spoiling the party, says Samir Arora",
+   "link": "https://www.moneycontrol.com/news/business/markets/india-s-11-dollar-growth-pitch-could-draw-fpis-back-but-tax-u-turn-risks-spoiling-the-party-says-samir-arora-14076517.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "title": "Trading Plan: Can Nifty 50 reclaim 25,200, Bank Nifty decisively surpass 60,000?",
+   "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-reclaim-25-200-bank-nifty-decisively-surpass-60-000-14076524.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T02:45:00+00:00"
+  },
   {
    "title": "Crude oil: A breather for India - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/opinion/crude-oil-a-breather-for-india/article71686936.ece",
@@ -3223,25 +3289,6 @@
    "published": "2026-11-09T03:15:00+00:00"
   },
   {
-   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Monday, 9 November for Diwali? Check cities, RBI calendar",
-   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-branch-closed-monday-9-november-diwali-2026-laxmi-puja-check-your-cities-rbi-calendar-11794186250022.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T02:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Democrats promised to fix the economy. What can they really do?",
-   "link": "https://www.livemint.com/global/democrats-promised-to-fix-the-economy-what-can-they-really-do-11794190401458.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T02:45:00+00:00"
-  },
-  {
    "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
    "source": "European Central Bank",
@@ -3252,71 +3299,6 @@
     "topic": "How interest rates reach the market",
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-11-04T00:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-30T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-   "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-29T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Monetary policy decisions",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-29T13:15:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-10-28T18:00:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
    }
   }
  ]
