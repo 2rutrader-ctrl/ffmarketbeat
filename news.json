@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-11T09:45:47.468430+00:00",
+ "updated": "2026-11-11T10:01:21.690567+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bhai Dooj | From Jigra to Bhaag Milkha Bhaag, 5 Bollywood films about the brother-sister bond you can revisit today",
+   "link": "https://www.hindustantimes.com/htcity/cinema/bhai-dooj-from-jigra-to-bhaag-milkha-bhaag-5-bollywood-films-about-the-brother-sister-bond-you-can-revisit-today-101794384804931.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T10:00:00+00:00"
+  },
   {
    "title": "Bajaj Finance to launch Rs 11,700 crore QIP this week: Report",
    "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-to-launch-rs-11700-crore-qip-this-week-report-566825-2026-11-11",
@@ -3257,19 +3265,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-09T12:30:00+00:00"
-  },
-  {
-   "title": "Stock markets end higher amid easing crude oil prices, buying in banks",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-end-higher-amid-easing-crude-oil-prices-buying-in-banks/article71682332.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T12:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
