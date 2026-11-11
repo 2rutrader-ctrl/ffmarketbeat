@@ -1,12 +1,115 @@
 {
- "updated": "2026-11-11T09:15:54.031314+00:00",
+ "updated": "2026-11-11T09:31:06.428921+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "500 gm gold limit for married women: Supreme Court says they must still explain its source - here's why | What to do now",
+   "link": "https://www.livemint.com/money/personal-finance/500-gm-gold-limit-for-married-women-supreme-court-says-they-must-still-explain-its-source-heres-why-what-to-do-now-11794383225613.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "RIL, HDFC, Axis Bank, IndiGo, more: List of 12 stocks from Jefferies; shares to gain as FPIs embrace Indian markets",
+   "link": "https://www.livemint.com/market/stock-market-news/ril-hdfc-axis-bank-indigo-more-list-of-12-stocks-from-jefferies-shares-to-gain-as-fpis-embrace-indian-markets-11794382918824.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:30:00+00:00"
+  },
+  {
+   "title": "L&T bags 'significant' order between ₹1,000-2,500 cr for Noida Metro Aqua Line Extension project | Details",
+   "link": "https://www.livemint.com/industry/infrastructure/lt-bags-significant-order-between-rs-1-000-2-500-cr-for-noida-metro-aqua-line-extension-project-details-11794385499847.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:30:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
+  {
+   "title": "Moody's ups India's FY27 growth forecast to 7% on strong economic momentum, warns of risks",
+   "link": "https://www.livemint.com/economy/moodys-ups-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum-warns-of-risks-11794386510492.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:30:00+00:00"
+  },
+  {
+   "title": "Consumer chiefs flag risks to discretionary spending; cite high food inflation, interest rates and AI-led job losses",
+   "link": "https://www.moneycontrol.com/news/business/consumer-chiefs-flag-risks-to-discretionary-spending-cite-high-food-inflation-interest-rates-and-ai-led-job-losses-14077160.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:15:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Avanti Feeds shares fall 6% after weak Q2 results; smallcap stock down over 20% in 2026",
+   "link": "https://www.moneycontrol.com/news/business/markets/avanti-feeds-shares-fall-6-after-weak-q2-results-smallcap-stock-down-over-20-in-2026-14077147.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Anthropic's Indian-origin CFO Krishna Rao's equity stake tops $700 million at proposed IPO price",
+   "link": "https://www.moneycontrol.com/artificial-intelligence/anthropic-s-indian-origin-cfo-krishna-rao-s-equity-stake-tops-700-million-at-proposed-ipo-price-article-14077151.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:00:00+00:00"
+  },
+  {
+   "title": "Q2 results impact: Rentomojo shares jump up to 10% as profit surges 125% QoQ to Rs 18 crore",
+   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-rentomojo-shares-jump-up-to-10-as-profit-surges-125-qoq-to-rs-18-crore-14077137.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Patna Municipal Corporation's Rs 200-cr bond listing marks historic milestone for Bihar: NSE MD Chauhan",
+   "link": "https://www.moneycontrol.com/news/business/markets/patna-municipal-corporation-s-rs-200-cr-bond-listing-marks-historic-milestone-for-bihar-nse-md-chauhan-14077145.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:00:00+00:00"
+  },
+  {
+   "title": "FIIs pump $7.5 billion into Indian stocks in 15 sessions, but buying remains selective",
+   "link": "https://www.moneycontrol.com/news/business/markets/fiis-pump-7-5-billion-into-indian-stocks-in-15-sessions-but-buying-remains-selective-14076954.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:00:00+00:00"
+  },
   {
    "title": "Punjab National Bank share price soars 11% in two days; hits 52-week high",
    "link": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-days-hits-52-week-high-126111100580_1.html",
@@ -3167,115 +3270,6 @@
    "companies": [
     "HDFC Bank",
     "ICICI Bank"
-   ]
-  },
-  {
-   "title": "Tyra Banks dazzles at Diwali celebration in New York, chooses traditional green and gold brocade lehenga with extravagant diamond necklace",
-   "link": "https://www.hindustantimes.com/lifestyle/fashion/tyra-banks-dazzles-at-diwali-celebration-in-new-york-chooses-traditional-green-and-gold-brocade-lehenga-with-extravagant-diamond-necklace-101794217649517.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Rain Industries shares fall 9% after Q3 results; revenue jumps 23%",
-   "link": "https://www.businesstoday.in/markets/stocks/story/rain-industries-shares-fall-9-after-q3-results-revenue-jumps-23-profit-rises-99-566467-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T11:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "DGTR proposes anti-dumping duty of up to $565 on rubber glove imports",
-   "link": "https://www.business-standard.com/industry/news/dgtr-proposes-anti-dumping-duty-of-up-to-565-on-rubber-glove-imports-126110900501_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T11:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "RBI's $239 bn forward dollar position to limit rupee gains: Report",
-   "link": "https://www.business-standard.com/finance/news/rbi-s-239-bn-forward-dollar-position-to-limit-rupee-gains-report-126110900571_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Nifty 50 ETFs or index funds? Compare returns, expense ratios and tracking errors before choosing where to invest",
-   "link": "https://www.livemint.com/money/personal-finance/nifty-50-etfs-or-index-funds-compare-returns-expense-ratios-and-tracking-errors-before-choosing-where-to-invest-11794214691739.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "India's oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
-   "link": "https://www.business-standard.com/economy/news/india-s-oilmeal-exports-fall-28-5-as-soymeal-loses-to-brazil-argentina-126110900396_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:45:00+00:00"
-  },
-  {
-   "title": "Widowed at 20, worked as SBI sweeper and then became a doctor: Know Pratiksha Tondwalkar's inspiring journey",
-   "link": "https://www.hindustantimes.com/education/success-stories/widowed-at-20-worked-as-sbi-sweeper-and-then-became-a-doctor-know-pratiksha-tondwalkar-s-inspiring-journey-101794219271042.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Govt extends deepsea oil, gas block bidding deadline again to December 10",
-   "link": "https://www.business-standard.com/economy/news/govt-extends-deepsea-oil-gas-block-bidding-deadline-again-to-december-10-126110900479_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T10:45:00+00:00"
-  },
-  {
-   "title": "Ex-Airtel COO shares how years of work stress affected health: 'At 40, I was paralysed'",
-   "link": "https://www.moneycontrol.com/news/trends/ex-airtel-coo-shares-how-years-of-work-stress-affected-health-at-40-i-was-paralysed-14075383.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "MC Exclusive | LIC to expand protection business, strengthen digital capabilities over next five years: R Doraiswamy",
-   "link": "https://www.moneycontrol.com/news/business/banks/lic-to-expand-protection-business-strengthen-digital-capabilities-over-next-five-years-r-doraiswamy-14075382.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00",
-   "companies": [
-    "LIC"
    ]
   }
  ]
