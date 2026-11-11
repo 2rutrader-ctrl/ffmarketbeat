@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-11T03:01:23.065212+00:00",
+ "updated": "2026-11-11T03:15:50.393445+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 17 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "For boomers, economic boom times are over",
+   "link": "https://www.hindustantimes.com/world-news/for-boomers-economic-boom-times-are-over-101794364630897.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T03:15:00+00:00"
+  },
+  {
+   "title": "Festive demand, export recovery drive auto sector growth, says MOFSL",
+   "link": "https://www.business-standard.com/markets/news/festive-demand-export-recovery-drive-auto-sector-growth-says-mofsl-126111100087_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T03:15:00+00:00"
+  },
+  {
+   "title": "Renu Desai says it's inhumane to kick someone already down in cryptic note, adds she 'hasn't gotten any Paytm to be kind and sensible'",
+   "link": "https://www.hindustantimes.com/entertainment/telugu-cinema/renu-desai-says-its-inhumane-to-kick-someone-already-down-in-cryptic-note-adds-she-hasn-t-gotten-any-paytm-to-be-kind-and-sensible-101794363877554.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T03:15:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
   {
    "title": "Oil prices rebound from two-month lows as Strait of Hormuz attacks cloud peace hopes; Brent tops $92",
    "link": "https://www.moneycontrol.com/news/business/commodities/oil-prices-rebound-from-two-month-lows-as-strait-of-hormuz-attacks-cloud-peace-hopes-brent-tops-92-14076588.html",
@@ -72,6 +99,19 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T02:45:00+00:00"
+  },
+  {
+   "title": "India's efforts to clean its air need not slow its economic growth",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T02:30:00+00:00",
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
   },
   {
    "title": "Crude oil: A breather for India - The HinduBusinessLine",
@@ -3258,48 +3298,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-09T04:15:00+00:00"
-  },
-  {
-   "title": "Amber Enterprises shares in focus as arm files DRHP for Rs 2,500 crore IPO",
-   "link": "https://www.businesstoday.in/markets/stocks/story/amber-enterprises-shares-in-focus-as-arm-il-jin-electronics-files-drhp-for-rs-2500-crore-ipo-566401-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T04:15:00+00:00"
-  },
-  {
-   "title": "Consumer firms absorb rising costs as inflation squeezes household budgets",
-   "link": "https://www.business-standard.com/industry/news/consumer-firms-absorb-rising-costs-as-inflation-squeezes-household-budgets-126110900100_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T04:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Oil falls as Donald Trump says new Iran attacks 'unlikely'",
-   "link": "https://www.thehindu.com/business/Economy/oil-falls-as-donald-trump-says-new-iran-attacks-unlikely/article71681302.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T03:15:00+00:00"
-  },
-  {
-   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-11-05T08:00:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
   }
  ]
 }
