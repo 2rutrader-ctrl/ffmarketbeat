@@ -1,12 +1,216 @@
 {
- "updated": "2026-11-11T09:31:06.428921+00:00",
+ "updated": "2026-11-11T09:45:47.468430+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bajaj Finance to launch Rs 11,700 crore QIP this week: Report",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-to-launch-rs-11700-crore-qip-this-week-report-566825-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Top bets of Jhunjhunwala: Titan, IKS, TMCV & 3 others worth Rs 48,000 crore! What analysts say?",
+   "link": "https://www.businesstoday.in/markets/trending-stocks/story/top-bets-of-jhunjhunwala-titan-iks-tmcv-3-others-worth-rs-48000-crore-what-analysts-say-566824-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "Titan"
+   ]
+  },
+  {
+   "title": "PSBs edge private sector banks in Q2FY27 profit growth: SBI Research",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/psbs-edge-private-sector-banks-in-q2fy27-profit-growth-sbi-research/article71688853.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "HDFC Bank shares cross ₹811 as shareholders approve Bagchi's appointment",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-cross-811-as-shareholders-approve-bagchis-appointment/article71688704.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "Will October inflation breach 6%? What it means for interest rates, EMIs and GDP growth",
+   "link": "https://www.businesstoday.in/latest/economy/story/will-inflation-breach-6-in-october-what-it-means-for-interest-rates-emis-and-gdp-growth-566855-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Stock market: Nifty 500 stocks above 50 day SMAs rise to 50% from 10% in 12 sessions!",
+   "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-nifty-500-stocks-above-50-day-smas-rise-to-50-from-10-in-12-sessions-566812-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "Moody's ups growth forecast for India to 7%, cautions high inflation",
+   "link": "https://www.thehindubusinessline.com/economy/moodys-ups-growth-forecast-for-india-to-7-cautions-high-inflation/article71688879.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Indices hold gains at noon; M&M, IndiGo top Nifty charts as IT stocks drag",
+   "link": "https://www.thehindubusinessline.com/markets/indices-hold-gains-at-noon-mm-indigo-top-nifty-charts-as-it-stocks-drag/article71688800.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "Madras HC issues on plea challenging Cult.fit's ownership of CULT trademark ahead of IPO",
+   "link": "https://www.thehindubusinessline.com/companies/madras-hc-issues-notice-on-plea-challenging-cultfits-ownership-of-cult-trademark-ahead-of-ipo/article71688642.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "ICICI Bank hits 52-week high before retreating; Morgan Stanley adds to focus list",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/icici-bank-hits-52-week-high-before-retreating-morgan-stanley-adds-to-focus-list/article71688748.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "India bans battery scrap exports to boost domestic recovery of critical minerals",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-bans-battery-scrap-exports-to-boost-domestic-recovery-of-critical-minerals-566839-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "Indian customs holds bulk Scotch containers over 150% tariff dispute under India-UK pact",
+   "link": "https://www.thehindubusinessline.com/news/indian-customs-holds-bulk-scotch-containers-over-150-tariff-dispute-under-india-uk-pact/article71688636.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "India's GDP growth to beat RBI forecast? SBI sees 7.8% expansion in Q2; Moody's raises FY27 outlook",
+   "link": "https://www.businesstoday.in/latest/economy/story/indias-gdp-growth-to-beat-rbi-forecast-sbi-sees-7-8-expansion-in-q2-moodys-raises-fy27-outlook-566844-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ],
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
+  {
+   "title": "Hindalco trades near ₹958 as analysts back stock post Q2 beat",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hindalco-trades-near-958-as-analysts-back-stock-post-q2-beat/article71688722.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "Hindalco"
+   ]
+  },
+  {
+   "title": "Britannia shares climb 1.6% mid-session as Q2 results digest",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/britannia-shares-climb-16-mid-session-as-q2-results-digest/article71688781.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "Britannia"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Govt bans export of unsorted waste, scrap of lithium-ion batteries",
+   "link": "https://www.thehindubusinessline.com/economy/govt-bans-export-of-unsorted-waste-scrap-of-lithium-ion-batteries/article71688699.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
+  {
+   "title": "TCS bags Rio Marathon tech deal; stocks in red - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/tcs-bags-rio-marathon-tech-deal-stocks-in-red/article71688805.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "TCS"
+   ]
+  },
+  {
+   "title": "El Nino phenomenon: States must desist from loan waiver, says SBI's ERD",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/el-nino-phenomenon-states-must-desist-from-loan-waiver-says-sbis-erd/article71688911.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T09:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "TN CM Vijay likely to visit Davos for the World Economic Forum annual meeting",
+   "link": "https://www.thehindubusinessline.com/news/tn-cm-vijay-likely-to-visit-davos-for-the-world-economic-forum-annual-meeting/article71688656.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T09:45:00+00:00"
+  },
   {
    "title": "500 gm gold limit for married women: Supreme Court says they must still explain its source - here's why | What to do now",
    "link": "https://www.livemint.com/money/personal-finance/500-gm-gold-limit-for-married-women-supreme-court-says-they-must-still-explain-its-source-heres-why-what-to-do-now-11794383225613.html",
@@ -3066,211 +3270,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Why it will take more than just signing FTAs to boost India's exports",
-   "link": "https://www.livemint.com/economy/why-indian-exporters-struggle-to-benefit-from-ftas-11794222712302.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:30:00+00:00"
-  },
-  {
-   "title": "Rupee rises 5 paise to close at 93.93 against U.S. dollar",
-   "link": "https://www.thehindu.com/business/Industry/rupee-rises-5-paise-to-close-at-9393-against-us-dollar/article71682383.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
-   "link": "https://www.moneycontrol.com/news/business/markets/sat-upholds-sebi-fraud-findings-against-former-ricoh-india-ceo-takano-cuts-penalty-to-rs-10-lakh-14075566.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat, Monday trade",
-   "link": "https://www.moneycontrol.com/news/business/markets/stock-market-holiday-tomorrow-bse-nse-shut-on-november-10-for-diwali-balipratipada-after-sunday-muhurat-monday-trade-14075578.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00"
-  },
-  {
-   "title": "Wall Street futures rise up to 0.8% as crude oil prices decline; NVIDIA shares fall 5% in pre-market trade",
-   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-rise-up-to-0-8-as-crude-oil-prices-decline-nvidia-shares-fall-5-in-pre-market-trade-14075585.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T12:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "MakeMyTrip's India arm gets SEBI nod to float IPO",
-   "link": "https://www.moneycontrol.com/news/business/ipo/makemytrip-s-india-arm-gets-sebi-nod-to-float-ipo-14075562.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Technical View: Nifty 50 must cross 25,200 to resume uptrend, until then range-bound trading may continue; Bank Nifty faces crucial resistance at 60,400",
-   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-50-must-cross-25-200-to-resume-uptrend-until-then-range-bound-trading-may-continue-bank-nifty-faces-crucial-resistance-at-60-400-14075563.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00"
-  },
-  {
-   "title": "FPI inflows into FAR G-Secs rise nearly ₹8K cr as rupee gains, yields ease",
-   "link": "https://www.business-standard.com/economy/news/fpi-inflows-into-far-g-secs-rise-nearly-8k-cr-as-rupee-gains-yields-ease-126110900736_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",
-   "link": "https://www.moneycontrol.com/news/business/markets/nifty-it-index-falls-over-1-as-global-ai-stocks-stage-recovery-mphasis-hcl-tech-infosys-down-2-3-14075649.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:15:00+00:00"
-  },
-  {
-   "title": "FPI investments in FAR G-Secs rise nearly ₹8,000 cr as rupee gains, bond yields ease",
-   "link": "https://www.thehindubusinessline.com/markets/fpi-investments-in-far-g-secs-rise-nearly-8000-cr-as-rupee-gains-bond-yields-ease/article71682301.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Adani Ports, MEIL and Vishwa Samudra in race for ₹11,733-crore VOC Port outer harbour project",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/adani-ports-meil-and-vishwa-samudra-in-race-for-11733-crore-voc-port-outer-harbour-project/article71681842.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Global pricing pressure drags down Indian oilmeal exports 36% in August",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/global-pricing-pressure-drags-down-indian-oilmeal-exports-36-in-august/article71681746.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:00:00+00:00"
-  },
-  {
-   "title": "Nifty slips to 24,882 at midday; IT, Steel, Cement drag as Rupee hits 2026 high",
-   "link": "https://www.thehindubusinessline.com/markets/nifty-slips-to-24882-at-midday-it-steel-cement-drag-as-rupee-hits-2026-high/article71681848.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "L&T bags ₹1,000 - ₹2,500 cr order from Noida Metro Rail Corporation for Aqua Line extension",
-   "link": "https://www.thehindubusinessline.com/companies/lt-bags-1000-2500-cr-order-from-noida-metro-rail-corporation-for-aqua-line-extension/article71682188.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T12:00:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "Ramkrishna Forgings-Titagarh Rail JV plant in TN to hit full capacity by FY30, eyes global exports",
-   "link": "https://www.thehindubusinessline.com/companies/ramkrishna-forgings-titagarh-rail-jv-plant-in-tn-to-hit-full-capacity-by-fy30-eyes-global-exports/article71682135.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-09T12:00:00+00:00"
-  },
-  {
-   "title": "Bharat Electronics bags additional orders worth Rs 909 crore",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bharat-electronics-bags-additional-orders-worth-rs-909-crore-566461-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:15:00+00:00",
-   "companies": [
-    "Bharat Electronics"
-   ]
-  },
-  {
-   "title": "Gold, silver prices on November 9: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-9-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566475-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Indian stock market outlook for Samvat 2083: Top 10 factors investors should watch",
-   "link": "https://www.businesstoday.in/markets/story/indian-stock-market-outlook-for-samvat-2083-top-10-factors-investors-should-watch-566472-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:15:00+00:00"
-  },
-  {
-   "title": "NSE stock leads turnover; ICICI Bank, HDFC Bank, Indian Hotels shares follow suit",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nse-stock-logs-top-turnover-icici-bank-hdfc-bank-indian-hotels-other-gainers-566500-2026-11-09",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T11:15:00+00:00",
-   "companies": [
-    "HDFC Bank",
-    "ICICI Bank"
-   ]
   }
  ]
 }
