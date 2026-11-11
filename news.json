@@ -1,12 +1,46 @@
 {
- "updated": "2026-11-11T05:01:28.521856+00:00",
+ "updated": "2026-11-11T05:15:50.706876+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 20 new items (12 files read)"
+  "gdelt": "ok, 22 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude slump",
+   "link": "https://www.moneycontrol.com/news/business/markets/indigo-jumps-nearly-5-asian-paints-gains-2-as-aviation-tyre-oil-marketing-stocks-rally-amid-crude-slump-14076858.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T05:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Oil prices rebound after brief dip below $90 as US-Iran war uncertainty, Hormuz attacks continue; Brent over $92, WTI near $87",
+   "link": "https://www.moneycontrol.com/news/business/markets/oil-prices-rebound-after-brief-dip-below-90-as-us-iran-war-uncertainty-hormuz-attacks-continue-brent-over-92-wti-near-87-14076819.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T05:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "November rally lifts Nifty from year-to-date laggard to global outperformer",
+   "link": "https://www.moneycontrol.com/news/business/november-rally-lifts-nifty-from-year-to-date-laggard-to-global-outperformer-14076719.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T05:15:00+00:00"
+  },
   {
    "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns",
    "link": "https://www.livemint.com/money/personal-finance/global-gold-price-drop-2026-yellow-metal-slips-6-in-dollar-terms-but-top-indian-gold-etfs-still-deliver-7-5-returns-11794363967503.html",
@@ -3279,45 +3313,6 @@
     "topic": "Why the ECB matters beyond Europe",
     "short": "ECB",
     "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-30T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-   "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-29T14:00:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "Monetary policy decisions",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-10-29T13:15:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
   }
  ]
