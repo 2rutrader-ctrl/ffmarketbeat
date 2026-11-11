@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-11T08:31:07.050929+00:00",
+ "updated": "2026-11-11T08:45:48.136095+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 47 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Punjab National Bank share price soars 11% in two days; hits 52-week high",
+   "link": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-days-hits-52-week-high-126111100580_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-11T08:45:00+00:00"
+  },
+  {
+   "title": "Centre bans export of battery waste, including lithium-ion black mass",
+   "link": "https://www.business-standard.com/economy/news/centre-bans-export-of-battery-waste-including-lithium-ion-black-mass-126111100415_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T08:45:00+00:00"
+  },
+  {
+   "title": "Customs holds Pernod, Diageo Scotch shipments in dispute over 150% tariff",
+   "link": "https://www.business-standard.com/economy/news/customs-holds-pernod-diageo-scotch-shipments-in-dispute-over-150-tariff-126111100522_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-11T08:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "75% or 150%? Pernod, Diageo Scotch imports stuck in India-UK trade deal dispute",
    "link": "https://www.moneycontrol.com/news/business/75-or-150-pernod-diageo-scotch-imports-stuck-in-india-uk-trade-deal-dispute-14077138.html",
@@ -3248,40 +3277,6 @@
    "companies": [
     "LIC"
    ]
-  },
-  {
-   "title": "Tata Steel shares down 3% post-Q2 results, brokerages cautious about UK operations' growth",
-   "link": "https://www.moneycontrol.com/news/business/markets/tata-steel-shares-down-3-post-q2-results-brokerages-cautious-about-uk-operations-growth-14075524.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bank Nifty surges 1% to trade above 59,500; PSU banks lead gains: What lies ahead?",
-   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-1-to-trade-above-59-500-psu-banks-lead-gains-what-lies-ahead-14075518.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00"
-  },
-  {
-   "title": "MakeMyTrip's India subsidiary receives Sebi approval to float IPO",
-   "link": "https://www.business-standard.com/companies/news/makemytrip-s-india-subsidiary-receives-sebi-approval-to-float-ipo-126110900451_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-09T10:15:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
   }
  ]
 }
