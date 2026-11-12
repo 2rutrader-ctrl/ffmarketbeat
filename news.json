@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-12T17:01:30.254641+00:00",
+ "updated": "2026-11-12T17:15:53.000350+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 25 new items (12 files read)"
+  "gdelt": "ok, 28 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "HCLTech among world's top 50 companies for women in Forbes 2026 ranking; only Indian firm on list",
+   "link": "https://www.businesstoday.in/latest/corporate/story/hcltech-among-worlds-top-50-companies-for-women-in-forbes-2026-ranking-only-indian-firm-on-list-567212-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T17:15:00+00:00",
+   "companies": [
+    "HCLTech"
+   ]
+  },
+  {
+   "title": "Anthropic IPO: Who is Krishna Rao? Meet the CFO whose $1.30 stock options could unlock a ₹7,000 crore fortune",
+   "link": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T17:15:00+00:00"
+  },
+  {
+   "title": "Kaju Katli, Diet Coke, Gold Coins: What India ordered during last minute Diwali 2026 preparation from Swiggy InstaMart",
+   "link": "https://www.livemint.com/companies/kaju-katli-diet-coke-gold-coins-what-india-ordered-during-last-minute-diwali-2026-preparation-from-swiggy-instamart-11794495049464.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T17:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Paytm shares at ₹1,925, close in on IPO listing-day high after 100% rally from March lows. What drove the recovery?",
+   "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T17:15:00+00:00"
+  },
   {
    "title": "Reliance Power Q2 profit falls 65% to ₹30 crore - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/companies/reliance-power-q2-profit-falls-65-to-30-crore/article71694635.ece",
@@ -3263,46 +3303,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "500 gm gold limit for married women: Supreme Court says they must still explain its source - here's why | What to do now",
-   "link": "https://www.livemint.com/money/personal-finance/500-gm-gold-limit-for-married-women-supreme-court-says-they-must-still-explain-its-source-heres-why-what-to-do-now-11794383225613.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T09:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "RIL, HDFC, Axis Bank, IndiGo, more: List of 12 stocks from Jefferies; shares to gain as FPIs embrace Indian markets",
-   "link": "https://www.livemint.com/market/stock-market-news/ril-hdfc-axis-bank-indigo-more-list-of-12-stocks-from-jefferies-shares-to-gain-as-fpis-embrace-indian-markets-11794382918824.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:30:00+00:00"
-  },
-  {
-   "title": "L&T bags 'significant' order between ₹1,000-2,500 cr for Noida Metro Aqua Line Extension project | Details",
-   "link": "https://www.livemint.com/industry/infrastructure/lt-bags-significant-order-between-rs-1-000-2-500-cr-for-noida-metro-aqua-line-extension-project-details-11794385499847.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:30:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "Moody's ups India's FY27 growth forecast to 7% on strong economic momentum, warns of risks",
-   "link": "https://www.livemint.com/economy/moodys-ups-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum-warns-of-risks-11794386510492.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:30:00+00:00"
   }
  ]
 }
