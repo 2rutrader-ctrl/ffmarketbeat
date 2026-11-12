@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-12T17:15:53.000350+00:00",
+ "updated": "2026-11-12T17:31:10.961678+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 25 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI's forex curbs have steadied the rupee and revived investor sentiment",
+   "link": "https://www.business-standard.com/opinion/columns/rbi-s-forex-curbs-have-steadied-the-rupee-and-revived-investor-sentiment-126111201797_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T17:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "HCLTech among world's top 50 companies for women in Forbes 2026 ranking; only Indian firm on list",
    "link": "https://www.businesstoday.in/latest/corporate/story/hcltech-among-worlds-top-50-companies-for-women-in-forbes-2026-ranking-only-indian-firm-on-list-567212-2026-11-12",
@@ -3295,14 +3308,6 @@
    "companies": [
     "State Bank of India"
    ]
-  },
-  {
-   "title": "TN CM Vijay likely to visit Davos for the World Economic Forum annual meeting",
-   "link": "https://www.thehindubusinessline.com/news/tn-cm-vijay-likely-to-visit-davos-for-the-world-economic-forum-annual-meeting/article71688656.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T09:45:00+00:00"
   }
  ]
 }
