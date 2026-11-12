@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-12T02:01:22.006955+00:00",
+ "updated": "2026-11-12T02:15:46.707325+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Cheap batteries for storage, low daytime tariffs, easy grid access will cut power shortage, costs",
+   "link": "https://www.thehindubusinessline.com/opinion/the-potential-of-indias-clean-power-ambition/article71690653.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T02:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "'Smart money bought earlier': Deepak Shenoy on FPIs' ₹60,698 crore buying spree in 7 days",
+   "link": "https://www.businesstoday.in/latest/economy/story/smart-money-bought-earlier-deepak-shenoy-on-fpis-rs60698-crore-buying-spree-in-7-days-566927-2026-11-11",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:15:00+00:00"
+  },
+  {
+   "title": "Non-oil goods make up 15% of India's Russia imports in first half of FY27",
+   "link": "https://www.hindustantimes.com/business/non-oil-goods-make-up-15-of-india-s-russia-imports-in-first-half-of-fy27-101794423539011.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:15:00+00:00"
+  },
+  {
+   "title": "Gulf airlines oppose Adani's Navi Mumbai airport shift plan",
+   "link": "https://www.hindustantimes.com/business/gautam-adani-gulf-airlines-navi-mumbai-international-airport-gulf-air-saudia-101794446284465.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Stocks get a much-needed AI boost—but the Fed could spoil the party",
    "link": "https://www.livemint.com/global/stocks-get-a-much-needed-ai-boost-but-the-fed-could-spoil-the-party-11794445070752.html",
@@ -3200,53 +3240,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-10T09:30:00+00:00"
-  },
-  {
-   "title": "FII selling eases in October as technology and telecom attract foreign investors: Motilal Oswal",
-   "link": "https://www.thehindubusinessline.com/markets/fii-selling-eases-in-october-as-technology-and-telecom-attract-foreign-investors-motilal-oswal/article71685538.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:30:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Why Union Budget 2027-28 should focus on resilience and reform",
-   "link": "https://www.livemint.com/opinion/online-views/why-union-budget-2027-28-should-focus-on-resilience-and-reform-11794289531132.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:15:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
-   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-11-10T09:00:00+00:00"
-  },
-  {
-   "title": "Gold edges lower as focus shifts to US inflation data",
-   "link": "https://www.moneycontrol.com/news/business/markets/gold-edges-lower-as-focus-shifts-to-us-inflation-data-14076164.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
   }
  ]
 }
