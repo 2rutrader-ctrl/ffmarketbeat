@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-12T23:01:19.682705+00:00",
+ "updated": "2026-11-12T23:15:46.189313+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 1 new items (12 files read)"
+  "gdelt": "ok, 2 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Supreme Court on 500g gold rule: Why married women may still need to explain the source of jewellery",
+   "link": "https://www.businesstoday.in/personal-finance/story/supreme-court-on-500g-gold-rule-why-married-women-may-still-need-to-explain-the-source-of-jewellery-567132-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T23:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
    "link": "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
@@ -3295,14 +3308,6 @@
    "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "Global",
-   "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "ICICI Bank hits 52-week high before retreating; Morgan Stanley adds to focus list",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/icici-bank-hits-52-week-high-before-retreating-morgan-stanley-adds-to-focus-list/article71688748.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
    "published": "2026-11-11T09:45:00+00:00"
   }
  ]
