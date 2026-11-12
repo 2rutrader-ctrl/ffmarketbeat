@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-12T09:15:46.824865+00:00",
+ "updated": "2026-11-12T09:31:07.338137+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 40 new items (12 files read)"
+  "gdelt": "ok, 30 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bengaluru researcher among six Infosys Science Foundation prize winners for 2026",
+   "link": "https://www.thehindu.com/news/cities/bangalore/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:15:00+00:00",
+   "companies": [
+    "Infosys"
+   ]
+  },
+  {
+   "title": "Dubai-based Keralite loses ₹2.11 crore in alleged forex trading scam run through Telegram",
+   "link": "https://www.thehindu.com/news/national/kerala/dubai-based-keralite-loses-211-crore-in-alleged-forex-trading-scam-run-through-telegram/article71692748.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "India's FTAs to open access to $85 trillion of global economy: Piyush Goyal",
    "link": "https://www.thehindubusinessline.com/economy/indias-ftas-to-open-access-to-85-trillion-of-global-economy-piyush-goel/article71692709.ece",
@@ -3166,32 +3190,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-10T17:45:00+00:00"
-  },
-  {
-   "title": "Wall St slips as hot inflation data fuels rate-hike jitters; Nvidia down 4%",
-   "link": "https://www.business-standard.com/markets/news/wall-st-slips-as-hot-inflation-data-fuels-rate-hike-jitters-nvidia-down-4-126111001020_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T17:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "US inflation rises 0.4% in Oct, strengthening case for Dec Fed rate hike",
-   "link": "https://www.business-standard.com/world-news/us-inflation-rises-0-4-in-oct-strengthening-case-for-dec-fed-rate-hike-126111000887_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T17:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
   }
  ]
 }
