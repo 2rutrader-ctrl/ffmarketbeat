@@ -1,12 +1,62 @@
 {
- "updated": "2026-11-12T15:31:08.995259+00:00",
+ "updated": "2026-11-12T15:45:48.422857+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India tops global economic resilience rankings for 2026-30",
+   "link": "https://www.thehindubusinessline.com/economy/india-tops-global-economic-resilience-rankings-for-2026-30-with-a-score-of-71/article71694563.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:45:00+00:00"
+  },
+  {
+   "title": "Retail inflation crosses 6% in October, one more rate hike imminent",
+   "link": "https://www.thehindubusinessline.com/economy/retail-inflation-crosses-6-in-october-one-more-rate-hike-imminent/article71694208.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T15:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "RBI rate hike in December: SBI now expects just 25 bps despite inflation crossing 6%",
+   "link": "https://www.businesstoday.in/latest/economy/story/rbi-rate-hike-in-december-sbi-now-expects-just-25-bps-despite-inflation-crossing-6-567200-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ],
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "India's pays record $6.4 billion to import Russian crude oil in October",
+   "link": "https://www.thehindubusinessline.com/economy/indias-pays-record-64-billion-to-import-russian-crude-oil-in-october/article71694493.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Vodafone Idea Q2 loss widens to ₹5,975 crore despite higher ARPU, revenue",
    "link": "https://www.business-standard.com/companies/quarterly-results/vodafone-idea-q2-loss-widens-to-5-975-crore-despite-higher-arpu-revenue-126111201639_1.html",
@@ -3255,43 +3305,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T09:00:00+00:00"
-  },
-  {
-   "title": "Q2 results impact: Rentomojo shares jump up to 10% as profit surges 125% QoQ to Rs 18 crore",
-   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-rentomojo-shares-jump-up-to-10-as-profit-surges-125-qoq-to-rs-18-crore-14077137.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Patna Municipal Corporation's Rs 200-cr bond listing marks historic milestone for Bihar: NSE MD Chauhan",
-   "link": "https://www.moneycontrol.com/news/business/markets/patna-municipal-corporation-s-rs-200-cr-bond-listing-marks-historic-milestone-for-bihar-nse-md-chauhan-14077145.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:00:00+00:00"
-  },
-  {
-   "title": "FIIs pump $7.5 billion into Indian stocks in 15 sessions, but buying remains selective",
-   "link": "https://www.moneycontrol.com/news/business/markets/fiis-pump-7-5-billion-into-indian-stocks-in-15-sessions-but-buying-remains-selective-14076954.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:00:00+00:00"
-  },
-  {
-   "title": "Punjab National Bank share price soars 11% in two days; hits 52-week high",
-   "link": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-days-hits-52-week-high-126111100580_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:45:00+00:00"
   }
  ]
 }
