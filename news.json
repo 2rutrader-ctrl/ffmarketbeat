@@ -1,12 +1,152 @@
 {
- "updated": "2026-11-12T11:15:50.354035+00:00",
+ "updated": "2026-11-12T11:31:07.041845+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US mid-term results unlikely to speed up India trade deal as tariff uncertainties persist",
+   "link": "https://www.thehindubusinessline.com/economy/us-mid-term-results-unlikely-to-speed-up-india-trade-deal-as-tariff-uncertainties-persist/article71692377.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Rupee falls 33 paise to close at 94.04 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693331.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Reliance plans ₹43,000 crore coal gasification project in Andhra Pradesh",
+   "link": "https://www.thehindubusinessline.com/companies/reliance-plans-43000-crore-coal-gasification-project-in-andhra-pradesh/article71692915.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Nifty Bank rises for third session, approaches record high; what's behind the rally",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-bank-rises-for-third-session-approaches-record-high-whats-behind-the-rally-567138-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00"
+  },
+  {
+   "title": "Fairfax plans to integrate IDBI Bank, Digit and IIFL businesses into financial services platform",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/fairfax-coo-sees-idbi-bank-becoming-indias-finest-universal-bank-with-global-reach/article71693143.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "Karnataka plans app to track used cooking oil, prevent re-entry into food chain",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-plans-app-to-track-used-cooking-oil-prevent-re-entry-into-food-chain/article71693124.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:30:00+00:00"
+  },
+  {
+   "title": "RBI weighs banning private equity firms from controlling multiple non-bank lenders",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-weighs-banning-private-equity-firms-from-controlling-multiple-non-bank-lenders/article71692907.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00"
+  },
+  {
+   "title": "India overtakes Taiwan to regain fifth-largest stock market position globally",
+   "link": "https://www.thehindubusinessline.com/markets/india-overtakes-taiwan-to-become-worlds-fifth-largest-stock-market-after-640-billion-rebound/article71692889.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00"
+  },
+  {
+   "title": "Retail inflation at 6.09% in October, breaches RBI's upper band after 2 yrs",
+   "link": "https://www.business-standard.com/economy/news/retail-inflation-at-6-09-in-october-breaches-rbi-s-upper-band-after-2-yrs-126111201088_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "India Inc's ECB fundraising doubles to $37.45 billion in H1FY27",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/indias-ecb-fundraising-more-than-doubles-to-3745-billion-in-h1fy27-as-psus-step-up-borrowing/article71693273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "Why the ECB matters beyond Europe",
+    "short": "ECB",
+    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
+   }
+  },
+  {
+   "title": "India's Russian fossil fuel imports hit record €6.4 billion in October",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/indias-russian-fossil-fuel-imports-hit-record-64-billion-in-october-crude-oil-accounts-for-91/article71692997.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00"
+  },
+  {
+   "title": "Rupee falls 33 paise to close at 94.04 against US dollar - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693317.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Cosmo First eyes all-time high US exports from film business this fiscal on lower tariffs",
+   "link": "https://www.thehindubusinessline.com/companies/cosmo-first-eyes-all-time-high-us-exports-from-film-business-this-fiscal-on-lower-tariffs/article71693324.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "RBI issues new domestic money transfer rules: Check cash transfer limits, charges and key changes",
    "link": "https://www.businesstoday.in/personal-finance/story/rbi-issues-new-domestic-money-transfer-rules-check-cash-transfer-limits-charges-and-key-changes-567071-2026-11-12",
@@ -3084,138 +3224,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T05:15:00+00:00"
-  },
-  {
-   "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns",
-   "link": "https://www.livemint.com/money/personal-finance/global-gold-price-drop-2026-yellow-metal-slips-6-in-dollar-terms-but-top-indian-gold-etfs-still-deliver-7-5-returns-11794363967503.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T04:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "The Fed may raise rates a half-point in December. Here's the case.",
-   "link": "https://www.livemint.com/global/the-fed-may-raise-rates-a-half-point-in-december-here-s-the-case-11794358784634.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T04:15:00+00:00"
-  },
-  {
-   "title": "Budget 2027: Manufacturers seek lower duties on raw materials to cut costs",
-   "link": "https://www.livemint.com/news/budget-2027-manufacturers-seek-lower-duties-raw-materials-cut-costs-11794305690856.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T04:15:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Fed forced to confront case for bigger and faster rate rises",
-   "link": "https://www.livemint.com/global/fed-forced-to-confront-case-for-bigger-and-faster-rate-rises-11794359995408.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T04:15:00+00:00"
-  },
-  {
-   "title": "Trump says Iran war 'effectively over': How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
-   "link": "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T04:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "This biscuit giant sees strong growth, but inflation clouds outlook",
-   "link": "https://www.moneycontrol.com/news/business/moneycontrol-research/this-biscuit-giant-sees-strong-growth-but-inflation-clouds-outlook-14076713.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T04:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Anthropic IPO gets bigger? Bankers eye $1.5 trillion valuation after strong investor demand",
-   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-ipo-gets-bigger-bankers-eye-1-5-trillion-valuation-after-strong-investor-demand-14076731.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T04:15:00+00:00"
-  },
-  {
-   "title": "Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
-   "link": "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T04:00:00+00:00"
-  },
-  {
-   "title": "For boomers, economic boom times are over",
-   "link": "https://www.hindustantimes.com/world-news/for-boomers-economic-boom-times-are-over-101794364630897.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T03:15:00+00:00"
-  },
-  {
-   "title": "Festive demand, export recovery drive auto sector growth, says MOFSL",
-   "link": "https://www.business-standard.com/markets/news/festive-demand-export-recovery-drive-auto-sector-growth-says-mofsl-126111100087_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T03:15:00+00:00"
-  },
-  {
-   "title": "Renu Desai says it's inhumane to kick someone already down in cryptic note, adds she 'hasn't gotten any Paytm to be kind and sensible'",
-   "link": "https://www.hindustantimes.com/entertainment/telugu-cinema/renu-desai-says-its-inhumane-to-kick-someone-already-down-in-cryptic-note-adds-she-hasn-t-gotten-any-paytm-to-be-kind-and-sensible-101794363877554.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T03:15:00+00:00",
-   "companies": [
-    "Paytm"
-   ]
-  },
-  {
-   "title": "Oil prices rebound from two-month lows as Strait of Hormuz attacks cloud peace hopes; Brent tops $92",
-   "link": "https://www.moneycontrol.com/news/business/commodities/oil-prices-rebound-from-two-month-lows-as-strait-of-hormuz-attacks-cloud-peace-hopes-brent-tops-92-14076588.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T02:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Anthropic investors shop IPO shares early, and at a big premium",
-   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium-14076525.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T02:45:00+00:00"
   }
  ]
 }
