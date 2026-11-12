@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-12T09:45:51.459257+00:00",
+ "updated": "2026-11-12T10:01:29.884236+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 27 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Started with Rs 200, built Rs 20-crore business: How two childhood friends built a cold-pressed oil brand",
+   "link": "https://www.moneycontrol.com/news/business/markets/started-with-rs-200-built-rs-20-crore-hayyan-farms-business-how-two-childhood-friends-from-tamil-nadu-built-a-cold-pressed-oil-brand-gokul-kannan-and-vivek-kumar-story-14078269.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "Paytm zooms 7%, reclaims ₹1,900 for 1st time since listing day in Nov 2021",
+   "link": "https://www.business-standard.com/markets/news/paytm-zooms-7-reclaims-1-900-for-1st-time-since-listing-day-in-nov-2021-126111200790_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:00:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "Budget 2027: Govt may peg FY28 nominal GDP growth at 10.5-11%",
+   "link": "https://www.moneycontrol.com/news/business/budget-2027-govt-may-peg-fy28-nominal-gdp-growth-at-10-5-11-14078260.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:00:00+00:00",
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
+  {
+   "title": "Tata Power's next big bet: Batteries, solar manufacturing and a 10 GW Odisha plant",
+   "link": "https://www.businesstoday.in/latest/corporate/story/tata-powers-next-big-bet-batteries-solar-manufacturing-and-a-10-gw-odisha-plant-567066-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "HAL Q2 earnings: Net profit rises to Rs 1,839 crore, revenue up 15%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/hal-q2-earnings-net-profit-rises-to-rs-1839-crore-revenue-up-15-567041-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:45:00+00:00",
+   "companies": [
+    "HAL"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Six researchers win Infosys Science Foundation prizes for 2026",
+   "link": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:45:00+00:00",
+   "companies": [
+    "Infosys"
+   ]
+  },
   {
    "title": "IPO disclosures shows Coca-Cola has significant veto powers over partner Jubilant",
    "link": "https://www.moneycontrol.com/news/business/ipo/ipo-disclosures-shows-coca-cola-has-significant-veto-powers-over-partner-jubilant-14078150.html",
@@ -3130,72 +3200,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-10T22:30:00+00:00"
-  },
-  {
-   "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
-   "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T22:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
-   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-11-10T20:30:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Anthropic IPO: Check OpenAI, Amazon, Alphabet, Pentagon connection; how CEO Amodei's housemates, sister too related",
-   "link": "https://www.livemint.com/companies/news/anthropic-ipo-check-openai-amazon-alphabet-pentagon-connection-how-ceo-amodei-s-housemates-sister-too-related-11794329869622.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
-   "link": "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T20:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Corn Soars After USDA Cuts American Yield in Another Surprise",
-   "link": "https://www.livemint.com/market/corn-soars-after-usda-cuts-american-yield-in-another-surprise-11794339085566.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "title": "Adani Power fast-tracks groundwork for ₹30K crore Odisha project",
-   "link": "https://www.business-standard.com/industry/news/adani-power-fast-tracks-groundwork-for-30k-crore-odisha-project-126111000699_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T18:30:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
