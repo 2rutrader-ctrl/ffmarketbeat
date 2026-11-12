@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:15:48.269985+00:00",
+ "updated": "2026-11-12T21:31:03.729813+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+   "link": "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T21:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Crude oil retreat may offer India macroeconomic relief in H2 of FY27",
    "link": "https://www.business-standard.com/economy/news/crude-oil-retreat-may-offer-india-macroeconomic-relief-in-h2-of-fy27-126111201233_1.html",
@@ -3288,14 +3301,6 @@
    "title": "ICICI Bank hits 52-week high before retreating; Morgan Stanley adds to focus list",
    "link": "https://www.thehindubusinessline.com/markets/stock-markets/icici-bank-hits-52-week-high-before-retreating-morgan-stanley-adds-to-focus-list/article71688748.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "India bans battery scrap exports to boost domestic recovery of critical minerals",
-   "link": "https://www.businesstoday.in/latest/economy/story/india-bans-battery-scrap-exports-to-boost-domestic-recovery-of-critical-minerals-566839-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T09:45:00+00:00"
