@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-12T15:01:24.407904+00:00",
+ "updated": "2026-11-12T15:15:51.980193+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "ITC Gold Flake Premium cigarettes get costlier: New prices to burn a hole in your pocket as pack of 10 rises to ₹135",
+   "link": "https://www.livemint.com/companies/news/itc-gold-flake-premium-cigarettes-get-costlier-new-prices-to-burn-a-hole-in-your-pocket-as-pack-of-10-rises-to-135-11794476598426.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:15:00+00:00",
+   "companies": [
+    "ITC"
+   ],
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Vodafone Idea's Q2 performance misses expectations | Company Business News",
+   "link": "https://www.livemint.com/companies/company-results/vodafone-idea-s-q2-performance-misses-expectations-funding-telecom-operator-11794490596377.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:15:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "AI capex projected at 3.6% of US GDP: Why the AI boom is bigger than the dotcom bubble, explains SBI MF",
+   "link": "https://www.livemint.com/money/ai-capex-projected-at-3-6-of-us-gdp-why-the-ai-boom-is-bigger-than-the-dotcom-bubble-explains-sbi-mf-11794486890793.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:15:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ],
+   "thought": {
+    "topic": "What growth data tells markets",
+    "short": "Growth data",
+    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
+   }
+  },
+  {
+   "title": "Bank of Baroda raises interest rates on 'bob Golden Goal deposit scheme'",
+   "link": "https://www.thehindu.com/news/cities/Mangalore/bank-of-baroda-raises-interest-rates-on-bob-golden-goal-deposit-scheme/article71694112.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:15:00+00:00",
+   "companies": [
+    "Bank of Baroda"
+   ],
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Adani's Kutch Copper signs MoU with Chile's Codelco for copper exploration: What does the deal involve?",
+   "link": "https://www.livemint.com/companies/news/adanis-kutch-copper-signs-mou-with-chiles-codelco-for-copper-exploration-what-does-the-deal-involve-11794484306278.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Global shocks tested India. Its economic buffers held",
    "link": "https://www.moneycontrol.com/news/business/economy/global-shocks-tested-india-its-economic-buffers-held-14078478.html",
@@ -3219,59 +3289,6 @@
    "companies": [
     "IRCTC"
    ]
-  },
-  {
-   "title": "Railway stocks rise: Titagarh Rail shares jump 5% post-strong Q2 results; Jupiter Wagons, RVNL, others rally up to 9%",
-   "link": "https://www.moneycontrol.com/news/business/stocks/railway-stocks-rise-titagarh-rail-shares-jump-5-post-strong-q2-results-jupiter-wagons-rvnl-others-rally-up-to-9-14077103.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T08:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher",
-   "link": "https://www.moneycontrol.com/news/business/markets/bajaj-finance-may-launch-rs-11-700-crore-qip-to-fund-growth-shares-trade-higher-14077107.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Canada trade minister to visit India to deepen economic ties",
-   "link": "https://www.hindustantimes.com/world-news/canada-trade-minister-to-visit-india-to-deepen-economic-ties-101794382186466.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00"
-  },
-  {
-   "title": "Nifty Bank index rallies 4% in two days, nears record high; here's why",
-   "link": "https://www.business-standard.com/markets/news/nifty-bank-index-rallies-4-in-two-days-nears-record-high-here-s-why-126111100463_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00"
-  },
-  {
-   "title": "Gold Futures: Gold faces inflation headwinds on hawkish Fed tilt; $4,150 stays key hurdle",
-   "link": "https://www.business-standard.com/markets/news/gold-futures-gold-faces-inflation-headwinds-on-hawkish-fed-tilt-4-150-stays-key-hurdle-126111100555_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T08:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
   }
  ]
 }
