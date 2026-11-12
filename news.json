@@ -1,12 +1,41 @@
 {
- "updated": "2026-11-12T11:01:21.644560+00:00",
+ "updated": "2026-11-12T11:15:50.354035+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 45 new items (12 files read)"
+  "gdelt": "ok, 48 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "RBI issues new domestic money transfer rules: Check cash transfer limits, charges and key changes",
+   "link": "https://www.businesstoday.in/personal-finance/story/rbi-issues-new-domestic-money-transfer-rules-check-cash-transfer-limits-charges-and-key-changes-567071-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:15:00+00:00"
+  },
+  {
+   "title": "Gold falls below $4,000, silver slips too: What's weighing on precious metal prices?",
+   "link": "https://www.businesstoday.in/markets/stocks/story/gold-falls-below-4000-silver-slips-too-whats-weighing-on-precious-metal-prices-567127-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Will foreign inflows to Indian stock market sustain in coming months? What BofA says",
+   "link": "https://www.businesstoday.in/markets/stocks/story/will-foreign-inflows-to-indian-stock-market-sustain-in-coming-months-what-bofa-says-567055-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:15:00+00:00"
+  },
   {
    "title": "Major gold heist at Tanishq jewellery showroom in Madurai",
    "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
@@ -3183,35 +3212,6 @@
   {
    "title": "Anthropic investors shop IPO shares early, and at a big premium",
    "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium-14076525.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "title": "US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6%",
-   "link": "https://www.moneycontrol.com/news/business/markets/us-stocks-falla-as-hotter-inflation-fuels-fed-rate-hike-fears-nvidia-slides-nearly-6-14076505.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T02:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "FIIs invest $22 billion in IPOs, dump $50 billion in listed stocks: Why the sharp contrast?",
-   "link": "https://www.businesstoday.in/markets/story/fiis-invest-22-billion-in-ipos-dump-50-billion-in-listed-stocks-why-the-sharp-contrast-566674-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "title": "'US military luring helpless oil tankers into walls of fire with lie that Strait of Hormuz is open': IRGC",
-   "link": "https://www.moneycontrol.com/world/us-military-luring-helpless-oil-tankers-into-walls-of-fire-with-lie-that-strait-of-hormuz-is-open-irgc-article-14076506.html",
    "source": "Moneycontrol (headline via GDELT)",
    "source_key": "gdelt",
    "category": "Global",
