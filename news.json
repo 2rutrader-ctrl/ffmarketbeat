@@ -1,12 +1,66 @@
 {
- "updated": "2026-11-12T06:45:48.685871+00:00",
+ "updated": "2026-11-12T07:01:27.616748+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani group looking to raise $2.5 billion from MUFG, Barclays and Sumitomo to refinance Ambuja, ACC acquisition debt",
+   "link": "https://www.moneycontrol.com/news/business/adani-group-looking-to-raise-2-5-billion-from-mufg-barclays-and-sumitomo-to-refinance-ambuja-acc-acquisition-debt-14078020.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T07:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Infosys Prize 2026 recognises research in quantum computing, wireless networks and human health",
+   "link": "https://www.moneycontrol.com/technology/infosys-prize-2026-recognises-research-in-quantum-computing-wireless-networks-and-human-health-article-14076963.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T07:00:00+00:00",
+   "companies": [
+    "Infosys"
+   ]
+  },
+  {
+   "title": "Tata Power: Renewable push and project execution key to growth",
+   "link": "https://www.moneycontrol.com/news/business/earnings/tata-power-renewable-push-and-project-execution-key-to-growth-14078025.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T07:00:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "9.95% U.P. POWER CORPORATION LIMITED 30/Mar/2029 Bond Price, Coupon Rate, Issue Date, Maturity Date",
+   "link": "https://www.moneycontrol.com/bonds/corporate-bonds/9-95-up-power-corporation-limited-30-mar-2029/INE540P07483",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T07:00:00+00:00"
+  },
+  {
+   "title": "Q2 results impact: Cupid shares hit 52-week high as firm raises FY27 guidance, profit surges 133%",
+   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-cupid-shares-hit-52-week-high-as-firm-raises-fy27-guidance-profit-surges-133-14077869.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T07:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "The Moody Foundation donated 87.5% of Silver Lake Ranch to Texas; the state paid $11.85 million for the rest of a future state park",
    "link": "https://www.hindustantimes.com/world-news/us-news/the-moody-foundation-donated-87-5-of-silver-lake-ranch-to-texas-the-state-paid-11-85-million-for-the-rest-of-a-future-state-park-101794390526374.html",
@@ -3160,76 +3214,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Tata Power to report Q2 earnings on November 11, here's what to expect",
-   "link": "https://www.businesstoday.in/markets/trending-stocks/story/tata-power-to-report-q2-earnings-on-november-11-heres-what-to-expect-566722-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T14:15:00+00:00",
-   "companies": [
-    "Tata Power"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "If Jio, Airtel and Vi raise tariffs 20%, here is what your recharge would cost",
-   "link": "https://www.businesstoday.in/latest/trends/photo/if-jio-airtel-and-vi-raise-tariffs-20-here-is-what-your-recharge-would-cost-566726-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T14:15:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "OMC stocks: Brent slips below $90 to hit over 2-month low amid Iran peace hopes; Will HPCL, BPCL and IOC benefit?",
-   "link": "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T14:00:00+00:00",
-   "companies": [
-    "BPCL",
-    "Indian Oil"
-   ],
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "₹18 dividend per share: Check record date, payment timeline, stock performance, dividend yield, Q2 results highlights",
-   "link": "https://www.livemint.com/market/stock-market-news/rs-18-dividend-per-share-check-record-date-payment-timeline-stock-performance-dividend-yield-q2-results-highlights-11794307552019.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T14:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "FIIs invest $2.8 billion in Indian equities in October second half",
-   "link": "https://www.thehindubusinessline.com/markets/fiis-may-return-to-indian-equities-as-global-headwinds-ease-and-domestic-fundamentals-remain-strong-report/article71685694.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:30:00+00:00"
   }
  ]
 }
