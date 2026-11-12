@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-12T07:15:49.109158+00:00",
+ "updated": "2026-11-12T07:31:04.492218+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani Enterprises arm Kutch Copper inks MoU with Chile's Codelco; stock reacts",
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-enterprises-arm-kutch-copper-inks-mou-with-chiles-codelco-stock-reacts-566977-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T07:30:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "ICICI Life, HDFC Life, SBI Life, Max Financial shares climb; here's what HSBC says",
+   "link": "https://www.businesstoday.in/markets/stocks/story/icici-life-hdfc-life-sbi-life-max-financial-shares-climb-heres-what-hsbc-says-566990-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T07:30:00+00:00",
+   "companies": [
+    "State Bank of India",
+    "SBI Life",
+    "HDFC Life"
+   ]
+  },
   {
    "title": "Adani group looking to raise $2.5 billion from MUFG, Barclays and Sumitomo to refinance Ambuja, ACC acquisition debt",
    "link": "https://www.moneycontrol.com/news/business/adani-group-looking-to-raise-2-5-billion-from-mufg-barclays-and-sumitomo-to-refinance-ambuja-acc-acquisition-debt-14078020.html",
@@ -3188,32 +3212,6 @@
    "companies": [
     "NTPC"
    ]
-  },
-  {
-   "title": "US October inflation remains stubbornly high as consumer prices rise 0.4%",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-inflation-remains-stubbornly-high-as-consumer-prices-rise-04-101794320113986.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T15:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Vehicles torched, crude bombs exploded: One killed as fresh wave of violence hits Bangladesh",
-   "link": "https://www.hindustantimes.com/world-news/bangladesh-fresh-wave-of-violence-one-killed-vehicles-buses-torched-crude-bombs-set-off-train-coach-set-on-fire-sheikh-hasina-hometown-police-101794313885967.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T14:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
