@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:15:49.038483+00:00",
+ "updated": "2026-11-12T20:31:06.041922+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crude oil retreat may offer India macroeconomic relief in H2 of FY27",
+   "link": "https://www.business-standard.com/economy/news/crude-oil-retreat-may-offer-india-macroeconomic-relief-in-h2-of-fy27-126111201233_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T19:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Reliance, Waaree among 22 shortlisted for battery storage tender",
    "link": "https://www.livemint.com/news/india/reliance-waaree-among-22-shortlisted-for-battery-storage-tender-pli-scheme-cell-making-incentives-technology-11794499983710.html",
@@ -3286,19 +3299,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "Indian customs holds bulk Scotch containers over 150% tariff dispute under India-UK pact",
-   "link": "https://www.thehindubusinessline.com/news/indian-customs-holds-bulk-scotch-containers-over-150-tariff-dispute-under-india-uk-pact/article71688636.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
   }
  ]
 }
