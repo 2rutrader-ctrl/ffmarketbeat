@@ -1,12 +1,180 @@
 {
- "updated": "2026-11-12T05:31:07.356679+00:00",
+ "updated": "2026-11-12T05:45:47.912663+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 33 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/article71692206.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Gold, silver prices on November 12: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-12-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566971-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets/article71692273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "HFCL secures international export orders worth ₹834.36 crore for optical fibre cables",
+   "link": "https://www.thehindubusinessline.com/info-tech/hfcl-secures-international-export-orders-worth-83436-crore-for-optical-fibre-cables/article71692290.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00"
+  },
+  {
+   "title": "Rupee falls 6 paise to 93.77 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-6-paise-to-9377-against-us-dollar-in-early-trade/article71692325.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Tata Power eyes more state pacts to boost Mundra tariffs - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/tata-power-eyes-more-state-pacts-to-boost-mundra-tariffs/article71692202.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ],
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "FII drive Nifty rally; all eyes on inflation print - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/fii-drive-nifty-rally-all-eyes-on-inflation-print/article71692272.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Flattish opening seen for Indian stocks; markets eye release of inflation data",
+   "link": "https://www.thehindubusinessline.com/markets/flattish-opening-seen-for-indian-stocks-markets-to-eye-release-of-inflation-data/article71692174.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Crude oil futures fall amid reports of planned US-Iran talks",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-amid-reports-of-planned-us-iran-talks/article71692281.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Adani's Kutch Copper, Codelco sign MoU to explore copper project in Chile",
+   "link": "https://www.thehindubusinessline.com/companies/adanis-kutch-copper-codelco-sign-mou-to-explore-copper-project-in-chile/article71692279.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Govt prohibits lithium-ion battery black mass exports",
+   "link": "https://www.hindustantimes.com/india-news/govt-prohibits-lithium-ion-battery-black-mass-exports-101794423059875.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:30:00+00:00"
+  },
+  {
+   "title": "₹50-crore bio-economy mission proposed for Kalyana Karnataka",
+   "link": "https://www.thehindu.com/news/national/karnataka/50-crore-bio-economy-mission-proposed-for-kalyana-karnataka/article71690149.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:30:00+00:00"
+  },
+  {
+   "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices",
+   "link": "https://www.thehindu.com/business/markets/stock-markets-climb-in-early-trade-led-by-foreign-fund-inflows-lower-crude-oil-prices/article71692361.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Rupee falls 6 paise to 93.77 against U.S. dollar in early trade",
+   "link": "https://www.thehindu.com/business/markets/rupee-falls-6-paise-to-9377-against-us-dollar-in-early-trade/article71692324.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on Thursday, 12 November? Check RBI calendar this week",
    "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-pnb-canara-branch-working-open-thursday-12-november-check-rbi-calendar-dates-this-week-11794444604284.html",
@@ -46,6 +214,88 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Crude oil price slips on US-Iran peace talk hopes; Brent dips below $92, WTI under $86",
+   "link": "https://www.moneycontrol.com/news/business/markets/crude-oil-price-slips-on-us-iran-peace-talk-hopes-brent-dips-below-92-wti-under-86-14077827.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Nykaa, Honasa and Lenskart beat consumer slowdown blues with robust Q2 growth",
+   "link": "https://www.moneycontrol.com/news/business/startup/nykaa-honasa-and-lenskart-beat-consumer-slowdown-blues-with-robust-q2-growth-14077820.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:00:00+00:00",
+   "companies": [
+    "Nykaa"
+   ]
+  },
+  {
+   "title": "Bitcoin hovers near $73,700 after 8.3% weekly slide as US inflation fuels Fed rate hike concerns",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-73-700-after-8-3-weekly-slide-as-us-inflation-fuels-fed-rate-hike-concerns-14077859.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:00:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Oil prices fall over $1 as Middle East, Russia-Ukraine peace hopes grow; Brent slips below $92",
+   "link": "https://www.moneycontrol.com/news/business/oil-prices-fall-over-1-as-middle-east-russia-ukraine-peace-hopes-grow-brent-slips-below-92-14077596.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Adani eyes mix of equity, debt for $2.9 billion Evos takeover",
+   "link": "https://www.moneycontrol.com/news/business/adani-eyes-mix-of-equity-debt-for-2-9-billion-evos-takeover-14077866.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Tata Power shares rise after Q2 profit jumps 49%; brokerages eye growth prospects amid execution risks",
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-power-shares-rise-after-q2-profit-jumps-49-brokerages-eye-growth-prospects-amid-execution-risks-14077833.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:00:00+00:00"
+  },
+  {
+   "title": "Buzzing Stocks: Bajaj Hindusthan Sugar slips on weak Q2 earnings; DCX Systems jumps 12% as losses narrow",
+   "link": "https://www.moneycontrol.com/news/business/buzzing-stocks-bajaj-hindusthan-sugar-slips-on-weak-q2-earnings-dcx-systems-jumps-12-as-losses-narrow-14076025.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   },
   {
@@ -2993,257 +3243,6 @@
     "topic": "Why government spending and tax policy matter",
     "short": "Fiscal policy",
     "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
-   "link": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:45:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "FPIs turn net buyers; invest Rs 53,739-crore in Indian equities in first 9 days of November",
-   "link": "https://www.moneycontrol.com/news/business/markets/fpis-turn-net-buyers-invest-rs-53-739-crore-in-indian-equities-in-first-9-days-of-november-14076374.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:45:00+00:00"
-  },
-  {
-   "title": "Gold slips below $4,100, silver at $52 as Brent crude falls below $90; Fed rate hike bets rise",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-slips-below-4-100-silver-at-52-as-brent-crude-falls-below-90-fed-rate-hike-bets-rise-14076373.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T12:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Fed Governor Christopher J. Waller favors 25 bps rate hike in December; 50 bps may be needed if inflation persists",
-   "link": "https://www.moneycontrol.com/world/fed-governor-christopher-j-waller-favors-25-bps-rate-hike-in-december-50-bps-may-be-needed-if-inflation-persists-article-14076347.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T12:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Brent crude falls below $90 a barrel for first time since August",
-   "link": "https://www.hindustantimes.com/world-news/brent-crude-oil-price-falls-below-90-a-barrel-for-first-time-since-august-trump-iran-war-101794308972042.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T12:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "MRF Q2 Results: Net profit declines 27% to ₹387 cr - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/mrf-reports-27-decline-in-q2-pat/article71685759.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "FPIs invest $8.2 billion in Indian equities since mid-October: Jefferies",
-   "link": "https://www.thehindubusinessline.com/markets/fpis-pour-82-billion-into-indian-equities-since-mid-october-after-nearly-two-years-of-selling-jefferies/article71685714.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:00:00+00:00"
-  },
-  {
-   "title": "Bajaj Finance issues 5.74 cr warrants to promoter for ₹5,799 cr",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/bajaj-finance-issues-574-cr-warrants-to-promoter-for-5799-cr/article71685893.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:00:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Adani Group plans over $120 billion investment in five years",
-   "link": "https://www.thehindubusinessline.com/companies/adani-group-plans-to-invest-over-120-billion-across-businesses-in-next-five-years/article71685919.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Brent crude falls to lowest level since August; will markets extend recovery?",
-   "link": "https://www.businesstoday.in/markets/stocks/story/brent-crude-falls-to-lowest-level-since-august-will-markets-extend-recovery-566713-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T11:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Axis Bank wants AI to hold borrowers' hands",
-   "link": "https://www.livemint.com/industry/banking/axis-bank-wants-ai-to-hold-borrowers-hands-11794294478965.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:45:00+00:00",
-   "companies": [
-    "Axis Bank"
-   ]
-  },
-  {
-   "title": "BHEL, ONGC, LIC, Indian Bank, SAIL and BOM among PSUs with 4 quarters of FII buying",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bhel-ongc-lic-indian-bank-sail-and-bom-among-psus-with-4-quarters-of-fii-buying-566716-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:45:00+00:00",
-   "companies": [
-    "ONGC",
-    "LIC"
-   ],
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Anthropic IPO to raise as much as $64.4 | Company Business News",
-   "link": "https://www.livemint.com/companies/anthropic-ipo-to-raise-as-much-as-644-11794308720307.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T11:45:00+00:00"
-  },
-  {
-   "title": "Brent crude drops below $90 for first time since August as Trump signals possible end to Iran war",
-   "link": "https://www.businesstoday.in/latest/economy/story/brent-crude-drops-below-90-for-first-time-since-august-as-trump-signals-possible-end-to-iran-war-566717-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T11:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "US Fed's Waller plans to support at least a quarter-point rate hike in December",
-   "link": "https://www.thehindubusinessline.com/news/world/us-feds-waller-plans-to-support-at-least-a-quarter-point-rate-hike-in-december/article71685592.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T11:30:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Crude oil price fall offers India relief, but exporters await cheaper inputs: IIFT Vice Chancellor K Rangarajan",
-   "link": "https://www.moneycontrol.com/news/business/trade/crude-oil-price-fall-offers-india-relief-but-exporters-await-cheaper-inputs-iift-vice-chancellor-k-rangarajan-14076280.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Mutual funds cut Nifty 50 exposure to 21 year low of 49.4% as investments shift beyond blue chip stocks: Report",
-   "link": "https://www.businesstoday.in/mutual-funds/story/mutual-funds-cut-nifty-50-exposure-to-21-year-low-of-49-4-as-investments-shift-beyond-blue-chip-stocks-report-566706-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:15:00+00:00"
-  },
-  {
-   "title": "₹1 lakh bought 33 grams of gold on Dhanteras 2016. This year it bought about 7grams",
-   "link": "https://www.businesstoday.in/latest/trends/photo/rs1-lakh-bought-33-grams-of-gold-on-dhanteras-2016-this-year-it-bought-about-7grams-566698-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Competition for Britannia, Parle, ITC? Reliance Consumer Products expands with 'Independence' biscuits portfolio",
-   "link": "https://www.businesstoday.in/markets/stocks/story/competition-for-britannia-parle-itc-reliance-consumer-products-expands-with-independence-biscuits-portfolio-566668-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T11:15:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "ITC",
-    "Britannia"
-   ]
-  },
-  {
-   "title": "US debt crisis fears rise after Trump's defeat: Could gold gain as stocks and bonds turn volatile?",
-   "link": "https://www.businesstoday.in/latest/economy/story/us-debt-crisis-fears-rise-after-trumps-defeat-could-gold-gain-as-stocks-and-bonds-turn-volatile-566681-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Cochin Shipyard Q2 net profit halves to Rs 54 crore; declares dividend",
-   "link": "https://www.moneycontrol.com/news/business/markets/cochin-shipyard-q2-net-profit-halves-to-rs-54-crore-declares-dividend-14076175.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
