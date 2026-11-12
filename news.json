@@ -1,12 +1,44 @@
 {
- "updated": "2026-11-12T07:45:49.365081+00:00",
+ "updated": "2026-11-12T08:01:23.112741+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",
+   "link": "https://www.livemint.com/market/stock-market-news/16-up-in-a-month-bajaj-finance-shares-climb-3-4-on-11-700-crore-qip-launch-check-floor-price-discount-returns-11794460718743.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:00:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-12-november-check-retail-rates-delhi-mumbai-bangalore-coimbatore-chennai-11794462245516.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India bans lithium-ion battery black mass exports: What led to the move and what happens next?",
+   "link": "https://www.livemint.com/companies/news/india-bans-lithium-ion-battery-black-mass-exports-what-led-to-the-move-and-what-happens-next-11794466823336.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:00:00+00:00"
+  },
   {
    "title": "Inside Anthropic's mega $64 billion IPO: Valuation, revenue, risks and more",
    "link": "https://www.business-standard.com/world-news/inside-anthropic-s-mega-64-billion-ipo-valuation-revenue-risks-and-more-126111200434_1.html",
@@ -3177,38 +3209,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Sonia Gandhi memoir reflects on UPA's economic reforms, 2014 poll defeat",
-   "link": "https://www.business-standard.com/india-news/sonia-gandhi-memoir-reflects-on-upa-s-economic-reforms-2014-poll-defeat-126111000858_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T15:15:00+00:00"
-  },
-  {
-   "title": "Kalyan Jewellers Q2 net profit jumps 64% to Rs 427 crore",
-   "link": "https://www.moneycontrol.com/news/business/earnings/kalyan-jewellers-q2-net-profit-jumps-64-to-rs-427-crore-14076429.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T15:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Regulatory Commission extends power purchase agreement with NTPC Kayamkulam for three years",
-   "link": "https://www.thehindu.com/news/national/kerala/regulatory-commission-extends-power-purchase-agreement-with-ntpc-kayamkulam-for-three-years/article71686674.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T15:00:00+00:00",
-   "companies": [
-    "NTPC"
-   ]
   }
  ]
 }
