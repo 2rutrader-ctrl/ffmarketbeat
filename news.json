@@ -1,12 +1,145 @@
 {
- "updated": "2026-11-12T13:45:53.795719+00:00",
+ "updated": "2026-11-12T14:01:24.134860+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 55 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SBI Mutual Fund launches BSE India Defence ETF fund of funds",
+   "link": "https://www.thehindubusinessline.com/markets/sbi-mutual-fund-launches-defence-etf-fund-of-funds-nfo-opens-november-16/article71693416.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "Sensex, Nifty pause for breath; Realty surges as rupee slips on dollar buying",
+   "link": "https://www.thehindubusinessline.com/markets/sensex-nifty-today-markets-pause-for-breath-realty-surges-as-rupee-slips-on-dollar-buying/article71693764.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Oil India dividend, Q2 results 2026: PSU giant announces interim payout as profit more than doubles - Check record date",
+   "link": "https://www.livemint.com/market/stock-market-news/oil-india-dividend-q2-results-2026-psu-giant-announces-interim-payout-as-profit-more-than-doubles-check-record-date-11794486825501.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Growth in India will continue to be a focus: Tata Steel CEO T V Narendran",
+   "link": "https://www.business-standard.com/companies/news/growth-in-india-will-continue-to-be-a-focus-tata-steel-ceo-t-v-narendran-126111201399_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ]
+  },
+  {
+   "title": "Coconut oil prices remain flat despite copra supply shortage",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/coconut-oil-prices-remain-flat-despite-copra-supply-shortage/article71693467.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T14:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "FISME seeks sectoral export studies, testing overhaul to boost MSME trade",
+   "link": "https://www.business-standard.com/economy/news/fisme-seeks-sectoral-export-studies-testing-overhaul-to-boost-msme-trade-126111201394_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "Foreign inflows lift Indian stocks' dollar returns above rupee gains as currency rebounds",
+   "link": "https://www.livemint.com/market/foreign-inflows-lift-indian-stocks-dollar-returns-above-rupee-gains-as-currency-rebounds-11794465568691.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Vodafone Idea Q2 loss widens 8% YoY to Rs 5,975 crore; revenue rises 6.2% to Rs 11,884 crore",
+   "link": "https://www.moneycontrol.com/news/business/vodafone-idea-q2-loss-widens-8-yoy-to-rs-5-975-crore-revenue-rises-6-2-to-rs-11-884-crore-14078471.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "₹150 per share dividend: Check record date of firm behind Jockey in India - Mega payout after Q2 results 2026",
+   "link": "https://www.livemint.com/market/stock-market-news/page-industries-rs-150-dividend-firm-behind-jockey-in-india-announces-mega-payout-after-q2-results-check-record-date-11794478217436.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Targeting a capex of ₹20,000 crore this financial year: Tata Steel's TV Narendran",
+   "link": "https://www.thehindubusinessline.com/companies/targeting-a-capex-of-20000-crore-this-financial-year-tata-steels-tv-narendran/article71692867.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "companies": [
+    "Tata Steel"
+   ]
+  },
+  {
+   "title": "HAL shares edge lower after Q2 results despite 16% YoY profit growth; why did investors turn cautious? Decoded",
+   "link": "https://www.livemint.com/market/stock-market-news/hal-shares-edge-lower-after-q2-results-despite-16-yoy-profit-growth-why-did-investors-turn-cautious-decoded-11794486814737.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T14:00:00+00:00",
+   "companies": [
+    "HAL"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Crude oil tanker carrying 19 Indian seafarers hit off UAE coast, all crew evacuated",
    "link": "https://www.hindustantimes.com/india-news/crude-oil-tanker-carrying-19-indian-seafarers-hit-off-uae-coast-all-crew-evacuated-101794488072077.html",
@@ -3129,121 +3262,6 @@
     "short": "Foreign flows",
     "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
-  },
-  {
-   "title": "Govt. prohibits export of unsorted lithium-ion battery waste, scrap",
-   "link": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T07:00:00+00:00"
-  },
-  {
-   "title": "Meet Pratiksha Tondwalkar: How Pune woman went from cleaning SBI office for ₹60–65 a month to becoming AGM",
-   "link": "https://www.livemint.com/news/india/meet-pratiksha-tondwalkar-how-pune-woman-went-from-cleaning-sbi-office-for-60-65-a-month-to-becoming-agm-11794369555592.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "India garment makers rethink reliance on US after tariff shock",
-   "link": "https://www.livemint.com/industry/manufacturing/india-garment-makers-rethink-reliance-on-us-after-tariff-shock-11794371926755.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Tata Steel shares gain 2% as brokerages see stronger India earnings, flag risks in Europe- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/business/markets/tata-steel-shares-gain-2-as-brokerages-see-stronger-india-earnings-flag-risks-in-europe-14076995.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bank Nifty surges 3% to nearly 61,400 as crude prices fall; BoB, PNB, Yes Bank rally up to 6%",
-   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-surges-3-to-nearly-61-400-as-crude-prices-fall-bob-pnb-yes-bank-rally-up-to-6-14076923.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Why KPI Green Energy, Waaree Energies shares are rising today; over 5% jump amid post Diwali Sensex, Nifty fireworks",
-   "link": "https://www.livemint.com/market/stock-market-news/why-kpi-green-energy-waaree-energies-shares-are-rising-today-over-5-jump-amid-post-diwali-sensex-nifty-fireworks-11794375321435.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:45:00+00:00"
-  },
-  {
-   "title": "Balmer Lawrie share price jumps 16% as stock rallies after strong Q2 results, gains 19% in two weeks | Check key levels",
-   "link": "https://www.livemint.com/market/stock-market-news/balmer-lawrie-share-price-jumps-16-as-stock-rallies-after-strong-q2-results-gains-19-in-two-weeks-check-key-levels-11794372566602.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "MSCI November rejig: Coforge, LIC, Adani Green and Meesho stocks likely to be added",
-   "link": "https://www.thehindubusinessline.com/markets/msci-november-rejig-coforge-lic-adani-green-and-meesho-stocks-likely-to-be-added/article71688448.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00",
-   "companies": [
-    "Adani Group",
-    "LIC"
-   ]
-  },
-  {
-   "title": "Govt prohibits export of unsorted lithium-ion battery waste, scrap",
-   "link": "https://www.thehindubusinessline.com/news/govt-prohibits-export-of-unsorted-lithium-ion-battery-waste-scrap/article71688314.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "RBI's PSL draft may ease banks' reliance on certificates as lending options widen",
-   "link": "https://www.moneycontrol.com/news/business/banks/rbi-s-psl-draft-may-ease-banks-reliance-on-certificates-as-lending-options-widen-14076937.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "Alice Huang allegedly helped secure $7.5 billion in Nvidia AI GPU imports: Report",
-   "link": "https://www.businesstoday.in/technology/news/story/alice-huang-allegedly-helped-secure-7-5-billion-in-nvidia-ai-gpu-imports-566788-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00"
   }
  ]
 }
