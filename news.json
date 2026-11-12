@@ -1,12 +1,81 @@
 {
- "updated": "2026-11-12T09:31:07.338137+00:00",
+ "updated": "2026-11-12T09:45:51.459257+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 30 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IPO disclosures shows Coca-Cola has significant veto powers over partner Jubilant",
+   "link": "https://www.moneycontrol.com/news/business/ipo/ipo-disclosures-shows-coca-cola-has-significant-veto-powers-over-partner-jubilant-14078150.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T09:30:00+00:00"
+  },
+  {
+   "title": "Tata Motors Com Standalone September 2026 Net Sales at Rs 23,930.00 crore, up 41.93% Y-o-Y- Moneycontrol.com",
+   "link": "https://www.moneycontrol.com/news/business/earnings/tata-motors-com-standalone-september-2026-net-sales-at-rs-23930-00-crore-up-41-93-y-o-y-14078204.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "India's Gulf oil imports surpass Russia for first time since Iran war",
+   "link": "https://www.business-standard.com/economy/news/india-s-gulf-oil-imports-surpass-russia-for-first-time-since-iran-war-126111200597_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:30:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Chennai Petro, ONGC, Oil India fall up to 3% amid declining crude oil prices",
+   "link": "https://www.moneycontrol.com/news/business/markets/chennai-petro-ongc-oil-india-fall-up-to-3-amid-declining-crude-oil-prices-14078124.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in Oct",
+   "link": "https://www.moneycontrol.com/news/business/markets/hdfc-life-other-life-insurance-companies-stocks-rise-up-to-4-as-1st-year-premium-income-up-26-yoy-in-oct-14078181.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:30:00+00:00",
+   "companies": [
+    "HDFC Life"
+   ]
+  },
+  {
+   "title": "18 terrorists, 10 policemen killed in gunfight during gold mining crackdown in Pakistan",
+   "link": "https://www.moneycontrol.com/world/18-terrorists-10-policemen-killed-in-ambush-during-gold-mining-crackdown-in-pakistan-article-14078164.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T09:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Bengaluru researcher among six Infosys Science Foundation prize winners for 2026",
    "link": "https://www.thehindu.com/news/cities/bangalore/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
@@ -3127,69 +3196,6 @@
    "companies": [
     "Adani Group"
    ]
-  },
-  {
-   "title": "Profit bonanza for govt OMCs in Q2 FY27 despite crude oil turmoil",
-   "link": "https://www.business-standard.com/economy/news/profit-bonanza-for-govt-omcs-in-q2-fy27-despite-crude-oil-turmoil-126111001053_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T18:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Gold prices fall Rs 500 per 10 gm on subdued festive demand, weak global cues; silver remains steady",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T18:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "US stocks, bonds fall as CPI data fuel Fed-hike bets",
-   "link": "https://www.moneycontrol.com/news/business/markets/us-stocks-bonds-fall-as-cpi-data-fuel-fed-hike-bets-14076482.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T18:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Oil shock strains FY27 finances, but buffers may contain fiscal slippage",
-   "link": "https://www.business-standard.com/opinion/columns/oil-shock-strains-fy27-finances-but-buffers-may-contain-fiscal-slippage-126111000994_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T17:45:00+00:00"
-  },
-  {
-   "title": "Attractive valuations could translate to gains in ONGC despite challenges",
-   "link": "https://www.business-standard.com/companies/news/attractive-valuations-could-translate-to-gains-in-ongc-despite-challenges-126111000970_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:45:00+00:00"
-  },
-  {
-   "title": "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56% from 1-yr lows - here's why",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-index-performance-bank-of-india-uco-bank-among-7-stocks-rebound-15-56-from-1-yr-lows-here-s-why-11794321816668.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:45:00+00:00"
   }
  ]
 }
