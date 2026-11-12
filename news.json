@@ -1,12 +1,79 @@
 {
- "updated": "2026-11-12T15:15:51.980193+00:00",
+ "updated": "2026-11-12T15:31:08.995259+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Vodafone Idea Q2 loss widens to ₹5,975 crore despite higher ARPU, revenue",
+   "link": "https://www.business-standard.com/companies/quarterly-results/vodafone-idea-q2-loss-widens-to-5-975-crore-despite-higher-arpu-revenue-126111201639_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:30:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "Oil prices fall as rising crude output offsets geopolitical risks",
+   "link": "https://www.business-standard.com/world-news/oil-prices-fall-as-rising-crude-output-offsets-geopolitical-risks-126111201443_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T15:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+   "link": "https://www.business-standard.com/world-news/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants-126111201413_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T15:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Strong demand, valuations positive for Tata Power despite margin pressures",
+   "link": "https://www.business-standard.com/markets/news/strong-demand-valuations-positive-for-tata-power-despite-margin-pressures-126111201661_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "India scores 71, US just 36: What the global economic rankings reveal",
+   "link": "https://www.business-standard.com/finance/personal-finance/india-scores-71-us-just-36-what-the-global-economic-rankings-reveal-126111201668_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:30:00+00:00"
+  },
+  {
+   "title": "Karnataka seeks to blacklist L&T over Jal Jeevan Mission delays",
+   "link": "https://www.thehindubusinessline.com/news/national/karnataka-seeks-to-blacklist-lt-over-delay-in-drinking-water-project/article71694597.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T15:30:00+00:00",
+   "companies": [
+    "Larsen & Toubro"
+   ]
+  },
   {
    "title": "ITC Gold Flake Premium cigarettes get costlier: New prices to burn a hole in your pocket as pack of 10 rises to ₹135",
    "link": "https://www.livemint.com/companies/news/itc-gold-flake-premium-cigarettes-get-costlier-new-prices-to-burn-a-hole-in-your-pocket-as-pack-of-10-rises-to-135-11794476598426.html",
@@ -3225,70 +3292,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T08:45:00+00:00"
-  },
-  {
-   "title": "Centre bans export of battery waste, including lithium-ion black mass",
-   "link": "https://www.business-standard.com/economy/news/centre-bans-export-of-battery-waste-including-lithium-ion-black-mass-126111100415_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T08:45:00+00:00"
-  },
-  {
-   "title": "Customs holds Pernod, Diageo Scotch shipments in dispute over 150% tariff",
-   "link": "https://www.business-standard.com/economy/news/customs-holds-pernod-diageo-scotch-shipments-in-dispute-over-150-tariff-126111100522_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T08:45:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "75% or 150%? Pernod, Diageo Scotch imports stuck in India-UK trade deal dispute",
-   "link": "https://www.moneycontrol.com/news/business/75-or-150-pernod-diageo-scotch-imports-stuck-in-india-uk-trade-deal-dispute-14077138.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "LIC remains open to strategic investments in standalone health insurance companies, says MD & CEO Doraiswamy",
-   "link": "https://www.moneycontrol.com/banking/lic-remains-open-to-strategic-investments-in-standalone-health-insurance-companies-says-md-ceo-doraiswamy-article-14077051.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00",
-   "companies": [
-    "LIC"
-   ]
-  },
-  {
-   "title": "Moody's upgrades India's growth outlook to 7%, says economy may be on cusp of new investment boom",
-   "link": "https://www.moneycontrol.com/news/business/moody-s-upgrades-india-s-growth-outlook-to-7-says-economy-may-be-on-cusp-of-new-investment-boom-14077133.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00"
-  },
-  {
-   "title": "IRCTC penalises caterer after passenger finds metal piece in dal on Guwahati train",
-   "link": "https://www.hindustantimes.com/trending/irctc-penalises-caterer-after-passenger-finds-metal-piece-in-dal-on-guwahati-train-101794382612528.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T08:15:00+00:00",
-   "companies": [
-    "IRCTC"
-   ]
   }
  ]
 }
