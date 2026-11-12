@@ -1,12 +1,82 @@
 {
- "updated": "2026-11-12T04:31:10.188965+00:00",
+ "updated": "2026-11-12T04:45:48.879623+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 18 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bajaj Finance shares in focus as QIP kicks off; floor price, other details",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-in-focus-as-qip-kicks-off-floor-price-other-details-566950-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Royal Enfield Himalayan 750, Continental GT 750 and an electric scrambler: What is coming to India",
+   "link": "https://www.businesstoday.in/latest/trends/photo/royal-enfield-himalayan-750-continental-gt-750-and-an-electric-scrambler-what-is-coming-to-india-566957-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ]
+  },
+  {
+   "title": "Tata Power says stake in Singapore arms pledged with lenders amid $650 million dispute: Report",
+   "link": "https://www.businesstoday.in/latest/corporate/story/tata-power-says-stake-in-singapore-arms-pledged-with-lenders-amid-650-million-dispute-report-566961-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "India saved $100 billion on fossil fuel imports in last 15 years with green energy push: IEA",
+   "link": "https://www.businesstoday.in/india/story/india-saved-100-billion-on-fossil-fuel-imports-in-last-15-years-with-green-energy-push-iea-566953-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00"
+  },
+  {
+   "title": "Coforge, Vedanta, Paytm, Adani Green, Groww shares: $2 bn inflows likely on MSCI rejig",
+   "link": "https://www.businesstoday.in/markets/stocks/story/coforge-vedanta-paytm-adani-green-groww-shares-2-bn-inflows-likely-on-msci-rejig-566956-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00",
+   "companies": [
+    "Vedanta",
+    "Adani Group",
+    "Paytm"
+   ]
+  },
+  {
+   "title": "ITC shares rise 2% as on hike in Gold Flake Premium cigarette rates",
+   "link": "https://www.businesstoday.in/markets/stocks/story/itc-shares-rise-as-gold-flake-premium-cigarette-prices-rise-566962-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T04:45:00+00:00",
+   "companies": [
+    "ITC"
+   ],
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Codelco, Adani Group sign agreement for copper exploration project",
    "link": "https://www.business-standard.com/companies/news/codelco-adani-group-sign-agreement-for-copper-exploration-project-126111200010_1.html",
@@ -3176,75 +3246,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-10T10:30:00+00:00"
-  },
-  {
-   "title": "Oil prices fall as Trump signals pause in military action against Iran",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T10:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Apollo Hospitals stock supported by expansion, value unlocking triggers",
-   "link": "https://www.business-standard.com/markets/news/apollo-hospitals-q2-fy27-results-capacity-expansion-healthco-stock-outlook-126111000308_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:15:00+00:00",
-   "companies": [
-    "Apollo Hospitals"
-   ]
-  },
-  {
-   "title": "Britannia, PepsiCo, HUL rethink recipes as food labelling rules loom",
-   "link": "https://www.business-standard.com/india-news/britannia-pepsico-hul-rethink-recipes-as-food-labelling-rules-loom-126111000348_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:15:00+00:00",
-   "companies": [
-    "Hindustan Unilever",
-    "Britannia"
-   ]
-  },
-  {
-   "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
-   "link": "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:45:00+00:00",
-   "companies": [
-    "Reliance Industries",
-    "HDFC Bank"
-   ]
-  },
-  {
-   "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes?",
-   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-over-6-in-past-5-sessions-more-rally-from-tomorrow-or-profit-booking-will-dent-returns-hopes-11794292057445.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:45:00+00:00"
-  },
-  {
-   "title": "Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained",
-   "link": "https://www.livemint.com/money/personal-finance/bhai-dooj-2026-financial-gift-gold-etfs-for-your-sibling-how-it-differs-from-mutual-funds-process-rules-explained-11794295936814.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
