@@ -1,12 +1,133 @@
 {
- "updated": "2026-11-12T08:45:49.943452+00:00",
+ "updated": "2026-11-12T09:01:25.891854+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 22 new items (12 files read)"
+  "gdelt": "ok, 34 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's FTAs to open access to $85 trillion of global economy: Piyush Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/indias-ftas-to-open-access-to-85-trillion-of-global-economy-piyush-goel/article71692709.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "title": "Financial stocks hold Nifty steady at midday; Auto, FMCG drag",
+   "link": "https://www.thehindubusinessline.com/markets/financial-stocks-hold-nifty-steady-at-midday-auto-fmcg-drag/article71692751.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "title": "Nifty Prediction Today – November 12, 2026: Nifty futures: Retains positive inclination",
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-12-2026-nifty-futures-retains-positive-inclination/article71692433.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "title": "Infosys Science Foundation announces six winners of Infosys Prize 2026",
+   "link": "https://www.thehindubusinessline.com/companies/infosys-science-foundation-announces-six-winners-of-infosys-prize-2026/article71692798.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00",
+   "companies": [
+    "Infosys"
+   ]
+  },
+  {
+   "title": "HDFC Bank holds above ₹811 for second straight day as rally consolidates",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-holds-above-811-for-second-straight-day-as-rally-consolidates/article71692630.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "title": "Ola Electric shares rise 4% ahead of Q2 results; earnings call set for today",
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/ola-electric-shares-rise-4-ahead-of-q2-results-earnings-call-set-for-today/article71692652.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T09:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "ITC strengthens presence in copier paper category, launches Carte Lumina zx",
+   "link": "https://www.thehindubusinessline.com/companies/itc-strengthens-presence-in-copier-paper-category-launches-carte-lumina-zx/article71692778.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "Bank of Baroda raises rates on 555-day deposit scheme by 10 bps to 7.50%",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/bank-of-baroda-raises-rates-on-555-day-deposit-scheme-by-10-bps-to-750/article71692693.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T09:00:00+00:00",
+   "companies": [
+    "Bank of Baroda"
+   ]
+  },
+  {
+   "title": "IndiGo cuts 300,000 seats in November despite festive travel season",
+   "link": "https://www.businesstoday.in/india/story/indigo-cuts-300000-seats-in-november-despite-festive-travel-season-567017-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:45:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "RBI to ban private equity firms from controlling multiple non-bank lenders",
+   "link": "https://www.business-standard.com/finance/news/rbi-to-ban-private-equity-firms-from-controlling-multiple-non-bank-lenders-126111200692_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:45:00+00:00"
+  },
+  {
+   "title": "India reclaims fifth spot in global market cap rankings as FII inflows rise, Brent crude falls",
+   "link": "https://www.businesstoday.in/markets/stocks/story/india-reclaims-fifth-spot-in-global-market-cap-rankings-as-fii-inflows-rise-brent-crude-falls-567013-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Reliance plans $4.6 billion coal gasification project in Andhra Pradesh",
+   "link": "https://www.business-standard.com/companies/news/reliance-plans-4-6-billion-coal-gasification-project-in-andhra-pradesh-126111200695_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
   {
    "title": "16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",
    "link": "https://www.livemint.com/market/stock-market-news/16-up-in-a-month-bajaj-finance-shares-climb-3-4-on-11-700-crore-qip-launch-check-floor-price-discount-returns-11794460718743.html",
@@ -3072,142 +3193,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-   "source": "European Central Bank",
-   "source_key": "ecb",
-   "category": "Global",
-   "published": "2026-11-10T16:45:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "NTPC submits two applications in second round of Rs 37,500-crore coal gasification scheme",
-   "link": "https://www.moneycontrol.com/news/business/ntpc-submits-two-applications-in-second-round-of-rs-37-500-crore-coal-gasification-scheme-14076448.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T16:30:00+00:00",
-   "companies": [
-    "NTPC"
-   ]
-  },
-  {
-   "title": "NTPC submits two coal gasification proposals under ₹37,500-crore scheme",
-   "link": "https://www.thehindubusinessline.com/companies/ntpc-submits-two-coal-gasification-proposals-under-centres-37500-crore-scheme/article71686307.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T16:30:00+00:00",
-   "companies": [
-    "NTPC"
-   ]
-  },
-  {
-   "title": "US October inflation exceeds forecasts as consumer prices rise 0.4%; Fed rate hike in focus",
-   "link": "https://www.moneycontrol.com/world/us-october-inflation-exceeds-forecasts-as-consumer-prices-rise-0-4-fed-rate-hike-in-focus-article-14076445.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T16:30:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Bajaj Finserv subscribes to warrants issued by Bajaj Finance at ₹1,010/ warrant aggregating to ₹5,800 cr",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/bajaj-finserv-subscribes-to-warrantsissued-by-bajaj-finance-at-1010-warrant-aggregating-to-5800-cr/article71686892.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T16:30:00+00:00",
-   "companies": [
-    "Bajaj Finance",
-    "Bajaj Finserv"
-   ]
-  },
-  {
-   "title": "Local manufacturers urge govt to impose duty on Malaysian and Thai imported medical gloves",
-   "link": "https://www.thehindubusinessline.com/news/national/local-manufacturers-urge-govt-to-impose-duty-on-malaysian-and-thai-imported-medical-gloves/article71686820.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T16:15:00+00:00"
-  },
-  {
-   "title": "US CPI inflation slows to 0.4% in October as energy prices ease",
-   "link": "https://www.thehindubusinessline.com/news/world/us-consumer-inflation-slows-to-04-in-october-as-energy-price-pressures-ease/article71686589.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T16:15:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Housing assistance instalments for 32,000 families this fiscal: Minister",
-   "link": "https://www.thehindu.com/news/national/kerala/housing-assistance-instalments-for-32000-families-this-fiscal-minister/article71686792.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T16:15:00+00:00"
-  },
-  {
-   "title": "US sanctions inflicting 'extraordinary economic pain' on Iran, no need for major combat ops: Rubio",
-   "link": "https://www.hindustantimes.com/world-news/iran-facing-extraordinary-economic-pain-from-us-sanctions-no-need-for-major-combat-operations-marco-rubio-101794323324876.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T16:15:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Calm your spicy food cravings with this chilli oil paneer noodles recipe",
-   "link": "https://www.hindustantimes.com/lifestyle/recipe/calm-your-spicy-food-cravings-with-this-chilli-oil-paneer-noodles-recipe-101794321711721.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T15:45:00+00:00"
-  },
-  {
-   "title": "Bhai Dooj gift tax rules: Got money or gold from your brother? Check when festival presents become taxable",
-   "link": "https://www.livemint.com/money/personal-finance/bhai-dooj-gift-tax-rules-got-money-or-gold-from-your-brother-check-when-festival-presents-become-taxable-11794319980639.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T15:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Brent near $90 offers relief on fiscal, inflation fronts",
-   "link": "https://www.livemint.com/economy/brent-near-90-offers-relief-on-fiscal-inflation-fronts-11794317269583.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T15:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
   }
  ]
