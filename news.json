@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-11T23:45:50.565250+00:00",
+ "updated": "2026-11-12T00:01:22.665638+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Adani to finance Chile's Kaburkaala copper project for Mundra smelter supply",
+   "link": "https://www.thehindubusinessline.com/markets/commodities/adani-group-partners-chiles-codelco-for-copper-exploration-project/article71691417.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T00:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Oil up 1% as Iran official says country will keep enriched nuclear material",
    "link": "https://www.livemint.com/market/oil-up-1-as-iran-official-says-country-will-keep-enriched-nuclear-material-11794427796838.html",
@@ -3257,23 +3268,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "RIL, HDFC Bank, Axis, Kotak Bank, VBL and Sona BLW shares among plays on FPI reversal",
-   "link": "https://www.businesstoday.in/markets/stocks/story/ril-hdfc-bank-axis-kotak-bank-vbl-and-sona-blw-shares-among-plays-on-fpi-reversal-566664-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T08:45:00+00:00",
-   "companies": [
-    "HDFC Bank",
-    "Kotak Mahindra Bank"
-   ],
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
    }
   }
  ]
