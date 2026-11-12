@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T09:01:25.891854+00:00",
+ "updated": "2026-11-12T09:15:46.824865+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 34 new items (12 files read)"
+  "gdelt": "ok, 40 new items (12 files read)"
  },
  "items": [
   {
@@ -127,6 +127,62 @@
    "companies": [
     "Reliance Industries"
    ]
+  },
+  {
+   "title": "SMBC tells RBI India operations will get consolidated under Yes Bank by FY29",
+   "link": "https://www.moneycontrol.com/news/business/smbc-tells-rbi-it-s-india-operations-will-get-consolidated-under-yes-bank-by-fy29-14078155.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:30:00+00:00"
+  },
+  {
+   "title": "IPO market takes a breather in November after record fundraising in September, October",
+   "link": "https://www.moneycontrol.com/news/business/markets/ipo-market-takes-a-breather-in-november-after-record-fundraising-in-september-october-14078122.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T08:30:00+00:00"
+  },
+  {
+   "title": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
+   "link": "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:30:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "Avanti Feeds, Apex Frozen Foods shares surge nearly 8% as UAE explores shrimp imports from Andhra Pradesh",
+   "link": "https://www.moneycontrol.com/news/business/markets/avanti-feeds-apex-frozen-foods-shares-surge-nearly-8-as-uae-explores-shrimp-imports-from-andhra-pradesh-14078077.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T08:30:00+00:00"
+  },
+  {
+   "title": "Bank Nifty rises for 3rd day, trades above 61,300; PNB, AU SFB lead gains: What lies ahead?",
+   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-rises-for-3rd-day-trades-above-61-300-pnb-au-sfb-lead-gains-what-lies-ahead-14078147.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T08:30:00+00:00"
+  },
+  {
+   "title": "EU, UK plan to delay 10% EV tariffs as Chinese rivals gain ground",
+   "link": "https://www.moneycontrol.com/world/eu-uk-plan-to-delay-10-ev-tariffs-as-chinese-rivals-gain-ground-article-14078046.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T08:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
   },
   {
    "title": "16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",
@@ -3135,64 +3191,6 @@
     "topic": "How interest rates reach the market",
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Govt extends medical devices PLI till FY36, shifts focus to components to cut import dependence",
-   "link": "https://www.moneycontrol.com/news/business/stocks/govt-invites-fresh-applications-under-pli-scheme-for-medical-devices-extends-tenure-till-2035-36-14076436.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T17:15:00+00:00"
-  },
-  {
-   "title": "Patna Municipal Corporation lists Bihar's first municipal bond on NSE",
-   "link": "https://www.thehindubusinessline.com/markets/patna-municipal-corporation-lists-bihars-first-municipal-bond-on-nse/article71686272.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:00:00+00:00"
-  },
-  {
-   "title": "Q2 Results 10th Nov Oct Highlights: Cochin Shipyard Q2 profit falls 53%, MRF PAT down 28%, Matrimony profit zooms, Kalyan Jewellers, Avanti Feeds, Titagarh Rail Systems, MMTC to announce Q2 results",
-   "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-kalyan-jewellers-mrf-cochin-shipyard-avanti-feeds-titagarh-rail-systems-mntc-company-results-10-november-2026/article71684906.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T17:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "India on track for $1 trillion exports in FY27, says Piyush Goyal",
-   "link": "https://www.thehindubusinessline.com/economy/india-on-track-to-achieve-1-trillion-export-target-this-fiscal-says-piyush-goyal/article71687185.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:00:00+00:00"
-  },
-  {
-   "title": "India's 2026-27 apple imports may increase 19% to 5.11 lakh tonne on rising demand",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-2026-27-apple-imports-may-increase-19-to-511-lakh-tonne-on-rising-demand/article71686635.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:00:00+00:00"
-  },
-  {
-   "title": "National Housing Bank's Q2FY27 net profit declines 15% to ₹417 crore",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/national-housing-banks-q2fy26-net-profit-declines-15-to-417-crore/article71686457.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T17:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
