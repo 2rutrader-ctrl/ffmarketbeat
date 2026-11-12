@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-12T18:15:54.168399+00:00",
+ "updated": "2026-11-12T18:31:09.345118+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 18 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Manappuram Finance Q2 results: Profit jumps over 3-fold to ₹701 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/manappuram-finance-q2-results-profit-jumps-over-3-fold-to-701-crore-126111201273_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T18:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
@@ -3299,17 +3312,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "TCS bags Rio Marathon tech deal; stocks in red - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/tcs-bags-rio-marathon-tech-deal-stocks-in-red/article71688805.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "TCS"
-   ]
   }
  ]
 }
