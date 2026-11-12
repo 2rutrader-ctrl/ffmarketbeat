@@ -1,12 +1,48 @@
 {
- "updated": "2026-11-12T02:51:03.544401+00:00",
+ "updated": "2026-11-12T03:01:22.431179+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nifty could move to 25,500-25,750; Paytm among 3 stock ideas: Ajit Mishra",
+   "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:45:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "Buzzing stocks: Bajaj Finance, Tata Power, Adani Enterprises, Sandur Manganese, Alivus Life, Aurobindo Pharma",
+   "link": "https://www.thehindubusinessline.com/markets/buzzing-stocks-bajaj-finance-tata-power-adani-enterprises-sandur-manganese-alivus-life-aurobindo-pharma/article71692162.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:45:00+00:00",
+   "companies": [
+    "Bajaj Finance",
+    "Tata Power",
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "MSCI November rejig: LIC, Adani Green, Coforge and Meesho added; PI Industries excluded",
+   "link": "https://www.moneycontrol.com/news/business/msci-november-rejig-lic-adani-green-coforge-and-meesho-added-pi-industries-excluded-14077462.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:30:00+00:00",
+   "companies": [
+    "Adani Group",
+    "LIC"
+   ]
+  },
   {
    "title": "Cheap batteries for storage, low daytime tariffs, easy grid access will cut power shortage, costs",
    "link": "https://www.thehindubusinessline.com/opinion/the-potential-of-indias-clean-power-ambition/article71690653.ece",
@@ -3211,35 +3247,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Gold hits $4,135, but silver steals the show as Diwali shuts markets",
-   "link": "https://www.thehindubusinessline.com/markets/gold-hits-4135-silver-outpaces-yellow-metal-as-diwali-shuts-markets/article71685233.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gokaldas Exports eyes ₹450–500 crore capex next year as demand outlook improves",
-   "link": "https://www.thehindubusinessline.com/companies/gokaldas-exports-eyes-450500-crore-capex-next-year-as-demand-outlook-improves/article71685325.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:30:00+00:00"
-  },
-  {
-   "title": "Mutual funds' Nifty 50 allocation falls to 21-year low - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/mutual-funds-nifty-50-allocation-falls-to-21-year-low/article71685515.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:30:00+00:00"
   }
  ]
 }
