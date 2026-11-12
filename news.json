@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-12T06:31:08.178758+00:00",
+ "updated": "2026-11-12T06:45:48.685871+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "The Moody Foundation donated 87.5% of Silver Lake Ranch to Texas; the state paid $11.85 million for the rest of a future state park",
+   "link": "https://www.hindustantimes.com/world-news/us-news/the-moody-foundation-donated-87-5-of-silver-lake-ranch-to-texas-the-state-paid-11-85-million-for-the-rest-of-a-future-state-park-101794390526374.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T06:45:00+00:00"
+  },
+  {
+   "title": "Kotak Alts pumps ₹325 crore into Gainwell Group - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/kotak-alts-pumps-325-crore-into-gainwell-group/article71692547.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:45:00+00:00",
+   "companies": [
+    "Kotak Mahindra Bank"
+   ]
+  },
+  {
+   "title": "Customers without bank accounts can send up to ₹50,000 with cash pay-in service, say RBI guidelines",
+   "link": "https://www.hindustantimes.com/business/customers-without-bank-accounts-can-send-up-to-rs-50-000-with-cash-pay-in-service-say-rbi-guidelines-101794459798941.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:45:00+00:00"
+  },
   {
    "title": "Over 65% of Nifty large-cap stocks now above 200-DMAs; mid-, small-caps lag",
    "link": "https://www.business-standard.com/markets/news/stock-market-trend-over-60-of-nifty-100-large-cap-stocks-now-trade-above-long-term-moving-averages-200-dmas-mid-small-caps-lag-126111200213_1.html",
@@ -3199,40 +3226,6 @@
   {
    "title": "FIIs invest $2.8 billion in Indian equities in October second half",
    "link": "https://www.thehindubusinessline.com/markets/fiis-may-return-to-indian-equities-as-global-headwinds-ease-and-domestic-fundamentals-remain-strong-report/article71685694.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:30:00+00:00"
-  },
-  {
-   "title": "Rupee may strengthen to 90 against dollar as India enters sweet spot",
-   "link": "https://www.thehindubusinessline.com/economy/india-in-a-sweet-spot-as-crude-oil-eases-and-foreign-inflows-rise-says-kotak-neo-expert/article71685625.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Weekly Rupee View: Poised for further gains - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewpoised-for-further-gains/article71685989.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Higher US yields could push India towards export-led growth: SBICAPS",
-   "link": "https://www.thehindubusinessline.com/economy/higher-us-yields-could-push-india-towards-export-led-growth-sbicaps/article71685698.ece",
    "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
