@@ -1,12 +1,99 @@
 {
- "updated": "2026-11-12T06:15:49.667421+00:00",
+ "updated": "2026-11-12T06:31:08.178758+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 19 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Over 65% of Nifty large-cap stocks now above 200-DMAs; mid-, small-caps lag",
+   "link": "https://www.business-standard.com/markets/news/stock-market-trend-over-60-of-nifty-100-large-cap-stocks-now-trade-above-long-term-moving-averages-200-dmas-mid-small-caps-lag-126111200213_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:30:00+00:00"
+  },
+  {
+   "title": "Tata Power seeks cost-linked Mundra tariff pacts with 4 more states",
+   "link": "https://www.business-standard.com/companies/news/tata-power-seeks-cost-linked-mundra-tariff-pacts-with-4-more-states-126111200307_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:30:00+00:00",
+   "companies": [
+    "Tata Power"
+   ],
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "GRSE stock gains 2% despite Q2 results miss; here's what brokerages suggest",
+   "link": "https://www.business-standard.com/markets/news/navratna-psu-defence-stock-grse-gains-2-despite-q2-results-miss-here-s-what-brokerages-suggest-126111200217_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T06:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "HFCL bags export orders worth ₹834 crore for optical fibre cables",
+   "link": "https://www.business-standard.com/companies/news/hfcl-bags-export-orders-worth-834-crore-for-optical-fibre-cables-126111200280_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:30:00+00:00"
+  },
+  {
+   "title": "Oil prices drop as hopes for Iran, Ukraine peace talks pressure markets",
+   "link": "https://www.business-standard.com/markets/commodities/oil-prices-drop-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-126111200061_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T06:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Tata Motors CV share price gains 4%, up for 4th straight day; here's why",
+   "link": "https://www.business-standard.com/markets/news/tata-motors-cv-share-price-gains-4-up-for-4th-straight-day-here-s-why-126111200273_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:30:00+00:00"
+  },
+  {
+   "title": "Gold, silver fall as expectations of December rate hike strengthen",
+   "link": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-expectations-of-december-rate-hike-strengthen-126111200351_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T06:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Tata Power shares gain 2% after Q2 profit rises 33%; analysts upbeat",
+   "link": "https://www.business-standard.com/markets/news/tata-power-shares-gain-2-after-q2-profit-rises-33-analysts-upbeat-126111200194_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T06:30:00+00:00"
+  },
   {
    "title": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
    "link": "https://www.thehindubusinessline.com/money-and-banking/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/article71692206.ece",
@@ -3150,100 +3237,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-10T13:30:00+00:00"
-  },
-  {
-   "title": "FPIs turn net buyers in November, pump ₹53,739 crore into Indian equities",
-   "link": "https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-november-pump-53-739-crore-into-indian-equities-126111000477_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:00:00+00:00"
-  },
-  {
-   "title": "Most Americans want new US Congress to end Trump's Iran war, repeal tariffs: Survey",
-   "link": "https://www.hindustantimes.com/world-news/most-americans-want-new-us-congress-to-end-trump-iran-war-repeal-tariffs-survey-101794313680764.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T13:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "US midterm results may ease India's oil import bill, but tariff risks stay",
-   "link": "https://www.business-standard.com/economy/news/us-midterm-elections-india-crude-oil-imports-iran-war-russian-oil-tariffs-126111000452_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T13:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "World stocks rise as oil slips below $90 on hopes of US-Iran peace talks",
-   "link": "https://www.business-standard.com/markets/news/world-stocks-rise-as-oil-slips-below-90-on-hopes-of-us-iran-peace-talks-126111000408_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T13:00:00+00:00"
-  },
-  {
-   "title": "PHDCCI seeks zero duty on LNG, naphtha, key feedstocks in Budget",
-   "link": "https://www.business-standard.com/economy/news/phdcci-seeks-zero-duty-on-lng-naphtha-key-feedstocks-in-budget-126111000654_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T13:00:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Canada eyes US tariff relief after Trump's midterm election setback",
-   "link": "https://www.business-standard.com/world-news/canada-eyes-us-tariff-relief-after-trump-s-midterm-election-setback-126111000461_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T13:00:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Wall Street futures mixed as Fed's Waller backs rate hike; inflation data in focus",
-   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-mixed-as-fed-s-waller-backs-rate-hike-inflation-data-in-focus-14076289.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T12:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Budget 2027: PHDCCI seeks scrapping of LTCG tax on equities, cut in STCG rate to 10%",
-   "link": "https://www.moneycontrol.com/budget/budget-2027-phdcci-seeks-scrapping-of-ltcg-tax-on-equities-cut-in-stcg-rate-to-10-article-14076351.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T12:45:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
   }
  ]
 }
