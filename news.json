@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:31:11.122178+00:00",
+ "updated": "2026-11-12T10:45:50.480532+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,14 @@
   "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "From anti-terror ops to law & order duties, SPOs take home paltry ₹6,000 to ₹18000 a month",
+   "link": "https://www.hindustantimes.com/india-news/from-anti-terror-ops-to-law-and-order-duties-spos-take-home-paltry-6-000-to-18000-a-month-101794477088040.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:30:00+00:00"
+  },
   {
    "title": "Why Anthropic need not fret if its IPO value is closer to $1 trillion than $2 trillion",
    "link": "https://www.livemint.com/opinion/online-views/why-anthropic-need-not-fret-if-its-ipo-value-is-closer-to-1-trillion-than-2-trillion-11794384256914.html",
@@ -3197,19 +3205,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T01:30:00+00:00"
-  },
-  {
-   "title": "Oil prices, rural stress cloud outlook for consumer goods makers despite volume growth",
-   "link": "https://www.livemint.com/industry/retail/oil-prices-rural-stress-cloud-outlook-for-consumer-goods-makers-despite-volume-growth-11794281021264.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T01:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
