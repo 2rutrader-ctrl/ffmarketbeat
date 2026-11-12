@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-12T07:31:04.492218+00:00",
+ "updated": "2026-11-12T07:45:49.365081+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Inside Anthropic's mega $64 billion IPO: Valuation, revenue, risks and more",
+   "link": "https://www.business-standard.com/world-news/inside-anthropic-s-mega-64-billion-ipo-valuation-revenue-risks-and-more-126111200434_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T07:45:00+00:00"
+  },
   {
    "title": "Adani Enterprises arm Kutch Copper inks MoU with Chile's Codelco; stock reacts",
    "link": "https://www.businesstoday.in/markets/stocks/story/adani-enterprises-arm-kutch-copper-inks-mou-with-chiles-codelco-stock-reacts-566977-2026-11-12",
@@ -3194,17 +3202,6 @@
   {
    "title": "Regulatory Commission extends power purchase agreement with NTPC Kayamkulam for three years",
    "link": "https://www.thehindu.com/news/national/kerala/regulatory-commission-extends-power-purchase-agreement-with-ntpc-kayamkulam-for-three-years/article71686674.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T15:00:00+00:00",
-   "companies": [
-    "NTPC"
-   ]
-  },
-  {
-   "title": "NTPC leads second round of coal gasification bids with two applications",
-   "link": "https://www.thehindu.com/business/Industry/ntpc-leads-second-round-of-coal-gasification-bids-with-two-applications/article71686471.ece",
    "source": "The Hindu (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
