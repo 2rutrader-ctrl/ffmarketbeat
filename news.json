@@ -1,12 +1,68 @@
 {
- "updated": "2026-11-12T01:45:46.391158+00:00",
+ "updated": "2026-11-12T02:01:22.006955+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 7 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Stocks get a much-needed AI boost—but the Fed could spoil the party",
+   "link": "https://www.livemint.com/global/stocks-get-a-much-needed-ai-boost-but-the-fed-could-spoil-the-party-11794445070752.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T02:00:00+00:00"
+  },
+  {
+   "title": "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-hdfc-bank-stock-hdfc-bank-share-price-11794395992177.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T02:00:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "New Zealand Draws Record US Tourists With Wellness and Weak Kiwi Dollar",
+   "link": "https://www.livemint.com/news/world/new-zealand-draws-record-us-tourists-with-wellness-and-weak-kiwi-dollar-11794444075430.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T02:00:00+00:00"
+  },
+  {
+   "title": "BT BIG STORY: The Rupee bounces back, but the ₹100 threat isn't gone yet",
+   "link": "https://www.businesstoday.in/latest/economy/story/bt-big-story-the-rupee-bounces-back-but-the-rs100-threat-isnt-gone-yet-566935-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T01:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Anthropic's record breaking $90 billion IPO is already oversubscribed several times over",
+   "link": "https://www.businesstoday.in/markets/ipo-corner/story/anthropics-record-breaking-90-billion-ipo-is-already-oversubscribed-several-times-over-566945-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T01:30:00+00:00"
+  },
+  {
+   "title": "India–EU FTA's €119 billion trade promise: Could Europe's fiscal troubles threaten Indian exporters?",
+   "link": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T01:30:00+00:00"
+  },
   {
    "title": "Adani to finance Chile's Kaburkaala copper project for Mundra smelter supply",
    "link": "https://www.thehindubusinessline.com/markets/commodities/adani-group-partners-chiles-codelco-for-copper-exploration-project/article71691417.ece",
@@ -3190,84 +3246,6 @@
     "topic": "Why inflation data is watched",
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-moves-to-keep-spoofing-orders-out-protect-genuine-investors-in-pre-open-trading-and-time-priority-14076084.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "MRF Q2 net profit falls 28% to Rs 369 crore on higher raw material costs; revenue rises 18%",
-   "link": "https://www.moneycontrol.com/news/business/earnings/mrf-q2-net-profit-falls-28pc-to-rs-369-crore-on-higher-raw-material-costs-revenue-rises-18pc-14076126.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Buying gold coins? Check purity, design premiums and buyback policies",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/buying-gold-coins-check-purity-design-premiums-and-buyback-policies-14076091.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Over 50 crude bomb blasts rock Dhaka, bus driver burnt alive amid arson attacks",
-   "link": "https://www.moneycontrol.com/world/over-50-crude-bomb-blasts-rock-dhaka-bus-driver-burnt-alive-amid-arson-attacks-article-14076088.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Brent crude prices today: Crude oil prices fall to $91 a barrel as Trump signals pause in further military strikes on Iran",
-   "link": "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-fall-to-91-a-barrel-as-trump-signals-pause-in-further-military-strikes-on-iran-14076070.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T09:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Trump loses, rupee gains: How US midterm elections triggered a turnaround in India's currency",
-   "link": "https://www.businesstoday.in/latest/economy/story/trump-loses-rupee-gains-how-us-midterm-elections-triggered-a-turnaround-in-indias-currency-566646-2026-11-10",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T08:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
