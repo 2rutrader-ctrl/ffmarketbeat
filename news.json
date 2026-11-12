@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-12T13:31:12.090147+00:00",
+ "updated": "2026-11-12T13:45:53.795719+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 48 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crude oil tanker carrying 19 Indian seafarers hit off UAE coast, all crew evacuated",
+   "link": "https://www.hindustantimes.com/india-news/crude-oil-tanker-carrying-19-indian-seafarers-hit-off-uae-coast-all-crew-evacuated-101794488072077.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:45:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Retail inflation crosses RBI's upper limit for first time in two years, comes in at 6.1% in October 2026",
+   "link": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
    "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
@@ -3218,27 +3244,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "Nifty Prediction Today – November 11, 2026: Nifty futures: Intraday outlook is positive",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-11-2026-nifty-futures-intraday-outlook-is-positive/article71688392.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "Rupee rises 7 paise to 93.70 against US dollar in early trade",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-9370-against-us-dollar-in-early-trade/article71688306.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   }
  ]
 }
