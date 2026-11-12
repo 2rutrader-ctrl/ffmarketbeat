@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:01:22.910753+00:00",
+ "updated": "2026-11-12T05:15:53.497836+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,47 @@
   "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on Thursday, 12 November? Check RBI calendar this week",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-pnb-canara-branch-working-open-thursday-12-november-check-rbi-calendar-dates-this-week-11794444604284.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:15:00+00:00",
+   "companies": [
+    "State Bank of India",
+    "Punjab National Bank"
+   ]
+  },
+  {
+   "title": "No bank account? Check how much cash you can send or receive through ATM, NEFT under RBI domestic money transfer rules",
+   "link": "https://www.livemint.com/money/personal-finance/no-bank-account-check-how-much-cash-you-can-send-or-receive-through-atm-neft-under-rbi-domestic-money-transfer-rules-11794442718991.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:15:00+00:00"
+  },
+  {
+   "title": "Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom",
+   "link": "https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T05:15:00+00:00"
+  },
+  {
+   "title": "Rupee falls 6 paise to 93.77 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-falls-6-paise-to-93-77-against-us-dollar-during-early-trade-126111200200_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T05:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Bajaj Finance shares in focus as QIP kicks off; floor price, other details",
    "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-in-focus-as-qip-kicks-off-floor-price-other-details-566950-2026-11-12",
@@ -3204,48 +3245,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Island fisheries to anchor India's Blue Economy push, focus on tuna, seaweed",
-   "link": "https://www.hindustantimes.com/india-news/island-fisheries-to-anchor-india-s-blue-economy-push-focus-on-tuna-seaweed-101794303919970.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:30:00+00:00"
-  },
-  {
-   "title": "Brent crude falls below $90 on Iran war de-escalation optimism",
-   "link": "https://www.moneycontrol.com/news/business/markets/brent-crude-falls-below-90-on-iran-war-de-escalation-optimism-14076241.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T10:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's decline to 14.9%.",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-falls-21-4-globally-but-rupee-depreciation-limits-india-s-decline-to-14-9-14076173.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Patna Municipal Corporation raises Rs 200 crore through Bihar's first municipal bond",
-   "link": "https://www.moneycontrol.com/city/patna-municipal-corporation-raises-rs-200-crore-through-bihar-s-first-municipal-bond-article-14076196.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-10T10:30:00+00:00"
   }
  ]
 }
