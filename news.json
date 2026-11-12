@@ -1,12 +1,162 @@
 {
- "updated": "2026-11-12T12:45:47.585454+00:00",
+ "updated": "2026-11-12T13:01:27.468203+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Aditya Birla Capital opens 100th gold loan branch, eyes 1,000 outlets",
+   "link": "https://www.business-standard.com/companies/news/aditya-birla-capital-opens-100th-gold-loan-branch-eyes-1-000-outlets-126111201136_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T13:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "P&G Hygiene Q2 net profit falls 6.7% to ₹196 cr, revenue dips 0.4%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/p-g-hygiene-q2-net-profit-falls-6-7-to-196-cr-revenue-dips-0-4-126111201184_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Retail inflation breaches RBI's 6% upper limit at 2-yr high of 6.09% in Oct",
+   "link": "https://www.business-standard.com/economy/news/retail-inflation-breaches-rbi-s-6-upper-limit-at-2-yr-high-of-6-09-in-oct-126111201211_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Inherited gold without bills? What Supreme Court order means in tax matters",
+   "link": "https://www.business-standard.com/finance/personal-finance/inherited-gold-without-bills-what-supreme-court-order-means-in-tax-matters-126111201013_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T13:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Airtel leads in FWA broadband experience, Jio in subscribers: Opensignal",
+   "link": "https://www.business-standard.com/technology/tech-news/airtel-leads-in-fwa-broadband-experience-jio-in-subscribers-opensignal-126111201083_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:00:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Banks raise deposit rates after RBI's Oct repo hike; lending rates inch up",
+   "link": "https://www.business-standard.com/industry/banking/banks-raise-deposit-rates-after-rbi-s-oct-repo-hike-lending-rates-inch-up-126111201311_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:00:00+00:00"
+  },
+  {
+   "title": "Hitachi Energy Q2 net profit rises 21% to ₹319 cr, revenue jumps 63.5%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/hitachi-energy-q2-net-profit-rises-21-to-319-cr-revenue-jumps-63-5-126111201283_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Inflation bites harder as food prices surge, more rate hikes loom",
+   "link": "https://www.businesstoday.in/latest/economy/story/inflation-bites-harder-as-food-prices-surge-more-rate-hikes-loom-567168-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T12:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Bajaj Finance shares close 3% higher amid Rs 11,700 crore QIP issue",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-close-3-higher-amid-rs-11700-crore-qip-issue-567158-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:45:00+00:00",
+   "companies": [
+    "Bajaj Finance"
+   ]
+  },
+  {
+   "title": "Retail inflation hits two year high of 6.09% in October, breaches RBI's 6% limit; December rate hike likely",
+   "link": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "PLI schemes set for tweaks as Centre looks to address uneven manufacturing gains, import dependence",
+   "link": "https://www.moneycontrol.com/news/business/economy/pli-schemes-set-for-tweaks-as-centre-looks-to-address-uneven-manufacturing-gains-import-dependence-14078402.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T12:30:00+00:00"
+  },
+  {
+   "title": "Inflation breaches RBI's 6% ceiling: Six states cross 7%, onion prices surge 116%",
+   "link": "https://www.moneycontrol.com/news/business/economy/inflation-breaches-rbi-s-6-ceiling-six-states-cross-7-onion-prices-surge-116-14078400.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Technical View: Further upward momentum possible for Nifty only above 25,500, say analysts",
+   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-further-upward-momentum-possible-for-nifty-only-above-25-500-say-analysts-14078375.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:30:00+00:00"
+  },
   {
    "title": "Auto stocks skid 1% on profit booking despite softer crude, firm markets",
    "link": "https://www.thehindu.com/business/auto-stocks-skid-1-on-profit-booking-despite-softer-crude-firm-markets/article71693492.ece",
@@ -3090,144 +3240,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Bond yields spike most since tariff meltdown on rate-hike bets",
-   "link": "https://www.thehindubusinessline.com/markets/bond-yields-spike-most-since-tariff-meltdown-on-rate-hike-bets/article71688251.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "Why bond yields are watched",
-    "short": "Bond yields",
-    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
-   }
-  },
-  {
-   "title": "Nvidia's H200 chips reached US-blacklisted Chinese university despite export curbs, records show",
-   "link": "https://www.moneycontrol.com/news/business/nvidia-s-h200-chips-reached-us-blacklisted-chinese-university-despite-export-curbs-records-show-14076908.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "India garment makers rethink reliance on US after tariff shock",
-   "link": "https://www.thehindubusinessline.com/economy/india-garment-makers-rethink-reliance-onusafter-tariff-shock/article71688272.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Kalyan Jewellers shares surges 12% to record high post Q2 results",
-   "link": "https://www.thehindubusinessline.com/markets/kalyan-jewellers-stock-rallies-over-12-to-fresh-high-after-q2-results/article71688293.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Massive fortunes of 7 founders underscore sheer scale of Anthropic's mega IPO",
-   "link": "https://www.moneycontrol.com/world/massive-fortunes-of-7-founders-underscore-sheer-scale-of-anthropic-s-mega-ipo-article-14076863.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",
-   "link": "https://www.business-standard.com/markets/news/at-new-highs-eternal-groww-adani-ports-ather-16-more-nse-500-stocks-126111100312_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "IndiGo extends Saudi flight suspension till Nov 30 amid Houthi attacks",
-   "link": "https://www.business-standard.com/india-news/indigo-extends-suspension-saudi-arabia-flights-security-concerns-126111100306_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:15:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "Anthropic bankers weigh raising IPO valuation to $1.5 trillion or more",
-   "link": "https://www.business-standard.com/world-news/anthropic-bankers-weigh-raising-ipo-valuation-to-1-5-trillion-or-more-126111100341_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:15:00+00:00"
-  },
-  {
-   "title": "Anthropic backers offer up to $500 million in IPO shares at a premium",
-   "link": "https://www.business-standard.com/world-news/anthropic-backers-offer-up-to-500-million-in-ipo-shares-at-a-premium-126111100105_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:15:00+00:00"
-  },
-  {
-   "title": "Indian garment makers rethink reliance on US after tariffs disrupt trade",
-   "link": "https://www.business-standard.com/industry/news/indian-garment-makers-rethink-reliance-on-us-after-tariffs-disrupt-trade-126111100074_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "FWA drives India's broadband growth, as Airtel leads on experience: Opensignal",
-   "link": "https://www.hindustantimes.com/business/fwa-drives-india-s-broadband-growth-as-airtel-leads-on-experience-opensignal-101794376533496.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:15:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction? Check key trading levels",
-   "link": "https://www.moneycontrol.com/news/business/markets/nifty-trades-above-25-350-is-benchmark-index-heading-towards-26-000-before-any-meaningful-correction-check-key-trading-levels-14076922.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:00:00+00:00"
-  },
-  {
-   "title": "FPIs invest Rs 7,759 crore in FAR G-Secs in November as rupee, bond rally revive demand",
-   "link": "https://www.moneycontrol.com/news/business/banks/fpis-invest-rs-7-759-crore-in-far-g-secs-in-november-as-rupee-bond-rally-revive-demand-14076891.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
