@@ -1,12 +1,49 @@
 {
- "updated": "2026-11-12T11:45:48.004504+00:00",
+ "updated": "2026-11-12T12:01:25.332298+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 57 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee snaps appreciation streak, falls below 94 as dollar strengthens",
+   "link": "https://www.moneycontrol.com/news/business/banks/rupee-snaps-appreciation-streak-falls-below-94-as-dollar-strengthens-14078366.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Retail inflation hits 6.09% in October, crosses RBI's upper tolerance limit",
+   "link": "https://www.livemint.com/economy/cpi-retail-inflation-october-india-rbi-target-food-price-inflation-11794467724485.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "BPCL's bid to counter Karnataka's E20 claims backfires as test images invite scrutiny; OMC deletes X post",
+   "link": "https://www.livemint.com/news/india/bpcls-bid-to-counter-karnataka-s-e20-claims-backfires-as-test-images-invite-scrutiny-omc-deletes-x-post-11794480836652.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T12:00:00+00:00",
+   "companies": [
+    "BPCL"
+   ]
+  },
   {
    "title": "Broader markets outperform: Mid, smallcaps gain for 4th straight day; PB Fintech, Paytm rally",
    "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-mid-smallcaps-gain-for-4th-straight-day-pb-fintech-paytm-rally-14078358.html",
@@ -3192,33 +3229,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "India's wealthy pivot to real estate as stock market returns cool off",
-   "link": "https://www.business-standard.com/economy/news/india-s-wealthy-pivot-to-real-estate-as-stock-market-returns-cool-off-126111100113_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:45:00+00:00"
-  },
-  {
-   "title": "High forward costs force importers to concentrate on dollar hedges",
-   "link": "https://www.moneycontrol.com/news/business/banks/high-forward-costs-force-importers-to-concentrate-on-dollar-hedges-14076886.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T05:45:00+00:00"
-  },
-  {
-   "title": "HDFC Bank hikes MCLR rates 15 bps across tenures: Check impact on your loan",
-   "link": "https://www.business-standard.com/finance/personal-finance/hdfc-bank-hikes-mclr-rates-15-bps-across-tenures-check-impact-on-your-loan-126111100302_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:45:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
   }
  ]
 }
