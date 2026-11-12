@@ -1,12 +1,81 @@
 {
- "updated": "2026-11-12T10:45:50.480532+00:00",
+ "updated": "2026-11-12T10:53:54.796769+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Major gold heist at Tanishq jewellery showroom in Madurai",
+   "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Retail inflation jumps to 6.09% in October",
+   "link": "https://www.moneycontrol.com/news/business/economy/retail-inflation-jumps-to-6-09-in-october-14078348.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Q2 results impact: Orient Green Power shares rise after rise in net profit",
+   "link": "https://www.moneycontrol.com/news/business/q2-results-impact-orient-green-power-shares-rise-after-rise-in-net-profit-14078300.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Nvidia controversy: Indian industry braces for tighter US export controls on AI chips",
+   "link": "https://www.moneycontrol.com/news/business/nvidia-controversy-indian-industry-braces-for-tighter-us-export-controls-on-ai-chips-14078337.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:00:00+00:00"
+  },
+  {
+   "title": "Adani Ports taps more global lenders for $2.9-billion Evos acquisition funding",
+   "link": "https://www.moneycontrol.com/news/business/adani-ports-taps-more-global-lenders-for-2-9-billion-evos-acquisition-funding-14078327.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Adani Group's ₹26,000 crore Evos deal: What the Dutch firm's acquisition means for its global ports business",
+   "link": "https://www.livemint.com/companies/news/adani-groups-rs-26-000-crore-evos-deal-what-the-dutch-firms-acquisition-means-for-its-global-ports-business-11794473176610.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "From anti-terror ops to law & order duties, SPOs take home paltry ₹6,000 to ₹18000 a month",
    "link": "https://www.hindustantimes.com/india-news/from-anti-terror-ops-to-law-and-order-duties-spos-take-home-paltry-6-000-to-18000-a-month-101794477088040.html",
@@ -3147,64 +3216,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "title": "India's 11% dollar-growth pitch could draw FPIs back, but tax U-turn risks spoiling the party, says Samir Arora",
-   "link": "https://www.moneycontrol.com/news/business/markets/india-s-11-dollar-growth-pitch-could-draw-fpis-back-but-tax-u-turn-risks-spoiling-the-party-says-samir-arora-14076517.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "title": "Trading Plan: Can Nifty 50 reclaim 25,200, Bank Nifty decisively surpass 60,000?",
-   "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-reclaim-25-200-bank-nifty-decisively-surpass-60-000-14076524.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T02:45:00+00:00"
-  },
-  {
-   "title": "India's efforts to clean its air need not slow its economic growth",
-   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T02:30:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Crude oil: A breather for India - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/opinion/crude-oil-a-breather-for-india/article71686936.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T02:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Iran's economic pain will intensify, says US Secretary of State Marco Rubio",
-   "link": "https://www.thehindubusinessline.com/news/world/irans-economic-pain-to-intensify-in-coming-months-says-marco-rubio/article71687530.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T02:00:00+00:00"
-  },
-  {
-   "title": "India's defence export boom must close its quality gap",
-   "link": "https://www.hindustantimes.com/opinion/indias-defence-export-boom-must-close-its-quality-gap-101794338987657.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T01:30:00+00:00"
   }
  ]
 }
