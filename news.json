@@ -1,12 +1,75 @@
 {
- "updated": "2026-11-12T11:31:07.041845+00:00",
+ "updated": "2026-11-12T11:45:48.004504+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 55 new items (12 files read)"
+  "gdelt": "ok, 57 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Broader markets outperform: Mid, smallcaps gain for 4th straight day; PB Fintech, Paytm rally",
+   "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-mid-smallcaps-gain-for-4th-straight-day-pb-fintech-paytm-rally-14078358.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:45:00+00:00"
+  },
+  {
+   "title": "India's retail inflation rises to 6.09% in October, breaches RBI limit",
+   "link": "https://www.thehindubusinessline.com/economy/indias-retail-inflation-rises-to-609-in-october-breaches-rbis-upper-tolerance-limit/article71693402.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Venezuela tells COP31 it has sovereign right to pump more oil",
+   "link": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:45:00+00:00"
+  },
+  {
+   "title": "Q2 results impact: Orient Green Power shares gain after rise in net profit",
+   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-orient-green-power-shares-rise-after-rise-in-net-profit-14078300.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Two oil supertankers explode in Strait of Hormuz; Tehran warns of fierce military response",
+   "link": "https://www.moneycontrol.com/world/two-oil-supertankers-explode-in-strait-of-hormuz-tehran-warns-of-fierce-military-response-article-14078354.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T11:45:00+00:00"
+  },
+  {
+   "title": "Aditya Birla Capital opens 100th Gold Loan branch, enters Mumbai market",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/aditya-birla-capital-opens-100th-gold-loan-branch-enters-mumbai-market/article71693180.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T11:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "US mid-term results unlikely to speed up India trade deal as tariff uncertainties persist",
    "link": "https://www.thehindubusinessline.com/economy/us-mid-term-results-unlikely-to-speed-up-india-trade-deal-as-tariff-uncertainties-persist/article71692377.ece",
@@ -3156,74 +3219,6 @@
    "companies": [
     "HDFC Bank"
    ]
-  },
-  {
-   "title": "Kalyan Jewellers surges 10%, hits 52-week high post Q2 results",
-   "link": "https://www.business-standard.com/markets/news/kalyan-jewellers-surges-10-hits-52-week-high-post-q2-results-126111100244_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T05:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Rupee rises 7 paise to 93.70 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/rupee-rises-7-paise-to-9370-against-us-dollar-in-early-trade/article71688350.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "FPIs pump ₹56,771 cr into equities in 8 days; biggest inflow since Dec 2020",
-   "link": "https://www.business-standard.com/markets/news/fpis-pump-56-771-cr-into-equities-in-8-days-biggest-inflow-since-dec-2020-126111100201_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:30:00+00:00"
-  },
-  {
-   "title": "IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude slump",
-   "link": "https://www.moneycontrol.com/news/business/markets/indigo-jumps-nearly-5-asian-paints-gains-2-as-aviation-tyre-oil-marketing-stocks-rally-amid-crude-slump-14076858.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Oil prices rebound after brief dip below $90 as US-Iran war uncertainty, Hormuz attacks continue; Brent over $92, WTI near $87",
-   "link": "https://www.moneycontrol.com/news/business/markets/oil-prices-rebound-after-brief-dip-below-90-as-us-iran-war-uncertainty-hormuz-attacks-continue-brent-over-92-wti-near-87-14076819.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T05:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "November rally lifts Nifty from year-to-date laggard to global outperformer",
-   "link": "https://www.moneycontrol.com/news/business/november-rally-lifts-nifty-from-year-to-date-laggard-to-global-outperformer-14076719.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T05:15:00+00:00"
   }
  ]
 }
