@@ -1,12 +1,44 @@
 {
- "updated": "2026-11-12T13:01:27.468203+00:00",
+ "updated": "2026-11-12T13:15:52.411652+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 52 new items (12 files read)"
+  "gdelt": "ok, 49 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+   "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:15:00+00:00"
+  },
+  {
+   "title": "Fairfax COO says IDBI has potential to be finest universal Indian bank with global reach",
+   "link": "https://www.moneycontrol.com/news/business/banks/fairfax-coo-says-idbi-has-potential-to-be-finest-universal-indian-bank-with-global-reach-14078423.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T13:15:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "Trump threatens to double tariffs on Mexico over migrant caravans after Republican midterm losses",
+   "link": "https://www.moneycontrol.com/world/trump-threatens-to-double-tariffs-on-mexico-over-migrant-caravans-after-republican-midterm-losses-article-14078430.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T13:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "Aditya Birla Capital opens 100th gold loan branch, eyes 1,000 outlets",
    "link": "https://www.business-standard.com/companies/news/aditya-birla-capital-opens-100th-gold-loan-branch-eyes-1-000-outlets-126111201136_1.html",
@@ -3206,40 +3238,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Stock market: Promoter holdings hit 3 year high; is it a sign of market bottom?",
-   "link": "https://www.businesstoday.in/markets/stocks/story/stock-market-promoter-holdings-hit-3-year-high-is-it-a-sign-of-market-bottom-566759-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00"
-  },
-  {
-   "title": "Markets surge after Diwali; Nifty crosses 25,350 as FII inflows hit ₹53,170 crore this month",
-   "link": "https://www.thehindubusinessline.com/markets/markets-surge-after-diwali-nifty-crosses-25350-as-fii-inflows-hit-53170-crore-this-month/article71688274.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "JSW Dulux navigates volatile crude oil, cost pressures to drive volume growth",
-   "link": "https://www.thehindubusinessline.com/companies/jsw-dulux-navigates-volatile-crude-oil-cost-pressures-to-drive-volume-growth/article71688352.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T06:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
