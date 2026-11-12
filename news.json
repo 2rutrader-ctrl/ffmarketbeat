@@ -1,12 +1,73 @@
 {
- "updated": "2026-11-12T10:01:29.884236+00:00",
+ "updated": "2026-11-12T10:15:47.592625+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 44 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Why Anthropic need not fret if its IPO value is closer to $1 trillion than $2 trillion",
+   "link": "https://www.livemint.com/opinion/online-views/why-anthropic-need-not-fret-if-its-ipo-value-is-closer-to-1-trillion-than-2-trillion-11794384256914.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-12T10:15:00+00:00"
+  },
+  {
+   "title": "India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",
+   "link": "https://www.livemint.com/market/ipo/indias-next-billion-dollar-ipo-coal-india-subsidiary-mahanadi-coalfields-in-line-after-jio-nse-key-things-to-know-11794470804131.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:15:00+00:00",
+   "companies": [
+    "Coal India"
+   ]
+  },
+  {
+   "title": "Penny stock under ₹10: Orient Green Power shares rise 4.50% after Q2 Results 2026 | Do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-orient-green-power-shares-rise-4-50-after-q2-results-2026-do-you-own-11794466650034.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "What's gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
+   "link": "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Tata Power: Q2 renewable gains partly offset by weak solar EPC",
+   "link": "https://www.livemint.com/market/mark-to-market/tata-power-q2-results-renewable-energy-solar-epc-growth-risks-11794468841184.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:15:00+00:00"
+  },
+  {
+   "title": "Bihar first municipal bond available on NSE online: Now you can invest in Patna Municipal Corporation bonds — here's how",
+   "link": "https://www.livemint.com/money/personal-finance/bihar-first-municipal-bond-available-on-nse-online-now-you-can-invest-in-patna-municipal-corporation-bonds-heres-how-11794470352557.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T10:15:00+00:00"
+  },
   {
    "title": "Started with Rs 200, built Rs 20-crore business: How two childhood friends built a cold-pressed oil brand",
    "link": "https://www.moneycontrol.com/news/business/markets/started-with-rs-200-built-rs-20-crore-hayyan-farms-business-how-two-childhood-friends-from-tamil-nadu-built-a-cold-pressed-oil-brand-gokul-kannan-and-vivek-kumar-story-14078269.html",
@@ -3149,57 +3210,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Gulf carriers take on Adani over Mumbai capacity cut, warn of Hajj disruption",
-   "link": "https://www.livemint.com/news/gulf-carriers-take-on-adani-over-mumbai-capacity-cut-warn-of-hajj-disruption-11794321898110.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T01:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Bihar CM suspends 15 officers for negligence of duty",
-   "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-suspends-15-officers-for-negligence-of-duty/article71686309.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T00:30:00+00:00"
-  },
-  {
-   "title": "Nvidia-backed Nscale considers delaying $35 billion IPO: Report",
-   "link": "https://www.hindustantimes.com/business/nvidiabacked-nscale-considers-delaying-35-billion-ipo-report-101794344144519.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T23:15:00+00:00"
-  },
-  {
-   "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
-   "link": "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T22:30:00+00:00"
-  },
-  {
-   "title": "Fed's Bowman Warns of Stock Correction If AI Bets Don't Pan Out",
-   "link": "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T22:30:00+00:00"
-  },
-  {
-   "title": "US Household Delinquencies Rise Slightly, NY Fed Report Shows",
-   "link": "https://www.livemint.com/news/us-news/us-household-delinquencies-rise-slightly-ny-fed-report-shows-11794340179924.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-10T22:30:00+00:00"
   }
  ]
 }
