@@ -1,12 +1,42 @@
 {
- "updated": "2026-11-12T19:01:24.231533+00:00",
+ "updated": "2026-11-12T19:15:54.158212+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 10 new items (12 files read)"
+  "gdelt": "ok, 13 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Reliance, Waaree among 22 shortlisted for battery storage tender",
+   "link": "https://www.livemint.com/news/india/reliance-waaree-among-22-shortlisted-for-battery-storage-tender-pli-scheme-cell-making-incentives-technology-11794499983710.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T19:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "The Sunil Mittal interview: Airtel debt-free by 2029. Buybacks next?",
+   "link": "https://www.livemint.com/companies/people/the-sunil-mittal-interview-airtel-debt-free-by-2029-buybacks-next-11794474276268.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T19:15:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "How India's lithium-ion battery black mass export ban aims to reduce dependence on China for critical minerals",
+   "link": "https://www.livemint.com/industry/how-india-s-lithium-ion-battery-black-mass-export-ban-aims-to-reduce-dependence-on-china-for-critical-minerals-11794503013290.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-12T19:15:00+00:00"
+  },
   {
    "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster, report says",
    "link": "https://www.hindustantimes.com/world-news/us-news/us-returns-over-12-billion-in-oil-proceeds-to-venezuela-since-maduro-s-ouster-report-says-101794508812644.html",
@@ -3268,49 +3298,6 @@
     "topic": "How trade duties work through markets",
     "short": "Trade duties",
     "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "India's GDP growth to beat RBI forecast? SBI sees 7.8% expansion in Q2; Moody's raises FY27 outlook",
-   "link": "https://www.businesstoday.in/latest/economy/story/indias-gdp-growth-to-beat-rbi-forecast-sbi-sees-7-8-expansion-in-q2-moodys-raises-fy27-outlook-566844-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Hindalco trades near ₹958 as analysts back stock post Q2 beat",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hindalco-trades-near-958-as-analysts-back-stock-post-q2-beat/article71688722.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "Hindalco"
-   ]
-  },
-  {
-   "title": "Britannia shares climb 1.6% mid-session as Q2 results digest",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/britannia-shares-climb-16-mid-session-as-q2-results-digest/article71688781.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "Britannia"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
