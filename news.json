@@ -1,12 +1,129 @@
 {
- "updated": "2026-11-13T16:15:58.826598+00:00",
+ "updated": "2026-11-13T16:31:14.059355+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 28 new items (12 files read)"
+  "gdelt": "ok, 43 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Reliance Industries shares rebound 15% in November, add ₹2.38 lakh crore in market value; what's changed?",
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:15:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "JLR cuts margin, revenue guidance as restructuring weighs on Tata Motors",
+   "link": "https://www.livemint.com/companies/company-results/jlr-cuts-margin-revenue-guidance-as-restructuring-weighs-on-tata-motors-11794576780763.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:15:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "Trade deficit hits one-year high in October despite record exports",
+   "link": "https://www.livemint.com/news/trade-deficit-hits-one-year-high-in-october-despite-record-exports-11794578747412.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T16:15:00+00:00"
+  },
+  {
+   "title": "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
+   "link": "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:15:00+00:00",
+   "companies": [
+    "HAL"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Tanishq showroom heist in Madurai: How masked burglars stole gold, diamond jewellery worth crores",
+   "link": "https://www.livemint.com/news/india/tanishq-showroom-heist-in-madurai-how-masked-burglars-stole-gold-diamond-jewellery-worth-crores-11794577220274.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T16:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "M.P. man dies after crude bomb disguised as rasgulla explodes in his mouth",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-man-dies-after-crude-bomb-disguised-as-rasgulla-explodes-in-his-mouth/article71697996.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T16:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "G-Sec yields harden as Oct inflation breaches 6% mark, US yields rise",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/g-sec-yields-harden-as-oct-inflation-breaches-6-mark-us-yields-rise/article71698427.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T15:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "India's tea exports fall 8.9% in H1 FY27 as West Asia crisis disrupts shipments",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-tea-exports-fall-89-in-h1-fy27-as-west-asia-crisis-disrupts-shipments/article71697890.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:45:00+00:00"
+  },
+  {
+   "title": "Maruti Suzuki widens UV lead over Mahindra as three-way SUV and EV battle intensifies",
+   "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-widens-uv-lead-over-mahindra-as-three-way-suv-and-ev-battle-intensifies/article71698111.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:45:00+00:00",
+   "companies": [
+    "Maruti Suzuki"
+   ]
+  },
+  {
+   "title": "TVS Supply Chain Solutions more than doubles consolidated Q2 net profit to ₹36.5 crore",
+   "link": "https://www.thehindubusinessline.com/companies/tvs-supply-chain-solutions-more-than-doubles-consolidated-q2-net-profit-to-365-crore/article71698644.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "US wholesale inflation hits highest annual rate since 2022, PPI rises 6.5%",
    "link": "https://www.business-standard.com/world-news/us-wholesale-inflation-hits-highest-annual-rate-since-2022-ppi-rises-6-5-126111301591_1.html",
@@ -3209,111 +3326,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-12T11:30:00+00:00"
-  },
-  {
-   "title": "RBI weighs banning private equity firms from controlling multiple non-bank lenders",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-weighs-banning-private-equity-firms-from-controlling-multiple-non-bank-lenders/article71692907.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00"
-  },
-  {
-   "title": "India overtakes Taiwan to regain fifth-largest stock market position globally",
-   "link": "https://www.thehindubusinessline.com/markets/india-overtakes-taiwan-to-become-worlds-fifth-largest-stock-market-after-640-billion-rebound/article71692889.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00"
-  },
-  {
-   "title": "Retail inflation at 6.09% in October, breaches RBI's upper band after 2 yrs",
-   "link": "https://www.business-standard.com/economy/news/retail-inflation-at-6-09-in-october-breaches-rbi-s-upper-band-after-2-yrs-126111201088_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "India Inc's ECB fundraising doubles to $37.45 billion in H1FY27",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/indias-ecb-fundraising-more-than-doubles-to-3745-billion-in-h1fy27-as-psus-step-up-borrowing/article71693273.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "Why the ECB matters beyond Europe",
-    "short": "ECB",
-    "text": "Decisions by the ECB can influence the euro, global bond yields and overall risk sentiment, which is one channel through which they reach other markets."
-   }
-  },
-  {
-   "title": "India's Russian fossil fuel imports hit record €6.4 billion in October",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/indias-russian-fossil-fuel-imports-hit-record-64-billion-in-october-crude-oil-accounts-for-91/article71692997.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00"
-  },
-  {
-   "title": "Rupee falls 33 paise to close at 94.04 against US dollar - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693317.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Cosmo First eyes all-time high US exports from film business this fiscal on lower tariffs",
-   "link": "https://www.thehindubusinessline.com/companies/cosmo-first-eyes-all-time-high-us-exports-from-film-business-this-fiscal-on-lower-tariffs/article71693324.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "RBI issues new domestic money transfer rules: Check cash transfer limits, charges and key changes",
-   "link": "https://www.businesstoday.in/personal-finance/story/rbi-issues-new-domestic-money-transfer-rules-check-cash-transfer-limits-charges-and-key-changes-567071-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:15:00+00:00"
-  },
-  {
-   "title": "Gold falls below $4,000, silver slips too: What's weighing on precious metal prices?",
-   "link": "https://www.businesstoday.in/markets/stocks/story/gold-falls-below-4000-silver-slips-too-whats-weighing-on-precious-metal-prices-567127-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Will foreign inflows to Indian stock market sustain in coming months? What BofA says",
-   "link": "https://www.businesstoday.in/markets/stocks/story/will-foreign-inflows-to-indian-stock-market-sustain-in-coming-months-what-bofa-says-567055-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:15:00+00:00"
   }
  ]
 }
