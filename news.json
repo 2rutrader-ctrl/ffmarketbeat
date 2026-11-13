@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-13T20:31:05.803782+00:00",
+ "updated": "2026-11-13T20:45:49.120278+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 20 new items (12 files read)"
+  "gdelt": "ok, 14 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "87.7% of F&O traders lost money in FY26 despite SEBI curbs: Why retail investors keep losing",
+   "link": "https://www.businesstoday.in/personal-finance/story/87-7-of-fo-traders-lost-money-in-fy26-despite-sebi-curbs-why-retail-investors-keep-losing-567419-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T20:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Brace for impact: On rising inflation and external factors",
    "link": "https://www.thehindu.com/opinion/editorial/brace-for-impact-on-rising-inflation-and-external-factors/article71699385.ece",
@@ -3290,19 +3303,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Crude oil tanker carrying 19 Indian seafarers hit off UAE coast, all crew evacuated",
-   "link": "https://www.hindustantimes.com/india-news/crude-oil-tanker-carrying-19-indian-seafarers-hit-off-uae-coast-all-crew-evacuated-101794488072077.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
