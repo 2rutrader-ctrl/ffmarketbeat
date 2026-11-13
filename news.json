@@ -1,12 +1,65 @@
 {
- "updated": "2026-11-13T15:15:53.376248+00:00",
+ "updated": "2026-11-13T15:31:14.796692+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US wholesale inflation hits highest annual rate since 2022, PPI rises 6.5%",
+   "link": "https://www.business-standard.com/world-news/us-wholesale-inflation-hits-highest-annual-rate-since-2022-ppi-rises-6-5-126111301591_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T15:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Paytm wallet likely to see revival following RBI's in-principle nod",
+   "link": "https://www.business-standard.com/companies/news/paytm-wallet-likely-to-see-revival-following-rbi-s-in-principle-nod-126111301606_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:30:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "CII Summit in Vizag: States must drive MSME supply chains, academia to fuel India's space economy, says Lokesh",
+   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/states-must-drive-msme-supply-chains-academia-to-fuel-indias-space-economy-says-lokesh/article71697887.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:30:00+00:00"
+  },
+  {
+   "title": "India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data",
+   "link": "https://www.business-standard.com/finance/news/india-s-forex-reserves-rise-by-2-49-billion-to-719-55-billion-rbi-data-126111301246_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Eicher Motors posts 15% rise in Q2 profit as Royal Enfield sales hit record",
+   "link": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-posts-15-rise-in-q2-profit-as-royal-enfield-sales-hit-record-126111301605_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T15:30:00+00:00"
+  },
   {
    "title": "Motorcycle-borne men snatch 1 kg gold from jewellery shop owner in Thiruvananthapuram",
    "link": "https://www.hindustantimes.com/india-news/motorcycleborne-men-snatch-1-kg-gold-from-jewellery-shop-owner-in-thiruvananthapuram-101794580730056.html",
@@ -3261,64 +3314,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T11:15:00+00:00"
-  },
-  {
-   "title": "Major gold heist at Tanishq jewellery showroom in Madurai",
-   "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Retail inflation jumps to 6.09% in October",
-   "link": "https://www.moneycontrol.com/news/business/economy/retail-inflation-jumps-to-6-09-in-october-14078348.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Q2 results impact: Orient Green Power shares rise after rise in net profit",
-   "link": "https://www.moneycontrol.com/news/business/q2-results-impact-orient-green-power-shares-rise-after-rise-in-net-profit-14078300.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Nvidia controversy: Indian industry braces for tighter US export controls on AI chips",
-   "link": "https://www.moneycontrol.com/news/business/nvidia-controversy-indian-industry-braces-for-tighter-us-export-controls-on-ai-chips-14078337.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:00:00+00:00"
-  },
-  {
-   "title": "Adani Ports taps more global lenders for $2.9-billion Evos acquisition funding",
-   "link": "https://www.moneycontrol.com/news/business/adani-ports-taps-more-global-lenders-for-2-9-billion-evos-acquisition-funding-14078327.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
