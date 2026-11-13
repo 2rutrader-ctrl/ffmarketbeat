@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-12T23:45:47.430111+00:00",
+ "updated": "2026-11-13T00:01:22.846566+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 1 new items (12 files read)"
+  "gdelt": "ok, 3 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Anthropic's IPO Is About Six Times Oversubscribed",
+   "link": "https://www.livemint.com/market/anthropics-ipo-is-about-six-times-oversubscribed-11794519373423.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T00:00:00+00:00"
+  },
   {
    "title": "Supreme Court on 500g gold rule: Why married women may still need to explain the source of jewellery",
    "link": "https://www.businesstoday.in/personal-finance/story/supreme-court-on-500g-gold-rule-why-married-women-may-still-need-to-explain-the-source-of-jewellery-567132-2026-11-13",
@@ -3300,14 +3308,6 @@
    "source": "The Hindu BusinessLine (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
-   "published": "2026-11-11T09:45:00+00:00"
-  },
-  {
-   "title": "Madras HC issues on plea challenging Cult.fit's ownership of CULT trademark ahead of IPO",
-   "link": "https://www.thehindubusinessline.com/companies/madras-hc-issues-notice-on-plea-challenging-cultfits-ownership-of-cult-trademark-ahead-of-ipo/article71688642.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
    "published": "2026-11-11T09:45:00+00:00"
   }
  ]
