@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-13T14:15:57.961763+00:00",
+ "updated": "2026-11-13T14:31:05.738845+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 44 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "LCA deliveries, order book to drive gains for Hindustan Aeronautics",
+   "link": "https://www.business-standard.com/markets/news/lca-deliveries-order-book-to-drive-gains-for-hindustan-aeronautics-126111301345_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "title": "ABB India Q3CY26 results: Net profit rises 11% to ₹440 cr, revenue up 19.4%",
+   "link": "https://www.business-standard.com/companies/quarterly-results/abb-india-q3cy26-results-net-profit-rises-11-to-440-cr-revenue-up-19-4-126111301458_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Experts place emphasis on 'resilient blue economy'",
+   "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/experts-place-emphasis-on-resilient-blue-economy/article71697883.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "title": "Bank credit growth tops 19% for fourth straight month-end: RBI data",
+   "link": "https://www.business-standard.com/industry/banking/bank-credit-growth-tops-19-for-fourth-straight-month-end-rbi-data-126111301558_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "title": "Marquee issuers raise nearly ₹10,000 crore despite rising bond yields",
+   "link": "https://www.business-standard.com/finance/news/marquee-issuers-raise-nearly-10-000-crore-despite-rising-bond-yields-126111301451_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00",
+   "thought": {
+    "topic": "Why bond yields are watched",
+    "short": "Bond yields",
+    "text": "Bond yields are the return on government bonds. Rising yields can raise borrowing costs and make equities look relatively less attractive, which is why the link is followed closely around the world."
+   }
+  },
+  {
+   "title": "Rising soda ash imports threaten India's clean energy manufacturing: Report",
+   "link": "https://www.business-standard.com/industry/news/rising-soda-ash-imports-threaten-india-s-clean-energy-manufacturing-report-126111301542_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "title": "Weather stress hits Chittoor vegetable belt, lowering quality and yield",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/weather-stress-hits-chittoor-vegetable-belt-lowering-quality-and-yield/article71697840.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T14:30:00+00:00"
+  },
+  {
+   "title": "Vodafone Idea in advanced talks with PSU banks for funding, says CEO",
+   "link": "https://www.business-standard.com/companies/news/vodafone-idea-in-advanced-talks-with-psu-banks-for-funding-says-ceo-126111301521_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:30:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
   {
    "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
    "link": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
@@ -3226,102 +3303,6 @@
    "companies": [
     "Paytm"
    ]
-  },
-  {
-   "title": "Budget 2027: Govt may peg FY28 nominal GDP growth at 10.5-11%",
-   "link": "https://www.moneycontrol.com/news/business/budget-2027-govt-may-peg-fy28-nominal-gdp-growth-at-10-5-11-14078260.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T10:00:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Tata Power's next big bet: Batteries, solar manufacturing and a 10 GW Odisha plant",
-   "link": "https://www.businesstoday.in/latest/corporate/story/tata-powers-next-big-bet-batteries-solar-manufacturing-and-a-10-gw-odisha-plant-567066-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:45:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "HAL Q2 earnings: Net profit rises to Rs 1,839 crore, revenue up 15%",
-   "link": "https://www.businesstoday.in/markets/stocks/story/hal-q2-earnings-net-profit-rises-to-rs-1839-crore-revenue-up-15-567041-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:45:00+00:00",
-   "companies": [
-    "HAL"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Six researchers win Infosys Science Foundation prizes for 2026",
-   "link": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:45:00+00:00",
-   "companies": [
-    "Infosys"
-   ]
-  },
-  {
-   "title": "IPO disclosures shows Coca-Cola has significant veto powers over partner Jubilant",
-   "link": "https://www.moneycontrol.com/news/business/ipo/ipo-disclosures-shows-coca-cola-has-significant-veto-powers-over-partner-jubilant-14078150.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T09:30:00+00:00"
-  },
-  {
-   "title": "Tata Motors Com Standalone September 2026 Net Sales at Rs 23,930.00 crore, up 41.93% Y-o-Y- Moneycontrol.com",
-   "link": "https://www.moneycontrol.com/news/business/earnings/tata-motors-com-standalone-september-2026-net-sales-at-rs-23930-00-crore-up-41-93-y-o-y-14078204.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:30:00+00:00",
-   "companies": [
-    "Tata Motors"
-   ]
-  },
-  {
-   "title": "India's Gulf oil imports surpass Russia for first time since Iran war",
-   "link": "https://www.business-standard.com/economy/news/india-s-gulf-oil-imports-surpass-russia-for-first-time-since-iran-war-126111200597_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:30:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "Chennai Petro, ONGC, Oil India fall up to 3% amid declining crude oil prices",
-   "link": "https://www.moneycontrol.com/news/business/markets/chennai-petro-ongc-oil-india-fall-up-to-3-amid-declining-crude-oil-prices-14078124.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
