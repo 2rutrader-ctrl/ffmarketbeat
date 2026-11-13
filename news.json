@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:01:17.416622+00:00",
+ "updated": "2026-11-13T04:15:50.144708+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,14 @@
   "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "South Korea says Google has removed Korean coordinates from maps under export permit",
+   "link": "https://www.thehindu.com/sci-tech/technology/south-korea-says-google-has-removed-korean-coordinates-from-maps-under-export-permit/article71696479.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:15:00+00:00"
+  },
   {
    "title": "White House weighs Lutnick's ouster amid Nvidia chip export concerns",
    "link": "https://www.business-standard.com/world-news/white-house-weighs-lutnick-s-ouster-amid-nvidia-chip-export-concerns-126111300101_1.html",
@@ -3296,17 +3304,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "TVS Motor expands global portfolio with Callisto 110 launch in Istanbul",
-   "link": "https://www.businesstoday.in/markets/stocks/story/tvs-motor-expands-global-portfolio-with-callisto-110-launch-in-istanbul-566885-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:15:00+00:00",
-   "companies": [
-    "TVS Motor"
-   ]
   }
  ]
 }
