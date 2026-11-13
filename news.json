@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-13T07:01:20.911102+00:00",
+ "updated": "2026-11-13T07:09:34.055669+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 46 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Alkem shares fall 3% after Q2 results; MOFSL retains Neutral rating",
+   "link": "https://www.business-standard.com/markets/news/alkem-shares-fall-3-after-q2-results-mofsl-retains-neutral-rating-126111300548_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T07:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Mumbai's property registrations rises 0.4% during the 10-day Diwali 2026 period, while stamp duty revenue jumps 13% to ₹384 crore",
+   "link": "https://www.hindustantimes.com/real-estate/real-estate-guide/mumbais-property-registrations-rises-0-4-during-the-10-day-diwali-2026-period-while-stamp-duty-revenue-jumps-13-to-384-crore-101794550979256.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:15:00+00:00"
+  },
+  {
+   "title": "RBI consolidates money transfer rules: Check cash limits and KYC norms",
+   "link": "https://www.business-standard.com/finance/personal-finance/rbi-consolidates-money-transfer-rules-check-cash-limits-and-kyc-norms-126111300610_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:15:00+00:00"
+  },
+  {
+   "title": "Adani Energy acquires smart metering player IntelliSmart for ₹3,050 crore",
+   "link": "https://www.business-standard.com/companies/people/adani-energy-acquires-smart-metering-player-intellismart-for-3-050-crore-126111300562_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "'India's exports to cross $1 trillion this year': Piyush Goyal on road ahead for FTAs",
    "link": "https://www.businesstoday.in/latest/economy/story/indias-exports-to-cross-1-trillion-this-year-piyush-goyal-on-road-ahead-for-ftas-567273-2026-11-13",
@@ -3257,44 +3297,6 @@
    "companies": [
     "Tata Power"
    ]
-  },
-  {
-   "title": "Noida Metro Aqua Line Extension: L&T secures order from NMRC to build 15.1-km elevated viaduct – Inside the contract",
-   "link": "https://www.livemint.com/companies/news/noida-metro-aqua-line-extension-l-t-secures-order-from-nmrc-to-build-15-1-km-elevated-viaduct-inside-the-contract-11794405082608.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:30:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "'Polluters must pay': UN chief urges govt to tax oil giants' profits to fund climate action",
-   "link": "https://www.hindustantimes.com/world-news/un-chief-antonio-guterres-urges-govt-to-tax-oil-giants-profits-to-fund-climate-action-polluters-must-pay-101794411414327.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T16:30:00+00:00"
-  },
-  {
-   "title": "Tata Power says Singapore shares pledged with banks, safe from immediate seizure",
-   "link": "https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "CII underlines role of airports for Tamil Nadu to achieve $1.5 trillion economy goal",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/cii-underlines-role-of-airports-for-tamil-nadu-to-achieve-15-trillion-economy-goal/article71690439.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T16:30:00+00:00"
   }
  ]
 }
