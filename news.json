@@ -1,12 +1,36 @@
 {
- "updated": "2026-11-13T11:15:51.985012+00:00",
+ "updated": "2026-11-13T11:31:07.904499+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 58 new items (12 files read)"
+  "gdelt": "ok, 56 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Motors PV posts Rs 5,531-crore net loss in Q2 as JLR restructuring costs bite",
+   "link": "https://www.moneycontrol.com/news/business/earnings/tata-motors-pv-posts-rs-5-531-crore-net-loss-in-q2-14079699.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "Digital inflation surges as mobile phones, laptops turn costlier; price pressures spread across consumption basket",
+   "link": "https://www.moneycontrol.com/news/business/economy/digital-inflation-surges-as-mobile-phones-laptops-turn-costlier-price-pressures-spread-across-consumption-basket-14079705.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T11:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Crystal Crop Protection IPO GMP at 17% ahead of issue opening on November 18; check issue size, price band and key details here",
    "link": "https://www.moneycontrol.com/news/business/ipo/crystal-crop-protection-ipo-gmp-at-17-ahead-of-issue-opening-on-november-18-check-issue-size-price-band-and-key-details-here-14079687.html",
@@ -3262,27 +3286,6 @@
   {
    "title": "Tata Motors CV share price gains 4%, up for 4th straight day; here's why",
    "link": "https://www.business-standard.com/markets/news/tata-motors-cv-share-price-gains-4-up-for-4th-straight-day-here-s-why-126111200273_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00"
-  },
-  {
-   "title": "Gold, silver fall as expectations of December rate hike strengthen",
-   "link": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-expectations-of-december-rate-hike-strengthen-126111200351_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T06:30:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Tata Power shares gain 2% after Q2 profit rises 33%; analysts upbeat",
-   "link": "https://www.business-standard.com/markets/news/tata-power-shares-gain-2-after-q2-profit-rises-33-analysts-upbeat-126111200194_1.html",
    "source": "Business Standard (headline via GDELT)",
    "source_key": "gdelt",
    "category": "India",
