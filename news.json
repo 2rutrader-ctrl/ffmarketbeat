@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-13T05:45:48.288566+00:00",
+ "updated": "2026-11-13T06:01:15.033340+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 19 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "GST policy shift - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/opinion/gst-policy-shift/article71694691.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:00:00+00:00",
+   "thought": {
+    "topic": "Why government spending and tax policy matter",
+    "short": "Fiscal policy",
+    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
+   }
+  },
+  {
+   "title": "BSE widens WTI crude oil options strike range, cuts transaction charges",
+   "link": "https://www.thehindubusinessline.com/markets/bse-widens-wti-crude-oil-options-strike-range-cuts-transaction-charges/article71696576.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Anthropic IPO: If you get shares, how will your investment be taxed in India and US? Check TCS, capital gains tax rules",
+   "link": "https://www.livemint.com/money/personal-finance/anthropic-ipo-if-you-get-shares-how-will-your-investment-be-taxed-in-india-and-us-check-tcs-capital-gains-tax-rules-11794539662542.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:00:00+00:00"
+  },
+  {
+   "title": "Crystal Crop Protection to raise up to ₹456 cr via IPO; issue opens on Nov 18",
+   "link": "https://www.thehindubusinessline.com/markets/crystal-crop-protection-to-raise-up-to-456-cr-via-ipo-issue-opens-on-nov-18/article71696593.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:00:00+00:00"
+  },
+  {
+   "title": "Rupee rises 7 paise to 94.05 against US dollar during early trade",
+   "link": "https://www.business-standard.com/finance/news/rupee-rises-7-paise-to-94-05-against-us-dollar-during-early-trade-126111300423_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Jindal Power taps Axis Bank, ICICI Bank and Exim Bank for $470 million Botswana loan",
    "link": "https://www.moneycontrol.com/news/business/jindal-power-taps-axis-bank-icici-bank-and-exim-bank-for-470-million-botswana-loan-14079092.html",
@@ -3233,62 +3288,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T15:15:00+00:00"
-  },
-  {
-   "title": "Tata Power says it has a 'good case' in Kleros dispute, sees no immediate balance sheet impact",
-   "link": "https://www.thehindubusinessline.com/companies/tata-power-says-it-has-a-good-case-in-kleros-dispute-sees-no-immediate-balance-sheet-impact/article71690054.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T14:45:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "SEBI updates KYC and FATCA-CRS reporting requirements for intermediaries",
-   "link": "https://www.thehindubusinessline.com/markets/sebi-directs-market-intermediaries-to-update-kyc-and-tax-reporting-systems-under-new-rules/article71689709.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T14:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Tata Power appoints Sanjay Banga as CEO & MD-designate; approves ₹11,871-cr pumped storage project",
-   "link": "https://www.thehindubusinessline.com/companies/tata-power-appoints-sanjay-banga-as-ceo-md-designate-approves-11871-cr-pumped-storage-project/article71690242.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T14:45:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "Former bank appraiser held for stealing gold ornaments worth ₹1.80 crore; 1.198 kg recovered",
-   "link": "https://www.thehindu.com/news/national/karnataka/former-bank-appraiser-held-for-stealing-gold-ornaments-worth-180-crore-1198-kg-recovered/article71688909.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T14:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "AEMA seeks govt to remove 8.25% duty on aluminium imports",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/aema-seeks-govt-to-remove-825-duty-on-aluminium-imports/article71689365.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T14:15:00+00:00"
   }
  ]
 }
