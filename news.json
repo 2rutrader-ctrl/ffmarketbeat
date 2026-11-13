@@ -1,12 +1,98 @@
 {
- "updated": "2026-11-13T11:45:48.318290+00:00",
+ "updated": "2026-11-13T12:01:24.982624+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 52 new items (12 files read)"
+  "gdelt": "ok, 53 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Microsoft services down: Air India reroutes emails, IndiGo and Akasa warn passengers of support delays",
+   "link": "https://www.livemint.com/technology/tech-news/microsoft-services-down-air-india-reroutes-emails-indigo-and-akasa-warn-passengers-of-support-delays-11794564648364.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Diwali gains often last. Will this year's Sensex rally hold?",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-gains-this-year-sensex-rally-muhurat-11794459314013.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00"
+  },
+  {
+   "title": "Eicher Motors Q2 results: Net profit rises 15% to Rs 1,573 crore",
+   "link": "https://www.moneycontrol.com/news/business/earnings/eicher-motors-q2-results-net-profit-rises-15-to-rs-1-573-crore-14079711.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Eicher Motors Q2FY27 results: Net profit rises 15% to ₹1,573 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-q2fy27-results-net-profit-rises-15-to-1-573-crore-126111301188_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India's trade deficit at 12-month high as October imports hit record",
+   "link": "https://www.business-standard.com/economy/news/india-s-trade-deficit-at-12-month-high-as-october-imports-hit-record-126111300926_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00"
+  },
+  {
+   "title": "The Adani Group faces pushback over its Navi Mumbai airport moves—here's why it's a test of the conglomerate's dominance",
+   "link": "https://www.livemint.com/opinion/online-views/the-adani-group-faces-pushback-over-its-navi-mumbai-airport-moves-here-s-why-it-s-a-test-of-the-conglomerate-s-dominance-11794565304116.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Trade deficit widens to 1-year high of $39.88 billion in October on record imports",
+   "link": "https://www.livemint.com/economy/trade-deficit-widens-to-1-year-high-of-39-88-billion-in-october-on-record-imports-11794566966101.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T12:00:00+00:00"
+  },
+  {
+   "title": "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:00:00+00:00"
+  },
   {
    "title": "Rupee falls 8 paise to close at 94.20 against U.S. dollar",
    "link": "https://www.thehindu.com/business/markets/rupee-falls-8-paise-to-close-at-9420-against-us-dollar/article71697687.ece",
@@ -3209,91 +3295,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "The Moody Foundation donated 87.5% of Silver Lake Ranch to Texas; the state paid $11.85 million for the rest of a future state park",
-   "link": "https://www.hindustantimes.com/world-news/us-news/the-moody-foundation-donated-87-5-of-silver-lake-ranch-to-texas-the-state-paid-11-85-million-for-the-rest-of-a-future-state-park-101794390526374.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T06:45:00+00:00"
-  },
-  {
-   "title": "Kotak Alts pumps ₹325 crore into Gainwell Group - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/kotak-alts-pumps-325-crore-into-gainwell-group/article71692547.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:45:00+00:00",
-   "companies": [
-    "Kotak Mahindra Bank"
-   ]
-  },
-  {
-   "title": "Customers without bank accounts can send up to ₹50,000 with cash pay-in service, say RBI guidelines",
-   "link": "https://www.hindustantimes.com/business/customers-without-bank-accounts-can-send-up-to-rs-50-000-with-cash-pay-in-service-say-rbi-guidelines-101794459798941.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:45:00+00:00"
-  },
-  {
-   "title": "Over 65% of Nifty large-cap stocks now above 200-DMAs; mid-, small-caps lag",
-   "link": "https://www.business-standard.com/markets/news/stock-market-trend-over-60-of-nifty-100-large-cap-stocks-now-trade-above-long-term-moving-averages-200-dmas-mid-small-caps-lag-126111200213_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00"
-  },
-  {
-   "title": "Tata Power seeks cost-linked Mundra tariff pacts with 4 more states",
-   "link": "https://www.business-standard.com/companies/news/tata-power-seeks-cost-linked-mundra-tariff-pacts-with-4-more-states-126111200307_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ],
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "GRSE stock gains 2% despite Q2 results miss; here's what brokerages suggest",
-   "link": "https://www.business-standard.com/markets/news/navratna-psu-defence-stock-grse-gains-2-despite-q2-results-miss-here-s-what-brokerages-suggest-126111200217_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T06:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "HFCL bags export orders worth ₹834 crore for optical fibre cables",
-   "link": "https://www.business-standard.com/companies/news/hfcl-bags-export-orders-worth-834-crore-for-optical-fibre-cables-126111200280_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00"
-  },
-  {
-   "title": "Oil prices drop as hopes for Iran, Ukraine peace talks pressure markets",
-   "link": "https://www.business-standard.com/markets/commodities/oil-prices-drop-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-126111200061_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T06:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
   }
  ]
