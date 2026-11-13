@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-13T03:01:17.713052+00:00",
+ "updated": "2026-11-13T03:15:46.257112+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 12 new items (12 files read)"
+  "gdelt": "ok, 14 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Will inflation, higher bond yields spook markets? Here's what analysts say",
+   "link": "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T03:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Quad Leaders set to unveil economic security initiatives, strategic infrastructure at Manila Summit",
+   "link": "https://www.hindustantimes.com/india-news/quad-leaders-set-to-unveil-economic-security-initiatives-strategic-infrastructure-at-manila-summit-101794535813908.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T03:15:00+00:00"
+  },
   {
    "title": "Commodity Corner: Oil holds gains on US-Iran tensions; gold near one-year low on rate hike bets",
    "link": "https://www.moneycontrol.com/news/business/stocks/commodity-corner-oil-holds-gains-on-us-iran-tensions-gold-near-one-year-low-on-rate-hike-bets-14078640.html",
@@ -3291,27 +3312,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T11:15:00+00:00"
-  },
-  {
-   "title": "Kashmir saffron yield rises over 15% despite weather uncertainties",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/kashmir-saffron-yield-rises-over-15-despite-weather-uncertainties/article71689029.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T10:45:00+00:00"
-  },
-  {
-   "title": "Sathlokhar Synergys E&C Q2 results: Net profit doubles to ₹29 crore",
-   "link": "https://www.thehindubusinessline.com/companies/sathlokhar-synergys-ec-q2-net-profit-more-than-doubles-to-29-crore/article71688846.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T10:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
