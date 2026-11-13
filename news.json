@@ -1,12 +1,59 @@
 {
- "updated": "2026-11-13T19:01:22.788372+00:00",
+ "updated": "2026-11-13T19:16:05.126142+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 26 new items (12 files read)"
+  "gdelt": "ok, 31 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "World oil market is returning to surplus as Gulf exports recover, says IEA",
+   "link": "https://www.business-standard.com/world-news/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-says-iea-126111301898_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T19:15:00+00:00"
+  },
+  {
+   "title": "Take steps to control inflation, Anbumani Ramadoss tells State govt.",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/take-steps-to-control-inflation-anbumani-ramadoss-tells-state-govt/article71698789.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T19:15:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Madurai jewellery heist: quantum of lost valuables decreases to 10 kg gold, 1 kg diamond",
+   "link": "https://www.thehindu.com/news/cities/Madurai/madurai-jewellery-heist-quantum-of-lost-valuables-decreases-to-10-kg-gold-1-kg-diamond/article71698193.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T19:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India-US deal may be inked after Washington settles its tariff framework",
+   "link": "https://www.business-standard.com/economy/news/india-us-deal-may-be-inked-after-washington-settles-its-tariff-framework-126111301658_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T19:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "Reliance to invest ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants",
    "link": "https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html",
@@ -3254,56 +3301,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T13:15:00+00:00"
-  },
-  {
-   "title": "Fairfax COO says IDBI has potential to be finest universal Indian bank with global reach",
-   "link": "https://www.moneycontrol.com/news/business/banks/fairfax-coo-says-idbi-has-potential-to-be-finest-universal-indian-bank-with-global-reach-14078423.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:15:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico over migrant caravans after Republican midterm losses",
-   "link": "https://www.moneycontrol.com/world/trump-threatens-to-double-tariffs-on-mexico-over-migrant-caravans-after-republican-midterm-losses-article-14078430.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T13:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Aditya Birla Capital opens 100th gold loan branch, eyes 1,000 outlets",
-   "link": "https://www.business-standard.com/companies/news/aditya-birla-capital-opens-100th-gold-loan-branch-eyes-1-000-outlets-126111201136_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T13:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "P&G Hygiene Q2 net profit falls 6.7% to ₹196 cr, revenue dips 0.4%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/p-g-hygiene-q2-net-profit-falls-6-7-to-196-cr-revenue-dips-0-4-126111201184_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
