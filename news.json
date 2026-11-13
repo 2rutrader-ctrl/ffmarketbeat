@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:45:49.794625+00:00",
+ "updated": "2026-11-13T04:01:17.416622+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,22 @@
   "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "White House weighs Lutnick's ouster amid Nvidia chip export concerns",
+   "link": "https://www.business-standard.com/world-news/white-house-weighs-lutnick-s-ouster-amid-nvidia-chip-export-concerns-126111300101_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:00:00+00:00"
+  },
+  {
+   "title": "US returns over $12 bn in oil proceeds to Venezuela since Maduro's ouster",
+   "link": "https://www.business-standard.com/world-news/us-returns-over-12-bn-in-oil-proceeds-to-venezuela-since-maduro-s-ouster-126111300011_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:00:00+00:00"
+  },
   {
    "title": "Mastercard opens its largest Innovation Centre of Excellence in Asia Pacific to drive the intelligence economy",
    "link": "https://www.thehindu.com/brandhub/pr-release/mastercard-opens-its-largest-innovation-centre-of-excellence-in-asia-pacific-to-drive-the-intelligence-economy/article71696434.ece",
@@ -3291,27 +3307,6 @@
    "companies": [
     "TVS Motor"
    ]
-  },
-  {
-   "title": "BHEL shares up 3.5% on Power Grid order for Gujarat synchronous condensers",
-   "link": "https://www.business-standard.com/markets/news/bhel-shares-up-3-5-on-power-grid-order-for-gujarat-synchronous-condensers-126111100646_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:15:00+00:00"
-  },
-  {
-   "title": "GRSE Q2 earnings: Net profit rises 12%, revenue at Rs 1,826 crore",
-   "link": "https://www.businesstoday.in/markets/stocks/story/grse-q2-earnings-net-profit-rises-12-revenue-at-rs-1826-crore-566886-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
