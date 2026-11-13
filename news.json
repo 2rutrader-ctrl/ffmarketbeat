@@ -1,12 +1,123 @@
 {
- "updated": "2026-11-13T16:45:49.227618+00:00",
+ "updated": "2026-11-13T17:01:28.541632+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BCAS asks SEBI to allow CA firms to monitor IPO fund utilisation",
+   "link": "https://www.thehindubusinessline.com/markets/bcas-wants-ca-firms-to-monitor-use-of-ipo-proceeds/article71697987.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Temasek-backed Sembcorp Green Infra receives SEBI nod for ₹3,750 crore IPO",
+   "link": "https://www.thehindubusinessline.com/markets/temasek-backed-sembcorp-green-infra-receives-sebi-nod-for-3750-cripo/article71698730.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Adani Energy Solutions completes ₹3,050-cr acquisition of IntelliSmart",
+   "link": "https://www.thehindubusinessline.com/companies/adani-energy-solutions-completes-3050-cr-acquisition-of-intellismart/article71697800.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "Zaggle's Q2FY27 net profit declines 24% to ₹25 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/zaggles-q2fy27-net-profit-declines-24-to-25-crore/article71698988.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Eicher Motors Q2 net profit up 15% YoY to Rs.1,573 crore - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/eicher-motors-q2-net-profit-up-15-yoy-to-rs1573-crore/article71699086.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ],
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Tata Motors PV posts ₹5,451-crore Q2 consolidated loss on JLR restructuring charges",
+   "link": "https://www.thehindubusinessline.com/companies/tata-motors-pv-posts-5451-crore-q2-consolidated-loss-on-jlr-restructuring-charges/article71698177.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:00:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "CII Summit in Vizag: World-class roads crucial for India's economic progress, says Gadkari",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cii-summit-in-vizag-world-class-roads-crucial-for-indias-economic-progress-says-gadkari/article71698751.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:30:00+00:00"
+  },
+  {
+   "title": "India to honour UK trade deal duty cuts on bulk Scotch imports, classification row to be resolved soon: Commerce Secretary",
+   "link": "https://www.moneycontrol.com/news/india/india-to-honour-uk-trade-deal-duty-cuts-on-bulk-scotch-imports-classification-row-to-be-resolved-soon-commerce-secretary-14079817.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Oil India on track for 4 MMT crude oil production this fiscal, officials state",
+   "link": "https://www.thehindu.com/business/Industry/oil-india-on-track-for-4-mmt-crude-oil-production-this-fiscal-officials-state/article71699134.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T16:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
   {
    "title": "Reliance Industries shares rebound 15% in November, add ₹2.38 lakh crore in market value; what's changed?",
    "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html",
@@ -3228,104 +3339,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-12T11:45:00+00:00"
-  },
-  {
-   "title": "Q2 results impact: Orient Green Power shares gain after rise in net profit",
-   "link": "https://www.moneycontrol.com/news/business/markets/q2-results-impact-orient-green-power-shares-rise-after-rise-in-net-profit-14078300.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:45:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Two oil supertankers explode in Strait of Hormuz; Tehran warns of fierce military response",
-   "link": "https://www.moneycontrol.com/world/two-oil-supertankers-explode-in-strait-of-hormuz-tehran-warns-of-fierce-military-response-article-14078354.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:45:00+00:00"
-  },
-  {
-   "title": "Aditya Birla Capital opens 100th Gold Loan branch, enters Mumbai market",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/aditya-birla-capital-opens-100th-gold-loan-branch-enters-mumbai-market/article71693180.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "US mid-term results unlikely to speed up India trade deal as tariff uncertainties persist",
-   "link": "https://www.thehindubusinessline.com/economy/us-mid-term-results-unlikely-to-speed-up-india-trade-deal-as-tariff-uncertainties-persist/article71692377.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Rupee falls 33 paise to close at 94.04 against U.S. dollar",
-   "link": "https://www.thehindu.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693331.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Reliance plans ₹43,000 crore coal gasification project in Andhra Pradesh",
-   "link": "https://www.thehindubusinessline.com/companies/reliance-plans-43000-crore-coal-gasification-project-in-andhra-pradesh/article71692915.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "Nifty Bank rises for third session, approaches record high; what's behind the rally",
-   "link": "https://www.businesstoday.in/markets/stocks/story/nifty-bank-rises-for-third-session-approaches-record-high-whats-behind-the-rally-567138-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00"
-  },
-  {
-   "title": "Fairfax plans to integrate IDBI Bank, Digit and IIFL businesses into financial services platform",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/fairfax-coo-sees-idbi-bank-becoming-indias-finest-universal-bank-with-global-reach/article71693143.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:30:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Karnataka plans app to track used cooking oil, prevent re-entry into food chain",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-plans-app-to-track-used-cooking-oil-prevent-re-entry-into-food-chain/article71693124.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:30:00+00:00"
   }
  ]
 }
