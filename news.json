@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-13T22:31:08.415506+00:00",
+ "updated": "2026-11-13T22:45:47.883427+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 6 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Trump's top economic advisor Kevin Hassett says report of his White departure is 'not true'",
+   "link": "https://www.hindustantimes.com/world-news/us-news/trumps-top-economic-advisor-kevin-hassett-says-report-of-his-white-departure-is-not-true-101794601355311.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T22:45:00+00:00"
+  },
   {
    "title": "Gold Edges Up, Still On Track for Worst Weekly Slump Since June",
    "link": "https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html",
@@ -3292,17 +3300,6 @@
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
-  },
-  {
-   "title": "Vodafone Idea Q2 loss widens 8% YoY to Rs 5,975 crore; revenue rises 6.2% to Rs 11,884 crore",
-   "link": "https://www.moneycontrol.com/news/business/vodafone-idea-q2-loss-widens-8-yoy-to-rs-5-975-crore-revenue-rises-6-2-to-rs-11-884-crore-14078471.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:00:00+00:00",
-   "companies": [
-    "Vodafone Idea"
-   ]
   }
  ]
 }
