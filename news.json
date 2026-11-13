@@ -1,12 +1,71 @@
 {
- "updated": "2026-11-13T18:31:13.106572+00:00",
+ "updated": "2026-11-13T18:45:49.893063+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 33 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Reliance to invest ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants",
+   "link": "https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
+   "link": "https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T18:45:00+00:00"
+  },
+  {
+   "title": "Upcoming IPO: Razorpay gets SEBI nod for IPO launch: Top things to know about the issue",
+   "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipo-razorpay-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11794586427364.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Airtel Payments Bank IPO in pipeline? Bharti Airtel payments business eyes D-Street debut, says report",
+   "link": "https://www.livemint.com/market/ipo/airtel-payments-bank-ipo-in-pipeline-bharti-airtel-payments-business-eyes-d-street-debut-says-report-11794586839337.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:45:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "YES Bank files review petition in SC over ₹8,415 crore AT-1 bond write-down",
+   "link": "https://www.livemint.com/news/yes-bank-files-review-petition-in-sc-over-8-415-crore-at-1-bond-writedown-11794586549130.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:45:00+00:00"
+  },
+  {
+   "title": "Yes Bank seeks Supreme Court review of ₹8,415-crore AT-1 bond write-off ruling",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/yes-bank-moves-supreme-court-to-review-ruling-on-8415-crore-at-1-bond-write-off/article71699349.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:30:00+00:00"
+  },
   {
    "title": "BCAS urges SEBI to allow CA firms to monitor fund use in smaller issues",
    "link": "https://www.moneycontrol.com/news/business/markets/bcas-urges-sebi-to-allow-ca-firms-to-monitor-fund-use-in-smaller-issues-14079839.html",
@@ -3244,77 +3303,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Retail inflation breaches RBI's 6% upper limit at 2-yr high of 6.09% in Oct",
-   "link": "https://www.business-standard.com/economy/news/retail-inflation-breaches-rbi-s-6-upper-limit-at-2-yr-high-of-6-09-in-oct-126111201211_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:00:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Inherited gold without bills? What Supreme Court order means in tax matters",
-   "link": "https://www.business-standard.com/finance/personal-finance/inherited-gold-without-bills-what-supreme-court-order-means-in-tax-matters-126111201013_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T13:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Airtel leads in FWA broadband experience, Jio in subscribers: Opensignal",
-   "link": "https://www.business-standard.com/technology/tech-news/airtel-leads-in-fwa-broadband-experience-jio-in-subscribers-opensignal-126111201083_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
-  },
-  {
-   "title": "Banks raise deposit rates after RBI's Oct repo hike; lending rates inch up",
-   "link": "https://www.business-standard.com/industry/banking/banks-raise-deposit-rates-after-rbi-s-oct-repo-hike-lending-rates-inch-up-126111201311_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:00:00+00:00"
-  },
-  {
-   "title": "Hitachi Energy Q2 net profit rises 21% to ₹319 cr, revenue jumps 63.5%",
-   "link": "https://www.business-standard.com/companies/quarterly-results/hitachi-energy-q2-net-profit-rises-21-to-319-cr-revenue-jumps-63-5-126111201283_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Inflation bites harder as food prices surge, more rate hikes loom",
-   "link": "https://www.businesstoday.in/latest/economy/story/inflation-bites-harder-as-food-prices-surge-more-rate-hikes-loom-567168-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T12:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
   }
  ]
