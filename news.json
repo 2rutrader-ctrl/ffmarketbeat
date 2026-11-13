@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-13T11:01:23.789088+00:00",
+ "updated": "2026-11-13T11:15:51.985012+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 64 new items (12 files read)"
+  "gdelt": "ok, 58 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crystal Crop Protection IPO GMP at 17% ahead of issue opening on November 18; check issue size, price band and key details here",
+   "link": "https://www.moneycontrol.com/news/business/ipo/crystal-crop-protection-ipo-gmp-at-17-ahead-of-issue-opening-on-november-18-check-issue-size-price-band-and-key-details-here-14079687.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T11:15:00+00:00"
+  },
   {
    "title": "NATCO Pharma Q2 results: Consolidated net profit falls 61% to Rs 203 crore",
    "link": "https://www.businesstoday.in/markets/stocks/story/natco-pharma-q2-results-consolidated-profit-falls-61-to-rs-203-crore-567351-2026-11-13",
@@ -3279,19 +3287,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T06:30:00+00:00"
-  },
-  {
-   "title": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/article71692206.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
   }
  ]
 }
