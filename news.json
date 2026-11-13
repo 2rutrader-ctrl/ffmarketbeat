@@ -1,12 +1,79 @@
 {
- "updated": "2026-11-13T04:31:05.202629+00:00",
+ "updated": "2026-11-13T04:45:47.882930+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 16 new items (12 files read)"
+  "gdelt": "ok, 23 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Nvidia's $10bn bet on Anthropic IPO, and chip guarantees behind AI borrowings",
+   "link": "https://www.hindustantimes.com/ht-explainers/jenson-huang-resignation-nvidia-10-billion-dollar-bet-on-anthropic-ipo-chip-manufacturers-guarantees-ai-industry-101794542018482.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:45:00+00:00"
+  },
+  {
+   "title": "Stocks in news: Ola Electric, Meesho, Zee Entertainment, Tata Motors Passenger Vehicles and more",
+   "link": "https://www.businesstoday.in/markets/stocks/story/stocks-in-news-ola-electric-meesho-zee-entertainment-tata-motors-passenger-vehicles-and-more-567228-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T04:30:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "NSE Indices launches Nifty 1000, Nifty 1000 Equal Weight indices; Key details",
+   "link": "https://www.businesstoday.in/markets/stocks/story/nse-indices-launches-nifty-1000-nifty-1000-equal-weight-indices-key-details-567229-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T04:30:00+00:00"
+  },
+  {
+   "title": "TMPV Q2 results: Price hikes to aid sales growth; eyes on commodity price inflation",
+   "link": "https://www.businesstoday.in/markets/stocks/story/tmpv-q2-results-price-hikes-to-aid-sales-growth-eyes-on-commodity-price-inflation-567226-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Infosys joins the club:12 companies that have minted the most billionaires",
+   "link": "https://www.business-standard.com/finance/personal-finance/infosys-joins-the-club-12-companies-that-have-minted-the-most-billionaires-126111300002_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T04:30:00+00:00",
+   "companies": [
+    "Infosys"
+   ]
+  },
+  {
+   "title": "Nvidia chip row: White House mulls ouster of Howard Lutnick over handling of export controls, Jensen Huang scandal",
+   "link": "https://www.businesstoday.in/world/us/story/nvidia-chip-row-white-house-mulls-ouster-of-howard-lutnick-over-handling-of-export-controls-jensen-huang-scandal-567220-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T04:30:00+00:00"
+  },
+  {
+   "title": "Carlsberg India eyes $4 billion valuation for IPO; roadshows set to begin next week",
+   "link": "https://www.businesstoday.in/markets/ipo-corner/story/carlsberg-india-eyes-4-billion-valuation-for-ipo-roadshows-set-to-begin-next-week-567231-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T04:30:00+00:00"
+  },
   {
    "title": "South Korea says Google has removed Korean coordinates from maps under export permit",
    "link": "https://www.thehindu.com/sci-tech/technology/south-korea-says-google-has-removed-korean-coordinates-from-maps-under-export-permit/article71696479.ece",
@@ -3214,96 +3281,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T11:45:00+00:00"
-  },
-  {
-   "title": "Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch",
-   "link": "https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T11:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Rupee rises 7 paise to close at 93.70 against U.S. dollar",
-   "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9370-against-us-dollar/article71689369.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "MSCI Rejig: Adani Green, LIC, Coforge, Meesho shares set to enter India Standard Index; ICICI Life, PI Industries out?",
-   "link": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-green-lic-coforge-meesho-shares-set-to-enter-india-standard-index-icici-life-pi-industries-out-11794390119879.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00",
-   "companies": [
-    "Adani Group",
-    "LIC"
-   ]
-  },
-  {
-   "title": "Inflation seen hitting RBI's 6% ceiling in October, putting rate policy in focus",
-   "link": "https://www.livemint.com/news/retail-inflation-likely-hit-a-two-year-high-of-6-in-october-mint-poll-11794382308555.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Mint Explainer | Incorporation boom: what rising company registrations mean for jobs and economic growth",
-   "link": "https://www.livemint.com/companies/news/india-business-incorporation-boom-jobs-growth-impact-11794386751186.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T11:30:00+00:00",
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "MCX gold rises to Rs 1.41 lakh, silver jumps to Rs 1.87 lakh; Fed uncertainty keeps volatility elevated",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/mcx-gold-rises-to-rs-1-41-lakh-silver-jumps-to-rs-1-87-lakh-fed-uncertainty-keeps-volatility-elevated-14077262.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Crude down 24%, FPIs invest ₹53,739 crore: GTRI explains what's driving rupee recovery",
-   "link": "https://www.businesstoday.in/latest/economy/story/crude-down-24-fpis-invest-rs53739-crore-gtri-explains-whats-driving-rupee-recovery-566891-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
   }
  ]
 }
