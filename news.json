@@ -1,12 +1,101 @@
 {
- "updated": "2026-11-13T10:15:49.400821+00:00",
+ "updated": "2026-11-13T10:31:03.941261+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 51 new items (12 files read)"
+  "gdelt": "ok, 50 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Paytm shares reclaim listing price for first time in five years; RBI nod for wallet business boosts sentiment",
+   "link": "https://www.moneycontrol.com/news/business/markets/paytm-shares-reclaim-listing-price-for-first-time-in-five-years-rbi-nod-for-wallet-business-boosts-sentiment-14079592.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "US has assured India will get comparative tariff over peers; final framework hinges on Section 301 probe",
+   "link": "https://www.moneycontrol.com/news/business/economy/us-has-assured-india-will-get-comparative-over-peers-final-tariff-framework-hinges-on-section-301-probe-14079608.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Vodafone Idea to draw down bank funding in phases; PSU bank loan discussions close to finalisation",
+   "link": "https://www.moneycontrol.com/news/telecom/vodafone-idea-to-draw-down-bank-funding-in-phases-psu-bank-loan-discussions-close-to-finalisation-14079600.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "Who is Shuchi Suri? M&M names former Unilever executive as automotive marketing chief",
+   "link": "https://www.businesstoday.in/latest/corporate/story/who-is-shuchi-suri-mm-names-former-unilever-executive-as-automotive-marketing-chief-567341-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "companies": [
+    "Mahindra & Mahindra"
+   ]
+  },
+  {
+   "title": "Vodafone Idea leads telcos in spam complaints, bars over 47,000 numbers for violations: TRAI",
+   "link": "https://www.moneycontrol.com/news/telecom/vodafone-idea-leads-telcos-in-spam-complaints-bars-over-47-000-numbers-for-violations-trai-14079549.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "companies": [
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "Paytm arm gets RBI in principle nod for prepaid payment instruments; stock reacts",
+   "link": "https://www.businesstoday.in/markets/stocks/story/paytm-arm-gets-rbi-in-principle-nod-for-prepaid-payment-instruments-stock-reacts-567343-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:30:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "Grasim Industries Q2 earnings: Revenue hits record high, net profit zooms 187%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/grasim-industries-q2-earnings-revenue-hits-record-high-net-profit-zooms-187-567332-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Norway Supreme Court invalidates three North Sea oil licences over climate impact",
+   "link": "https://www.moneycontrol.com/world/norway-supreme-court-invalidates-three-north-sea-oil-licences-over-climate-impact-article-14079572.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:30:00+00:00"
+  },
   {
    "title": "IDBI Bank sale: The price is only the first test",
    "link": "https://www.livemint.com/opinion/online-views/idbi-bank-sale-the-price-is-only-the-first-test-11794547254641.html",
@@ -3221,96 +3310,6 @@
    "companies": [
     "State Bank of India",
     "Punjab National Bank"
-   ]
-  },
-  {
-   "title": "No bank account? Check how much cash you can send or receive through ATM, NEFT under RBI domestic money transfer rules",
-   "link": "https://www.livemint.com/money/personal-finance/no-bank-account-check-how-much-cash-you-can-send-or-receive-through-atm-neft-under-rbi-domestic-money-transfer-rules-11794442718991.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:15:00+00:00"
-  },
-  {
-   "title": "Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom",
-   "link": "https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:15:00+00:00"
-  },
-  {
-   "title": "Rupee falls 6 paise to 93.77 against US dollar during early trade",
-   "link": "https://www.business-standard.com/finance/news/rupee-falls-6-paise-to-93-77-against-us-dollar-during-early-trade-126111200200_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Crude oil price slips on US-Iran peace talk hopes; Brent dips below $92, WTI under $86",
-   "link": "https://www.moneycontrol.com/news/business/markets/crude-oil-price-slips-on-us-iran-peace-talk-hopes-brent-dips-below-92-wti-under-86-14077827.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Nykaa, Honasa and Lenskart beat consumer slowdown blues with robust Q2 growth",
-   "link": "https://www.moneycontrol.com/news/business/startup/nykaa-honasa-and-lenskart-beat-consumer-slowdown-blues-with-robust-q2-growth-14077820.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:00:00+00:00",
-   "companies": [
-    "Nykaa"
-   ]
-  },
-  {
-   "title": "Bitcoin hovers near $73,700 after 8.3% weekly slide as US inflation fuels Fed rate hike concerns",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-73-700-after-8-3-weekly-slide-as-us-inflation-fuels-fed-rate-hike-concerns-14077859.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:00:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "Oil prices fall over $1 as Middle East, Russia-Ukraine peace hopes grow; Brent slips below $92",
-   "link": "https://www.moneycontrol.com/news/business/oil-prices-fall-over-1-as-middle-east-russia-ukraine-peace-hopes-grow-brent-slips-below-92-14077596.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Adani eyes mix of equity, debt for $2.9 billion Evos takeover",
-   "link": "https://www.moneycontrol.com/news/business/adani-eyes-mix-of-equity-debt-for-2-9-billion-evos-takeover-14077866.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:00:00+00:00",
-   "companies": [
-    "Adani Group"
    ]
   }
  ]
