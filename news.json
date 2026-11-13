@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-13T14:31:05.738845+00:00",
+ "updated": "2026-11-13T14:45:51.168539+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 50 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "US assures India of lower tariffs than peers under proposed trade deal: Report",
+   "link": "https://www.businesstoday.in/latest/economy/story/us-assures-india-of-lower-tariffs-than-peers-under-proposed-trade-deal-report-567432-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:45:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
   {
    "title": "LCA deliveries, order book to drive gains for Hindustan Aeronautics",
    "link": "https://www.business-standard.com/markets/news/lca-deliveries-order-book-to-drive-gains-for-hindustan-aeronautics-126111301345_1.html",
@@ -3292,17 +3305,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T10:00:00+00:00"
-  },
-  {
-   "title": "Paytm zooms 7%, reclaims ₹1,900 for 1st time since listing day in Nov 2021",
-   "link": "https://www.business-standard.com/markets/news/paytm-zooms-7-reclaims-1-900-for-1st-time-since-listing-day-in-nov-2021-126111200790_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T10:00:00+00:00",
-   "companies": [
-    "Paytm"
-   ]
   }
  ]
 }
