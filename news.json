@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:01:20.006757+00:00",
+ "updated": "2026-11-13T05:15:49.681784+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee rises 7 paise to 94.05 against U.S. dollar in early trade",
+   "link": "https://www.thehindu.com/business/Industry/rupee-rises-7-paise-to-9405-against-us-dollar-in-early-trade/article71696547.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Crystal Crop Protection IPO: Price band fixed at Rs 259 272, aims to raise Rs 456 crore",
    "link": "https://www.businesstoday.in/markets/stocks/story/crystal-crop-protection-ipo-price-band-fixed-at-rs-259-272-aims-to-raise-rs-456-crore-567241-2026-11-13",
@@ -3278,14 +3291,6 @@
    "companies": [
     "HDFC Bank"
    ]
-  },
-  {
-   "title": "Govt bans lithium-ion battery black mass exports to aid domestic recyclers",
-   "link": "https://www.business-standard.com/industry/news/govt-bans-lithium-ion-battery-black-mass-exports-to-aid-domestic-recyclers-126111101149_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T13:15:00+00:00"
   }
  ]
 }
