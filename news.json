@@ -1,12 +1,86 @@
 {
- "updated": "2026-11-13T06:31:04.138346+00:00",
+ "updated": "2026-11-13T06:45:59.636720+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 38 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "'India's exports to cross $1 trillion this year': Piyush Goyal on road ahead for FTAs",
+   "link": "https://www.businesstoday.in/latest/economy/story/indias-exports-to-cross-1-trillion-this-year-piyush-goyal-on-road-ahead-for-ftas-567273-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00"
+  },
+  {
+   "title": "Inflation may remain near 6% till June 2027; two RBI rate hikes on the cards: Sectors in focus",
+   "link": "https://www.businesstoday.in/markets/stocks/story/inflation-may-remain-near-6-till-june-2027-two-rbi-rate-hikes-on-the-cards-sectors-in-focus-567247-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Reliance, JSW, Amara Raja, Exide among 22 bidders for ACC battery manufacturing PLI scheme",
+   "link": "https://www.businesstoday.in/latest/economy/story/reliance-jsw-amara-raja-exide-among-22-bidders-for-acc-battery-manufacturing-pli-scheme-567250-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Anthropic IPO how to apply from India: Can Indian investors apply online? Check eligibility and step by step bid guide",
+   "link": "https://www.livemint.com/market/stock-market-news/anthropic-ipo-how-to-apply-from-india-can-indian-investors-apply-online-check-eligibility-and-step-by-step-bid-guide-11794547459945.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00"
+  },
+  {
+   "title": "Gold, silver prices on November 13: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-13-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-567233-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Carlsberg said set to start road show for $600 million India IPO",
+   "link": "https://www.livemint.com/market/ipo/carlsberg-said-set-to-start-road-show-for-600-million-india-ipo-11794550406892.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T06:45:00+00:00"
+  },
+  {
+   "title": "Oswal Pumps shares fall 7% as Q2 net profit plunges 59%",
+   "link": "https://www.businesstoday.in/markets/stocks/story/oswal-pumps-shares-fall-7-as-q2-profit-plunges-59-ebitda-drops-53-567261-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T06:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "'Scandal of gigantic proportions': Congress on Adani slashing Maharashtra power project cost by 99%",
    "link": "https://www.thehindu.com/news/national/maharashtra/scandal-of-gigantic-proportions-congress-on-adani-slashing-maharashtra-power-project-cost-by-99/article71696596.ece",
@@ -3221,86 +3295,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T16:30:00+00:00"
-  },
-  {
-   "title": "India's Q2 GDP growth likely at 7.8%, above RBI estimate of 7.2%: SBI Research",
-   "link": "https://www.moneycontrol.com/news/business/economy/india-s-q2-gdp-growth-likely-at-7-8-above-rbi-estimate-of-7-2-sbi-research-14077393.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:00:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Tata Power Q2 profit jumps 32% to ₹1,652 crore",
-   "link": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:00:00+00:00"
-  },
-  {
-   "title": "India's renewable energy push saved $100 bn in fuel imports: IEA report",
-   "link": "https://www.business-standard.com/industry/news/india-s-renewable-energy-push-saved-100-bn-in-fuel-imports-iea-report-126111101361_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T15:30:00+00:00"
-  },
-  {
-   "title": "Tata Power approves ₹11,871 crore pumped storage project in Maharashtra",
-   "link": "https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T15:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "FMCG firms may face volume pressure in H2 as inflation drives price hikes",
-   "link": "https://www.business-standard.com/industry/news/fmcg-firms-may-face-volume-pressure-in-h2-as-inflation-drives-price-hikes-126111101354_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T15:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Rupee outperforms most Asian peers as foreign inflows boost sentiment",
-   "link": "https://www.business-standard.com/economy/news/rupee-outperforms-most-asian-peers-as-foreign-inflows-boost-sentiment-126111101383_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T15:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Tata Power Q2 profit rises 33% to ₹1,652 cr; ₹11,871 cr project approved",
-   "link": "https://www.business-standard.com/companies/quarterly-results/tata-power-q2-profit-rises-33-to-1-652-cr-11-871-cr-project-approved-126111101450_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T15:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
   }
  ]
 }
