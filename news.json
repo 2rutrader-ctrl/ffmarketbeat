@@ -1,12 +1,154 @@
 {
- "updated": "2026-11-13T13:01:26.072776+00:00",
+ "updated": "2026-11-13T13:15:48.350483+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 57 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Royal Enfield Himalayan 750: Peak Easy - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/specials/auto-focus/royal-enfield-himalayan-750-peak-easy/article71697435.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ]
+  },
+  {
+   "title": "Rupee falls 8 paise to close at 94.20 against US dollar - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-8-paise-to-close-at-9420-against-us-dollar/article71697645.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Adani Energy Solutions completes ₹3,050-cr acquisition of IntelliSmart",
+   "link": "https://www.thehindubusinessline.com/news/adani-energy-solutions-completes-3050-cr-acquisition-of-intellismart/article71697800.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
+  {
+   "title": "India exports hit record $90 billion in October; merchandise trade deficit rises to $39.88 billion",
+   "link": "https://www.thehindubusinessline.com/economy/indias-exports-hit-record-90-billion-in-october-but-merchandise-trade-deficit-widens/article71697780.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00"
+  },
+  {
+   "title": "India's exports to US rise 11% to $50.8 billion in April-September",
+   "link": "https://www.thehindubusinessline.com/economy/indias-exports-to-us-rise-11-brazil-and-mexico-shipments-register-strong-growth/article71697593.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00"
+  },
+  {
+   "title": "Gem, jewellery exports up 34% on growing demand, rise in gold prices",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gem-jewellery-exports-up-34-on-growing-demand-rise-in-gold-prices/article71697017.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T13:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India-US trade deal: US promises tariff advantage over Vietnam, Indonesia and Cambodia",
+   "link": "https://www.thehindubusinessline.com/economy/trade-pact-us-promises-india-tariff-advantage-but-final-framework-yet-to-emerge/article71697777.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Shriram Properties net profit grows 151% to ₹21.6 crore for Q2FY27",
+   "link": "https://www.thehindubusinessline.com/news/real-estate/shriram-properties-net-profit-grows-151-to-216-crore-for-q2fy27/article71697870.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Jio gets fewer spam complaints than Airtel and Vodafone Idea: TRAI data",
+   "link": "https://www.thehindubusinessline.com/info-tech/jio-records-fewer-spam-complaints-than-airtel-and-vi-despite-having-more-subscribers/article71697621.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "companies": [
+    "Bharti Airtel",
+    "Vodafone Idea"
+   ]
+  },
+  {
+   "title": "Essar's tech arm Black Box posts a 23% yoy growth in net profit to ₹73 crore",
+   "link": "https://www.thehindubusinessline.com/info-tech/essars-tech-arm-black-box-posts-a-23-yoy-growth-in-net-profit-to-73-crore/article71697732.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "HDFC Bank's Board okays Rangan's re-appointment as a Whole-time Director for 1 year",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/hdfc-banksboard-okays-rangans-re-appointment-as-a-whole-time-director-for-1-year/article71697787.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:15:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "JD Vance's ties to Vitol trader helped secure lucrative Venezuela oil deal after Maduro's capture: Report",
+   "link": "https://www.businesstoday.in/world/story/jd-vances-ties-to-vitol-trader-helped-secure-lucrative-venezuela-oil-deal-after-maduros-capture-report-567406-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T13:00:00+00:00"
+  },
+  {
+   "title": "Fiscal discipline has cut cost of capital to build businesses, jobs: World Bank's Neelkanth Mishra | HTLS 2026",
+   "link": "https://www.hindustantimes.com/business/fiscal-discipline-has-cut-cost-of-capital-to-build-businesses-jobs-world-bank-s-neelkanth-mishra-htls-2026-101794563359162.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T13:00:00+00:00"
+  },
   {
    "title": "Sembcorp Green Infra, Razorpay, MakeMyTrip get SEBI nod for IPOs",
    "link": "https://www.moneycontrol.com/news/business/ipo/sembcorp-green-infra-razorpay-makemytrip-get-sebi-nod-for-ipos-14079725.html",
@@ -3180,138 +3322,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "ITC strengthens presence in copier paper category, launches Carte Lumina zx",
-   "link": "https://www.thehindubusinessline.com/companies/itc-strengthens-presence-in-copier-paper-category-launches-carte-lumina-zx/article71692778.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00",
-   "companies": [
-    "ITC"
-   ]
-  },
-  {
-   "title": "Bank of Baroda raises rates on 555-day deposit scheme by 10 bps to 7.50%",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/bank-of-baroda-raises-rates-on-555-day-deposit-scheme-by-10-bps-to-750/article71692693.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00",
-   "companies": [
-    "Bank of Baroda"
-   ]
-  },
-  {
-   "title": "IndiGo cuts 300,000 seats in November despite festive travel season",
-   "link": "https://www.businesstoday.in/india/story/indigo-cuts-300000-seats-in-november-despite-festive-travel-season-567017-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:45:00+00:00",
-   "companies": [
-    "IndiGo"
-   ]
-  },
-  {
-   "title": "RBI to ban private equity firms from controlling multiple non-bank lenders",
-   "link": "https://www.business-standard.com/finance/news/rbi-to-ban-private-equity-firms-from-controlling-multiple-non-bank-lenders-126111200692_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:45:00+00:00"
-  },
-  {
-   "title": "India reclaims fifth spot in global market cap rankings as FII inflows rise, Brent crude falls",
-   "link": "https://www.businesstoday.in/markets/stocks/story/india-reclaims-fifth-spot-in-global-market-cap-rankings-as-fii-inflows-rise-brent-crude-falls-567013-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Reliance plans $4.6 billion coal gasification project in Andhra Pradesh",
-   "link": "https://www.business-standard.com/companies/news/reliance-plans-4-6-billion-coal-gasification-project-in-andhra-pradesh-126111200695_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:45:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "SMBC tells RBI India operations will get consolidated under Yes Bank by FY29",
-   "link": "https://www.moneycontrol.com/news/business/smbc-tells-rbi-it-s-india-operations-will-get-consolidated-under-yes-bank-by-fy29-14078155.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:30:00+00:00"
-  },
-  {
-   "title": "IPO market takes a breather in November after record fundraising in September, October",
-   "link": "https://www.moneycontrol.com/news/business/markets/ipo-market-takes-a-breather-in-november-after-record-fundraising-in-september-october-14078122.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T08:30:00+00:00"
-  },
-  {
-   "title": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",
-   "link": "https://www.business-standard.com/markets/news/hdfc-bank-18-other-fallen-angels-could-be-d-st-s-next-winners-elara-126111200555_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:30:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
-  },
-  {
-   "title": "Avanti Feeds, Apex Frozen Foods shares surge nearly 8% as UAE explores shrimp imports from Andhra Pradesh",
-   "link": "https://www.moneycontrol.com/news/business/markets/avanti-feeds-apex-frozen-foods-shares-surge-nearly-8-as-uae-explores-shrimp-imports-from-andhra-pradesh-14078077.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T08:30:00+00:00"
-  },
-  {
-   "title": "Bank Nifty rises for 3rd day, trades above 61,300; PNB, AU SFB lead gains: What lies ahead?",
-   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-rises-for-3rd-day-trades-above-61-300-pnb-au-sfb-lead-gains-what-lies-ahead-14078147.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:30:00+00:00"
-  },
-  {
-   "title": "EU, UK plan to delay 10% EV tariffs as Chinese rivals gain ground",
-   "link": "https://www.moneycontrol.com/world/eu-uk-plan-to-delay-10-ev-tariffs-as-chinese-rivals-gain-ground-article-14078046.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T08:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",
-   "link": "https://www.livemint.com/market/stock-market-news/16-up-in-a-month-bajaj-finance-shares-climb-3-4-on-11-700-crore-qip-launch-check-floor-price-discount-returns-11794460718743.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:00:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
   }
  ]
 }
