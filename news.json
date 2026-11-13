@@ -1,12 +1,146 @@
 {
- "updated": "2026-11-13T04:45:47.882930+00:00",
+ "updated": "2026-11-13T05:01:20.006757+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 23 new items (12 files read)"
+  "gdelt": "ok, 35 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Crystal Crop Protection IPO: Price band fixed at Rs 259 272, aims to raise Rs 456 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/crystal-crop-protection-ipo-price-band-fixed-at-rs-259-272-aims-to-raise-rs-456-crore-567241-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "'Still by far the cheapest in the world': Sunil Bharti Mittal says mobile tariffs should rise to ₹350 a month",
+   "link": "https://www.businesstoday.in/latest/corporate/story/still-by-far-the-cheapest-in-the-world-sunil-bharti-mittal-says-mobile-tariffs-should-rise-to-rs-350-a-month-567240-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Gold, silver prices today, 13 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-13-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794534161396.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster, report says",
+   "link": "https://www.thehindubusinessline.com/news/world/us-returns-over-12-billion-in-oil-proceeds-to-venezuela-since-maduros-ouster-report-says/article71696367.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
+   "link": "https://www.thehindubusinessline.com/economy/october-retail-inflation-surge-may-weigh-on-housing-demand-raise-rate-hike-concerns-knight-frank-phdcci/article71695274.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Buzzing stocks: Meesho, Clean Max, Lupin, IOC, NBCC, NCL Ind, Zee, Edelweiss, Jujhar Logistics, Ola",
+   "link": "https://www.thehindubusinessline.com/markets/buzzing-stocks-meesho-clean-max-lupin-ioc-nbcc-ncl-ind-zee-edelweiss-jujhar-logistics-ola/article71696388.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00",
+   "companies": [
+    "Indian Oil"
+   ]
+  },
+  {
+   "title": "G-Sec yields harden on retail inflation breaching the 6% mark",
+   "link": "https://www.thehindubusinessline.com/markets/g-sec-yields-harden-on-retail-inflation-breaching-the-6-mark/article71696503.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Trump threatens Mexico with doubled tariffs as nearly 2,000 migrants head towards US border",
+   "link": "https://www.thehindubusinessline.com/news/world/trump-threatens-mexico-with-doubled-tariffs-as-nearly-2000-migrants-head-towards-us-border/article71695271.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Mastercard opens its largest Innovation Centre of Excellence in Asia Pacific to drive the intelligence economy",
+   "link": "https://www.thehindubusinessline.com/brandhub/pr-release/mastercard-opens-its-largest-innovation-centre-of-excellence-in-asia-pacific-to-drive-the-intelligence-economy/article71696437.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "Rising food inflation underscores need to boost domestic pulses, edible oil production: NITI Aayog VC Ashok Lahiri",
+   "link": "https://www.thehindubusinessline.com/news/rising-food-inflation-underscores-need-to-boost-domestic-pulses-edible-oil-production-niti-aayog-vc-ashok-lahiri/article71695273.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "RBI approves appointment of Pratap Singh as MD & CEO of Fino Payments Bank",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-approves-appointment-of-pratap-singh-as-md-ceo-of-fino-payments-bank/article71696525.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "Unclaimed dividends, lost shares or pending claims? Resolve these issues at SEBI Niveshak Shivir; check date, venue",
+   "link": "https://www.livemint.com/money/personal-finance/unclaimed-dividends-lost-shares-or-pending-claims-resolve-these-issues-at-sebi-niveshak-shivir-check-date-venue-11794535189822.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Nvidia's $10bn bet on Anthropic IPO, and chip guarantees behind AI borrowings",
    "link": "https://www.hindustantimes.com/ht-explainers/jenson-huang-resignation-nvidia-10-billion-dollar-bet-on-anthropic-ipo-chip-manufacturers-guarantees-ai-industry-101794542018482.html",
@@ -3152,135 +3286,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T13:15:00+00:00"
-  },
-  {
-   "title": "Budget 2027: Industry bodies seek LTCG tax cuts even as FPIs return to Indian equities",
-   "link": "https://www.moneycontrol.com/budget/budget-2027-industry-bodies-seek-ltcg-tax-cuts-even-as-fpis-return-to-indian-equities-article-14077308.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:00:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Tata Power Q2 profit rises 33% to Rs 1,652 crore; revenue up 26%",
-   "link": "https://www.moneycontrol.com/news/business/tata-power-q2-profit-rises-33-to-rs-1-652-crore-revenue-up-26-14077313.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:00:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "SASTRA to host seminar on GST on November 14, 15",
-   "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/sastra-to-host-seminar-on-gst-on-november-14-15/article71689519.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:45:00+00:00",
-   "thought": {
-    "topic": "Why government spending and tax policy matter",
-    "short": "Fiscal policy",
-    "text": "Government spending and tax decisions shape growth expectations and sector outlooks. Markets also follow the fiscal deficit and borrowing plans because they influence bond yields."
-   }
-  },
-  {
-   "title": "Gold ETF inflows decline 22% to ₹3,470 crore in October: Are investors turning cautious on gold?",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-etf-inflows-decline-22-to-rs3470-crore-in-october-are-investors-turning-cautious-on-gold-566904-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Rupee rises 7 paise to close at 93.70 against US dollar - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-close-at-9370-against-us-dollar/article71689281.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Gold ETF Gold ETF inflows cross Rs 49,000 crore in 2026, surpass full-year 2025 collectionsinflows beat full-year 2025 total in just 10 months, cross Rs 49,000 crore",
-   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-etf-inflows-beat-full-year-2025-total-in-just-10-months-cross-rs-49-000-crore-14077312.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "EAAA India Alternatives' Q2 net profit rises 27% to Rs 88 crore; declares Rs 7 dividend",
-   "link": "https://www.moneycontrol.com/news/business/eaaa-india-alternatives-q2-net-profit-rises-27-to-rs-88-crore-declares-rs-7-dividend-14077309.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Argentina, Malaysia overtake Indonesia as top veg oil exporters to India",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/argentina-malaysia-overtake-indonesia-as-top-veg-oil-exporters-to-india/article71689201.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:30:00+00:00"
-  },
-  {
-   "title": "India bans export of battery 'black mass' to cut import dependence for EV, storage sector",
-   "link": "https://www.hindustantimes.com/business/india-bans-export-of-battery-black-mass-to-cut-import-dependence-for-ev-storage-sector-101794397732288.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T12:15:00+00:00"
-  },
-  {
-   "title": "Eternal's IPO investors sitting on 375% gains as stock hits new record high; from ₹76 price to ₹361, what changed?",
-   "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00"
-  },
-  {
-   "title": "Stock markets end higher; Sensex and Nifty jump nearly 1%",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00"
-  },
-  {
-   "title": "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels",
-   "link": "https://www.livemint.com/market/stock-market-news/railway-stocks-on-fast-track-rvnl-irfc-jump-up-to-10-amid-sensex-nifty-rise-whats-behind-momentum-key-levels-11794378046674.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T11:45:00+00:00"
   }
  ]
 }
