@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-13T17:45:53.513935+00:00",
+ "updated": "2026-11-13T18:01:23.040601+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 37 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "BCAS urges SEBI to allow CA firms to monitor fund use in smaller issues",
+   "link": "https://www.moneycontrol.com/news/business/markets/bcas-urges-sebi-to-allow-ca-firms-to-monitor-fund-use-in-smaller-issues-14079839.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T18:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "TVS Motor elevates Aniruddha Haldar to lead India two-wheeler business",
+   "link": "https://www.business-standard.com/companies/people/tvs-motor-elevates-aniruddha-haldar-to-lead-india-two-wheeler-business-126111301792_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00",
+   "companies": [
+    "TVS Motor"
+   ]
+  },
+  {
+   "title": "Rate hikes may be less effective against supply-led inflation, says CEA",
+   "link": "https://www.business-standard.com/economy/news/rate-hikes-may-be-less-effective-against-supply-led-inflation-says-cea-126111301756_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T17:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "RBI fines MobiKwik ₹9 lakh over PPI transfer and fraud reporting lapses",
+   "link": "https://www.business-standard.com/finance/news/rbi-fines-mobikwik-9-lakh-over-ppi-transfer-and-fraud-reporting-lapses-126111301793_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00"
+  },
+  {
+   "title": "Yes Bank files review petition in SC over ₹8,415 crore AT-1 bonds",
+   "link": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00"
+  },
+  {
+   "title": "India imports over half its edible oil, faces food risks: NITI Aayog VC",
+   "link": "https://www.business-standard.com/economy/news/india-imports-over-half-its-edible-oil-faces-food-risks-niti-aayog-vc-126111301651_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00"
+  },
+  {
+   "title": "India needs sector-wise accounts to measure knowledge economy: MoSPI panel",
+   "link": "https://www.business-standard.com/economy/news/india-needs-sector-wise-accounts-to-measure-knowledge-economy-mospi-panel-126111301686_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00"
+  },
+  {
+   "title": "India's current account deficit widens to $25.8 bn in H1FY27: RBI data",
+   "link": "https://www.business-standard.com/finance/news/india-s-current-account-deficit-widens-to-25-8-bn-in-h1fy27-rbi-data-126111301723_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:45:00+00:00"
+  },
   {
    "title": "Iraq reopens decades-old oil route through Syria amid Strait of Hormuz disruption",
    "link": "https://www.moneycontrol.com/world/iraq-reopens-decades-old-oil-route-through-syria-amid-strait-of-hormuz-disruption-article-14079840.html",
@@ -3234,98 +3311,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-12T12:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Bajaj Finance shares close 3% higher amid Rs 11,700 crore QIP issue",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-close-3-higher-amid-rs-11700-crore-qip-issue-567158-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:45:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Retail inflation hits two year high of 6.09% in October, breaches RBI's 6% limit; December rate hike likely",
-   "link": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "PLI schemes set for tweaks as Centre looks to address uneven manufacturing gains, import dependence",
-   "link": "https://www.moneycontrol.com/news/business/economy/pli-schemes-set-for-tweaks-as-centre-looks-to-address-uneven-manufacturing-gains-import-dependence-14078402.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T12:30:00+00:00"
-  },
-  {
-   "title": "Inflation breaches RBI's 6% ceiling: Six states cross 7%, onion prices surge 116%",
-   "link": "https://www.moneycontrol.com/news/business/economy/inflation-breaches-rbi-s-6-ceiling-six-states-cross-7-onion-prices-surge-116-14078400.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Technical View: Further upward momentum possible for Nifty only above 25,500, say analysts",
-   "link": "https://www.moneycontrol.com/news/business/markets/technical-view-further-upward-momentum-possible-for-nifty-only-above-25-500-say-analysts-14078375.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:30:00+00:00"
-  },
-  {
-   "title": "Auto stocks skid 1% on profit booking despite softer crude, firm markets",
-   "link": "https://www.thehindu.com/business/auto-stocks-skid-1-on-profit-booking-despite-softer-crude-firm-markets/article71693492.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T12:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Rupee snaps appreciation streak, falls below 94 as dollar strengthens",
-   "link": "https://www.moneycontrol.com/news/business/banks/rupee-snaps-appreciation-streak-falls-below-94-as-dollar-strengthens-14078366.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Retail inflation hits 6.09% in October, crosses RBI's upper tolerance limit",
-   "link": "https://www.livemint.com/economy/cpi-retail-inflation-october-india-rbi-target-food-price-inflation-11794467724485.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:00:00+00:00",
    "thought": {
     "topic": "Why inflation data is watched",
     "short": "Inflation",
