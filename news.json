@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-13T11:31:07.904499+00:00",
+ "updated": "2026-11-13T11:45:48.318290+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 56 new items (12 files read)"
+  "gdelt": "ok, 52 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee falls 8 paise to close at 94.20 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/rupee-falls-8-paise-to-close-at-9420-against-us-dollar/article71697687.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Tata Motors PV posts Rs 5,531-crore net loss in Q2 as JLR restructuring costs bite",
    "link": "https://www.moneycontrol.com/news/business/earnings/tata-motors-pv-posts-rs-5-531-crore-net-loss-in-q2-14079699.html",
@@ -3282,14 +3295,6 @@
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
    }
-  },
-  {
-   "title": "Tata Motors CV share price gains 4%, up for 4th straight day; here's why",
-   "link": "https://www.business-standard.com/markets/news/tata-motors-cv-share-price-gains-4-up-for-4th-straight-day-here-s-why-126111200273_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00"
   }
  ]
 }
