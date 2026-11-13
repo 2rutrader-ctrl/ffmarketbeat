@@ -1,12 +1,94 @@
 {
- "updated": "2026-11-13T08:01:21.486118+00:00",
+ "updated": "2026-11-13T08:15:46.463838+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee rises 7 paise to 94.05 against US dollar in early trade",
+   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-9405-against-us-dollar-in-early-trade/article71696539.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:15:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Food inflation to remain high for next few months, RBI may raise 25 bps in Dec: ICICI Bank",
+   "link": "https://www.thehindubusinessline.com/economy/food-inflation-to-remain-high-for-next-few-months-rbi-may-raise-25-bps-in-dec-icici-bank/article71696598.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:15:00+00:00",
+   "companies": [
+    "ICICI Bank"
+   ],
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Nifty Prediction Today – November 12, 2026: Nifty futures: Support holds",
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-12-2026-nifty-futures-support-holds/article71696672.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:15:00+00:00"
+  },
+  {
+   "title": "Honasa, Nykaa rally up to 4% in subdued market; record 52-week highs",
+   "link": "https://www.business-standard.com/markets/news/honasa-nykaa-rally-up-to-4-in-subdued-market-record-52-week-highs-126111300603_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:15:00+00:00"
+  },
+  {
+   "title": "Gold rate falling: Gold oversold, but further fall to $3,750 likely: Mirae Asset Sharekhan",
+   "link": "https://www.business-standard.com/markets/news/gold-oversold-but-further-fall-to-3-750-likely-mirae-asset-sharekhan-126111300668_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Delhivery partners with Tata Motors, Euler Motors, Montra Electric to deploy up to 2,000 eCVs",
+   "link": "https://www.thehindubusinessline.com/companies/delhivery-partners-with-tata-motors-euler-motors-montra-electric-to-deploy-up-to-2000-ecvs/article71696829.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:15:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "FGLOC to organise first Gold Summit in Kochi on November 17",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/fgloc-to-organise-first-gold-summit-in-kochi-on-november-17/article71696668.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Above 6% and Spreading: The inflation data the RBI cannot ignore",
    "link": "https://www.moneycontrol.com/news/opinion/above-6-and-spreading-the-inflation-data-the-rbi-cannot-ignore-14078945.html",
@@ -3219,78 +3301,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T18:00:00+00:00"
-  },
-  {
-   "title": "RBI revises domestic money transfer rules, sets cash pay-in and pay-out limits",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/banks-can-offer-cash-pay-in-and-pay-out-services-under-revised-domestic-money-transfer-norms/article71690997.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00"
-  },
-  {
-   "title": "Airtel's restored entry tariff highlights telcos' revenue-growth dilemma",
-   "link": "https://www.business-standard.com/opinion/editorial/airtel-s-restored-entry-tariff-highlights-telcos-revenue-growth-dilemma-126111101570_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ],
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "RBI issues domestic transfer norms; walk-in customers can send up to ₹50k",
-   "link": "https://www.hindustantimes.com/india-news/rbi-issues-domestic-transfer-norms-walk-in-customers-can-send-up-to-rs-50k-101794412658123.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00"
-  },
-  {
-   "title": "Benchmarks rise nearly 1%; auto, bank stocks lead gains amid FPI inflows",
-   "link": "https://www.business-standard.com/markets/news/benchmarks-rise-nearly-1-auto-bank-stocks-lead-gains-amid-fpi-inflows-126111101384_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00",
-   "thought": {
-    "topic": "Why foreign investor flows matter",
-    "short": "Foreign flows",
-    "text": "Foreign investor buying and selling is a large source of market liquidity. Sustained flows in either direction can influence index levels and the rupee."
-   }
-  },
-  {
-   "title": "Axis Trustee files contempt plea against Yes Bank over AT-1 bonds",
-   "link": "https://www.livemint.com/news/axis-trustee-files-contempt-plea-against-yes-bank-over-at-1-bonds-11794414358426.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T17:45:00+00:00"
-  },
-  {
-   "title": "Tata Power appoints renewable energy head Sanjay Banga as next CEO and MD",
-   "link": "https://www.moneycontrol.com/news/business/companies/tata-power-appoints-renewable-energy-head-sanjay-banga-as-next-ceo-and-md-14077410.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "India, France hold dialogues on economic security, space, technology",
-   "link": "https://www.thehindu.com/news/national/india-france-hold-dialogues-on-economic-security-space-technology/article71690750.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00"
   }
  ]
 }
