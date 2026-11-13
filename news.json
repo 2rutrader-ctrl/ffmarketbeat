@@ -1,12 +1,140 @@
 {
- "updated": "2026-11-13T10:01:17.549906+00:00",
+ "updated": "2026-11-13T10:15:49.400821+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 51 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "IDBI Bank sale: The price is only the first test",
+   "link": "https://www.livemint.com/opinion/online-views/idbi-bank-sale-the-price-is-only-the-first-test-11794547254641.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:15:00+00:00",
+   "companies": [
+    "IDBI Bank"
+   ]
+  },
+  {
+   "title": "Microsoft outage disrupts Colorado jail bond payments, delays release of prisoners",
+   "link": "https://www.hindustantimes.com/world-news/us-news/microsoft-outage-disrupts-colorado-jail-bond-payments-delays-release-of-prisoners-101794562136835.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:15:00+00:00"
+  },
+  {
+   "title": "Up 17% in YTD! Small-cap hotel stock under ₹200 jumps 4% after Q2 Results 2026; do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/up-17-in-ytd-small-cap-hotel-stock-under-rs-200-jumps-4-after-q2-results-2026-do-you-own-11794558406332.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:15:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Microsoft service disruption impacts IndiGo's email support services",
+   "link": "https://www.business-standard.com/industry/aviation/microsoft-service-disruption-impacts-indigo-s-email-support-services-126111300719_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:00:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Grasim Industries Q2 results: Standalone net profit up 187 per cent at Rs 2,306.2 cr",
+   "link": "https://www.moneycontrol.com/news/business/grasim-industries-q2-results-consolidated-net-loss-at-rs-234-crore-amid-pulp-jv-impairment-14079476.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Wakefit Innovations shares fall 3% after Q2 results; net profit flat, revenue rises 20%",
+   "link": "https://www.moneycontrol.com/news/business/markets/wakefit-innovations-shares-fall-3-after-q2-results-net-profit-flat-revenue-rises-20-14079494.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "\"Your banking isn't down\": HDFC Bank tells customers as Microsoft outage affects Outlook users",
+   "link": "https://www.moneycontrol.com/technology/your-banking-isn-t-down-hdfc-bank-tells-customers-as-microsoft-outage-affects-outlook-users-article-14079471.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:00:00+00:00",
+   "companies": [
+    "HDFC Bank"
+   ]
+  },
+  {
+   "title": "IPO-bound Atomberg looks beyond appliances with ₹100 crore R&D push",
+   "link": "https://www.business-standard.com/companies/start-ups/atomberg-ipo-rd-investment-consumer-appliances-drhp-126111300864_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "title": "Watrana Rentals Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
+   "link": "https://www.moneycontrol.com/ipo/watrana-rentals-ltd-wrl-ipodetail",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "title": "AI's $600 billion debt rush could push up borrowing costs across economy: Howard Mark",
+   "link": "https://www.moneycontrol.com/news/business/stocks/ai-s-600-billion-debt-rush-could-push-up-borrowing-costs-across-economy-howard-mark-14079512.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "title": "India's exports jump 29.9% to $89.99 billion in October, trade deficit narrows",
+   "link": "https://www.hindustantimes.com/india-news/indias-exports-jump-29-9-to-89-99-billion-in-october-trade-deficit-narrows-101794562510983.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "title": "US lawmakers push for tougher curbs on advanced AI chip exports to China",
+   "link": "https://www.business-standard.com/world-news/us-lawmakers-push-for-tougher-curbs-on-advanced-ai-chip-exports-to-china-126111300657_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "title": "Crystal Crop Protection Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details",
+   "link": "https://www.moneycontrol.com/ipo/crystal-crop-protection-ltd-ccp02-ipodetail",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:00:00+00:00"
+  },
   {
    "title": "Microsoft outage impacts IndiGo and Air India's email support services",
    "link": "https://www.thehindu.com/news/national/microsoft-outage-impacts-indigo-and-air-indias-email-support-services/article71697196.ece",
@@ -3183,155 +3311,6 @@
    "published": "2026-11-12T05:00:00+00:00",
    "companies": [
     "Adani Group"
-   ]
-  },
-  {
-   "title": "Tata Power shares rise after Q2 profit jumps 49%; brokerages eye growth prospects amid execution risks",
-   "link": "https://www.moneycontrol.com/news/business/markets/tata-power-shares-rise-after-q2-profit-jumps-49-brokerages-eye-growth-prospects-amid-execution-risks-14077833.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:00:00+00:00"
-  },
-  {
-   "title": "Buzzing Stocks: Bajaj Hindusthan Sugar slips on weak Q2 earnings; DCX Systems jumps 12% as losses narrow",
-   "link": "https://www.moneycontrol.com/news/business/buzzing-stocks-bajaj-hindusthan-sugar-slips-on-weak-q2-earnings-dcx-systems-jumps-12-as-losses-narrow-14076025.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Bajaj Finance shares in focus as QIP kicks off; floor price, other details",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-shares-in-focus-as-qip-kicks-off-floor-price-other-details-566950-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Royal Enfield Himalayan 750, Continental GT 750 and an electric scrambler: What is coming to India",
-   "link": "https://www.businesstoday.in/latest/trends/photo/royal-enfield-himalayan-750-continental-gt-750-and-an-electric-scrambler-what-is-coming-to-india-566957-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00",
-   "companies": [
-    "Eicher Motors"
-   ]
-  },
-  {
-   "title": "Tata Power says stake in Singapore arms pledged with lenders amid $650 million dispute: Report",
-   "link": "https://www.businesstoday.in/latest/corporate/story/tata-power-says-stake-in-singapore-arms-pledged-with-lenders-amid-650-million-dispute-report-566961-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "India saved $100 billion on fossil fuel imports in last 15 years with green energy push: IEA",
-   "link": "https://www.businesstoday.in/india/story/india-saved-100-billion-on-fossil-fuel-imports-in-last-15-years-with-green-energy-push-iea-566953-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00"
-  },
-  {
-   "title": "Coforge, Vedanta, Paytm, Adani Green, Groww shares: $2 bn inflows likely on MSCI rejig",
-   "link": "https://www.businesstoday.in/markets/stocks/story/coforge-vedanta-paytm-adani-green-groww-shares-2-bn-inflows-likely-on-msci-rejig-566956-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00",
-   "companies": [
-    "Vedanta",
-    "Adani Group",
-    "Paytm"
-   ]
-  },
-  {
-   "title": "ITC shares rise 2% as on hike in Gold Flake Premium cigarette rates",
-   "link": "https://www.businesstoday.in/markets/stocks/story/itc-shares-rise-as-gold-flake-premium-cigarette-prices-rise-566962-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:45:00+00:00",
-   "companies": [
-    "ITC"
-   ],
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Codelco, Adani Group sign agreement for copper exploration project",
-   "link": "https://www.business-standard.com/companies/news/codelco-adani-group-sign-agreement-for-copper-exploration-project-126111200010_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Adani Group eyes mix of equity, debt for $2.9 billion Evos takeover",
-   "link": "https://www.business-standard.com/companies/news/adani-group-eyes-mix-of-equity-debt-for-2-9-billion-evos-takeover-126111200163_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T04:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Nifty could move to 25,500-25,750; Paytm among 3 stock ideas: Ajit Mishra",
-   "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:45:00+00:00",
-   "companies": [
-    "Paytm"
-   ]
-  },
-  {
-   "title": "Buzzing stocks: Bajaj Finance, Tata Power, Adani Enterprises, Sandur Manganese, Alivus Life, Aurobindo Pharma",
-   "link": "https://www.thehindubusinessline.com/markets/buzzing-stocks-bajaj-finance-tata-power-adani-enterprises-sandur-manganese-alivus-life-aurobindo-pharma/article71692162.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:45:00+00:00",
-   "companies": [
-    "Bajaj Finance",
-    "Tata Power",
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "MSCI November rejig: LIC, Adani Green, Coforge and Meesho added; PI Industries excluded",
-   "link": "https://www.moneycontrol.com/news/business/msci-november-rejig-lic-adani-green-coforge-and-meesho-added-pi-industries-excluded-14077462.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:30:00+00:00",
-   "companies": [
-    "Adani Group",
-    "LIC"
    ]
   }
  ]
