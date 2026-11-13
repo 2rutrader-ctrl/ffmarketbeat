@@ -1,12 +1,89 @@
 {
- "updated": "2026-11-13T02:45:50.654291+00:00",
+ "updated": "2026-11-13T03:01:17.713052+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 5 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Commodity Corner: Oil holds gains on US-Iran tensions; gold near one-year low on rate hike bets",
+   "link": "https://www.moneycontrol.com/news/business/stocks/commodity-corner-oil-holds-gains-on-us-iran-tensions-gold-near-one-year-low-on-rate-hike-bets-14078640.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T03:00:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Trading Plan: Can Nifty 50 surpass Thursday's high, and Bank Nifty reclaim record peak amid expected consolidation?",
+   "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-surpass-thursday-s-high-and-bank-nifty-reclaim-record-peak-amid-expected-consolidation-14078897.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "title": "Daily Voice: Nifty at 30,000 by 2027? Alpha Capital's Akhil Bhardwaj sees 28,000 as base case",
+   "link": "https://www.moneycontrol.com/news/business/markets/daily-voice-nifty-at-30-000-by-2027-alpha-capital-s-akhil-bhardwaj-sees-28-000-as-base-case-14078646.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "title": "Anthropic's IPO is about six times oversubscribed, report says",
+   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-s-ipo-is-about-six-times-oversubscribed-report-says-14078609.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "title": "Silver market set for deficit even as solar makers cut back",
+   "link": "https://www.moneycontrol.com/news/business/commodities/silver-market-set-for-deficit-even-as-solar-makers-cut-back-14078648.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Friday, 13 November for Wangala Festival? Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-branches-closed-friday-13-november-wangala-festival-shillong-check-rbi-calendar-full-11794531544102.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T02:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "The US cut Cuba off from the world's oil. Now it runs on American fuel.",
+   "link": "https://www.livemint.com/global/the-us-cut-cuba-off-from-the-world-s-oil-now-it-runs-on-american-fuel-11794530825022.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T02:45:00+00:00"
+  },
+  {
+   "title": "SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate",
+   "link": "https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T02:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
   {
    "title": "US investment in science holds lessons for India's economic growth",
    "link": "https://www.hindustantimes.com/opinion/us-investment-in-science-holds-lessons-for-india-s-economic-growth-101794509361581.html",
@@ -3235,85 +3312,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Oil up 1% after Iran says no nuclear material will leave the country",
-   "link": "https://www.moneycontrol.com/world/oil-up-1-after-iran-says-no-nuclear-material-will-leave-the-country-article-14077244.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T10:45:00+00:00"
-  },
-  {
-   "title": "BHEL bags Rs 600-900 crore order from Power Grid for synchronous condensers in Gujarat",
-   "link": "https://www.moneycontrol.com/news/business/bhel-bags-rs-600-900-crore-order-from-power-grid-for-synchronous-condensers-in-gujarat-14077210.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T10:15:00+00:00",
-   "companies": [
-    "Power Grid"
-   ]
-  },
-  {
-   "title": "Waaree admitted misreporting solar import origin in submission to US trade commission",
-   "link": "https://www.moneycontrol.com/news/business/waaree-admitted-misreporting-solar-import-origin-in-submission-to-us-trade-commission-14077211.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T10:15:00+00:00"
-  },
-  {
-   "title": "Bhai Dooj | From Jigra to Bhaag Milkha Bhaag, 5 Bollywood films about the brother-sister bond you can revisit today",
-   "link": "https://www.hindustantimes.com/htcity/cinema/bhai-dooj-from-jigra-to-bhaag-milkha-bhaag-5-bollywood-films-about-the-brother-sister-bond-you-can-revisit-today-101794384804931.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T10:00:00+00:00"
-  },
-  {
-   "title": "Bajaj Finance to launch Rs 11,700 crore QIP this week: Report",
-   "link": "https://www.businesstoday.in/markets/stocks/story/bajaj-finance-to-launch-rs-11700-crore-qip-this-week-report-566825-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Top bets of Jhunjhunwala: Titan, IKS, TMCV & 3 others worth Rs 48,000 crore! What analysts say?",
-   "link": "https://www.businesstoday.in/markets/trending-stocks/story/top-bets-of-jhunjhunwala-titan-iks-tmcv-3-others-worth-rs-48000-crore-what-analysts-say-566824-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "Titan"
-   ]
-  },
-  {
-   "title": "PSBs edge private sector banks in Q2FY27 profit growth: SBI Research",
-   "link": "https://www.thehindubusinessline.com/money-and-banking/psbs-edge-private-sector-banks-in-q2fy27-profit-growth-sbi-research/article71688853.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "HDFC Bank shares cross ₹811 as shareholders approve Bagchi's appointment",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-cross-811-as-shareholders-approve-bagchis-appointment/article71688704.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T09:45:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
   }
  ]
 }
