@@ -1,12 +1,44 @@
 {
- "updated": "2026-11-13T17:15:58.510281+00:00",
+ "updated": "2026-11-13T17:31:07.111708+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 33 new items (12 files read)"
+  "gdelt": "ok, 38 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Iraq reopens decades-old oil route through Syria amid Strait of Hormuz disruption",
+   "link": "https://www.moneycontrol.com/world/iraq-reopens-decades-old-oil-route-through-syria-amid-strait-of-hormuz-disruption-article-14079840.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T17:30:00+00:00"
+  },
+  {
+   "title": "India not yet secure on food supply, needs to cut edible oil, pulses import dependence: NITI Aayog vice-chairman Ashok Kumar Lahiri",
+   "link": "https://www.moneycontrol.com/news/business/india-not-yet-secure-on-food-supply-needs-to-cut-edible-oil-pulses-import-dependence-niti-aayog-vice-chairman-ashok-kumar-lahiri-14079820.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T17:15:00+00:00"
+  },
+  {
+   "title": "Yes Bank files review petition in Supreme Court on AT-1 bonds case",
+   "link": "https://www.moneycontrol.com/news/business/banks/yes-bank-files-review-petition-in-supreme-court-on-at-1-bonds-case-14079829.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T17:15:00+00:00"
+  },
+  {
+   "title": "Anthropic IPO: China, Hong Kong investors face restrictions on placing orders",
+   "link": "https://www.moneycontrol.com/news/business/ipo/anthropic-ipo-china-hong-kong-investors-face-restrictions-on-placing-orders-14079835.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T17:15:00+00:00"
+  },
   {
    "title": "BCAS asks SEBI to allow CA firms to monitor IPO fund utilisation",
    "link": "https://www.thehindubusinessline.com/markets/bcas-wants-ca-firms-to-monitor-use-of-ipo-proceeds/article71697987.ece",
@@ -3299,46 +3331,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "BPCL's bid to counter Karnataka's E20 claims backfires as test images invite scrutiny; OMC deletes X post",
-   "link": "https://www.livemint.com/news/india/bpcls-bid-to-counter-karnataka-s-e20-claims-backfires-as-test-images-invite-scrutiny-omc-deletes-x-post-11794480836652.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T12:00:00+00:00",
-   "companies": [
-    "BPCL"
-   ]
-  },
-  {
-   "title": "Broader markets outperform: Mid, smallcaps gain for 4th straight day; PB Fintech, Paytm rally",
-   "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-outperform-mid-smallcaps-gain-for-4th-straight-day-pb-fintech-paytm-rally-14078358.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:45:00+00:00"
-  },
-  {
-   "title": "India's retail inflation rises to 6.09% in October, breaches RBI limit",
-   "link": "https://www.thehindubusinessline.com/economy/indias-retail-inflation-rises-to-609-in-october-breaches-rbis-upper-tolerance-limit/article71693402.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T11:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Venezuela tells COP31 it has sovereign right to pump more oil",
-   "link": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T11:45:00+00:00"
   }
  ]
 }
