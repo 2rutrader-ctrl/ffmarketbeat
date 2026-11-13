@@ -1,12 +1,84 @@
 {
- "updated": "2026-11-13T09:31:03.020227+00:00",
+ "updated": "2026-11-13T09:45:50.492764+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 43 new items (12 files read)"
+  "gdelt": "ok, 42 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Microsoft outage impacts IndiGo and Air India's email support services",
+   "link": "https://www.thehindu.com/news/national/microsoft-outage-impacts-indigo-and-air-indias-email-support-services/article71697196.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T09:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Bharti Airtel share buyback soon? How Sunil Bharti Mittal's telecom giant is rewarding investors",
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-share-buyback-soon-how-sunil-bharti-mittals-telecom-giant-is-rewarding-investors-567316-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T09:30:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ]
+  },
+  {
+   "title": "Airtel's Sunil Mittal bats for ₹350 monthly mobile tariffs per user, says current rates too low",
+   "link": "https://www.hindustantimes.com/india-news/airtels-sunil-mittal-bats-for-rs-350-monthly-mobile-tariffs-per-user-says-current-rates-too-low-101794552199603.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T09:30:00+00:00",
+   "companies": [
+    "Bharti Airtel"
+   ],
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
+  },
+  {
+   "title": "Supply shocks to weaken monetary policy effectiveness: CEA Nageswaran",
+   "link": "https://www.business-standard.com/finance/news/supply-shocks-to-weaken-monetary-policy-effectiveness-cea-nageswaran-126111300793_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T09:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Dish TV Q2 results: Net loss at ₹295 cr, higher than revenue of ₹292 cr",
+   "link": "https://www.business-standard.com/companies/quarterly-results/dish-tv-q2-results-net-loss-at-295-cr-higher-than-revenue-of-292-cr-126111300741_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T09:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "RBI approves appointment of Pratap Singh as MD & CEO of Fino Payments Bank",
+   "link": "https://www.business-standard.com/companies/news/rbi-approves-appointment-of-pratap-singh-as-md-ceo-of-fino-payments-bank-126111300702_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T09:30:00+00:00"
+  },
   {
    "title": "Brokers vs SEBI over erroneous trades: Brokers oppose proposal to divert profits to IPF while bearing all losses",
    "link": "https://www.moneycontrol.com/news/business/markets/brokers-vs-sebi-over-erroneous-trades-brokers-oppose-proposal-to-divert-profits-to-ipf-while-bearing-all-losses-14079316.html",
@@ -3260,65 +3332,6 @@
    "companies": [
     "Adani Group",
     "LIC"
-   ]
-  },
-  {
-   "title": "Cheap batteries for storage, low daytime tariffs, easy grid access will cut power shortage, costs",
-   "link": "https://www.thehindubusinessline.com/opinion/the-potential-of-indias-clean-power-ambition/article71690653.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T02:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "'Smart money bought earlier': Deepak Shenoy on FPIs' ₹60,698 crore buying spree in 7 days",
-   "link": "https://www.businesstoday.in/latest/economy/story/smart-money-bought-earlier-deepak-shenoy-on-fpis-rs60698-crore-buying-spree-in-7-days-566927-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:15:00+00:00"
-  },
-  {
-   "title": "Non-oil goods make up 15% of India's Russia imports in first half of FY27",
-   "link": "https://www.hindustantimes.com/business/non-oil-goods-make-up-15-of-india-s-russia-imports-in-first-half-of-fy27-101794423539011.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:15:00+00:00"
-  },
-  {
-   "title": "Gulf airlines oppose Adani's Navi Mumbai airport shift plan",
-   "link": "https://www.hindustantimes.com/business/gautam-adani-gulf-airlines-navi-mumbai-international-airport-gulf-air-saudia-101794446284465.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Stocks get a much-needed AI boost—but the Fed could spoil the party",
-   "link": "https://www.livemint.com/global/stocks-get-a-much-needed-ai-boost-but-the-fed-could-spoil-the-party-11794445070752.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T02:00:00+00:00"
-  },
-  {
-   "title": "Thinking about buying the dip in HDFC Bank? Here are the pros and cons.",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-hdfc-bank-stock-hdfc-bank-share-price-11794395992177.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T02:00:00+00:00",
-   "companies": [
-    "HDFC Bank"
    ]
   }
  ]
