@@ -1,12 +1,63 @@
 {
- "updated": "2026-11-13T08:31:08.747957+00:00",
+ "updated": "2026-11-13T08:45:54.474499+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 41 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "List: Which everyday expenses are hitting your pocket harder as CPI crosses 6%, food inflation nears 9% in Oct 2026?",
+   "link": "https://www.livemint.com/money/personal-finance/list-which-everyday-expenses-are-hitting-your-pocket-harder-as-cpi-crosses-6-food-inflation-nears-9-in-oct-2026-11794553476062.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T08:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Bulk Scotch whisky imports held up at Indian ports: Commerce, Finance ministries meet to resolve dispute over duties",
+   "link": "https://www.livemint.com/news/india/bulk-scotch-whisky-imports-held-up-at-indian-ports-commerce-finance-ministries-meet-to-resolve-dispute-over-duties-11794551143056.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:45:00+00:00"
+  },
+  {
+   "title": "Mega AI Anthropic IPO details: Share price band, valuation, listing date - All you need to know about the upcoming issue",
+   "link": "https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-share-price-band-valuation-listing-date-all-you-need-to-know-about-the-upcoming-issue-11794552663877.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T08:45:00+00:00"
+  },
+  {
+   "title": "Meet Omni Bridgeway, the litigation funder eyeing up to a $260 million windfall from Tata Power arbitration award",
+   "link": "https://www.livemint.com/companies/news/omni-bridgeway-litigation-funder-tata-power-arbitration-payout-11794546306156.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:45:00+00:00",
+   "companies": [
+    "Tata Power"
+   ]
+  },
+  {
+   "title": "Leh road trip turns into nightmare for Royal Enfield owner after bike loses power: How he won ₹1 lakh in consumer court?",
+   "link": "https://www.livemint.com/money/personal-finance/leh-road-trip-turns-into-nightmare-for-royal-enfield-owner-after-bike-loses-power-how-he-won-1-lakh-in-consumer-court-11794546041733.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:45:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ]
+  },
   {
    "title": "SpaceX and Tesla merger: Elon Musk's trillion dollar mega deal could come as soon as December 2026",
    "link": "https://www.businesstoday.in/technology/news/story/spacex-and-tesla-merger-elon-musks-trillion-dollar-mega-deal-could-come-as-soon-as-december-2026-567301-2026-11-13",
@@ -3249,62 +3300,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T23:00:00+00:00"
-  },
-  {
-   "title": "India–EU FTA's €119 billion trade promise: Could Europe's fiscal troubles threaten Indian exporters?",
-   "link": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T23:00:00+00:00"
-  },
-  {
-   "title": "Fairfax likely to exit IIFL Finance to fund its acquisition of IDBI Bank",
-   "link": "https://www.business-standard.com/industry/banking/fairfax-likely-to-exit-iifl-finance-to-fund-its-acquisition-of-idbi-bank-126111100864_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T20:45:00+00:00",
-   "companies": [
-    "IDBI Bank"
-   ]
-  },
-  {
-   "title": "Karnataka Minister Eshwar Khandre asks officials to blacklist Larsen & Toubro for 'delaying' works",
-   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-minister-eshwar-khandre-asks-officials-to-blacklist-larsen-toubro-for-delaying-works/article71690624.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T20:15:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
-   "link": "https://www.livemint.com/companies/usbacked-lithium-americas-hit-by-rising-costs-on-trump-tariffs-11794422211711.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T20:15:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Gold ornament presented for deity in Parthasarathi temple",
-   "link": "https://www.thehindu.com/news/cities/chennai/gold-ornament-presented-for-deity-in-parthasarathi-temple/article71690548.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T18:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
