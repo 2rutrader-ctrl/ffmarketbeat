@@ -1,12 +1,56 @@
 {
- "updated": "2026-11-13T08:15:46.463838+00:00",
+ "updated": "2026-11-13T08:31:08.747957+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 42 new items (12 files read)"
+  "gdelt": "ok, 41 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "SpaceX and Tesla merger: Elon Musk's trillion dollar mega deal could come as soon as December 2026",
+   "link": "https://www.businesstoday.in/technology/news/story/spacex-and-tesla-merger-elon-musks-trillion-dollar-mega-deal-could-come-as-soon-as-december-2026-567301-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T08:30:00+00:00"
+  },
+  {
+   "title": "Black Box Q2 earnings: Net profit at Rs 73 crore, revenue hits record, stock movement and more",
+   "link": "https://www.businesstoday.in/markets/stocks/story/black-box-q2-earnings-net-profit-at-rs-73-crore-revenue-hits-record-stock-movement-and-more-567305-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Microsoft outage affects communication channels of Air India, Akasa, IndiGo airlines; advisories issued",
+   "link": "https://www.hindustantimes.com/india-news/microsoft-outage-affects-communication-channels-several-indian-airlines-indigo-air-india-advisory-issued-101794551225027.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Bajaj Auto tops auto PLI payouts in FY26, ahead of Tata Motors, Ola",
+   "link": "https://www.business-standard.com/industry/auto/bajaj-auto-pli-incentive-fy26-niti-aayog-iim-ahmedabad-jobs-investment-126111300728_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T08:30:00+00:00",
+   "companies": [
+    "Bajaj Auto",
+    "Tata Motors"
+   ]
+  },
   {
    "title": "Rupee rises 7 paise to 94.05 against US dollar in early trade",
    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-9405-against-us-dollar-in-early-trade/article71696539.ece",
@@ -3261,46 +3305,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Drone industry needs deeper localisation as import dependence poses risks: DFI",
-   "link": "https://www.thehindu.com/news/national/karnataka/drone-industry-needs-deeper-localisation-as-import-dependence-poses-risks-dfi/article71689910.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T18:30:00+00:00"
-  },
-  {
-   "title": "Nifty eyes record as largecaps lead charge on strong corporate earnings",
-   "link": "https://www.business-standard.com/markets/news/nifty-eyes-record-as-largecaps-lead-charge-on-strong-corporate-earnings-126111101368_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "From Reliance to Sarvam, Nvidia sits at the heart of India's AI plans",
-   "link": "https://www.business-standard.com/companies/start-ups/from-reliance-to-sarvam-nvidia-sits-at-the-heart-of-india-s-ai-plans-126111101483_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "RBI consolidates money transfer rules, allows ₹50,000 cash NEFT transfers",
-   "link": "https://www.business-standard.com/industry/banking/rbi-consolidates-money-transfer-rules-allows-50-000-cash-neft-transfers-126111101533_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T18:00:00+00:00"
   }
  ]
 }
