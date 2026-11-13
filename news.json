@@ -1,12 +1,52 @@
 {
- "updated": "2026-11-13T13:45:54.410579+00:00",
+ "updated": "2026-11-13T14:01:24.450534+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 36 new items (12 files read)"
+  "gdelt": "ok, 45 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
+   "link": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:00:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Haldiram IPO in making: Namkeen to D-Street, snack giant eyes stock market debut - Check listing timeline, valuation",
+   "link": "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T14:00:00+00:00"
+  },
+  {
+   "title": "Paytm shares cross ₹1,955 IPO listing-day high after nearly five years; what's boosting investor confidence?",
+   "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T14:00:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "Nvidia processors power Chinese AI data centre projects worth $3 billion despite US export controls: Report",
+   "link": "https://www.livemint.com/ai/artificial-intelligence/nvidia-processors-power-chinese-ai-data-centre-projects-worth-3-billion-despite-us-export-controls-report-11794564548863.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T14:00:00+00:00"
+  },
   {
    "title": "Indian fintech firm Razorpay gets regulatory nod for IPO",
    "link": "https://www.thehindu.com/business/indian-fintech-firm-razorpay-gets-regulatory-nod-for-ipo/article71698143.ece",
@@ -3281,54 +3321,6 @@
     "topic": "How crude oil prices reach the market",
     "short": "Crude oil",
     "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in Oct",
-   "link": "https://www.moneycontrol.com/news/business/markets/hdfc-life-other-life-insurance-companies-stocks-rise-up-to-4-as-1st-year-premium-income-up-26-yoy-in-oct-14078181.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:30:00+00:00",
-   "companies": [
-    "HDFC Life"
-   ]
-  },
-  {
-   "title": "18 terrorists, 10 policemen killed in gunfight during gold mining crackdown in Pakistan",
-   "link": "https://www.moneycontrol.com/world/18-terrorists-10-policemen-killed-in-ambush-during-gold-mining-crackdown-in-pakistan-article-14078164.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T09:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Bengaluru researcher among six Infosys Science Foundation prize winners for 2026",
-   "link": "https://www.thehindu.com/news/cities/bangalore/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:15:00+00:00",
-   "companies": [
-    "Infosys"
-   ]
-  },
-  {
-   "title": "Dubai-based Keralite loses ₹2.11 crore in alleged forex trading scam run through Telegram",
-   "link": "https://www.thehindu.com/news/national/kerala/dubai-based-keralite-loses-211-crore-in-alleged-forex-trading-scam-run-through-telegram/article71692748.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:15:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
