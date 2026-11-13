@@ -1,12 +1,160 @@
 {
- "updated": "2026-11-13T10:45:50.503790+00:00",
+ "updated": "2026-11-13T11:01:23.789088+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 32 new items (12 files read)"
+  "gdelt": "ok, 64 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "NATCO Pharma Q2 results: Consolidated net profit falls 61% to Rs 203 crore",
+   "link": "https://www.businesstoday.in/markets/stocks/story/natco-pharma-q2-results-consolidated-profit-falls-61-to-rs-203-crore-567351-2026-11-13",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Silver Beach in Cuddalore gets coveted Blue Flag tag",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/silver-beach-in-cuddalore-gets-coveted-blue-flag-tag/article71697507.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T11:00:00+00:00"
+  },
+  {
+   "title": "Gold demand stays firm as lower prices draw festive buying",
+   "link": "https://www.thehindubusinessline.com/markets/gold/gold-demand-stays-firm-as-lower-prices-draw-festive-buying/article71696958.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T11:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+   "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:00:00+00:00"
+  },
+  {
+   "title": "India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high",
+   "link": "https://www.thehindu.com/news/national/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high/article71697554.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:00:00+00:00"
+  },
+  {
+   "title": "Microsoft outage impacts IndiGo's email support services - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/microsoft-outage-impacts-indigos-email-support-services/article71697132.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T11:00:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "India to honour 75% duty concession on bulk Scotch imports from UK",
+   "link": "https://www.thehindubusinessline.com/economy/policy/india-to-honour-75-import-duty-concession-on-bulk-scotch-from-uk-says-trade-secretary/article71697514.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00"
+  },
+  {
+   "title": "Paytm gets preliminary RBI nod for wallet licence; shares hit record high",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high/article71697508.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00"
+  },
+  {
+   "title": "Gold-silver, Nifty-gold and Sensex-gold ratios: What do they signal for investors?",
+   "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-silver-nifty-gold-and-sensex-gold-ratios-what-do-they-signal-for-investors-14079567.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "TVS Motor's India 2W business head Gaurav Gupta to exit on December 24",
+   "link": "https://www.thehindubusinessline.com/companies/tvs-motors-india-2w-business-head-gaurav-gupta-to-exit-on-december-24/article71697425.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00",
+   "companies": [
+    "TVS Motor"
+   ]
+  },
+  {
+   "title": "Supply-driven inflation: Why interest rate hikes may become less effective",
+   "link": "https://www.thehindubusinessline.com/economy/supply-shocks-could-weaken-effectiveness-of-interest-rate-hikes-warns-chief-economic-advisor/article71697271.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T10:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "KPI Green Energy Q2 net profit dips 21% to ₹92 cr - The HinduBusinessLine",
+   "link": "https://www.thehindubusinessline.com/companies/kpi-green-energy-q2-net-profit-dips-21-to-92-cr/article71697258.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Paytm gets preliminary RBI nod for wallet licence; shares hit record high",
+   "link": "https://www.hindustantimes.com/business/paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high-101794564682681.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00"
+  },
+  {
+   "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
+   "link": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T10:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Paytm shares reclaim listing price for first time in five years; RBI nod for wallet business boosts sentiment",
    "link": "https://www.moneycontrol.com/news/business/markets/paytm-shares-reclaim-listing-price-for-first-time-in-five-years-rbi-nod-for-wallet-business-boosts-sentiment-14079592.html",
@@ -3144,173 +3292,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Gold, silver prices on November 12: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-   "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-12-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-566971-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets/article71692273.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "HFCL secures international export orders worth ₹834.36 crore for optical fibre cables",
-   "link": "https://www.thehindubusinessline.com/info-tech/hfcl-secures-international-export-orders-worth-83436-crore-for-optical-fibre-cables/article71692290.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00"
-  },
-  {
-   "title": "Rupee falls 6 paise to 93.77 against US dollar in early trade",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-6-paise-to-9377-against-us-dollar-in-early-trade/article71692325.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Tata Power eyes more state pacts to boost Mundra tariffs - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/tata-power-eyes-more-state-pacts-to-boost-mundra-tariffs/article71692202.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "companies": [
-    "Tata Power"
-   ],
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "FII drive Nifty rally; all eyes on inflation print - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/fii-drive-nifty-rally-all-eyes-on-inflation-print/article71692272.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Flattish opening seen for Indian stocks; markets eye release of inflation data",
-   "link": "https://www.thehindubusinessline.com/markets/flattish-opening-seen-for-indian-stocks-markets-to-eye-release-of-inflation-data/article71692174.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Crude oil futures fall amid reports of planned US-Iran talks",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-amid-reports-of-planned-us-iran-talks/article71692281.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Adani's Kutch Copper, Codelco sign MoU to explore copper project in Chile",
-   "link": "https://www.thehindubusinessline.com/companies/adanis-kutch-copper-codelco-sign-mou-to-explore-copper-project-in-chile/article71692279.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:45:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Govt prohibits lithium-ion battery black mass exports",
-   "link": "https://www.hindustantimes.com/india-news/govt-prohibits-lithium-ion-battery-black-mass-exports-101794423059875.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:30:00+00:00"
-  },
-  {
-   "title": "₹50-crore bio-economy mission proposed for Kalyana Karnataka",
-   "link": "https://www.thehindu.com/news/national/karnataka/50-crore-bio-economy-mission-proposed-for-kalyana-karnataka/article71690149.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:30:00+00:00"
-  },
-  {
-   "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-climb-in-early-trade-led-by-foreign-fund-inflows-lower-crude-oil-prices/article71692361.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T05:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Rupee falls 6 paise to 93.77 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-falls-6-paise-to-9377-against-us-dollar-in-early-trade/article71692324.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on Thursday, 12 November? Check RBI calendar this week",
-   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-pnb-canara-branch-working-open-thursday-12-november-check-rbi-calendar-dates-this-week-11794444604284.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T05:15:00+00:00",
-   "companies": [
-    "State Bank of India",
-    "Punjab National Bank"
-   ]
   }
  ]
 }
