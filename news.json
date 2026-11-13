@@ -1,12 +1,112 @@
 {
- "updated": "2026-11-13T07:45:47.156227+00:00",
+ "updated": "2026-11-13T08:01:21.486118+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 39 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Above 6% and Spreading: The inflation data the RBI cannot ignore",
+   "link": "https://www.moneycontrol.com/news/opinion/above-6-and-spreading-the-inflation-data-the-rbi-cannot-ignore-14078945.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Amber Enterprises shares surge 14% post-Q2 results",
+   "link": "https://www.moneycontrol.com/news/business/markets/amber-enterprises-shares-surge-14-post-q2-results-14079291.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Agrochemicals maker Crystal Crop Protection seeks Rs 4,438-crore valuation via IPO",
+   "link": "https://www.moneycontrol.com/news/business/ipo/agrochemicals-maker-crystal-crop-protection-seeks-rs-4-438-crore-valuation-via-ipo-14079155.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00"
+  },
+  {
+   "title": "Watrana Rentals to launch Rs 120-crore IPO on November 19; sets price band at Rs 232–245",
+   "link": "https://www.moneycontrol.com/news/business/ipo/watrana-rentals-to-launch-rs-120-crore-ipo-on-november-19-sets-price-band-at-rs-232-245-14079217.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00"
+  },
+  {
+   "title": "Bank Nifty snaps 3-day rally, trades near 61,100; IndusInd, HDFC Bank lead losses: What lies ahead?",
+   "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-snaps-3-day-rally-trades-near-61-100-indusind-hdfc-bank-lead-losses-what-lies-ahead-14079175.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00"
+  },
+  {
+   "title": "IndiGo says email support hit by Microsoft outage, directs flyers to 6E Skai for urgent help",
+   "link": "https://www.moneycontrol.com/technology/indigo-says-email-support-hit-by-microsoft-outage-directs-flyers-to-6e-skai-for-urgent-help-article-14079154.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00",
+   "companies": [
+    "IndiGo"
+   ]
+  },
+  {
+   "title": "Alkem Labs' Q2 net profit falls 14% to Rs 667 crore, shares decline 3%",
+   "link": "https://www.moneycontrol.com/news/business/markets/alkem-labs-q2-net-profit-falls-14-to-rs-667-crore-shares-decline-3-14079296.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Manappuram Finance falls 4% post-Q2 results; CLSA upgrades stock",
+   "link": "https://www.moneycontrol.com/news/business/markets/manappuram-finance-falls-4-post-q2-results-clsa-upgrades-stock-14079236.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T07:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Chart of the Day | Falling gold prices may lift retailers' performance",
+   "link": "https://www.moneycontrol.com/news/opinion/chart-of-the-day-falling-gold-prices-may-lift-retailers-performance-14079182.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T07:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
   {
    "title": "Alkem shares fall 3% after Q2 results; MOFSL retains Neutral rating",
    "link": "https://www.business-standard.com/markets/news/alkem-shares-fall-3-after-q2-results-mofsl-retains-neutral-rating-126111300548_1.html",
@@ -3191,112 +3291,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-11T17:15:00+00:00"
-  },
-  {
-   "title": "Cochin Shipyard shares tumble 7%: Weak Q2 earnings overshadow Rs 500 crore MoD order",
-   "link": "https://www.businesstoday.in/markets/stocks/story/cochin-shipyard-shares-tumble-7-weak-q2-earnings-overshadow-rs-500-crore-mod-order-566918-2026-11-11",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Q2 Results 11th Nov Oct Highlights: GRSE & Power Mech's Q2 profit rise, Tata Power, Hindustan Copper, Lalithaa Jewellery, MIDHANI to announce Q2 results",
-   "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-tata-power-company-cupid-hindustan-copper-garden-reach-shipbuilders-lalithaa-jewellery-triveni-turbine-tsf-mrf-kalyan-jewellers-company-results-11-november-2026/article71685748.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00",
-   "companies": [
-    "Tata Power"
-   ],
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Scotch imports: Finance, Commerce Ministries look for resolution as Diageo, Pernod shipments held up",
-   "link": "https://www.thehindubusinessline.com/economy/scotch-imports-finance-commerce-ministries-look-for-resolution-as-diageo-pernod-shipments-held-up/article71690429.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T17:15:00+00:00"
-  },
-  {
-   "title": "Crude oil prices may fall to $75 by December as West Asia tensions ease",
-   "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-may-fall-to-75-by-december-as-west-asia-tensions-ease/article71690797.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Bajaj Finance launches ₹11,700-crore QIP at ₹992.25 per share",
-   "link": "https://www.thehindubusinessline.com/markets/bajaj-finance-launches-11700-crore-share-sale-sets-floor-price-at-99225/article71690436.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00",
-   "companies": [
-    "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Lalithaa Jewellery Q2 net profit climbs 4.5% to ₹253 crore",
-   "link": "https://www.thehindubusinessline.com/companies/lalithaa-jewellery-q2-net-profit-climbs-45-to-253-crore/article71690805.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T17:15:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "SEBI directs market intermediaries to update KYC, tax-reporting systems under new income tax rules",
-   "link": "https://www.moneycontrol.com/news/business/markets/sebi-directs-market-intermediaries-to-update-kyc-tax-reporting-systems-under-new-income-tax-rules-14077399.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:45:00+00:00",
-   "thought": {
-    "topic": "How SEBI rules shape the market",
-    "short": "SEBI rules",
-    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
-   }
-  },
-  {
-   "title": "Chittoor, Annamayya mango growers fear dry spell, rainfall deficit likely to impact 2027 yields",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-annamayya-mango-growers-fear-dry-spell-rainfall-deficit-likely-to-impact-2027-yields/article71689549.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T16:30:00+00:00"
-  },
-  {
-   "title": "Who is Sanjay Banga? Meet Tata Power's new CEO, a Harvard alumnus with 37 years of power sector experience",
-   "link": "https://www.livemint.com/companies/people/who-is-sanjay-banga-meet-tata-powers-new-ceo-a-harvard-alumnus-with-37-years-of-power-sector-experience-11794409947305.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T16:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
   }
  ]
 }
