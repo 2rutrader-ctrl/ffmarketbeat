@@ -1,12 +1,76 @@
 {
- "updated": "2026-11-13T13:31:07.299401+00:00",
+ "updated": "2026-11-13T13:45:54.410579+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 49 new items (12 files read)"
+  "gdelt": "ok, 36 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Indian fintech firm Razorpay gets regulatory nod for IPO",
+   "link": "https://www.thehindu.com/business/indian-fintech-firm-razorpay-gets-regulatory-nod-for-ipo/article71698143.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:45:00+00:00"
+  },
+  {
+   "title": "Sembcorp Green Infra IPO: Temasek-backed renewable energy company gets SEBI nod for ₹3,750 crore public issue",
+   "link": "https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "Paytm gets RBI's in-principle nod to revive wallet business; shares hit record high",
+   "link": "https://www.thehindu.com/business/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high/article71697554.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:45:00+00:00"
+  },
+  {
+   "title": "Paytm gets RBI nod for digital wallet business: When can users add money and make payments through Paytm Wallet again?",
+   "link": "https://www.livemint.com/companies/paytm-gets-rbi-nod-for-digital-wallet-business-when-can-users-add-money-and-make-payments-through-paytm-wallet-again-11794564726627.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:45:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
+  {
+   "title": "Cockroaches, rodents, spoiled food: Why Biryani By Kilo, ITC Aashirwad were among 8 outlets shut in Hyderabad raids",
+   "link": "https://www.livemint.com/companies/news/cockroaches-rodents-spoiled-food-why-biryani-by-kilo-itc-aashirwad-were-among-8-outlets-shut-in-hyderabad-raids-11794568637920.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T13:45:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
+  {
+   "title": "Forex reserves rise $2.49 billion to $719.55 billion, first weekly increase since September 4",
+   "link": "https://www.moneycontrol.com/news/business/banks/forex-reserves-rise-2-49-billion-to-719-55-billion-first-weekly-increase-since-september-4-14079758.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T13:45:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Royal Enfield Himalayan 750: Peak Easy - The HinduBusinessLine",
    "link": "https://www.thehindubusinessline.com/specials/auto-focus/royal-enfield-himalayan-750-peak-easy/article71697435.ece",
@@ -3265,62 +3329,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "India's FTAs to open access to $85 trillion of global economy: Piyush Goyal",
-   "link": "https://www.thehindubusinessline.com/economy/indias-ftas-to-open-access-to-85-trillion-of-global-economy-piyush-goel/article71692709.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "title": "Financial stocks hold Nifty steady at midday; Auto, FMCG drag",
-   "link": "https://www.thehindubusinessline.com/markets/financial-stocks-hold-nifty-steady-at-midday-auto-fmcg-drag/article71692751.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "title": "Nifty Prediction Today – November 12, 2026: Nifty futures: Retains positive inclination",
-   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-12-2026-nifty-futures-retains-positive-inclination/article71692433.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "title": "Infosys Science Foundation announces six winners of Infosys Prize 2026",
-   "link": "https://www.thehindubusinessline.com/companies/infosys-science-foundation-announces-six-winners-of-infosys-prize-2026/article71692798.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00",
-   "companies": [
-    "Infosys"
-   ]
-  },
-  {
-   "title": "HDFC Bank holds above ₹811 for second straight day as rally consolidates",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-holds-above-811-for-second-straight-day-as-rally-consolidates/article71692630.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "title": "Ola Electric shares rise 4% ahead of Q2 results; earnings call set for today",
-   "link": "https://www.thehindubusinessline.com/markets/stock-markets/ola-electric-shares-rise-4-ahead-of-q2-results-earnings-call-set-for-today/article71692652.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T09:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
   }
  ]
