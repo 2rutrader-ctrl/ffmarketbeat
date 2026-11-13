@@ -1,12 +1,71 @@
 {
- "updated": "2026-11-13T05:15:49.681784+00:00",
+ "updated": "2026-11-13T05:31:04.600558+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 35 new items (12 files read)"
+  "gdelt": "ok, 27 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Jindal Power taps Axis Bank, ICICI Bank and Exim Bank for $470 million Botswana loan",
+   "link": "https://www.moneycontrol.com/news/business/jindal-power-taps-axis-bank-icici-bank-and-exim-bank-for-470-million-botswana-loan-14079092.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:30:00+00:00",
+   "companies": [
+    "ICICI Bank",
+    "Axis Bank"
+   ]
+  },
+  {
+   "title": "Buzzing Stocks: TD Power, Automotive Axles gain up to 10% on strong Q2 earnings, Ola Electric, Vodafone Idea decline 2% each",
+   "link": "https://www.moneycontrol.com/news/business/stocks/buzzing-stocks-td-power-automotive-axles-gain-up-to-10-on-strong-q2-earnings-ola-electric-vodafone-idea-decline-2-each-14078645.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Hitachi Energy shares rally 12% on strong Q2 results; stock up 72% in 2026, here's what brokerages say",
+   "link": "https://www.moneycontrol.com/news/business/markets/hitachi-energy-shares-rally-12-on-strong-q2-results-stock-up-72-in-2026-here-s-what-brokerages-say-14079079.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "October inflation crossing 6% strengthens case for another 25 bps rate hike in December, say experts",
+   "link": "https://www.moneycontrol.com/news/business/banks/october-inflation-crossing-6-strengthens-case-for-another-25-bps-rate-hike-in-december-say-experts-14078990.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T05:30:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Carlsberg India IPO may raise $600 million at $4 billion valuation; January launch on cards",
+   "link": "https://www.moneycontrol.com/news/business/ipo/carlsberg-india-ipo-may-raise-600-million-at-4-billion-valuation-january-launch-on-cards-14078982.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T05:30:00+00:00"
+  },
   {
    "title": "Rupee rises 7 paise to 94.05 against U.S. dollar in early trade",
    "link": "https://www.thehindu.com/business/Industry/rupee-rises-7-paise-to-9405-against-us-dollar-in-early-trade/article71696547.ece",
@@ -3230,67 +3289,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-11T14:15:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia raises oil output 26% in October to highest level since war began",
-   "link": "https://www.moneycontrol.com/news/business/saudi-arabia-raises-oil-output-26-in-october-to-highest-level-since-war-began-14077357.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-11T14:00:00+00:00",
-   "thought": {
-    "topic": "How geopolitical events reach markets",
-    "short": "Geopolitics",
-    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
-   }
-  },
-  {
-   "title": "EAAA India Alternatives Q2 results 2026: Net profit jumps 27%; 140% interim dividend of ₹7/share; check record date",
-   "link": "https://www.livemint.com/market/stock-market-news/eaaa-india-alternatives-q2-results-2026-net-profit-jumps-27-140-interim-dividend-of-rs-7-share-check-record-date-11794399717392.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "'Trashed Panda' strikes gold: Drunk raccoon's viral liquor store stunt helps raise ₹2.3 crore for animal shelter",
-   "link": "https://www.livemint.com/news/trends/trashed-panda-strikes-gold-drunk-raccoon-s-viral-liquor-store-stunt-helps-raise-rs-2-3-crore-for-animal-shelter-11794398455599.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:30:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "Who is Shuchi Suri? Mahindra & Mahindra appoints Executive VP as Chief Sales and Marketing officer - Automotive",
-   "link": "https://www.livemint.com/companies/people/who-is-shuchi-suri-mahindra-mahindra-appoints-executive-vp-as-chief-sales-and-marketing-officer-automotive-11794395531417.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:30:00+00:00",
-   "companies": [
-    "Mahindra & Mahindra"
-   ]
-  },
-  {
-   "title": "HDFC Bank raises MCLR by 5-15 bps across all tenures: Check new lending rates and what they mean for your loan EMIs",
-   "link": "https://www.livemint.com/money/personal-finance/hdfc-bank-raises-mclr-by-5-15-bps-across-all-tenures-check-new-lending-rates-and-what-they-mean-for-your-loan-emis-11794396761391.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-11T13:30:00+00:00",
-   "companies": [
-    "HDFC Bank"
-   ]
   }
  ]
 }
