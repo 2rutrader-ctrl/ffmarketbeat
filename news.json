@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-13T19:16:05.126142+00:00",
+ "updated": "2026-11-13T19:31:10.070823+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 31 new items (12 files read)"
+  "gdelt": "ok, 20 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Rajya Sabha panel visits ISRO, HAL facilities in Bengaluru",
+   "link": "https://www.thehindu.com/news/national/karnataka/rajya-sabha-panel-visits-isro-hal-facilities-in-bengaluru/article71698110.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T19:30:00+00:00",
+   "companies": [
+    "HAL"
+   ]
+  },
   {
    "title": "World oil market is returning to surplus as Gulf exports recover, says IEA",
    "link": "https://www.business-standard.com/world-news/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-says-iea-126111301898_1.html",
@@ -3293,14 +3304,6 @@
     "short": "Inflation",
     "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
    }
-  },
-  {
-   "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-   "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T13:15:00+00:00"
   }
  ]
 }
