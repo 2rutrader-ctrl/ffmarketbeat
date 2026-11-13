@@ -1,12 +1,72 @@
 {
- "updated": "2026-11-13T12:31:07.857489+00:00",
+ "updated": "2026-11-13T12:45:48.422392+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 50 new items (12 files read)"
+  "gdelt": "ok, 57 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sembcorp Green Infra, Razorpay, MakeMyTrip get SEBI nod for IPOs",
+   "link": "https://www.moneycontrol.com/news/business/ipo/sembcorp-green-infra-razorpay-makemytrip-get-sebi-nod-for-ipos-14079725.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "BCAS urges Sebi to allow CA firms to monitor issue proceeds of companies",
+   "link": "https://www.business-standard.com/markets/news/bcas-urges-sebi-to-allow-ca-firms-to-monitor-issue-proceeds-of-companies-126111301243_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:45:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
+  {
+   "title": "RBI approves Pratap Singh as Fino Payments Bank MD and CEO for 3 years",
+   "link": "https://www.business-standard.com/companies/news/rbi-approves-pratap-singh-as-fino-payments-bank-md-and-ceo-for-3-years-126111301237_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:45:00+00:00"
+  },
+  {
+   "title": "RBI may raise repo rate to 6% by February as inflation breaches upper band",
+   "link": "https://www.business-standard.com/finance/news/rbi-repo-rate-6-percent-december-february-policy-inflation-october-126111300961_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "MC Poll | Economists forecast 25 bps rate hike in Dec MPC meet after Oct inflation crosses 6 percent",
+   "link": "https://www.moneycontrol.com/news/business/banks/mc-poll-economists-forecast-25-bps-rate-hike-in-dec-mpc-meet-after-oct-inflation-crosses-6-percent-14079723.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:45:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
   {
    "title": "Grasim Industries Q2FY27 results: Net profit jumps to ₹2,306 crore",
    "link": "https://www.business-standard.com/companies/quarterly-results/grasim-industries-q2fy27-results-net-profit-jumps-to-2-306-crore-126111300877_1.html",
@@ -43,6 +103,32 @@
    "companies": [
     "Tata Motors"
    ]
+  },
+  {
+   "title": "MP man dies after crude bomb hidden inside rasgulla explodes in his mouth, 2 held",
+   "link": "https://www.hindustantimes.com/india-news/mp-man-dies-after-crude-bomb-hidden-inside-rasgulla-explodes-in-his-mouth-2-held-101794567014909.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-13T12:15:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
+   "link": "https://www.thehindu.com/news/national/in-major-breakthrough-us-assures-india-of-comparative-tariff-advantage-over-its-competitors/article71697805.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-13T12:15:00+00:00",
+   "thought": {
+    "topic": "How trade duties work through markets",
+    "short": "Trade duties",
+    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
+   }
   },
   {
    "title": "Microsoft services down: Air India reroutes emails, IndiGo and Akasa warn passengers of support delays",
@@ -3225,81 +3311,6 @@
    "published": "2026-11-12T08:00:00+00:00",
    "companies": [
     "Bajaj Finance"
-   ]
-  },
-  {
-   "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
-   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-12-november-check-retail-rates-delhi-mumbai-bangalore-coimbatore-chennai-11794462245516.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:00:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "India bans lithium-ion battery black mass exports: What led to the move and what happens next?",
-   "link": "https://www.livemint.com/companies/news/india-bans-lithium-ion-battery-black-mass-exports-what-led-to-the-move-and-what-happens-next-11794466823336.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T08:00:00+00:00"
-  },
-  {
-   "title": "Inside Anthropic's mega $64 billion IPO: Valuation, revenue, risks and more",
-   "link": "https://www.business-standard.com/world-news/inside-anthropic-s-mega-64-billion-ipo-valuation-revenue-risks-and-more-126111200434_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T07:45:00+00:00"
-  },
-  {
-   "title": "Adani Enterprises arm Kutch Copper inks MoU with Chile's Codelco; stock reacts",
-   "link": "https://www.businesstoday.in/markets/stocks/story/adani-enterprises-arm-kutch-copper-inks-mou-with-chiles-codelco-stock-reacts-566977-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T07:30:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "ICICI Life, HDFC Life, SBI Life, Max Financial shares climb; here's what HSBC says",
-   "link": "https://www.businesstoday.in/markets/stocks/story/icici-life-hdfc-life-sbi-life-max-financial-shares-climb-heres-what-hsbc-says-566990-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T07:30:00+00:00",
-   "companies": [
-    "State Bank of India",
-    "SBI Life",
-    "HDFC Life"
-   ]
-  },
-  {
-   "title": "Adani group looking to raise $2.5 billion from MUFG, Barclays and Sumitomo to refinance Ambuja, ACC acquisition debt",
-   "link": "https://www.moneycontrol.com/news/business/adani-group-looking-to-raise-2-5-billion-from-mufg-barclays-and-sumitomo-to-refinance-ambuja-acc-acquisition-debt-14078020.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T07:00:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
-  },
-  {
-   "title": "Infosys Prize 2026 recognises research in quantum computing, wireless networks and human health",
-   "link": "https://www.moneycontrol.com/technology/infosys-prize-2026-recognises-research-in-quantum-computing-wireless-networks-and-human-health-article-14076963.html",
-   "source": "Moneycontrol (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T07:00:00+00:00",
-   "companies": [
-    "Infosys"
    ]
   }
  ]
