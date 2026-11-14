@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:31:07.560663+00:00",
+ "updated": "2026-11-14T01:45:56.542822+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,19 @@
   "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Inflation goes from benign to hostile",
+   "link": "https://www.hindustantimes.com/editorials/inflation-goes-from-benign-to-hostile-101794596277466.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T01:45:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
   {
    "title": "Goods exports rise to record high in October",
    "link": "https://www.hindustantimes.com/india-news/goods-exports-rise-to-record-high-in-october-101794613104161.html",
@@ -3284,17 +3297,6 @@
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
    }
-  },
-  {
-   "title": "Growth in India will continue to be a focus: Tata Steel CEO T V Narendran",
-   "link": "https://www.business-standard.com/companies/news/growth-in-india-will-continue-to-be-a-focus-tata-steel-ceo-t-v-narendran-126111201399_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:00:00+00:00",
-   "companies": [
-    "Tata Steel"
-   ]
   }
  ]
 }
