@@ -1,12 +1,47 @@
 {
- "updated": "2026-11-14T08:01:21.603137+00:00",
+ "updated": "2026-11-14T08:15:49.520503+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Motors PV may take bigger price hikes in Q4 as commodity costs bite: MD & CEO Shailesh Chandra",
+   "link": "https://www.businesstoday.in/auto/story/tata-motors-pv-mulls-bigger-price-hikes-in-q4-as-commodity-costs-bite-md-ceo-shailesh-chandra-567452-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T08:15:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
+  {
+   "title": "India's gem and jewellery exports jump 34% to $2.92 billion in October; gold jewellery leads growth",
+   "link": "https://www.businesstoday.in/personal-finance/story/indias-gem-and-jewellery-exports-jump-34-to-2-92-billion-in-october-gold-jewellery-leads-growth-567455-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T08:15:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Adani denies lowering Tarali PSP cost to reduce statutory obligations, says reduced figure solely for…",
+   "link": "https://www.livemint.com/companies/news/adani-group-green-energy-denies-lower-tarali-psp-cost-to-reduce-statutory-obligation-figure-solely-onsite-investigations-11794636744060.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T08:15:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
    "link": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
@@ -3223,46 +3258,6 @@
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
-  },
-  {
-   "title": "RBI rate hike in December: SBI now expects just 25 bps despite inflation crossing 6%",
-   "link": "https://www.businesstoday.in/latest/economy/story/rbi-rate-hike-in-december-sbi-now-expects-just-25-bps-despite-inflation-crossing-6-567200-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:45:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
-  },
-  {
-   "title": "India's pays record $6.4 billion to import Russian crude oil in October",
-   "link": "https://www.thehindubusinessline.com/economy/indias-pays-record-64-billion-to-import-russian-crude-oil-in-october/article71694493.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Vodafone Idea Q2 loss widens to ₹5,975 crore despite higher ARPU, revenue",
-   "link": "https://www.business-standard.com/companies/quarterly-results/vodafone-idea-q2-loss-widens-to-5-975-crore-despite-higher-arpu-revenue-126111201639_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:30:00+00:00",
-   "companies": [
-    "Vodafone Idea"
-   ]
   }
  ]
 }
