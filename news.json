@@ -1,12 +1,34 @@
 {
- "updated": "2026-11-14T08:45:48.977112+00:00",
+ "updated": "2026-11-14T09:01:22.171002+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Mahanadi Coalfields IPO: Coal India subsidiary files RHP - Latest GMP at ₹12.5; check key dates, size, valuation, more",
+   "link": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-coal-india-subsidiary-files-rhp-latest-gmp-at-rs-12-5-check-key-dates-size-valuation-more-11794640652111.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T08:45:00+00:00",
+   "companies": [
+    "Coal India"
+   ]
+  },
+  {
+   "title": "Paytm founder Vijay Shekhar Sharma reacts to Elon Musk backing petition to bring Jensen Huang back as Nvidia CEO",
+   "link": "https://www.hindustantimes.com/trending/paytm-founder-vijay-shekhar-sharma-reacts-to-elon-musk-backing-petition-to-bring-jensen-huang-back-as-nvidia-ceo-101794639605587.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T08:30:00+00:00",
+   "companies": [
+    "Paytm"
+   ]
+  },
   {
    "title": "Tata Motors PV may take bigger price hikes in Q4 as commodity costs bite: MD & CEO Shailesh Chandra",
    "link": "https://www.businesstoday.in/auto/story/tata-motors-pv-mulls-bigger-price-hikes-in-q4-as-commodity-costs-bite-md-ceo-shailesh-chandra-567452-2026-11-14",
@@ -3236,27 +3258,6 @@
     "topic": "How the rupee and the dollar matter",
     "short": "Rupee and dollar",
     "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "India tops global economic resilience rankings for 2026-30",
-   "link": "https://www.thehindubusinessline.com/economy/india-tops-global-economic-resilience-rankings-for-2026-30-with-a-score-of-71/article71694563.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:45:00+00:00"
-  },
-  {
-   "title": "Retail inflation crosses 6% in October, one more rate hike imminent",
-   "link": "https://www.thehindubusinessline.com/economy/retail-inflation-crosses-6-in-october-one-more-rate-hike-imminent/article71694208.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T15:45:00+00:00",
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
   }
  ]
