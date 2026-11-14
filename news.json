@@ -1,12 +1,57 @@
 {
- "updated": "2026-11-14T13:45:52.986518+00:00",
+ "updated": "2026-11-14T14:01:19.482811+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "From borrowed gloves to Youth Olympics gold: Anand Mahindra hails Manipur teen's historic win",
+   "link": "https://www.hindustantimes.com/trending/from-borrowed-gloves-to-youth-olympics-gold-anand-mahindra-hails-manipur-teens-historic-win-101794662256685.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T14:00:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Why your monthly grocery bill is rising: Onion prices jump 116%, garlic 61% as South India feels inflation heat",
+   "link": "https://www.livemint.com/economy/why-your-monthly-grocery-bill-is-rising-onion-prices-jump-116-garlic-61-as-south-india-feels-inflation-heat-11794655058440.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T14:00:00+00:00",
+   "thought": {
+    "topic": "Why inflation data is watched",
+    "short": "Inflation",
+    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
+   }
+  },
+  {
+   "title": "Odisha farmer turns Father's Rs 100 Lemon farming experiment into Rs 1 Crore business, connects 200+ farmers and exports indigenous Kagzi Lemons to US and UK",
+   "link": "https://www.moneycontrol.com/education/odisha-farmer-turns-father-s-rs-100-lemon-farming-experiment-into-rs-1-crore-business-connects-200-farmers-and-exports-indigenous-kagzi-lemons-to-us-and-uk-article-14080231.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T13:45:00+00:00"
+  },
+  {
+   "title": "'Misleading': Adani Green rejects allegations over Tarali pumped storage project cost revision",
+   "link": "https://www.moneycontrol.com/news/india/misleading-adani-green-rejects-allegations-over-tarali-pumped-storage-project-cost-revision-14080228.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T13:45:00+00:00",
+   "companies": [
+    "Adani Group"
+   ]
+  },
   {
    "title": "Tata Sons listing row: Why Tata Trusts vice-chairmen are defending their RBI outreach",
    "link": "https://www.livemint.com/companies/news/tata-sons-listing-row-why-tata-trusts-vice-chairmen-are-defending-their-rbi-outreach-11794654193889.html",
@@ -3219,54 +3264,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
-   "link": "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T21:30:00+00:00",
-   "thought": {
-    "topic": "Why inflation data is watched",
-    "short": "Inflation",
-    "text": "Inflation shows how fast prices are rising. Central banks watch it when deciding interest rates, so inflation data often matters to markets through the interest rate path."
-   }
-  },
-  {
-   "title": "Crude oil retreat may offer India macroeconomic relief in H2 of FY27",
-   "link": "https://www.business-standard.com/economy/news/crude-oil-retreat-may-offer-india-macroeconomic-relief-in-h2-of-fy27-126111201233_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T19:45:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Reliance, Waaree among 22 shortlisted for battery storage tender",
-   "link": "https://www.livemint.com/news/india/reliance-waaree-among-22-shortlisted-for-battery-storage-tender-pli-scheme-cell-making-incentives-technology-11794499983710.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T19:15:00+00:00",
-   "companies": [
-    "Reliance Industries"
-   ]
-  },
-  {
-   "title": "The Sunil Mittal interview: Airtel debt-free by 2029. Buybacks next?",
-   "link": "https://www.livemint.com/companies/people/the-sunil-mittal-interview-airtel-debt-free-by-2029-buybacks-next-11794474276268.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T19:15:00+00:00",
-   "companies": [
-    "Bharti Airtel"
-   ]
   }
  ]
 }
