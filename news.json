@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-14T14:45:58.723722+00:00",
+ "updated": "2026-11-14T15:01:16.748602+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 13 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Take time to understand products, weigh risks before investing: SEBI chief",
+   "link": "https://www.moneycontrol.com/news/business/markets/take-time-to-understand-products-weigh-risks-before-investing-sebi-chief-14080244.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T15:00:00+00:00",
+   "thought": {
+    "topic": "How SEBI rules shape the market",
+    "short": "SEBI rules",
+    "text": "Rule changes by the market regulator can alter how brokers, exchanges and investors operate, for example margin, disclosure and product rules."
+   }
+  },
   {
    "title": "Sammaan Capital logs 24% increase in Q2FY27 standalone net profit at ₹342 cr",
    "link": "https://www.thehindubusinessline.com/money-and-banking/sammaan-capital-q2-net-profit-inches-up-125-to-31234-cr/article71701469.ece",
@@ -3256,14 +3269,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-13T01:00:00+00:00"
-  },
-  {
-   "title": "Anthropic's IPO Is About Six Times Oversubscribed",
-   "link": "https://www.livemint.com/market/anthropics-ipo-is-about-six-times-oversubscribed-11794519373423.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-13T00:00:00+00:00"
   }
  ]
 }
