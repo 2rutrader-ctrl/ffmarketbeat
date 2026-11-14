@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-14T12:15:50.965444+00:00",
+ "updated": "2026-11-14T12:31:14.131598+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sammaan Capital Q2 FY27 results: Net profit rises 1.25% to ₹312 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/sammaan-capital-q2-fy27-results-net-profit-rises-1-25-to-312-crore-126111400825_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T12:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Patanjali Foods Q2 FY27 results: Net profit falls 19% to ₹420 crore",
+   "link": "https://www.business-standard.com/companies/quarterly-results/patanjali-foods-q2-fy27-results-net-profit-falls-19-to-420-crore-126111400828_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T12:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "CMS Info Systems Q2 net profit climbs 10% to ₹81 crore on better demand",
    "link": "https://www.thehindubusinessline.com/money-and-banking/cms-info-systems-q2-net-profit-climbs-10-to-81-crore-on-better-demand/article71701441.ece",
@@ -3241,27 +3267,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T19:15:00+00:00"
-  },
-  {
-   "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster, report says",
-   "link": "https://www.hindustantimes.com/world-news/us-news/us-returns-over-12-billion-in-oil-proceeds-to-venezuela-since-maduro-s-ouster-report-says-101794508812644.html",
-   "source": "Hindustan Times (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T19:00:00+00:00"
-  },
-  {
-   "title": "Manappuram Finance Q2 results: Profit jumps over 3-fold to ₹701 crore",
-   "link": "https://www.business-standard.com/companies/quarterly-results/manappuram-finance-q2-results-profit-jumps-over-3-fold-to-701-crore-126111201273_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T18:30:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
   }
  ]
 }
