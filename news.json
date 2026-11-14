@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-14T05:01:25.359404+00:00",
+ "updated": "2026-11-14T05:15:48.548714+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 9 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
+   "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
+   "source": "Business Standard (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T05:15:00+00:00"
+  },
+  {
+   "title": "Scaling India's agri-economy: Why compliance processes and people management matter as much as technology",
+   "link": "https://www.thehindubusinessline.com/economy/agri-business/scaling-indias-agri-economy-why-compliance-processes-and-people-management-matter-as-much-as-technology/article71698271.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T05:15:00+00:00"
+  },
   {
    "title": "Tata Motors Passenger Vehicles reports Q2 net loss of ₹5,531 crore",
    "link": "https://www.thehindu.com/business/tata-motors-passenger-vehicles-reports-q2-net-loss-of-5531-crore/article71698724.ece",
@@ -3248,38 +3264,6 @@
    "companies": [
     "Vodafone Idea"
    ]
-  },
-  {
-   "title": "AI capex projected at 3.6% of US GDP: Why the AI boom is bigger than the dotcom bubble, explains SBI MF",
-   "link": "https://www.livemint.com/money/ai-capex-projected-at-3-6-of-us-gdp-why-the-ai-boom-is-bigger-than-the-dotcom-bubble-explains-sbi-mf-11794486890793.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:15:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ],
-   "thought": {
-    "topic": "What growth data tells markets",
-    "short": "Growth data",
-    "text": "Growth data shows how fast the economy is expanding. Over time it shapes expectations for company earnings and for which sectors may be doing better or worse."
-   }
-  },
-  {
-   "title": "Bank of Baroda raises interest rates on 'bob Golden Goal deposit scheme'",
-   "link": "https://www.thehindu.com/news/cities/Mangalore/bank-of-baroda-raises-interest-rates-on-bob-golden-goal-deposit-scheme/article71694112.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:15:00+00:00",
-   "companies": [
-    "Bank of Baroda"
-   ],
-   "thought": {
-    "topic": "How interest rates reach the market",
-    "short": "Interest rates",
-    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
-   }
   }
  ]
 }
