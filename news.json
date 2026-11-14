@@ -1,12 +1,20 @@
 {
- "updated": "2026-11-14T09:01:22.171002+00:00",
+ "updated": "2026-11-14T09:15:45.817379+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 11 new items (12 files read)"
+  "gdelt": "ok, 12 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "YES Bank moves Supreme Court for review of ₹8,415 crore AT1 bond ruling",
+   "link": "https://www.businesstoday.in/latest/corporate/story/yes-bank-moves-supreme-court-for-review-of-rs8415-crore-at1-bond-ruling-567458-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T09:15:00+00:00"
+  },
   {
    "title": "Mahanadi Coalfields IPO: Coal India subsidiary files RHP - Latest GMP at ₹12.5; check key dates, size, valuation, more",
    "link": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-coal-india-subsidiary-files-rhp-latest-gmp-at-rs-12-5-check-key-dates-size-valuation-more-11794640652111.html",
@@ -3246,19 +3254,6 @@
    "companies": [
     "Vodafone Idea"
    ]
-  },
-  {
-   "title": "Rupee hits one-week low, slips past 94 per dollar - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/markets/forex/rupee-hits-one-week-low-slips-past-94-per-dollar/article71694417.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T16:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   }
  ]
 }
