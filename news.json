@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:31:12.385552+00:00",
+ "updated": "2026-11-14T04:45:56.511967+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,17 @@
   "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Tata Motors Passenger Vehicles reports Q2 net loss of ₹5,531 crore",
+   "link": "https://www.thehindu.com/business/tata-motors-passenger-vehicles-reports-q2-net-loss-of-5531-crore/article71698724.ece",
+   "source": "The Hindu (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T04:45:00+00:00",
+   "companies": [
+    "Tata Motors"
+   ]
+  },
   {
    "title": "Royal Enfield rider in Uttarakhand falls in front of wild elephant, survives after animal steps on him twice",
    "link": "https://www.hindustantimes.com/trending/wild-elephant-steps-on-fallen-biker-twice-in-uttarakhand-man-has-narrow-escape-101794625576901.html",
@@ -3269,17 +3280,6 @@
     "short": "Interest rates",
     "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
    }
-  },
-  {
-   "title": "Adani's Kutch Copper signs MoU with Chile's Codelco for copper exploration: What does the deal involve?",
-   "link": "https://www.livemint.com/companies/news/adanis-kutch-copper-signs-mou-with-chiles-codelco-for-copper-exploration-what-does-the-deal-involve-11794484306278.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:15:00+00:00",
-   "companies": [
-    "Adani Group"
-   ]
   }
  ]
 }
