@@ -1,12 +1,81 @@
 {
- "updated": "2026-11-14T06:31:07.667315+00:00",
+ "updated": "2026-11-14T06:45:50.500087+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 8 new items (12 files read)"
+  "gdelt": "ok, 11 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
+   "link": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T06:30:00+00:00",
+   "thought": {
+    "topic": "How crude oil prices reach the market",
+    "short": "Crude oil",
+    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
+   }
+  },
+  {
+   "title": "Google invests ₹10 crore in creator economy and micro-drama startup Rigi, valuation reaches ₹670 crore — Details",
+   "link": "https://www.livemint.com/companies/news/google-invests-rs-10-crore-in-creator-economy-and-micro-drama-startup-rigi-valuation-reaches-rs-670-crore-details-11794629036334.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T06:30:00+00:00"
+  },
+  {
+   "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-14-november-retail-rates-delhi-mumbai-kolkata-bangalore-coimbatore-chennai-11794621846802.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T06:30:00+00:00",
+   "thought": {
+    "topic": "Why gold is followed",
+    "short": "Gold",
+    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
+   }
+  },
+  {
+   "title": "Reliance plans ₹43,000-crore coal-to-gas plant in Andhra Pradesh, could generate 40,000 jobs: What we know",
+   "link": "https://www.livemint.com/companies/news/reliance-plans-rs-43-000-crore-coal-to-gas-plant-in-andhra-pradesh-could-generate-40-000-jobs-what-we-know-11794627790422.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T06:30:00+00:00",
+   "companies": [
+    "Reliance Industries"
+   ]
+  },
+  {
+   "title": "Ramayana effect? Prime Focus Q2 results: Revenue rises to ₹1,410.17 crore; PAT climbs to ₹91.04 crore from ₹5.8 crore",
+   "link": "https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T06:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "India's biggest small-cap mutual fund adds 8 stocks, exits 4 in October 2026; ITC tops fresh buys; expense ratio rises",
+   "link": "https://www.livemint.com/money/personal-finance/indias-biggest-small-cap-mutual-fund-adds-8-stocks-exits-4-in-october-2026-itc-tops-fresh-buys-expense-ratio-rises-11794625744671.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T06:30:00+00:00",
+   "companies": [
+    "ITC"
+   ]
+  },
   {
    "title": "Daily Voice: RBI rate hike in December cannot be ruled out, says Nine Rivers Capital founder",
    "link": "https://www.moneycontrol.com/news/business/markets/daily-voice-rbi-rate-hike-in-december-cannot-be-ruled-out-says-nine-rivers-capital-founder-14079850.html",
@@ -3194,78 +3263,6 @@
    "companies": [
     "Vodafone Idea"
    ]
-  },
-  {
-   "title": "Oil prices fall as rising crude output offsets geopolitical risks",
-   "link": "https://www.business-standard.com/world-news/oil-prices-fall-as-rising-crude-output-offsets-geopolitical-risks-126111201443_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T15:30:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
-   "link": "https://www.business-standard.com/world-news/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants-126111201413_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T15:30:00+00:00",
-   "thought": {
-    "topic": "How trade duties work through markets",
-    "short": "Trade duties",
-    "text": "Duties change the cost of goods moving across borders. They usually affect specific sectors and companies first, with wider effects depending on their size and scope."
-   }
-  },
-  {
-   "title": "Strong demand, valuations positive for Tata Power despite margin pressures",
-   "link": "https://www.business-standard.com/markets/news/strong-demand-valuations-positive-for-tata-power-despite-margin-pressures-126111201661_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:30:00+00:00",
-   "companies": [
-    "Tata Power"
-   ]
-  },
-  {
-   "title": "India scores 71, US just 36: What the global economic rankings reveal",
-   "link": "https://www.business-standard.com/finance/personal-finance/india-scores-71-us-just-36-what-the-global-economic-rankings-reveal-126111201668_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:30:00+00:00"
-  },
-  {
-   "title": "Karnataka seeks to blacklist L&T over Jal Jeevan Mission delays",
-   "link": "https://www.thehindubusinessline.com/news/national/karnataka-seeks-to-blacklist-lt-over-delay-in-drinking-water-project/article71694597.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:30:00+00:00",
-   "companies": [
-    "Larsen & Toubro"
-   ]
-  },
-  {
-   "title": "ITC Gold Flake Premium cigarettes get costlier: New prices to burn a hole in your pocket as pack of 10 rises to ₹135",
-   "link": "https://www.livemint.com/companies/news/itc-gold-flake-premium-cigarettes-get-costlier-new-prices-to-burn-a-hole-in-your-pocket-as-pack-of-10-rises-to-135-11794476598426.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:15:00+00:00",
-   "companies": [
-    "ITC"
-   ],
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
