@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-14T11:31:05.882603+00:00",
+ "updated": "2026-11-14T11:45:51.371851+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 3 new items (12 files read)"
+  "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "India's $40 billion trade deficit raises concerns, but Axis Bank sees limited pressure on rupee. Here's why",
+   "link": "https://www.businesstoday.in/latest/economy/story/indias-40-billion-trade-deficit-raises-concerns-but-axis-bank-sees-limited-pressure-on-rupee-heres-why-567469-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T11:45:00+00:00",
+   "companies": [
+    "Axis Bank"
+   ],
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
+  {
+   "title": "Royal Enfield explores CKD assembly facilities in Africa, Mexico and Indonesia as exports gather pace",
+   "link": "https://www.businesstoday.in/auto/story/royal-enfield-explores-ckd-assembly-facilities-in-africa-mexico-and-indonesia-as-exports-gather-pace-567464-2026-11-14",
+   "source": "Business Today (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T11:45:00+00:00",
+   "companies": [
+    "Eicher Motors"
+   ]
+  },
   {
    "title": "Upcoming dividend, stock split, buyback record date next week, 16-20 Nov: MRF, SCI, PFC, Power Grid, Venus Pipes, more",
    "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html",
@@ -3238,22 +3265,6 @@
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
-  },
-  {
-   "title": "Paytm shares at ₹1,925, close in on IPO listing-day high after 100% rally from March lows. What drove the recovery?",
-   "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T17:15:00+00:00"
-  },
-  {
-   "title": "Reliance Power Q2 profit falls 65% to ₹30 crore - The HinduBusinessLine",
-   "link": "https://www.thehindubusinessline.com/companies/reliance-power-q2-profit-falls-65-to-30-crore/article71694635.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T16:30:00+00:00"
   }
  ]
 }
