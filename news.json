@@ -1,12 +1,67 @@
 {
- "updated": "2026-11-14T11:45:51.371851+00:00",
+ "updated": "2026-11-14T12:01:22.123004+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 4 new items (12 files read)"
+  "gdelt": "ok, 9 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "CMS Info Systems Q2 net profit climbs 10% to ₹81 crore on better demand",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/cms-info-systems-q2-net-profit-climbs-10-to-81-crore-on-better-demand/article71701441.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T12:00:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
+  {
+   "title": "Shehbaz Sharif says Pakistan could become world's sixth largest economy before 2050, 25 years ahead of Goldman Sachs forecast",
+   "link": "https://www.moneycontrol.com/world/shehbaz-sharif-says-pakistan-could-become-world-s-sixth-largest-economy-before-2050-25-years-ahead-of-goldman-sachs-forecast-article-14080192.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T12:00:00+00:00"
+  },
+  {
+   "title": "FPIs pump over Rs 76,000 crore into equities in November so far, monthly record in sight",
+   "link": "https://www.moneycontrol.com/news/business/markets/fpis-pump-over-rs-76-000-crore-into-equities-in-november-so-far-monthly-record-in-sight-14080181.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T12:00:00+00:00"
+  },
+  {
+   "title": "Iran war, Hormuz attacks fail to trigger oil shock as Gulf producers ramp up output, prices slide",
+   "link": "https://www.moneycontrol.com/news/business/iran-war-hormuz-attacks-fail-to-trigger-oil-shock-as-gulf-producers-ramp-up-output-prices-slide-14080184.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T12:00:00+00:00",
+   "thought": {
+    "topic": "How geopolitical events reach markets",
+    "short": "Geopolitics",
+    "text": "Geopolitical events add uncertainty. Markets often respond to uncertainty with higher volatility, and the effects on oil, currencies and sentiment are commonly watched."
+   }
+  },
+  {
+   "title": "Mufin Green Finance gets RBI licence to offer forex, remittance services",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/mufin-green-finance-gets-rbi-licence-to-offer-forex-remittance-services/article71701341.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T12:00:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "India's $40 billion trade deficit raises concerns, but Axis Bank sees limited pressure on rupee. Here's why",
    "link": "https://www.businesstoday.in/latest/economy/story/indias-40-billion-trade-deficit-raises-concerns-but-axis-bank-sees-limited-pressure-on-rupee-heres-why-567469-2026-11-14",
@@ -3206,64 +3261,6 @@
     "topic": "How company results reach the index",
     "short": "Results",
     "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "source": "US Federal Reserve Board",
-   "source_key": "fed",
-   "category": "Global",
-   "published": "2026-11-12T17:45:00+00:00",
-   "thought": {
-    "topic": "How the US Federal Reserve reaches markets",
-    "short": "US Fed",
-    "text": "The US Fed influences global liquidity and the dollar, so its decisions are watched by markets worldwide, including India. Reactions depend on how the decision compares with what markets expected."
-   }
-  },
-  {
-   "title": "RBI's forex curbs have steadied the rupee and revived investor sentiment",
-   "link": "https://www.business-standard.com/opinion/columns/rbi-s-forex-curbs-have-steadied-the-rupee-and-revived-investor-sentiment-126111201797_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T17:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "HCLTech among world's top 50 companies for women in Forbes 2026 ranking; only Indian firm on list",
-   "link": "https://www.businesstoday.in/latest/corporate/story/hcltech-among-worlds-top-50-companies-for-women-in-forbes-2026-ranking-only-indian-firm-on-list-567212-2026-11-12",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T17:15:00+00:00",
-   "companies": [
-    "HCLTech"
-   ]
-  },
-  {
-   "title": "Anthropic IPO: Who is Krishna Rao? Meet the CFO whose $1.30 stock options could unlock a ₹7,000 crore fortune",
-   "link": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T17:15:00+00:00"
-  },
-  {
-   "title": "Kaju Katli, Diet Coke, Gold Coins: What India ordered during last minute Diwali 2026 preparation from Swiggy InstaMart",
-   "link": "https://www.livemint.com/companies/kaju-katli-diet-coke-gold-coins-what-india-ordered-during-last-minute-diwali-2026-preparation-from-swiggy-instamart-11794495049464.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T17:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
    }
   }
  ]
