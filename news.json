@@ -1,12 +1,25 @@
 {
- "updated": "2026-11-14T14:15:49.329158+00:00",
+ "updated": "2026-11-14T14:31:06.951154+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 14 new items (12 files read)"
+  "gdelt": "ok, 15 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Sammaan Capital logs 24% increase in Q2FY27 standalone net profit at ₹342 cr",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sammaan-capital-q2-net-profit-inches-up-125-to-31234-cr/article71701469.ece",
+   "source": "The Hindu BusinessLine (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T14:30:00+00:00",
+   "thought": {
+    "topic": "How company results reach the index",
+    "short": "Results",
+    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
+   }
+  },
   {
    "title": "From borrowed gloves to Youth Olympics gold: Anand Mahindra hails Manipur teen's historic win",
    "link": "https://www.hindustantimes.com/trending/from-borrowed-gloves-to-youth-olympics-gold-anand-mahindra-hails-manipur-teens-historic-win-101794662256685.html",
@@ -3251,19 +3264,6 @@
    "source_key": "gdelt",
    "category": "Global",
    "published": "2026-11-13T00:00:00+00:00"
-  },
-  {
-   "title": "Supreme Court on 500g gold rule: Why married women may still need to explain the source of jewellery",
-   "link": "https://www.businesstoday.in/personal-finance/story/supreme-court-on-500g-gold-rule-why-married-women-may-still-need-to-explain-the-source-of-jewellery-567132-2026-11-13",
-   "source": "Business Today (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T23:15:00+00:00",
-   "thought": {
-    "topic": "Why gold is followed",
-    "short": "Gold",
-    "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
   }
  ]
 }
