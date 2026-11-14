@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:15:49.367135+00:00",
+ "updated": "2026-11-14T00:31:06.916755+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,35 @@
   "gdelt": "ok, 4 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Goods exports rise to record high in October",
+   "link": "https://www.hindustantimes.com/india-news/goods-exports-rise-to-record-high-in-october-101794613104161.html",
+   "source": "Hindustan Times (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T00:30:00+00:00"
+  },
+  {
+   "title": "Indian solar manufacturers look to Germany as China proposes curbs on technology exports",
+   "link": "https://www.livemint.com/economy/indian-solar-manufacturers-look-to-germany-as-china-proposes-curbs-on-technology-exports-11794566204043.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T00:30:00+00:00"
+  },
+  {
+   "title": "RBI said to allow e-rupee wallets within banking apps to boost adoption",
+   "link": "https://www.livemint.com/industry/banking/rbi-said-to-allow-e-rupee-wallets-within-banking-apps-to-boost-adoption-11794563082395.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T00:30:00+00:00",
+   "thought": {
+    "topic": "How the rupee and the dollar matter",
+    "short": "Rupee and dollar",
+    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
+   }
+  },
   {
    "title": "Trump's top economic advisor Kevin Hassett says report of his White departure is 'not true'",
    "link": "https://www.hindustantimes.com/world-news/us-news/trumps-top-economic-advisor-kevin-hassett-says-report-of-his-white-departure-is-not-true-101794601355311.html",
@@ -3266,40 +3295,6 @@
    "companies": [
     "Tata Steel"
    ]
-  },
-  {
-   "title": "Coconut oil prices remain flat despite copra supply shortage",
-   "link": "https://www.thehindubusinessline.com/economy/agri-business/coconut-oil-prices-remain-flat-despite-copra-supply-shortage/article71693467.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T14:00:00+00:00",
-   "thought": {
-    "topic": "How crude oil prices reach the market",
-    "short": "Crude oil",
-    "text": "India imports most of its crude oil, so oil prices feed into import costs, inflation and the rupee. Different sectors feel it differently, for example oil marketers, airlines and paint companies."
-   }
-  },
-  {
-   "title": "FISME seeks sectoral export studies, testing overhaul to boost MSME trade",
-   "link": "https://www.business-standard.com/economy/news/fisme-seeks-sectoral-export-studies-testing-overhaul-to-boost-msme-trade-126111201394_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T14:00:00+00:00"
-  },
-  {
-   "title": "Foreign inflows lift Indian stocks' dollar returns above rupee gains as currency rebounds",
-   "link": "https://www.livemint.com/market/foreign-inflows-lift-indian-stocks-dollar-returns-above-rupee-gains-as-currency-rebounds-11794465568691.html",
-   "source": "Mint (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
   }
  ]
 }
