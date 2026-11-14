@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:01:20.594873+00:00",
+ "updated": "2026-11-14T02:14:56.641810+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
@@ -7,6 +7,27 @@
   "gdelt": "ok, 5 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Wall Street ends lower as Nvidia turmoil weighs on tech stocks, inflation keeps Fed rate hike bets alive",
+   "link": "https://www.moneycontrol.com/news/business/markets/wall-street-ends-lower-as-nvidia-turmoil-weighs-on-tech-stocks-inflation-keeps-fed-rate-hike-bets-alive-14079893.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T02:15:00+00:00",
+   "thought": {
+    "topic": "How interest rates reach the market",
+    "short": "Interest rates",
+    "text": "Interest rates set the cost of borrowing. Higher rates tend to raise costs for borrowers and make fixed-income options more attractive compared with stocks, while lower rates work the other way. Rate-sensitive sectors such as banks, NBFCs and real estate are watched closely."
+   }
+  },
+  {
+   "title": "Two oil tankers explode, catch fire after hitting naval mines near Hormuz: Iran's IRGC Navy",
+   "link": "https://www.moneycontrol.com/world/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-iran-s-irgc-navy-article-14079895.html",
+   "source": "Moneycontrol (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T02:15:00+00:00"
+  },
   {
    "title": "FII buying at 5 year high, Nifty profits up 22% and valuations ease: Is India's bull market back?",
    "link": "https://www.businesstoday.in/markets/story/fii-buying-at-5-year-high-nifty-profits-up-22-and-valuations-ease-is-indias-bull-market-back-567436-2026-11-14",
@@ -3272,30 +3293,6 @@
     "topic": "Why gold is followed",
     "short": "Gold",
     "text": "Gold is often followed as a safe-haven asset. Its price is linked to the dollar, interest rates and import demand."
-   }
-  },
-  {
-   "title": "SBI Mutual Fund launches BSE India Defence ETF fund of funds",
-   "link": "https://www.thehindubusinessline.com/markets/sbi-mutual-fund-launches-defence-etf-fund-of-funds-nfo-opens-november-16/article71693416.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:00:00+00:00",
-   "companies": [
-    "State Bank of India"
-   ]
-  },
-  {
-   "title": "Sensex, Nifty pause for breath; Realty surges as rupee slips on dollar buying",
-   "link": "https://www.thehindubusinessline.com/markets/sensex-nifty-today-markets-pause-for-breath-realty-surges-as-rupee-slips-on-dollar-buying/article71693764.ece",
-   "source": "The Hindu BusinessLine (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:00:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
    }
   }
  ]
