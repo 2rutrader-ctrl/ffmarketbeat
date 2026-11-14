@@ -1,12 +1,39 @@
 {
- "updated": "2026-11-14T03:31:06.393030+00:00",
+ "updated": "2026-11-14T03:45:48.046058+00:00",
  "feed_status": {
   "fed": "ok, 15 items; ok, 6 items",
   "ecb": "ok, 6 items",
   "pib": "FAILED: HTTPError: HTTP Error 403: Forbidden; FAILED: HTTPError: HTTP Error 403: Forbidden",
-  "gdelt": "ok, 7 new items (12 files read)"
+  "gdelt": "ok, 10 new items (12 files read)"
  },
  "items": [
+  {
+   "title": "Three fast-growing water infra stocks | Stock Market News",
+   "link": "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "Global",
+   "published": "2026-11-14T03:45:00+00:00"
+  },
+  {
+   "title": "Bank holiday this week: Are SBI, HDFC, ICICI branches closed for three days from 14-16 November? Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-canara-pnb-branch-closed-14-november-india-second-saturday-weekend-check-rbi-calendar-11794620664332.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T03:45:00+00:00",
+   "companies": [
+    "State Bank of India"
+   ]
+  },
+  {
+   "title": "China's BYD clears import hurdle, looks to accelerate India push",
+   "link": "https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html",
+   "source": "Mint (headline via GDELT)",
+   "source_key": "gdelt",
+   "category": "India",
+   "published": "2026-11-14T03:45:00+00:00"
+  },
   {
    "title": "Adani Green rejects allegations over Tarali project cost revision",
    "link": "https://www.thehindubusinessline.com/companies/adani-green-rejects-allegations-of-lowering-tarali-project-cost-to-avoid-statutory-obligations/article71700698.ece",
@@ -3253,40 +3280,6 @@
    "source_key": "gdelt",
    "category": "India",
    "published": "2026-11-12T15:00:00+00:00"
-  },
-  {
-   "title": "Oil India net profit more the doubles on better realisations, higher output",
-   "link": "https://www.thehindu.com/business/Industry/oil-india-net-profit-more-the-doubles-on-better-realisations-higher-output/article71694370.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T15:00:00+00:00",
-   "thought": {
-    "topic": "How company results reach the index",
-    "short": "Results",
-    "text": "Company results update expectations about profits. Large companies carry more weight in the indices, so their results can matter more for index moves than those of smaller ones."
-   }
-  },
-  {
-   "title": "Rupee slips past 94/$, US yields rise; bond yields harden ahead of auction",
-   "link": "https://www.business-standard.com/economy/news/rupee-slips-past-94-us-yields-rise-bond-yields-harden-ahead-of-auction-126111201463_1.html",
-   "source": "Business Standard (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "India",
-   "published": "2026-11-12T14:30:00+00:00",
-   "thought": {
-    "topic": "How the rupee and the dollar matter",
-    "short": "Rupee and dollar",
-    "text": "A weaker rupee tends to raise import costs and help exporters, while a stronger rupee tends to do the opposite. Currency moves also influence foreign investor flows."
-   }
-  },
-  {
-   "title": "A disease rooted in social and economic vulnerability can only be eliminated as underlying systems become stronger: Dhun Davar",
-   "link": "https://www.thehindu.com/sci-tech/health/a-disease-rooted-in-social-and-economic-vulnerability-can-only-be-eliminated-as-underlying-systems-become-stronger-dhun-davar/article71677607.ece",
-   "source": "The Hindu (headline via GDELT)",
-   "source_key": "gdelt",
-   "category": "Global",
-   "published": "2026-11-12T14:30:00+00:00"
   }
  ]
 }
